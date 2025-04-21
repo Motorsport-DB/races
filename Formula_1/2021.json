@@ -8038,20 +8038,6 @@
                         "Q1": "1:44.238"
                     }
                 },
-                "18": {
-                    "position": "RT",
-                    "points": 0,
-                    "fastest_lap": "DNF",
-                    "team": "Aston_Martin_Mercedes",
-                    "drivers": [
-                        "Lance_Stroll"
-                    ],
-                    "other_info": {
-                        "Laps": "2",
-                        "Car_number": "18",
-                        "Q1": "DNF"
-                    }
-                },
                 "99": {
                     "position": "RT",
                     "points": 0,
@@ -8063,6 +8049,20 @@
                     "other_info": {
                         "Laps": "4",
                         "Car_number": "99",
+                        "Q1": "DNF"
+                    }
+                },
+                "18": {
+                    "position": "RT",
+                    "points": 0,
+                    "fastest_lap": "DNF",
+                    "team": "Aston_Martin_Mercedes",
+                    "drivers": [
+                        "Lance_Stroll"
+                    ],
+                    "other_info": {
+                        "Laps": "2",
+                        "Car_number": "18",
                         "Q1": "DNF"
                     }
                 }
@@ -15040,21 +15040,6 @@
                         "Laps": "70"
                     }
                 },
-                "5": {
-                    "position": "DQ",
-                    "points": "0",
-                    "fastest_lap": "1:21.459",
-                    "team": "Aston_Martin_Mercedes",
-                    "drivers": [
-                        "Sebastian_Vettel"
-                    ],
-                    "other_info": {
-                        "Average_speed_of_fastest_lap": "193.613",
-                        "Lap_of_fastest_lap": "60",
-                        "Gap": "+1.859s",
-                        "Laps": "70"
-                    }
-                },
                 "44": {
                     "position": "2",
                     "points": "18",
@@ -15233,6 +15218,21 @@
                         "Lap_of_fastest_lap": "44",
                         "Gap": "+1 lap",
                         "Laps": "69"
+                    }
+                },
+                "5": {
+                    "position": "DQ",
+                    "points": "0",
+                    "fastest_lap": "1:21.459",
+                    "team": "Aston_Martin_Mercedes",
+                    "drivers": [
+                        "Sebastian_Vettel"
+                    ],
+                    "other_info": {
+                        "Average_speed_of_fastest_lap": "193.613",
+                        "Lap_of_fastest_lap": "60",
+                        "Gap": "+1.859s",
+                        "Laps": "70"
                     }
                 },
                 "9": {
@@ -24800,22 +24800,6 @@
                 }
             },
             "QUALIFYING": {
-                "44": {
-                    "position": "DQ",
-                    "points": 0,
-                    "fastest_lap": "1:07.934",
-                    "team": "Mercedes",
-                    "drivers": [
-                        "Lewis_Hamilton"
-                    ],
-                    "other_info": {
-                        "Laps": "23",
-                        "Car_number": "44",
-                        "Q1": "1:08.733",
-                        "Q2": "1:08.068",
-                        "Q3": "1:07.934"
-                    }
-                },
                 "33": {
                     "position": "1",
                     "points": 0,
@@ -25103,6 +25087,22 @@
                         "Laps": "10",
                         "Car_number": "9",
                         "Q1": "1:10.589"
+                    }
+                },
+                "44": {
+                    "position": "DQ",
+                    "points": 0,
+                    "fastest_lap": "1:07.934",
+                    "team": "Mercedes",
+                    "drivers": [
+                        "Lewis_Hamilton"
+                    ],
+                    "other_info": {
+                        "Laps": "23",
+                        "Car_number": "44",
+                        "Q1": "1:08.733",
+                        "Q2": "1:08.068",
+                        "Q3": "1:07.934"
                     }
                 }
             },
