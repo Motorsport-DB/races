@@ -3570,7 +3570,7 @@
                     }
                 },
                 "21": {
-                    "position": "dnf",
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "AF_Corse",
@@ -3588,7 +3588,7 @@
                     }
                 },
                 "27": {
-                    "position": "dnf",
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "Heart_of_Racing_Team",
@@ -7633,7 +7633,7 @@
                     }
                 },
                 "20": {
-                    "position": "dnf",
+                    "position": "DNF",
                     "points": "",
                     "fastest_lap": "",
                     "team": "BMW_M_Team_WRT",
@@ -7650,7 +7650,7 @@
                     }
                 },
                 "94": {
-                    "position": "dnf",
+                    "position": "DNF",
                     "points": "",
                     "fastest_lap": "",
                     "team": "PEUGEOT_TOTALENERGIES",
@@ -7668,7 +7668,7 @@
                     }
                 },
                 "95": {
-                    "position": "dnf",
+                    "position": "DNF",
                     "points": "",
                     "fastest_lap": "",
                     "team": "United_Autosports",
@@ -7686,7 +7686,7 @@
                     }
                 },
                 "87": {
-                    "position": "dnf",
+                    "position": "DNF",
                     "points": "",
                     "fastest_lap": "",
                     "team": "AKKODIS_ASP_Team",
@@ -7704,7 +7704,7 @@
                     }
                 },
                 "31": {
-                    "position": "dnf",
+                    "position": "DNF",
                     "points": "",
                     "fastest_lap": "",
                     "team": "TEAM_WRT",
@@ -7722,7 +7722,7 @@
                     }
                 },
                 "99": {
-                    "position": "dnf",
+                    "position": "DNF",
                     "points": "",
                     "fastest_lap": "",
                     "team": "Proton_Competition",
@@ -10135,11 +10135,11 @@
                     }
                 }
             },
-            "Qualifying (HYPERCAR)": {
+            "Qualifying (Hypercar)": {
                 "12": {
                     "position": "1",
                     "points": 0,
-                    "fastest_lap": "3'22.847",
+                    "fastest_lap": "",
                     "team": "Cadillac_Hertz_Team_JOTA",
                     "drivers": [
                         "Will_Stevens",
@@ -10147,16 +10147,17 @@
                         "Alex_Lynn"
                     ],
                     "other_info": {
-                        "Average_speed": "241.825 Km/h",
-                        "Laps": "8",
                         "Car_number": "12",
-                        "Class": "HYPERCAR"
+                        "Class": "HYPERCAR",
+                        "Laps": "8",
+                        "Elapsed_time": "3'22.847",
+                        "Average_speed": "241.825"
                     }
                 },
                 "15": {
                     "position": "2",
                     "points": 0,
-                    "fastest_lap": "3'22.887",
+                    "fastest_lap": "",
                     "team": "BMW_M_Team_WRT",
                     "drivers": [
                         "Dries_Vanthoor",
@@ -10164,16 +10165,17 @@
                         "Kevin_Magnussen"
                     ],
                     "other_info": {
-                        "Average_speed": "241.777 Km/h",
-                        "Laps": "7",
                         "Car_number": "15",
-                        "Class": "HYPERCAR"
+                        "Class": "HYPERCAR",
+                        "Laps": "7",
+                        "Elapsed_time": "3'22.887",
+                        "Average_speed": "241.777"
                     }
                 },
                 "51": {
                     "position": "3",
                     "points": 0,
-                    "fastest_lap": "3'23.163",
+                    "fastest_lap": "",
                     "team": "Ferrari",
                     "drivers": [
                         "Alessandro_Pier Guidi",
@@ -10181,33 +10183,35 @@
                         "Antonio_Giovinazzi"
                     ],
                     "other_info": {
-                        "Average_speed": "241.449 Km/h",
-                        "Laps": "8",
                         "Car_number": "51",
-                        "Class": "HYPERCAR"
+                        "Class": "HYPERCAR",
+                        "Laps": "8",
+                        "Elapsed_time": "3'23.163",
+                        "Average_speed": "241.449"
                     }
                 },
                 "6": {
                     "position": "4",
                     "points": 0,
-                    "fastest_lap": "3'23.360",
-                    "team": "PORSCHE",
+                    "fastest_lap": "",
+                    "team": "PORSCHE_PENSKE_MOTORSPORT",
                     "drivers": [
                         "Kévin_Estre",
                         "Laurens_Vanthoor",
                         "Matt_Campbell"
                     ],
                     "other_info": {
-                        "Average_speed": "241.215 Km/h",
-                        "Laps": "6",
                         "Car_number": "6",
-                        "Class": "HYPERCAR"
+                        "Class": "HYPERCAR",
+                        "Laps": "6",
+                        "Elapsed_time": "3'23.360",
+                        "Average_speed": "241.215"
                     }
                 },
                 "38": {
                     "position": "5",
                     "points": 0,
-                    "fastest_lap": "3'23.467",
+                    "fastest_lap": "",
                     "team": "Cadillac_Hertz_Team_JOTA",
                     "drivers": [
                         "Earl_Bamber",
@@ -10215,16 +10219,17 @@
                         "Jenson_Button"
                     ],
                     "other_info": {
-                        "Average_speed": "241.088 Km/h",
-                        "Laps": "8",
                         "Car_number": "38",
-                        "Class": "HYPERCAR"
+                        "Class": "HYPERCAR",
+                        "Laps": "8",
+                        "Elapsed_time": "3'23.467",
+                        "Average_speed": "241.088"
                     }
                 },
                 "50": {
                     "position": "6",
                     "points": 0,
-                    "fastest_lap": "3'23.514",
+                    "fastest_lap": "",
                     "team": "Ferrari",
                     "drivers": [
                         "Antonio_Fuoco",
@@ -10232,33 +10237,35 @@
                         "Miguel_Molina"
                     ],
                     "other_info": {
-                        "Average_speed": "241.033 Km/h",
-                        "Laps": "8",
                         "Car_number": "50",
-                        "Class": "HYPERCAR"
+                        "Class": "HYPERCAR",
+                        "Laps": "8",
+                        "Elapsed_time": "3'23.514",
+                        "Average_speed": "241.033"
                     }
                 },
                 "5": {
                     "position": "7",
                     "points": 0,
-                    "fastest_lap": "3'23.544",
-                    "team": "PORSCHE",
+                    "fastest_lap": "",
+                    "team": "PORSCHE_PENSKE_MOTORSPORT",
                     "drivers": [
                         "Julien_Andlauer",
                         "Michael_Christensen",
                         "Mathieu_Jaminet"
                     ],
                     "other_info": {
-                        "Average_speed": "240.997 Km/h",
-                        "Laps": "7",
                         "Car_number": "5",
-                        "Class": "HYPERCAR"
+                        "Class": "HYPERCAR",
+                        "Laps": "7",
+                        "Elapsed_time": "3'23.544",
+                        "Average_speed": "240.997"
                     }
                 },
                 "20": {
                     "position": "8",
                     "points": 0,
-                    "fastest_lap": "3'23.805",
+                    "fastest_lap": "",
                     "team": "BMW_M_Team_WRT",
                     "drivers": [
                         "René_Rast",
@@ -10266,16 +10273,17 @@
                         "Sheldon_Van Der Linde"
                     ],
                     "other_info": {
-                        "Average_speed": "240.688 Km/h",
-                        "Laps": "8",
                         "Car_number": "20",
-                        "Class": "HYPERCAR"
+                        "Class": "HYPERCAR",
+                        "Laps": "8",
+                        "Elapsed_time": "3'23.805",
+                        "Average_speed": "240.688"
                     }
                 },
                 "311": {
                     "position": "9",
                     "points": 0,
-                    "fastest_lap": "3'23.890",
+                    "fastest_lap": "",
                     "team": "Cadillac_Whelen",
                     "drivers": [
                         "Jack_Aitken",
@@ -10283,16 +10291,17 @@
                         "Frederik_Vesti"
                     ],
                     "other_info": {
-                        "Average_speed": "240.588 Km/h",
-                        "Laps": "8",
                         "Car_number": "311",
-                        "Class": "HYPERCAR"
+                        "Class": "HYPERCAR",
+                        "Laps": "8",
+                        "Elapsed_time": "3'23.890",
+                        "Average_speed": "240.588"
                     }
                 },
                 "36": {
                     "position": "10",
                     "points": 0,
-                    "fastest_lap": "3'23.945",
+                    "fastest_lap": "",
                     "team": "Alpine",
                     "drivers": [
                         "Mick_Schumacher",
@@ -10300,16 +10309,17 @@
                         "Jules_Gounon"
                     ],
                     "other_info": {
-                        "Average_speed": "240.523 Km/h",
-                        "Laps": "8",
                         "Car_number": "36",
-                        "Class": "HYPERCAR"
+                        "Class": "HYPERCAR",
+                        "Laps": "8",
+                        "Elapsed_time": "3'23.945",
+                        "Average_speed": "240.523"
                     }
                 },
                 "8": {
                     "position": "11",
                     "points": 0,
-                    "fastest_lap": "3'23.988",
+                    "fastest_lap": "",
                     "team": "Toyota_Racing",
                     "drivers": [
                         "Sébastien_Buemi",
@@ -10317,16 +10327,17 @@
                         "Ryo_Hirakawa"
                     ],
                     "other_info": {
-                        "Average_speed": "240.472 Km/h",
-                        "Laps": "7",
                         "Car_number": "8",
-                        "Class": "HYPERCAR"
+                        "Class": "HYPERCAR",
+                        "Laps": "7",
+                        "Elapsed_time": "3'23.988",
+                        "Average_speed": "240.472"
                     }
                 },
                 "83": {
                     "position": "12",
                     "points": 0,
-                    "fastest_lap": "3'23.994",
+                    "fastest_lap": "",
                     "team": "AF_Corse",
                     "drivers": [
                         "Robert_Kubica",
@@ -10334,50 +10345,53 @@
                         "Philip_Hanson"
                     ],
                     "other_info": {
-                        "Average_speed": "240.465 Km/h",
-                        "Laps": "5",
                         "Car_number": "83",
-                        "Class": "HYPERCAR"
+                        "Class": "HYPERCAR",
+                        "Laps": "5",
+                        "Elapsed_time": "3'23.994",
+                        "Average_speed": "240.465"
                     }
                 },
                 "101": {
                     "position": "13",
                     "points": 0,
-                    "fastest_lap": "3'24.030",
+                    "fastest_lap": "",
                     "team": "Cadillac_WTR",
                     "drivers": [
-                        "Jordan_Taylor",
                         "Ricky_Taylor",
+                        "Jordan_Taylor",
                         "Filipe_Albuquerque"
                     ],
                     "other_info": {
-                        "Average_speed": "240.423 Km/h",
-                        "Laps": "8",
                         "Car_number": "101",
-                        "Class": "HYPERCAR"
+                        "Class": "HYPERCAR",
+                        "Laps": "8",
+                        "Elapsed_time": "3'24.030",
+                        "Average_speed": "240.423"
                     }
                 },
                 "4": {
                     "position": "14",
                     "points": 0,
-                    "fastest_lap": "3'24.584",
-                    "team": "PORSCHE",
+                    "fastest_lap": "",
+                    "team": "PORSCHE_PENSKE_MOTORSPORT",
                     "drivers": [
                         "Felipe_Nasr",
                         "Nick_Tandy",
                         "Pascal_Wehrlein"
                     ],
                     "other_info": {
-                        "Average_speed": "239.772 Km/h",
-                        "Laps": "8",
                         "Car_number": "4",
-                        "Class": "HYPERCAR"
+                        "Class": "HYPERCAR",
+                        "Laps": "8",
+                        "Elapsed_time": "3'24.584",
+                        "Average_speed": "239.772"
                     }
                 },
                 "35": {
                     "position": "15",
                     "points": 0,
-                    "fastest_lap": "3'24.667",
+                    "fastest_lap": "",
                     "team": "Alpine",
                     "drivers": [
                         "Paul-Loup_Chatin",
@@ -10385,16 +10399,17 @@
                         "Charles_Milesi"
                     ],
                     "other_info": {
-                        "Average_speed": "239.675 Km/h",
-                        "Laps": "6",
                         "Car_number": "35",
-                        "Class": "HYPERCAR"
+                        "Class": "HYPERCAR",
+                        "Laps": "6",
+                        "Elapsed_time": "3'24.667",
+                        "Average_speed": "239.675"
                     }
                 },
                 "009": {
                     "position": "16",
                     "points": 0,
-                    "fastest_lap": "3'24.869",
+                    "fastest_lap": "",
                     "team": "Aston_Martin",
                     "drivers": [
                         "Alex_Riberas",
@@ -10402,16 +10417,17 @@
                         "Roman_De Angelis"
                     ],
                     "other_info": {
-                        "Average_speed": "239.438 Km/h",
-                        "Laps": "8",
                         "Car_number": "009",
-                        "Class": "HYPERCAR"
+                        "Class": "HYPERCAR",
+                        "Laps": "8",
+                        "Elapsed_time": "3'24.869",
+                        "Average_speed": "239.438"
                     }
                 },
                 "7": {
                     "position": "17",
                     "points": 0,
-                    "fastest_lap": "3'25.062",
+                    "fastest_lap": "",
                     "team": "Toyota_Racing",
                     "drivers": [
                         "Mike_Conway",
@@ -10419,16 +10435,17 @@
                         "Nyck_de Vries"
                     ],
                     "other_info": {
-                        "Average_speed": "239.213 Km/h",
-                        "Laps": "8",
                         "Car_number": "7",
-                        "Class": "HYPERCAR"
+                        "Class": "HYPERCAR",
+                        "Laps": "8",
+                        "Elapsed_time": "3'25.062",
+                        "Average_speed": "239.213"
                     }
                 },
                 "94": {
                     "position": "18",
                     "points": 0,
-                    "fastest_lap": "3'25.240",
+                    "fastest_lap": "",
                     "team": "PEUGEOT_TOTALENERGIES",
                     "drivers": [
                         "Loïc_Duval",
@@ -10436,16 +10453,17 @@
                         "Stoffel_Vandoorne"
                     ],
                     "other_info": {
-                        "Average_speed": "239.006 Km/h",
-                        "Laps": "8",
                         "Car_number": "94",
-                        "Class": "HYPERCAR"
+                        "Class": "HYPERCAR",
+                        "Laps": "8",
+                        "Elapsed_time": "3'25.240",
+                        "Average_speed": "239.006"
                     }
                 },
                 "93": {
                     "position": "19",
                     "points": 0,
-                    "fastest_lap": "3'25.494",
+                    "fastest_lap": "",
                     "team": "PEUGEOT_TOTALENERGIES",
                     "drivers": [
                         "Paul_di Resta",
@@ -10453,16 +10471,17 @@
                         "Jean-Eric_Vergne"
                     ],
                     "other_info": {
-                        "Average_speed": "238.710 Km/h",
-                        "Laps": "8",
                         "Car_number": "93",
-                        "Class": "HYPERCAR"
+                        "Class": "HYPERCAR",
+                        "Laps": "8",
+                        "Elapsed_time": "3'25.494",
+                        "Average_speed": "238.710"
                     }
                 },
                 "99": {
                     "position": "20",
                     "points": 0,
-                    "fastest_lap": "3'25.527",
+                    "fastest_lap": "",
                     "team": "Proton_Competition",
                     "drivers": [
                         "Neel_Jani",
@@ -10470,16 +10489,17 @@
                         "Nicolás_Varrone"
                     ],
                     "other_info": {
-                        "Average_speed": "238.672 Km/h",
-                        "Laps": "8",
                         "Car_number": "99",
-                        "Class": "HYPERCAR"
+                        "Class": "HYPERCAR",
+                        "Laps": "8",
+                        "Elapsed_time": "3'25.527",
+                        "Average_speed": "238.672"
                     }
                 },
                 "007": {
                     "position": "21",
                     "points": 0,
-                    "fastest_lap": "3'26.349",
+                    "fastest_lap": "",
                     "team": "Aston_Martin",
                     "drivers": [
                         "Harry_Tincknell",
@@ -10487,10 +10507,11 @@
                         "Ross_Gunn"
                     ],
                     "other_info": {
-                        "Average_speed": "237.721 Km/h",
-                        "Laps": "8",
                         "Car_number": "007",
-                        "Class": "HYPERCAR"
+                        "Class": "HYPERCAR",
+                        "Laps": "8",
+                        "Elapsed_time": "3'26.349",
+                        "Average_speed": "237.721"
                     }
                 }
             },
@@ -13451,11 +13472,11 @@
                     }
                 }
             },
-            "Qualifying Hyperpole H1 (HYPERCAR)": {
+            "Qualifying Hyperpole H1 (Hypercar)": {
                 "311": {
                     "position": "1",
                     "points": 0,
-                    "fastest_lap": "3'22.742",
+                    "fastest_lap": "",
                     "team": "Cadillac_Whelen",
                     "drivers": [
                         "Jack_Aitken",
@@ -13463,16 +13484,17 @@
                         "Frederik_Vesti"
                     ],
                     "other_info": {
-                        "Average_speed": "241.950 Km/h",
-                        "Laps": "6",
                         "Car_number": "311",
-                        "Class": "HYPERCAR"
+                        "Class": "HYPERCAR",
+                        "Laps": "6",
+                        "Elapsed_time": "3'22.742",
+                        "Average_speed": "241.950"
                     }
                 },
                 "38": {
                     "position": "2",
                     "points": 0,
-                    "fastest_lap": "3'23.141",
+                    "fastest_lap": "",
                     "team": "Cadillac_Hertz_Team_JOTA",
                     "drivers": [
                         "Earl_Bamber",
@@ -13480,16 +13502,17 @@
                         "Jenson_Button"
                     ],
                     "other_info": {
-                        "Average_speed": "241.475 Km/h",
-                        "Laps": "6",
                         "Car_number": "38",
-                        "Class": "HYPERCAR"
+                        "Class": "HYPERCAR",
+                        "Laps": "6",
+                        "Elapsed_time": "3'23.141",
+                        "Average_speed": "241.475"
                     }
                 },
                 "20": {
                     "position": "3",
                     "points": 0,
-                    "fastest_lap": "3'23.250",
+                    "fastest_lap": "",
                     "team": "BMW_M_Team_WRT",
                     "drivers": [
                         "René_Rast",
@@ -13497,16 +13520,17 @@
                         "Sheldon_Van Der Linde"
                     ],
                     "other_info": {
-                        "Average_speed": "241.346 Km/h",
-                        "Laps": "6",
                         "Car_number": "20",
-                        "Class": "HYPERCAR"
+                        "Class": "HYPERCAR",
+                        "Laps": "6",
+                        "Elapsed_time": "3'23.250",
+                        "Average_speed": "241.346"
                     }
                 },
                 "50": {
                     "position": "4",
                     "points": 0,
-                    "fastest_lap": "3'23.273",
+                    "fastest_lap": "",
                     "team": "Ferrari",
                     "drivers": [
                         "Antonio_Fuoco",
@@ -13514,16 +13538,17 @@
                         "Miguel_Molina"
                     ],
                     "other_info": {
-                        "Average_speed": "241.318 Km/h",
-                        "Laps": "6",
                         "Car_number": "50",
-                        "Class": "HYPERCAR"
+                        "Class": "HYPERCAR",
+                        "Laps": "6",
+                        "Elapsed_time": "3'23.273",
+                        "Average_speed": "241.318"
                     }
                 },
                 "36": {
                     "position": "5",
                     "points": 0,
-                    "fastest_lap": "3'23.462",
+                    "fastest_lap": "",
                     "team": "Alpine",
                     "drivers": [
                         "Mick_Schumacher",
@@ -13531,16 +13556,17 @@
                         "Jules_Gounon"
                     ],
                     "other_info": {
-                        "Average_speed": "241.094 Km/h",
-                        "Laps": "6",
                         "Car_number": "36",
-                        "Class": "HYPERCAR"
+                        "Class": "HYPERCAR",
+                        "Laps": "6",
+                        "Elapsed_time": "3'23.462",
+                        "Average_speed": "241.094"
                     }
                 },
                 "8": {
                     "position": "6",
                     "points": 0,
-                    "fastest_lap": "3'23.546",
+                    "fastest_lap": "",
                     "team": "Toyota_Racing",
                     "drivers": [
                         "Sébastien_Buemi",
@@ -13548,33 +13574,35 @@
                         "Ryo_Hirakawa"
                     ],
                     "other_info": {
-                        "Average_speed": "240.995 Km/h",
-                        "Laps": "6",
                         "Car_number": "8",
-                        "Class": "HYPERCAR"
+                        "Class": "HYPERCAR",
+                        "Laps": "6",
+                        "Elapsed_time": "3'23.546",
+                        "Average_speed": "240.995"
                     }
                 },
                 "4": {
                     "position": "7",
                     "points": 0,
-                    "fastest_lap": "3'23.547",
-                    "team": "PORSCHE",
+                    "fastest_lap": "",
+                    "team": "PORSCHE_PENSKE_MOTORSPORT",
                     "drivers": [
                         "Felipe_Nasr",
                         "Nick_Tandy",
                         "Pascal_Wehrlein"
                     ],
                     "other_info": {
-                        "Average_speed": "240.993 Km/h",
-                        "Laps": "6",
                         "Car_number": "4",
-                        "Class": "HYPERCAR"
+                        "Class": "HYPERCAR",
+                        "Laps": "6",
+                        "Elapsed_time": "3'23.547",
+                        "Average_speed": "240.993"
                     }
                 },
                 "12": {
                     "position": "8",
                     "points": 0,
-                    "fastest_lap": "3'23.641",
+                    "fastest_lap": "",
                     "team": "Cadillac_Hertz_Team_JOTA",
                     "drivers": [
                         "Will_Stevens",
@@ -13582,33 +13610,35 @@
                         "Alex_Lynn"
                     ],
                     "other_info": {
-                        "Average_speed": "240.882 Km/h",
-                        "Laps": "6",
                         "Car_number": "12",
-                        "Class": "HYPERCAR"
+                        "Class": "HYPERCAR",
+                        "Laps": "6",
+                        "Elapsed_time": "3'23.641",
+                        "Average_speed": "240.882"
                     }
                 },
                 "5": {
                     "position": "9",
                     "points": 0,
-                    "fastest_lap": "3'23.979",
-                    "team": "PORSCHE",
+                    "fastest_lap": "",
+                    "team": "PORSCHE_PENSKE_MOTORSPORT",
                     "drivers": [
                         "Julien_Andlauer",
                         "Michael_Christensen",
                         "Mathieu_Jaminet"
                     ],
                     "other_info": {
-                        "Average_speed": "240.483 Km/h",
-                        "Laps": "4",
                         "Car_number": "5",
-                        "Class": "HYPERCAR"
+                        "Class": "HYPERCAR",
+                        "Laps": "4",
+                        "Elapsed_time": "3'23.979",
+                        "Average_speed": "240.483"
                     }
                 },
                 "15": {
                     "position": "10",
                     "points": 0,
-                    "fastest_lap": "3'24.061",
+                    "fastest_lap": "",
                     "team": "BMW_M_Team_WRT",
                     "drivers": [
                         "Dries_Vanthoor",
@@ -13616,16 +13646,17 @@
                         "Kevin_Magnussen"
                     ],
                     "other_info": {
-                        "Average_speed": "240.386 Km/h",
-                        "Laps": "6",
                         "Car_number": "15",
-                        "Class": "HYPERCAR"
+                        "Class": "HYPERCAR",
+                        "Laps": "6",
+                        "Elapsed_time": "3'24.061",
+                        "Average_speed": "240.386"
                     }
                 },
                 "51": {
                     "position": "11",
                     "points": 0,
-                    "fastest_lap": "3'24.143",
+                    "fastest_lap": "",
                     "team": "Ferrari",
                     "drivers": [
                         "Alessandro_Pier Guidi",
@@ -13633,16 +13664,17 @@
                         "Antonio_Giovinazzi"
                     ],
                     "other_info": {
-                        "Average_speed": "240.290 Km/h",
-                        "Laps": "6",
                         "Car_number": "51",
-                        "Class": "HYPERCAR"
+                        "Class": "HYPERCAR",
+                        "Laps": "6",
+                        "Elapsed_time": "3'24.143",
+                        "Average_speed": "240.290"
                     }
                 },
                 "35": {
                     "position": "12",
                     "points": 0,
-                    "fastest_lap": "3'24.153",
+                    "fastest_lap": "",
                     "team": "Alpine",
                     "drivers": [
                         "Paul-Loup_Chatin",
@@ -13650,16 +13682,17 @@
                         "Charles_Milesi"
                     ],
                     "other_info": {
-                        "Average_speed": "240.278 Km/h",
-                        "Laps": "6",
                         "Car_number": "35",
-                        "Class": "HYPERCAR"
+                        "Class": "HYPERCAR",
+                        "Laps": "6",
+                        "Elapsed_time": "3'24.153",
+                        "Average_speed": "240.278"
                     }
                 },
                 "83": {
                     "position": "13",
                     "points": 0,
-                    "fastest_lap": "3'24.327",
+                    "fastest_lap": "",
                     "team": "AF_Corse",
                     "drivers": [
                         "Robert_Kubica",
@@ -13667,33 +13700,35 @@
                         "Philip_Hanson"
                     ],
                     "other_info": {
-                        "Average_speed": "240.073 Km/h",
-                        "Laps": "6",
                         "Car_number": "83",
-                        "Class": "HYPERCAR"
+                        "Class": "HYPERCAR",
+                        "Laps": "6",
+                        "Elapsed_time": "3'24.327",
+                        "Average_speed": "240.073"
                     }
                 },
                 "101": {
                     "position": "14",
                     "points": 0,
-                    "fastest_lap": "3'24.811",
+                    "fastest_lap": "",
                     "team": "Cadillac_WTR",
                     "drivers": [
-                        "Jordan_Taylor",
                         "Ricky_Taylor",
+                        "Jordan_Taylor",
                         "Filipe_Albuquerque"
                     ],
                     "other_info": {
-                        "Average_speed": "239.506 Km/h",
-                        "Laps": "6",
                         "Car_number": "101",
-                        "Class": "HYPERCAR"
+                        "Class": "HYPERCAR",
+                        "Laps": "6",
+                        "Elapsed_time": "3'24.811",
+                        "Average_speed": "239.506"
                     }
                 },
                 "009": {
                     "position": "15",
                     "points": 0,
-                    "fastest_lap": "3'25.258",
+                    "fastest_lap": "",
                     "team": "Aston_Martin",
                     "drivers": [
                         "Alex_Riberas",
@@ -13701,18 +13736,19 @@
                         "Roman_De Angelis"
                     ],
                     "other_info": {
-                        "Average_speed": "238.985 Km/h",
-                        "Laps": "5",
                         "Car_number": "009",
-                        "Class": "HYPERCAR"
+                        "Class": "HYPERCAR",
+                        "Laps": "5",
+                        "Elapsed_time": "3'25.258",
+                        "Average_speed": "238.985"
                     }
                 }
             },
-            "Qualifying Hyperpole H2 (HYPERCAR)": {
+            "Qualifying Hyperpole H2 (Hypercar)": {
                 "12": {
                     "position": "1",
                     "points": 0,
-                    "fastest_lap": "3'23.166",
+                    "fastest_lap": "",
                     "team": "Cadillac_Hertz_Team_JOTA",
                     "drivers": [
                         "Will_Stevens",
@@ -13720,16 +13756,17 @@
                         "Alex_Lynn"
                     ],
                     "other_info": {
-                        "Average_speed": "241.445 Km/h",
-                        "Laps": "4",
                         "Car_number": "12",
-                        "Class": "HYPERCAR"
+                        "Class": "HYPERCAR",
+                        "Laps": "4",
+                        "Elapsed_time": "3'23.166",
+                        "Average_speed": "241.445"
                     }
                 },
                 "38": {
                     "position": "2",
                     "points": 0,
-                    "fastest_lap": "3'23.333",
+                    "fastest_lap": "",
                     "team": "Cadillac_Hertz_Team_JOTA",
                     "drivers": [
                         "Earl_Bamber",
@@ -13737,33 +13774,35 @@
                         "Jenson_Button"
                     ],
                     "other_info": {
-                        "Average_speed": "241.247 Km/h",
-                        "Laps": "4",
                         "Car_number": "38",
-                        "Class": "HYPERCAR"
+                        "Class": "HYPERCAR",
+                        "Laps": "4",
+                        "Elapsed_time": "3'23.333",
+                        "Average_speed": "241.247"
                     }
                 },
                 "5": {
                     "position": "3",
                     "points": 0,
-                    "fastest_lap": "3'23.475",
-                    "team": "PORSCHE",
+                    "fastest_lap": "",
+                    "team": "PORSCHE_PENSKE_MOTORSPORT",
                     "drivers": [
                         "Julien_Andlauer",
                         "Michael_Christensen",
                         "Mathieu_Jaminet"
                     ],
                     "other_info": {
-                        "Average_speed": "241.079 Km/h",
-                        "Laps": "4",
                         "Car_number": "5",
-                        "Class": "HYPERCAR"
+                        "Class": "HYPERCAR",
+                        "Laps": "4",
+                        "Elapsed_time": "3'23.475",
+                        "Average_speed": "241.079"
                     }
                 },
                 "15": {
                     "position": "4",
                     "points": 0,
-                    "fastest_lap": "3'23.659",
+                    "fastest_lap": "",
                     "team": "BMW_M_Team_WRT",
                     "drivers": [
                         "Dries_Vanthoor",
@@ -13771,33 +13810,35 @@
                         "Kevin_Magnussen"
                     ],
                     "other_info": {
-                        "Average_speed": "240.861 Km/h",
-                        "Laps": "4",
                         "Car_number": "15",
-                        "Class": "HYPERCAR"
+                        "Class": "HYPERCAR",
+                        "Laps": "4",
+                        "Elapsed_time": "3'23.659",
+                        "Average_speed": "240.861"
                     }
                 },
                 "4": {
                     "position": "5",
                     "points": 0,
-                    "fastest_lap": "3'23.983",
-                    "team": "PORSCHE",
+                    "fastest_lap": "",
+                    "team": "PORSCHE_PENSKE_MOTORSPORT",
                     "drivers": [
                         "Felipe_Nasr",
                         "Nick_Tandy",
                         "Pascal_Wehrlein"
                     ],
                     "other_info": {
-                        "Average_speed": "240.478 Km/h",
-                        "Laps": "4",
                         "Car_number": "4",
-                        "Class": "HYPERCAR"
+                        "Class": "HYPERCAR",
+                        "Laps": "4",
+                        "Elapsed_time": "3'23.983",
+                        "Average_speed": "240.478"
                     }
                 },
                 "20": {
                     "position": "6",
                     "points": 0,
-                    "fastest_lap": "3'24.009",
+                    "fastest_lap": "",
                     "team": "BMW_M_Team_WRT",
                     "drivers": [
                         "René_Rast",
@@ -13805,16 +13846,17 @@
                         "Sheldon_Van Der Linde"
                     ],
                     "other_info": {
-                        "Average_speed": "240.448 Km/h",
-                        "Laps": "4",
                         "Car_number": "20",
-                        "Class": "HYPERCAR"
+                        "Class": "HYPERCAR",
+                        "Laps": "4",
+                        "Elapsed_time": "3'24.009",
+                        "Average_speed": "240.448"
                     }
                 },
                 "50": {
                     "position": "7",
                     "points": 0,
-                    "fastest_lap": "3'24.213",
+                    "fastest_lap": "",
                     "team": "Ferrari",
                     "drivers": [
                         "Antonio_Fuoco",
@@ -13822,16 +13864,17 @@
                         "Miguel_Molina"
                     ],
                     "other_info": {
-                        "Average_speed": "240.208 Km/h",
-                        "Laps": "4",
                         "Car_number": "50",
-                        "Class": "HYPERCAR"
+                        "Class": "HYPERCAR",
+                        "Laps": "4",
+                        "Elapsed_time": "3'24.213",
+                        "Average_speed": "240.208"
                     }
                 },
                 "311": {
                     "position": "8",
                     "points": 0,
-                    "fastest_lap": "3'24.380",
+                    "fastest_lap": "",
                     "team": "Cadillac_Whelen",
                     "drivers": [
                         "Jack_Aitken",
@@ -13839,16 +13882,17 @@
                         "Frederik_Vesti"
                     ],
                     "other_info": {
-                        "Average_speed": "240.011 Km/h",
-                        "Laps": "5",
                         "Car_number": "311",
-                        "Class": "HYPERCAR"
+                        "Class": "HYPERCAR",
+                        "Laps": "5",
+                        "Elapsed_time": "3'24.380",
+                        "Average_speed": "240.011"
                     }
                 },
                 "36": {
                     "position": "9",
                     "points": 0,
-                    "fastest_lap": "3'24.398",
+                    "fastest_lap": "",
                     "team": "Alpine",
                     "drivers": [
                         "Mick_Schumacher",
@@ -13856,16 +13900,17 @@
                         "Jules_Gounon"
                     ],
                     "other_info": {
-                        "Average_speed": "239.990 Km/h",
-                        "Laps": "4",
                         "Car_number": "36",
-                        "Class": "HYPERCAR"
+                        "Class": "HYPERCAR",
+                        "Laps": "4",
+                        "Elapsed_time": "3'24.398",
+                        "Average_speed": "239.990"
                     }
                 },
                 "8": {
                     "position": "10",
                     "points": 0,
-                    "fastest_lap": 0,
+                    "fastest_lap": "",
                     "team": "Toyota_Racing",
                     "drivers": [
                         "Sébastien_Buemi",
@@ -13873,10 +13918,9 @@
                         "Ryo_Hirakawa"
                     ],
                     "other_info": {
-                        "Average_speed": " Km/h",
-                        "Laps": "2",
                         "Car_number": "8",
-                        "Class": "HYPERCAR"
+                        "Class": "HYPERCAR",
+                        "Laps": "2"
                     }
                 }
             },
@@ -15859,7 +15903,7 @@
                     }
                 },
                 "50": {
-                    "position": "dq",
+                    "position": "DSQ",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "Ferrari",
@@ -15877,7 +15921,7 @@
                     }
                 },
                 "59": {
-                    "position": "nc",
+                    "position": "NC",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "United_Autosports",
@@ -15895,7 +15939,7 @@
                     }
                 },
                 "28": {
-                    "position": "dnf",
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "IDEC_SPORT",
@@ -15913,7 +15957,7 @@
                     }
                 },
                 "78": {
-                    "position": "dnf",
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "AKKODIS_ASP_Team",
@@ -15931,7 +15975,7 @@
                     }
                 },
                 "311": {
-                    "position": "dnf",
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "Cadillac_Whelen",
@@ -15949,7 +15993,7 @@
                     }
                 },
                 "18": {
-                    "position": "dnf",
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "IDEC_SPORT",
@@ -15967,7 +16011,7 @@
                     }
                 },
                 "54": {
-                    "position": "dnf",
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "AF_Corse",
@@ -15985,7 +16029,7 @@
                     }
                 },
                 "101": {
-                    "position": "dnf",
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "Cadillac_WTR",
@@ -16003,7 +16047,7 @@
                     }
                 },
                 "24": {
-                    "position": "dnf",
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "NIELSEN_RACING",
@@ -16021,7 +16065,7 @@
                     }
                 },
                 "31": {
-                    "position": "dnf",
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "TEAM_WRT",
@@ -16039,7 +16083,7 @@
                     }
                 },
                 "46": {
-                    "position": "dnf",
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "TEAM_WRT",
@@ -16057,7 +16101,7 @@
                     }
                 },
                 "95": {
-                    "position": "dnf",
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "United_Autosports",
@@ -16075,7 +16119,7 @@
                     }
                 },
                 "60": {
-                    "position": "dnf",
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "IRON_LYNX",
@@ -16093,7 +16137,7 @@
                     }
                 },
                 "88": {
-                    "position": "dnf",
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "Proton_Competition",
@@ -17040,838 +17084,6 @@
                     "other_info": {
                         "Car_number": "193",
                         "Class": "LMGT3"
-                    }
-                }
-            },
-            "Qualifying (Hypercar)": {
-                "12": {
-                    "position": "1",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Cadillac_Hertz_Team_JOTA",
-                    "drivers": [
-                        "Will_Stevens",
-                        "Norman_Nato",
-                        "Alex_Lynn"
-                    ],
-                    "other_info": {
-                        "Car_number": "12",
-                        "Class": "HYPERCAR",
-                        "Laps": "8",
-                        "Elapsed_time": "3'22.847",
-                        "Average_speed": "241.825"
-                    }
-                },
-                "15": {
-                    "position": "2",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "BMW_M_Team_WRT",
-                    "drivers": [
-                        "Dries_Vanthoor",
-                        "Raffaele_Marciello",
-                        "Kevin_Magnussen"
-                    ],
-                    "other_info": {
-                        "Car_number": "15",
-                        "Class": "HYPERCAR",
-                        "Laps": "7",
-                        "Elapsed_time": "3'22.887",
-                        "Average_speed": "241.777"
-                    }
-                },
-                "51": {
-                    "position": "3",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Ferrari",
-                    "drivers": [
-                        "Alessandro_Pier Guidi",
-                        "James_Calado",
-                        "Antonio_Giovinazzi"
-                    ],
-                    "other_info": {
-                        "Car_number": "51",
-                        "Class": "HYPERCAR",
-                        "Laps": "8",
-                        "Elapsed_time": "3'23.163",
-                        "Average_speed": "241.449"
-                    }
-                },
-                "6": {
-                    "position": "4",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "PORSCHE_PENSKE_MOTORSPORT",
-                    "drivers": [
-                        "Kévin_Estre",
-                        "Laurens_Vanthoor",
-                        "Matt_Campbell"
-                    ],
-                    "other_info": {
-                        "Car_number": "6",
-                        "Class": "HYPERCAR",
-                        "Laps": "6",
-                        "Elapsed_time": "3'23.360",
-                        "Average_speed": "241.215"
-                    }
-                },
-                "38": {
-                    "position": "5",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Cadillac_Hertz_Team_JOTA",
-                    "drivers": [
-                        "Earl_Bamber",
-                        "Sébastien_Bourdais",
-                        "Jenson_Button"
-                    ],
-                    "other_info": {
-                        "Car_number": "38",
-                        "Class": "HYPERCAR",
-                        "Laps": "8",
-                        "Elapsed_time": "3'23.467",
-                        "Average_speed": "241.088"
-                    }
-                },
-                "50": {
-                    "position": "6",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Ferrari",
-                    "drivers": [
-                        "Antonio_Fuoco",
-                        "Nicklas_Nielsen",
-                        "Miguel_Molina"
-                    ],
-                    "other_info": {
-                        "Car_number": "50",
-                        "Class": "HYPERCAR",
-                        "Laps": "8",
-                        "Elapsed_time": "3'23.514",
-                        "Average_speed": "241.033"
-                    }
-                },
-                "5": {
-                    "position": "7",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "PORSCHE_PENSKE_MOTORSPORT",
-                    "drivers": [
-                        "Julien_Andlauer",
-                        "Michael_Christensen",
-                        "Mathieu_Jaminet"
-                    ],
-                    "other_info": {
-                        "Car_number": "5",
-                        "Class": "HYPERCAR",
-                        "Laps": "7",
-                        "Elapsed_time": "3'23.544",
-                        "Average_speed": "240.997"
-                    }
-                },
-                "20": {
-                    "position": "8",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "BMW_M_Team_WRT",
-                    "drivers": [
-                        "René_Rast",
-                        "Robin_Frijns",
-                        "Sheldon_Van Der Linde"
-                    ],
-                    "other_info": {
-                        "Car_number": "20",
-                        "Class": "HYPERCAR",
-                        "Laps": "8",
-                        "Elapsed_time": "3'23.805",
-                        "Average_speed": "240.688"
-                    }
-                },
-                "311": {
-                    "position": "9",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Cadillac_Whelen",
-                    "drivers": [
-                        "Jack_Aitken",
-                        "Felipe_Drugovich",
-                        "Frederik_Vesti"
-                    ],
-                    "other_info": {
-                        "Car_number": "311",
-                        "Class": "HYPERCAR",
-                        "Laps": "8",
-                        "Elapsed_time": "3'23.890",
-                        "Average_speed": "240.588"
-                    }
-                },
-                "36": {
-                    "position": "10",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Alpine",
-                    "drivers": [
-                        "Mick_Schumacher",
-                        "Frédéric_Makowiecki",
-                        "Jules_Gounon"
-                    ],
-                    "other_info": {
-                        "Car_number": "36",
-                        "Class": "HYPERCAR",
-                        "Laps": "8",
-                        "Elapsed_time": "3'23.945",
-                        "Average_speed": "240.523"
-                    }
-                },
-                "8": {
-                    "position": "11",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Toyota_Racing",
-                    "drivers": [
-                        "Sébastien_Buemi",
-                        "Brendon_Hartley",
-                        "Ryo_Hirakawa"
-                    ],
-                    "other_info": {
-                        "Car_number": "8",
-                        "Class": "HYPERCAR",
-                        "Laps": "7",
-                        "Elapsed_time": "3'23.988",
-                        "Average_speed": "240.472"
-                    }
-                },
-                "83": {
-                    "position": "12",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "AF_Corse",
-                    "drivers": [
-                        "Robert_Kubica",
-                        "Ye_Yifei",
-                        "Philip_Hanson"
-                    ],
-                    "other_info": {
-                        "Car_number": "83",
-                        "Class": "HYPERCAR",
-                        "Laps": "5",
-                        "Elapsed_time": "3'23.994",
-                        "Average_speed": "240.465"
-                    }
-                },
-                "101": {
-                    "position": "13",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Cadillac_WTR",
-                    "drivers": [
-                        "Ricky_Taylor",
-                        "Jordan_Taylor",
-                        "Filipe_Albuquerque"
-                    ],
-                    "other_info": {
-                        "Car_number": "101",
-                        "Class": "HYPERCAR",
-                        "Laps": "8",
-                        "Elapsed_time": "3'24.030",
-                        "Average_speed": "240.423"
-                    }
-                },
-                "4": {
-                    "position": "14",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "PORSCHE_PENSKE_MOTORSPORT",
-                    "drivers": [
-                        "Felipe_Nasr",
-                        "Nick_Tandy",
-                        "Pascal_Wehrlein"
-                    ],
-                    "other_info": {
-                        "Car_number": "4",
-                        "Class": "HYPERCAR",
-                        "Laps": "8",
-                        "Elapsed_time": "3'24.584",
-                        "Average_speed": "239.772"
-                    }
-                },
-                "35": {
-                    "position": "15",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Alpine",
-                    "drivers": [
-                        "Paul-Loup_Chatin",
-                        "Ferdinand_Habsburg",
-                        "Charles_Milesi"
-                    ],
-                    "other_info": {
-                        "Car_number": "35",
-                        "Class": "HYPERCAR",
-                        "Laps": "6",
-                        "Elapsed_time": "3'24.667",
-                        "Average_speed": "239.675"
-                    }
-                },
-                "009": {
-                    "position": "16",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Aston_Martin",
-                    "drivers": [
-                        "Alex_Riberas",
-                        "Marco_Sørensen",
-                        "Roman_De Angelis"
-                    ],
-                    "other_info": {
-                        "Car_number": "009",
-                        "Class": "HYPERCAR",
-                        "Laps": "8",
-                        "Elapsed_time": "3'24.869",
-                        "Average_speed": "239.438"
-                    }
-                },
-                "7": {
-                    "position": "17",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Toyota_Racing",
-                    "drivers": [
-                        "Mike_Conway",
-                        "Kamui_Kobayashi",
-                        "Nyck_de Vries"
-                    ],
-                    "other_info": {
-                        "Car_number": "7",
-                        "Class": "HYPERCAR",
-                        "Laps": "8",
-                        "Elapsed_time": "3'25.062",
-                        "Average_speed": "239.213"
-                    }
-                },
-                "94": {
-                    "position": "18",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "PEUGEOT_TOTALENERGIES",
-                    "drivers": [
-                        "Loïc_Duval",
-                        "Malthe_Jakobsen",
-                        "Stoffel_Vandoorne"
-                    ],
-                    "other_info": {
-                        "Car_number": "94",
-                        "Class": "HYPERCAR",
-                        "Laps": "8",
-                        "Elapsed_time": "3'25.240",
-                        "Average_speed": "239.006"
-                    }
-                },
-                "93": {
-                    "position": "19",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "PEUGEOT_TOTALENERGIES",
-                    "drivers": [
-                        "Paul_di Resta",
-                        "Mikkel_Jensen",
-                        "Jean-Eric_Vergne"
-                    ],
-                    "other_info": {
-                        "Car_number": "93",
-                        "Class": "HYPERCAR",
-                        "Laps": "8",
-                        "Elapsed_time": "3'25.494",
-                        "Average_speed": "238.710"
-                    }
-                },
-                "99": {
-                    "position": "20",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Proton_Competition",
-                    "drivers": [
-                        "Neel_Jani",
-                        "Nicolas_Pino",
-                        "Nicolás_Varrone"
-                    ],
-                    "other_info": {
-                        "Car_number": "99",
-                        "Class": "HYPERCAR",
-                        "Laps": "8",
-                        "Elapsed_time": "3'25.527",
-                        "Average_speed": "238.672"
-                    }
-                },
-                "007": {
-                    "position": "21",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Aston_Martin",
-                    "drivers": [
-                        "Harry_Tincknell",
-                        "Tom_Gamble",
-                        "Ross_Gunn"
-                    ],
-                    "other_info": {
-                        "Car_number": "007",
-                        "Class": "HYPERCAR",
-                        "Laps": "8",
-                        "Elapsed_time": "3'26.349",
-                        "Average_speed": "237.721"
-                    }
-                }
-            },
-            "Qualifying Hyperpole H1 (Hypercar)": {
-                "311": {
-                    "position": "1",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Cadillac_Whelen",
-                    "drivers": [
-                        "Jack_Aitken",
-                        "Felipe_Drugovich",
-                        "Frederik_Vesti"
-                    ],
-                    "other_info": {
-                        "Car_number": "311",
-                        "Class": "HYPERCAR",
-                        "Laps": "6",
-                        "Elapsed_time": "3'22.742",
-                        "Average_speed": "241.950"
-                    }
-                },
-                "38": {
-                    "position": "2",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Cadillac_Hertz_Team_JOTA",
-                    "drivers": [
-                        "Earl_Bamber",
-                        "Sébastien_Bourdais",
-                        "Jenson_Button"
-                    ],
-                    "other_info": {
-                        "Car_number": "38",
-                        "Class": "HYPERCAR",
-                        "Laps": "6",
-                        "Elapsed_time": "3'23.141",
-                        "Average_speed": "241.475"
-                    }
-                },
-                "20": {
-                    "position": "3",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "BMW_M_Team_WRT",
-                    "drivers": [
-                        "René_Rast",
-                        "Robin_Frijns",
-                        "Sheldon_Van Der Linde"
-                    ],
-                    "other_info": {
-                        "Car_number": "20",
-                        "Class": "HYPERCAR",
-                        "Laps": "6",
-                        "Elapsed_time": "3'23.250",
-                        "Average_speed": "241.346"
-                    }
-                },
-                "50": {
-                    "position": "4",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Ferrari",
-                    "drivers": [
-                        "Antonio_Fuoco",
-                        "Nicklas_Nielsen",
-                        "Miguel_Molina"
-                    ],
-                    "other_info": {
-                        "Car_number": "50",
-                        "Class": "HYPERCAR",
-                        "Laps": "6",
-                        "Elapsed_time": "3'23.273",
-                        "Average_speed": "241.318"
-                    }
-                },
-                "36": {
-                    "position": "5",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Alpine",
-                    "drivers": [
-                        "Mick_Schumacher",
-                        "Frédéric_Makowiecki",
-                        "Jules_Gounon"
-                    ],
-                    "other_info": {
-                        "Car_number": "36",
-                        "Class": "HYPERCAR",
-                        "Laps": "6",
-                        "Elapsed_time": "3'23.462",
-                        "Average_speed": "241.094"
-                    }
-                },
-                "8": {
-                    "position": "6",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Toyota_Racing",
-                    "drivers": [
-                        "Sébastien_Buemi",
-                        "Brendon_Hartley",
-                        "Ryo_Hirakawa"
-                    ],
-                    "other_info": {
-                        "Car_number": "8",
-                        "Class": "HYPERCAR",
-                        "Laps": "6",
-                        "Elapsed_time": "3'23.546",
-                        "Average_speed": "240.995"
-                    }
-                },
-                "4": {
-                    "position": "7",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "PORSCHE_PENSKE_MOTORSPORT",
-                    "drivers": [
-                        "Felipe_Nasr",
-                        "Nick_Tandy",
-                        "Pascal_Wehrlein"
-                    ],
-                    "other_info": {
-                        "Car_number": "4",
-                        "Class": "HYPERCAR",
-                        "Laps": "6",
-                        "Elapsed_time": "3'23.547",
-                        "Average_speed": "240.993"
-                    }
-                },
-                "12": {
-                    "position": "8",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Cadillac_Hertz_Team_JOTA",
-                    "drivers": [
-                        "Will_Stevens",
-                        "Norman_Nato",
-                        "Alex_Lynn"
-                    ],
-                    "other_info": {
-                        "Car_number": "12",
-                        "Class": "HYPERCAR",
-                        "Laps": "6",
-                        "Elapsed_time": "3'23.641",
-                        "Average_speed": "240.882"
-                    }
-                },
-                "5": {
-                    "position": "9",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "PORSCHE_PENSKE_MOTORSPORT",
-                    "drivers": [
-                        "Julien_Andlauer",
-                        "Michael_Christensen",
-                        "Mathieu_Jaminet"
-                    ],
-                    "other_info": {
-                        "Car_number": "5",
-                        "Class": "HYPERCAR",
-                        "Laps": "4",
-                        "Elapsed_time": "3'23.979",
-                        "Average_speed": "240.483"
-                    }
-                },
-                "15": {
-                    "position": "10",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "BMW_M_Team_WRT",
-                    "drivers": [
-                        "Dries_Vanthoor",
-                        "Raffaele_Marciello",
-                        "Kevin_Magnussen"
-                    ],
-                    "other_info": {
-                        "Car_number": "15",
-                        "Class": "HYPERCAR",
-                        "Laps": "6",
-                        "Elapsed_time": "3'24.061",
-                        "Average_speed": "240.386"
-                    }
-                },
-                "51": {
-                    "position": "11",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Ferrari",
-                    "drivers": [
-                        "Alessandro_Pier Guidi",
-                        "James_Calado",
-                        "Antonio_Giovinazzi"
-                    ],
-                    "other_info": {
-                        "Car_number": "51",
-                        "Class": "HYPERCAR",
-                        "Laps": "6",
-                        "Elapsed_time": "3'24.143",
-                        "Average_speed": "240.290"
-                    }
-                },
-                "35": {
-                    "position": "12",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Alpine",
-                    "drivers": [
-                        "Paul-Loup_Chatin",
-                        "Ferdinand_Habsburg",
-                        "Charles_Milesi"
-                    ],
-                    "other_info": {
-                        "Car_number": "35",
-                        "Class": "HYPERCAR",
-                        "Laps": "6",
-                        "Elapsed_time": "3'24.153",
-                        "Average_speed": "240.278"
-                    }
-                },
-                "83": {
-                    "position": "13",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "AF_Corse",
-                    "drivers": [
-                        "Robert_Kubica",
-                        "Ye_Yifei",
-                        "Philip_Hanson"
-                    ],
-                    "other_info": {
-                        "Car_number": "83",
-                        "Class": "HYPERCAR",
-                        "Laps": "6",
-                        "Elapsed_time": "3'24.327",
-                        "Average_speed": "240.073"
-                    }
-                },
-                "101": {
-                    "position": "14",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Cadillac_WTR",
-                    "drivers": [
-                        "Ricky_Taylor",
-                        "Jordan_Taylor",
-                        "Filipe_Albuquerque"
-                    ],
-                    "other_info": {
-                        "Car_number": "101",
-                        "Class": "HYPERCAR",
-                        "Laps": "6",
-                        "Elapsed_time": "3'24.811",
-                        "Average_speed": "239.506"
-                    }
-                },
-                "009": {
-                    "position": "15",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Aston_Martin",
-                    "drivers": [
-                        "Alex_Riberas",
-                        "Marco_Sørensen",
-                        "Roman_De Angelis"
-                    ],
-                    "other_info": {
-                        "Car_number": "009",
-                        "Class": "HYPERCAR",
-                        "Laps": "5",
-                        "Elapsed_time": "3'25.258",
-                        "Average_speed": "238.985"
-                    }
-                }
-            },
-            "Qualifying Hyperpole H2 (Hypercar)": {
-                "12": {
-                    "position": "1",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Cadillac_Hertz_Team_JOTA",
-                    "drivers": [
-                        "Will_Stevens",
-                        "Norman_Nato",
-                        "Alex_Lynn"
-                    ],
-                    "other_info": {
-                        "Car_number": "12",
-                        "Class": "HYPERCAR",
-                        "Laps": "4",
-                        "Elapsed_time": "3'23.166",
-                        "Average_speed": "241.445"
-                    }
-                },
-                "38": {
-                    "position": "2",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Cadillac_Hertz_Team_JOTA",
-                    "drivers": [
-                        "Earl_Bamber",
-                        "Sébastien_Bourdais",
-                        "Jenson_Button"
-                    ],
-                    "other_info": {
-                        "Car_number": "38",
-                        "Class": "HYPERCAR",
-                        "Laps": "4",
-                        "Elapsed_time": "3'23.333",
-                        "Average_speed": "241.247"
-                    }
-                },
-                "5": {
-                    "position": "3",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "PORSCHE_PENSKE_MOTORSPORT",
-                    "drivers": [
-                        "Julien_Andlauer",
-                        "Michael_Christensen",
-                        "Mathieu_Jaminet"
-                    ],
-                    "other_info": {
-                        "Car_number": "5",
-                        "Class": "HYPERCAR",
-                        "Laps": "4",
-                        "Elapsed_time": "3'23.475",
-                        "Average_speed": "241.079"
-                    }
-                },
-                "15": {
-                    "position": "4",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "BMW_M_Team_WRT",
-                    "drivers": [
-                        "Dries_Vanthoor",
-                        "Raffaele_Marciello",
-                        "Kevin_Magnussen"
-                    ],
-                    "other_info": {
-                        "Car_number": "15",
-                        "Class": "HYPERCAR",
-                        "Laps": "4",
-                        "Elapsed_time": "3'23.659",
-                        "Average_speed": "240.861"
-                    }
-                },
-                "4": {
-                    "position": "5",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "PORSCHE_PENSKE_MOTORSPORT",
-                    "drivers": [
-                        "Felipe_Nasr",
-                        "Nick_Tandy",
-                        "Pascal_Wehrlein"
-                    ],
-                    "other_info": {
-                        "Car_number": "4",
-                        "Class": "HYPERCAR",
-                        "Laps": "4",
-                        "Elapsed_time": "3'23.983",
-                        "Average_speed": "240.478"
-                    }
-                },
-                "20": {
-                    "position": "6",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "BMW_M_Team_WRT",
-                    "drivers": [
-                        "René_Rast",
-                        "Robin_Frijns",
-                        "Sheldon_Van Der Linde"
-                    ],
-                    "other_info": {
-                        "Car_number": "20",
-                        "Class": "HYPERCAR",
-                        "Laps": "4",
-                        "Elapsed_time": "3'24.009",
-                        "Average_speed": "240.448"
-                    }
-                },
-                "50": {
-                    "position": "7",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Ferrari",
-                    "drivers": [
-                        "Antonio_Fuoco",
-                        "Nicklas_Nielsen",
-                        "Miguel_Molina"
-                    ],
-                    "other_info": {
-                        "Car_number": "50",
-                        "Class": "HYPERCAR",
-                        "Laps": "4",
-                        "Elapsed_time": "3'24.213",
-                        "Average_speed": "240.208"
-                    }
-                },
-                "311": {
-                    "position": "8",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Cadillac_Whelen",
-                    "drivers": [
-                        "Jack_Aitken",
-                        "Felipe_Drugovich",
-                        "Frederik_Vesti"
-                    ],
-                    "other_info": {
-                        "Car_number": "311",
-                        "Class": "HYPERCAR",
-                        "Laps": "5",
-                        "Elapsed_time": "3'24.380",
-                        "Average_speed": "240.011"
-                    }
-                },
-                "36": {
-                    "position": "9",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Alpine",
-                    "drivers": [
-                        "Mick_Schumacher",
-                        "Frédéric_Makowiecki",
-                        "Jules_Gounon"
-                    ],
-                    "other_info": {
-                        "Car_number": "36",
-                        "Class": "HYPERCAR",
-                        "Laps": "4",
-                        "Elapsed_time": "3'24.398",
-                        "Average_speed": "239.990"
-                    }
-                },
-                "8": {
-                    "position": "10",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Toyota_Racing",
-                    "drivers": [
-                        "Sébastien_Buemi",
-                        "Brendon_Hartley",
-                        "Ryo_Hirakawa"
-                    ],
-                    "other_info": {
-                        "Car_number": "8",
-                        "Class": "HYPERCAR",
-                        "Laps": "2"
                     }
                 }
             },
@@ -22485,7 +21697,7 @@
                     }
                 },
                 "88": {
-                    "position": "nc",
+                    "position": "NC",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "Proton_Competition",
@@ -22503,7 +21715,7 @@
                     }
                 },
                 "007": {
-                    "position": "dnf",
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "Aston_Martin",
@@ -22520,7 +21732,7 @@
                     }
                 },
                 "15": {
-                    "position": "dnf",
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "BMW_M_Team_WRT",
@@ -27183,7 +26395,7 @@
                     }
                 },
                 "60": {
-                    "position": "nc",
+                    "position": "NC",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "IRON_LYNX",
@@ -27203,7 +26415,7 @@
                     }
                 },
                 "007": {
-                    "position": "dnf",
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "Aston_Martin",
@@ -27223,7 +26435,7 @@
                     }
                 },
                 "77": {
-                    "position": "dnf",
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "Proton_Competition",
@@ -27243,7 +26455,7 @@
                     }
                 },
                 "61": {
-                    "position": "dnf",
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "IRON_LYNX",
@@ -27263,7 +26475,7 @@
                     }
                 },
                 "81": {
-                    "position": "dnf",
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "TF_Sport",
@@ -27283,7 +26495,7 @@
                     }
                 },
                 "87": {
-                    "position": "dnf",
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "AKKODIS_ASP_Team",
@@ -31830,7 +31042,7 @@
                     }
                 },
                 "61": {
-                    "position": "dnf",
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "IRON_LYNX",
@@ -31848,7 +31060,7 @@
                     }
                 },
                 "77": {
-                    "position": "dnf",
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "Proton_Competition",
@@ -31866,7 +31078,7 @@
                     }
                 },
                 "88": {
-                    "position": "dnf",
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "Proton_Competition",
@@ -35906,7 +35118,7 @@
                     }
                 },
                 "61": {
-                    "position": "nc",
+                    "position": "NC",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "IRON_LYNX",
@@ -35924,7 +35136,7 @@
                     }
                 },
                 "33": {
-                    "position": "nc",
+                    "position": "NC",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "TF_Sport",
@@ -35942,7 +35154,7 @@
                     }
                 },
                 "87": {
-                    "position": "nc",
+                    "position": "NC",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "AKKODIS_ASP_Team",
@@ -35960,7 +35172,7 @@
                     }
                 },
                 "20": {
-                    "position": "nc",
+                    "position": "NC",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "BMW_M_Team_WRT",
@@ -35978,7 +35190,7 @@
                     }
                 },
                 "85": {
-                    "position": "dnf",
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "IRON_DAMES",
@@ -35996,7 +35208,7 @@
                     }
                 },
                 "009": {
-                    "position": "dnf",
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "Aston_Martin",
@@ -36013,7 +35225,7 @@
                     }
                 },
                 "007": {
-                    "position": "dnf",
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "Aston_Martin",
@@ -40134,7 +39346,7 @@
                     }
                 },
                 "15": {
-                    "position": "dnf",
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "BMW_M_Team_WRT",
@@ -40152,7 +39364,7 @@
                     }
                 },
                 "54": {
-                    "position": "dnf",
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "AF_Corse",
@@ -40170,7 +39382,7 @@
                     }
                 },
                 "78": {
-                    "position": "dnf",
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "AKKODIS_ASP_Team",

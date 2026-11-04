@@ -1,334 +1,7 @@
 {
     "name": "Formula_1",
     "events": {
-        "Argentine-grand-prix": {
-            "Race": {
-                "2": {
-                    "position": "1",
-                    "points": 0,
-                    "fastest_lap": "1:48.300",
-                    "team": "Mercedes",
-                    "drivers": [
-                        "Juan_Manuel Fangio"
-                    ],
-                    "other_info": {
-                        "carNumber": "2",
-                        "laps": "96",
-                        "speed": "124.75",
-                        "fastestLap": "1:48.300",
-                        "lap_of_fastestLap": "45"
-                    }
-                },
-                "12": {
-                    "position": "2",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Ferrari",
-                    "drivers": [
-                        "Jose_Froilan Gonzalez",
-                        "Nino_Farina",
-                        "Maurice_Trintignant"
-                    ],
-                    "other_info": {
-                        "carNumber": "12",
-                        "laps": "96",
-                        "gap": "+ 1:29.600",
-                        "interval": "+ 1:29.600",
-                        "speed": "123.728"
-                    }
-                },
-                "10": {
-                    "position": "3",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Ferrari",
-                    "drivers": [
-                        "Nino_Farina",
-                        "Umberto_Maglioli",
-                        "Maurice_Trintignant"
-                    ],
-                    "other_info": {
-                        "carNumber": "10",
-                        "laps": "94",
-                        "gap": "2 Laps",
-                        "interval": "2 Laps",
-                        "speed": "121.511"
-                    }
-                },
-                "8": {
-                    "position": "4",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Mercedes",
-                    "drivers": [
-                        "Hans_Herrmann",
-                        "Karl_Kling",
-                        "Stirling_Moss"
-                    ],
-                    "other_info": {
-                        "carNumber": "8",
-                        "laps": "94",
-                        "gap": "2 Laps",
-                        "interval": "+ 15.900",
-                        "speed": "121.334"
-                    }
-                },
-                "18": {
-                    "position": "5",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Maserati",
-                    "drivers": [
-                        "Roberto_Mieres"
-                    ],
-                    "other_info": {
-                        "carNumber": "18",
-                        "laps": "91",
-                        "gap": "5 Laps",
-                        "interval": "3 Laps",
-                        "speed": "117.336"
-                    }
-                },
-                "28": {
-                    "position": "6",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Maserati",
-                    "drivers": [
-                        "Harry_Schell",
-                        "Jean_Behra"
-                    ],
-                    "other_info": {
-                        "carNumber": "28",
-                        "laps": "88",
-                        "gap": "8 Laps",
-                        "interval": "3 Laps",
-                        "speed": "112.437"
-                    }
-                },
-                "22": {
-                    "position": "7",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Maserati",
-                    "drivers": [
-                        "Luigi_Musso",
-                        "Sergio_Mantovani",
-                        "Harry_Schell"
-                    ],
-                    "other_info": {
-                        "carNumber": "22",
-                        "laps": "83",
-                        "gap": "13 Laps",
-                        "interval": "5 Laps",
-                        "speed": "107.519"
-                    }
-                },
-                "20": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Maserati",
-                    "drivers": [
-                        "Sergio_Mantovani",
-                        "Luigi_Musso",
-                        "Jean_Behra"
-                    ],
-                    "other_info": {
-                        "carNumber": "20",
-                        "laps": "55"
-                    }
-                },
-                "26": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Maserati",
-                    "drivers": [
-                        "Clemar_Bucci",
-                        "Harry_Schell",
-                        "Carlos_Menditeguy"
-                    ],
-                    "other_info": {
-                        "carNumber": "26",
-                        "laps": "55"
-                    }
-                },
-                "42": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Gordini",
-                    "drivers": [
-                        "Jesús_Ricardo Iglesias"
-                    ],
-                    "other_info": {
-                        "carNumber": "42",
-                        "laps": "38"
-                    }
-                },
-                "14": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Ferrari",
-                    "drivers": [
-                        "Maurice_Trintignant"
-                    ],
-                    "other_info": {
-                        "carNumber": "14",
-                        "laps": "36"
-                    }
-                },
-                "36": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Lancia",
-                    "drivers": [
-                        "Eugenio_Castellotti",
-                        "Luigi_Villoresi"
-                    ],
-                    "other_info": {
-                        "carNumber": "36",
-                        "laps": "35"
-                    }
-                },
-                "6": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Mercedes",
-                    "drivers": [
-                        "Stirling_Moss"
-                    ],
-                    "other_info": {
-                        "carNumber": "6",
-                        "laps": "29"
-                    }
-                },
-                "30": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Maserati",
-                    "drivers": [
-                        "Alberto_Uria"
-                    ],
-                    "other_info": {
-                        "carNumber": "30",
-                        "laps": "22"
-                    }
-                },
-                "32": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Lancia",
-                    "drivers": [
-                        "Alberto_Ascari"
-                    ],
-                    "other_info": {
-                        "carNumber": "32",
-                        "laps": "21"
-                    }
-                },
-                "38": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Gordini",
-                    "drivers": [
-                        "Elie_Bayol"
-                    ],
-                    "other_info": {
-                        "carNumber": "38",
-                        "laps": "7"
-                    }
-                },
-                "16": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Maserati",
-                    "drivers": [
-                        "Jean_Behra"
-                    ],
-                    "other_info": {
-                        "carNumber": "16",
-                        "laps": "2"
-                    }
-                },
-                "4": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Mercedes",
-                    "drivers": [
-                        "Karl_Kling"
-                    ],
-                    "other_info": {
-                        "carNumber": "4",
-                        "laps": "2"
-                    }
-                },
-                "40": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Gordini",
-                    "drivers": [
-                        "Pablo_Birger"
-                    ],
-                    "other_info": {
-                        "carNumber": "40",
-                        "laps": "1"
-                    }
-                },
-                "34": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Lancia",
-                    "drivers": [
-                        "Luigi_Villoresi"
-                    ],
-                    "other_info": {
-                        "carNumber": "34",
-                        "laps": "1"
-                    }
-                },
-                "24": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Maserati",
-                    "drivers": [
-                        "Carlos_Menditeguy"
-                    ],
-                    "other_info": {
-                        "carNumber": "24",
-                        "laps": "1"
-                    }
-                }
-            },
-            "1st Qualifying": {
-                "10": {
-                    "position": "22",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Ferrari",
-                    "drivers": [
-                        "Umberto_Maglioli"
-                    ],
-                    "other_info": {
-                        "carNumber": "10",
-                        "gap": "+ 2:01.500",
-                        "interval": "+ 2:01.500",
-                        "speed": "115.9"
-                    }
-                }
-            },
+        "Argentine Grand Prix": {
             "Qualifying": {
                 "12": {
                     "position": "1",
@@ -641,12 +314,184 @@
                         "interval": "+ 10.300"
                     }
                 }
-            }
-        },
-        "Monaco-grand-prix": {
+            },
             "Race": {
-                "44": {
+                "2": {
                     "position": "1",
+                    "points": 9,
+                    "fastest_lap": "1:48.300",
+                    "team": "Mercedes",
+                    "drivers": [
+                        "Juan_Manuel Fangio"
+                    ],
+                    "other_info": {
+                        "carNumber": "2",
+                        "laps": "96",
+                        "speed": "124.75",
+                        "fastestLap": "1:48.300",
+                        "lap_of_fastestLap": "45",
+                        "grid": "3"
+                    }
+                },
+                "12": {
+                    "position": "2",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "Ferrari",
+                    "drivers": [
+                        "Jose_Froilan Gonzalez",
+                        "Nino_Farina",
+                        "Maurice_Trintignant"
+                    ],
+                    "other_info": {
+                        "carNumber": "12",
+                        "laps": "96",
+                        "gap": "+ 1:29.600",
+                        "interval": "+ 1:29.600",
+                        "speed": "123.728",
+                        "grid": "1"
+                    }
+                },
+                "10": {
+                    "position": "3",
+                    "points": 1.33,
+                    "fastest_lap": "",
+                    "team": "Ferrari",
+                    "drivers": [
+                        "Nino_Farina",
+                        "Umberto_Maglioli",
+                        "Maurice_Trintignant"
+                    ],
+                    "other_info": {
+                        "carNumber": "10",
+                        "laps": "94",
+                        "gap": "2 Laps",
+                        "interval": "2 Laps",
+                        "speed": "121.511",
+                        "grid": "5"
+                    }
+                },
+                "8": {
+                    "position": "4",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "Mercedes",
+                    "drivers": [
+                        "Hans_Herrmann",
+                        "Karl_Kling",
+                        "Stirling_Moss"
+                    ],
+                    "other_info": {
+                        "carNumber": "8",
+                        "laps": "94",
+                        "gap": "2 Laps",
+                        "interval": "+ 15.900",
+                        "speed": "121.334",
+                        "grid": "10"
+                    }
+                },
+                "18": {
+                    "position": "5",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "Maserati",
+                    "drivers": [
+                        "Roberto_Mieres"
+                    ],
+                    "other_info": {
+                        "carNumber": "18",
+                        "laps": "91",
+                        "gap": "5 Laps",
+                        "interval": "3 Laps",
+                        "speed": "117.336",
+                        "grid": "16"
+                    }
+                },
+                "28": {
+                    "position": "6",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Maserati",
+                    "drivers": [
+                        "Harry_Schell",
+                        "Jean_Behra"
+                    ],
+                    "other_info": {
+                        "carNumber": "28",
+                        "laps": "88",
+                        "gap": "8 Laps",
+                        "interval": "3 Laps",
+                        "speed": "112.437",
+                        "grid": "7"
+                    }
+                },
+                "22": {
+                    "position": "7",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Maserati",
+                    "drivers": [
+                        "Luigi_Musso",
+                        "Sergio_Mantovani",
+                        "Harry_Schell"
+                    ],
+                    "other_info": {
+                        "carNumber": "22",
+                        "laps": "83",
+                        "gap": "13 Laps",
+                        "interval": "5 Laps",
+                        "speed": "107.519",
+                        "grid": "18"
+                    }
+                },
+                "20": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Maserati",
+                    "drivers": [
+                        "Sergio_Mantovani",
+                        "Luigi_Musso",
+                        "Jean_Behra"
+                    ],
+                    "other_info": {
+                        "carNumber": "20",
+                        "laps": "55",
+                        "grid": "19"
+                    }
+                },
+                "26": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Maserati",
+                    "drivers": [
+                        "Clemar_Bucci",
+                        "Harry_Schell",
+                        "Carlos_Menditeguy"
+                    ],
+                    "other_info": {
+                        "carNumber": "26",
+                        "laps": "55",
+                        "grid": "20"
+                    }
+                },
+                "42": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Gordini",
+                    "drivers": [
+                        "Jesús_Ricardo Iglesias"
+                    ],
+                    "other_info": {
+                        "carNumber": "42",
+                        "laps": "38",
+                        "grid": "17"
+                    }
+                },
+                "14": {
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "Ferrari",
@@ -654,127 +499,28 @@
                         "Maurice_Trintignant"
                     ],
                     "other_info": {
-                        "carNumber": "44",
-                        "laps": "100",
-                        "speed": "105.914"
+                        "carNumber": "14",
+                        "laps": "36",
+                        "grid": "14"
                     }
                 },
-                "30": {
-                    "position": "2",
+                "36": {
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "Lancia",
                     "drivers": [
-                        "Eugenio_Castellotti"
-                    ],
-                    "other_info": {
-                        "carNumber": "30",
-                        "laps": "100",
-                        "gap": "+ 20.200",
-                        "interval": "+ 20.200",
-                        "speed": "105.714"
-                    }
-                },
-                "34": {
-                    "position": "3",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Maserati",
-                    "drivers": [
-                        "Jean_Behra",
-                        "Cesare_Perdisa"
-                    ],
-                    "other_info": {
-                        "carNumber": "34",
-                        "laps": "99",
-                        "gap": "1 Lap",
-                        "interval": "1 Lap",
-                        "speed": "104.148"
-                    }
-                },
-                "42": {
-                    "position": "4",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Ferrari",
-                    "drivers": [
-                        "Nino_Farina"
-                    ],
-                    "other_info": {
-                        "carNumber": "42",
-                        "laps": "99",
-                        "gap": "1 Lap",
-                        "interval": "+ 6.100",
-                        "speed": "104.089"
-                    }
-                },
-                "28": {
-                    "position": "5",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Lancia",
-                    "drivers": [
+                        "Eugenio_Castellotti",
                         "Luigi_Villoresi"
                     ],
                     "other_info": {
-                        "carNumber": "28",
-                        "laps": "99",
-                        "gap": "1 Lap",
-                        "interval": "+ 30.600",
-                        "speed": "103.794"
-                    }
-                },
-                "32": {
-                    "position": "6",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Lancia",
-                    "drivers": [
-                        "Louis_Chiron"
-                    ],
-                    "other_info": {
-                        "carNumber": "32",
-                        "laps": "95",
-                        "gap": "5 Laps",
-                        "interval": "4 Laps",
-                        "speed": "100.156"
-                    }
-                },
-                "10": {
-                    "position": "7",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Gordini",
-                    "drivers": [
-                        "Jacques_Pollet"
-                    ],
-                    "other_info": {
-                        "carNumber": "10",
-                        "laps": "91",
-                        "gap": "9 Laps",
-                        "interval": "4 Laps",
-                        "speed": "95.484"
-                    }
-                },
-                "48": {
-                    "position": "8",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Ferrari",
-                    "drivers": [
-                        "Piero_Taruffi",
-                        "Paul_Frere"
-                    ],
-                    "other_info": {
-                        "carNumber": "48",
-                        "laps": "86",
-                        "gap": "14 Laps",
-                        "interval": "5 Laps",
-                        "speed": "91.018"
+                        "carNumber": "36",
+                        "laps": "35",
+                        "grid": "12"
                     }
                 },
                 "6": {
-                    "position": "9",
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "Mercedes",
@@ -783,27 +529,25 @@
                     ],
                     "other_info": {
                         "carNumber": "6",
-                        "laps": "81",
-                        "gap": "19 Laps",
-                        "interval": "5 Laps",
-                        "speed": "85.69"
+                        "laps": "29",
+                        "grid": "8"
                     }
                 },
-                "40": {
+                "30": {
                     "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "Maserati",
                     "drivers": [
-                        "Cesare_Perdisa",
-                        "Jean_Behra"
+                        "Alberto_Uria"
                     ],
                     "other_info": {
-                        "carNumber": "40",
-                        "laps": "86"
+                        "carNumber": "30",
+                        "laps": "22",
+                        "grid": "21"
                     }
                 },
-                "26": {
+                "32": {
                     "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
@@ -812,37 +556,12 @@
                         "Alberto_Ascari"
                     ],
                     "other_info": {
-                        "carNumber": "26",
-                        "laps": "80"
+                        "carNumber": "32",
+                        "laps": "21",
+                        "grid": "2"
                     }
                 },
-                "46": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Ferrari",
-                    "drivers": [
-                        "Harry_Schell"
-                    ],
-                    "other_info": {
-                        "carNumber": "46",
-                        "laps": "68"
-                    }
-                },
-                "36": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Maserati",
-                    "drivers": [
-                        "Roberto_Mieres"
-                    ],
-                    "other_info": {
-                        "carNumber": "36",
-                        "laps": "64"
-                    }
-                },
-                "12": {
+                "38": {
                     "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
@@ -851,36 +570,23 @@
                         "Elie_Bayol"
                     ],
                     "other_info": {
-                        "carNumber": "12",
-                        "laps": "63"
+                        "carNumber": "38",
+                        "laps": "7",
+                        "grid": "15"
                     }
                 },
-                "2": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "1:42.400",
-                    "team": "Mercedes",
-                    "drivers": [
-                        "Juan_Manuel Fangio"
-                    ],
-                    "other_info": {
-                        "carNumber": "2",
-                        "laps": "49",
-                        "fastestLap": "1:42.400",
-                        "lap_of_fastestLap": "27"
-                    }
-                },
-                "8": {
+                "16": {
                     "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
-                    "team": "Gordini",
+                    "team": "Maserati",
                     "drivers": [
-                        "Robert_Manzon"
+                        "Jean_Behra"
                     ],
                     "other_info": {
-                        "carNumber": "8",
-                        "laps": "38"
+                        "carNumber": "16",
+                        "laps": "2",
+                        "grid": "4"
                     }
                 },
                 "4": {
@@ -889,85 +595,76 @@
                     "fastest_lap": "",
                     "team": "Mercedes",
                     "drivers": [
-                        "Andre_Simon"
+                        "Karl_Kling"
                     ],
                     "other_info": {
                         "carNumber": "4",
-                        "laps": "24"
+                        "laps": "2",
+                        "grid": "6"
                     }
                 },
-                "18": {
+                "40": {
                     "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
-                    "team": "vandervell_products_ltd",
+                    "team": "Gordini",
                     "drivers": [
-                        "Mike_Hawthorn"
+                        "Pablo_Birger"
                     ],
                     "other_info": {
-                        "carNumber": "18",
-                        "laps": "22"
+                        "carNumber": "40",
+                        "laps": "1",
+                        "grid": "9"
                     }
                 },
-                "14": {
+                "34": {
                     "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
-                    "team": "ecurie_rosier",
+                    "team": "Lancia",
                     "drivers": [
-                        "Louis_Rosier"
+                        "Luigi_Villoresi"
                     ],
                     "other_info": {
-                        "carNumber": "14",
-                        "laps": "8"
+                        "carNumber": "34",
+                        "laps": "1",
+                        "grid": "11"
                     }
                 },
-                "38": {
+                "24": {
                     "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "Maserati",
                     "drivers": [
-                        "Luigi_Musso"
+                        "Carlos_Menditeguy"
                     ],
                     "other_info": {
-                        "carNumber": "38",
-                        "laps": "7"
+                        "carNumber": "24",
+                        "laps": "1",
+                        "grid": "13"
                     }
                 }
             },
             "1st Qualifying": {
-                "22": {
-                    "position": "21",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "stirling_moss_ltd",
-                    "drivers": [
-                        "Lance_Macklin"
-                    ],
-                    "other_info": {
-                        "carNumber": "22",
-                        "gap": "+ 1:49.400",
-                        "interval": "+ 1:49.400",
-                        "speed": "103.5"
-                    }
-                },
-                "24": {
+                "10": {
                     "position": "22",
                     "points": 0,
                     "fastest_lap": "",
-                    "team": "e_n_whiteaway",
+                    "team": "Ferrari",
                     "drivers": [
-                        "Ted_Whiteaway"
+                        "Umberto_Maglioli"
                     ],
                     "other_info": {
-                        "carNumber": "24",
-                        "gap": "+ 1:57.200",
-                        "interval": "+ 7.800",
-                        "speed": "96.6"
+                        "carNumber": "10",
+                        "gap": "+ 2:01.500",
+                        "interval": "+ 2:01.500",
+                        "speed": "115.9"
                     }
                 }
-            },
+            }
+        },
+        "Monaco Grand Prix": {
             "Qualifying": {
                 "2": {
                     "position": "1",
@@ -1290,9 +987,353 @@
                         "speed": "96.604"
                     }
                 }
+            },
+            "Race": {
+                "44": {
+                    "position": "1",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Ferrari",
+                    "drivers": [
+                        "Maurice_Trintignant"
+                    ],
+                    "other_info": {
+                        "carNumber": "44",
+                        "laps": "100",
+                        "speed": "105.914",
+                        "grid": "9"
+                    }
+                },
+                "30": {
+                    "position": "2",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Lancia",
+                    "drivers": [
+                        "Eugenio_Castellotti"
+                    ],
+                    "other_info": {
+                        "carNumber": "30",
+                        "laps": "100",
+                        "gap": "+ 20.200",
+                        "interval": "+ 20.200",
+                        "speed": "105.714",
+                        "grid": "4"
+                    }
+                },
+                "34": {
+                    "position": "3",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "Maserati",
+                    "drivers": [
+                        "Jean_Behra",
+                        "Cesare_Perdisa"
+                    ],
+                    "other_info": {
+                        "carNumber": "34",
+                        "laps": "99",
+                        "gap": "1 Lap",
+                        "interval": "1 Lap",
+                        "speed": "104.148",
+                        "grid": "5"
+                    }
+                },
+                "42": {
+                    "position": "4",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "Ferrari",
+                    "drivers": [
+                        "Nino_Farina"
+                    ],
+                    "other_info": {
+                        "carNumber": "42",
+                        "laps": "99",
+                        "gap": "1 Lap",
+                        "interval": "+ 6.100",
+                        "speed": "104.089",
+                        "grid": "14"
+                    }
+                },
+                "28": {
+                    "position": "5",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "Lancia",
+                    "drivers": [
+                        "Luigi_Villoresi"
+                    ],
+                    "other_info": {
+                        "carNumber": "28",
+                        "laps": "99",
+                        "gap": "1 Lap",
+                        "interval": "+ 30.600",
+                        "speed": "103.794",
+                        "grid": "7"
+                    }
+                },
+                "32": {
+                    "position": "6",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Lancia",
+                    "drivers": [
+                        "Louis_Chiron"
+                    ],
+                    "other_info": {
+                        "carNumber": "32",
+                        "laps": "95",
+                        "gap": "5 Laps",
+                        "interval": "4 Laps",
+                        "speed": "100.156",
+                        "grid": "19"
+                    }
+                },
+                "10": {
+                    "position": "7",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Gordini",
+                    "drivers": [
+                        "Jacques_Pollet"
+                    ],
+                    "other_info": {
+                        "carNumber": "10",
+                        "laps": "91",
+                        "gap": "9 Laps",
+                        "interval": "4 Laps",
+                        "speed": "95.484",
+                        "grid": "20"
+                    }
+                },
+                "48": {
+                    "position": "8",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Ferrari",
+                    "drivers": [
+                        "Piero_Taruffi",
+                        "Paul_Frere"
+                    ],
+                    "other_info": {
+                        "carNumber": "48",
+                        "laps": "86",
+                        "gap": "14 Laps",
+                        "interval": "5 Laps",
+                        "speed": "91.018",
+                        "grid": "15"
+                    }
+                },
+                "6": {
+                    "position": "9",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Mercedes",
+                    "drivers": [
+                        "Stirling_Moss"
+                    ],
+                    "other_info": {
+                        "carNumber": "6",
+                        "laps": "81",
+                        "gap": "19 Laps",
+                        "interval": "5 Laps",
+                        "speed": "85.69",
+                        "grid": "3"
+                    }
+                },
+                "40": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Maserati",
+                    "drivers": [
+                        "Cesare_Perdisa",
+                        "Jean_Behra"
+                    ],
+                    "other_info": {
+                        "carNumber": "40",
+                        "laps": "86",
+                        "grid": "11"
+                    }
+                },
+                "26": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Lancia",
+                    "drivers": [
+                        "Alberto_Ascari"
+                    ],
+                    "other_info": {
+                        "carNumber": "26",
+                        "laps": "80",
+                        "grid": "2"
+                    }
+                },
+                "46": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Ferrari",
+                    "drivers": [
+                        "Harry_Schell"
+                    ],
+                    "other_info": {
+                        "carNumber": "46",
+                        "laps": "68",
+                        "grid": "18"
+                    }
+                },
+                "36": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Maserati",
+                    "drivers": [
+                        "Roberto_Mieres"
+                    ],
+                    "other_info": {
+                        "carNumber": "36",
+                        "laps": "64",
+                        "grid": "6"
+                    }
+                },
+                "12": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Gordini",
+                    "drivers": [
+                        "Elie_Bayol"
+                    ],
+                    "other_info": {
+                        "carNumber": "12",
+                        "laps": "63",
+                        "grid": "16"
+                    }
+                },
+                "2": {
+                    "position": "DNF",
+                    "points": 1,
+                    "fastest_lap": "1:42.400",
+                    "team": "Mercedes",
+                    "drivers": [
+                        "Juan_Manuel Fangio"
+                    ],
+                    "other_info": {
+                        "carNumber": "2",
+                        "laps": "49",
+                        "fastestLap": "1:42.400",
+                        "lap_of_fastestLap": "27",
+                        "grid": "1"
+                    }
+                },
+                "8": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Gordini",
+                    "drivers": [
+                        "Robert_Manzon"
+                    ],
+                    "other_info": {
+                        "carNumber": "8",
+                        "laps": "38",
+                        "grid": "13"
+                    }
+                },
+                "4": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Mercedes",
+                    "drivers": [
+                        "Andre_Simon"
+                    ],
+                    "other_info": {
+                        "carNumber": "4",
+                        "laps": "24",
+                        "grid": "10"
+                    }
+                },
+                "18": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "vandervell_products_ltd",
+                    "drivers": [
+                        "Mike_Hawthorn"
+                    ],
+                    "other_info": {
+                        "carNumber": "18",
+                        "laps": "22",
+                        "grid": "12"
+                    }
+                },
+                "14": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "ecurie_rosier",
+                    "drivers": [
+                        "Louis_Rosier"
+                    ],
+                    "other_info": {
+                        "carNumber": "14",
+                        "laps": "8",
+                        "grid": "17"
+                    }
+                },
+                "38": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Maserati",
+                    "drivers": [
+                        "Luigi_Musso"
+                    ],
+                    "other_info": {
+                        "carNumber": "38",
+                        "laps": "7",
+                        "grid": "8"
+                    }
+                }
+            },
+            "1st Qualifying": {
+                "22": {
+                    "position": "21",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "stirling_moss_ltd",
+                    "drivers": [
+                        "Lance_Macklin"
+                    ],
+                    "other_info": {
+                        "carNumber": "22",
+                        "gap": "+ 1:49.400",
+                        "interval": "+ 1:49.400",
+                        "speed": "103.5"
+                    }
+                },
+                "24": {
+                    "position": "22",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "e_n_whiteaway",
+                    "drivers": [
+                        "Ted_Whiteaway"
+                    ],
+                    "other_info": {
+                        "carNumber": "24",
+                        "gap": "+ 1:57.200",
+                        "interval": "+ 7.800",
+                        "speed": "96.6"
+                    }
+                }
             }
         },
-        "Indianapolis-500": {
+        "Indianapolis 500": {
             "Qualifying": {
                 "23": {
                     "position": "1",
@@ -1758,7 +1799,7 @@
             "Race": {
                 "6": {
                     "position": "1",
-                    "points": 0,
+                    "points": 8,
                     "fastest_lap": "",
                     "team": "Kurtis_Kraft_Offenhauser",
                     "drivers": [
@@ -1767,12 +1808,13 @@
                     "other_info": {
                         "carNumber": "6",
                         "laps": "200",
-                        "speed": "206.33"
+                        "speed": "206.33",
+                        "grid": "14"
                     }
                 },
                 "10": {
                     "position": "2",
-                    "points": 0,
+                    "points": 3,
                     "fastest_lap": "",
                     "team": "Kurtis_Kraft_Offenhauser",
                     "drivers": [
@@ -1784,12 +1826,13 @@
                         "laps": "200",
                         "gap": "+ 2:43.560",
                         "interval": "+ 2:43.560",
-                        "speed": "203.96"
+                        "speed": "203.96",
+                        "grid": "2"
                     }
                 },
                 "15": {
                     "position": "3",
-                    "points": 0,
+                    "points": 4,
                     "fastest_lap": "",
                     "team": "pat_clancy",
                     "drivers": [
@@ -1800,12 +1843,13 @@
                         "laps": "200",
                         "gap": "+ 3:32.360",
                         "interval": "+ 48.800",
-                        "speed": "203.26"
+                        "speed": "203.26",
+                        "grid": "10"
                     }
                 },
                 "44": {
                     "position": "4",
-                    "points": 0,
+                    "points": 3,
                     "fastest_lap": "",
                     "team": "peter_schmidt",
                     "drivers": [
@@ -1816,12 +1860,13 @@
                         "laps": "200",
                         "gap": "+ 3:38.910",
                         "interval": "+ 6.550",
-                        "speed": "203.17"
+                        "speed": "203.17",
+                        "grid": "33"
                     }
                 },
                 "77": {
                     "position": "5",
-                    "points": 0,
+                    "points": 1,
                     "fastest_lap": "",
                     "team": "Kurtis_Kraft_Offenhauser",
                     "drivers": [
@@ -1833,7 +1878,8 @@
                         "laps": "200",
                         "gap": "+ 5:17.170",
                         "interval": "+ 1:38.260",
-                        "speed": "201.77"
+                        "speed": "201.77",
+                        "grid": "7"
                     }
                 },
                 "19": {
@@ -1849,7 +1895,8 @@
                         "laps": "200",
                         "gap": "+ 5:57.940",
                         "interval": "+ 40.770",
-                        "speed": "201.2"
+                        "speed": "201.2",
+                        "grid": "8"
                     }
                 },
                 "71": {
@@ -1865,7 +1912,8 @@
                         "laps": "200",
                         "gap": "+ 6:24.240",
                         "interval": "+ 26.300",
-                        "speed": "200.84"
+                        "speed": "200.84",
+                        "grid": "16"
                     }
                 },
                 "29": {
@@ -1881,7 +1929,8 @@
                         "laps": "200",
                         "gap": "+ 6:41.600",
                         "interval": "+ 17.360",
-                        "speed": "200.6"
+                        "speed": "200.6",
+                        "grid": "19"
                     }
                 },
                 "48": {
@@ -1897,7 +1946,8 @@
                         "laps": "200",
                         "gap": "+ 7:09.810",
                         "interval": "+ 28.210",
-                        "speed": "200.2"
+                        "speed": "200.2",
+                        "grid": "17"
                     }
                 },
                 "89": {
@@ -1913,7 +1963,8 @@
                         "laps": "200",
                         "gap": "+ 7:46.540",
                         "interval": "+ 36.730",
-                        "speed": "199.7"
+                        "speed": "199.7",
+                        "grid": "12"
                     }
                 },
                 "98": {
@@ -1928,7 +1979,8 @@
                         "carNumber": "98",
                         "laps": "197",
                         "gap": "3 Laps",
-                        "interval": "3 Laps"
+                        "interval": "3 Laps",
+                        "grid": "18"
                     }
                 },
                 "41": {
@@ -1943,7 +1995,8 @@
                         "carNumber": "41",
                         "laps": "196",
                         "gap": "4 Laps",
-                        "interval": "1 Lap"
+                        "interval": "1 Lap",
+                        "grid": "25"
                     }
                 },
                 "83": {
@@ -1957,7 +2010,8 @@
                     "other_info": {
                         "carNumber": "83",
                         "laps": "196",
-                        "gap": "4 Laps"
+                        "gap": "4 Laps",
+                        "grid": "32"
                     }
                 },
                 "33": {
@@ -1972,7 +2026,8 @@
                         "carNumber": "33",
                         "laps": "191",
                         "gap": "9 Laps",
-                        "interval": "5 Laps"
+                        "interval": "5 Laps",
+                        "grid": "20"
                     }
                 },
                 "12": {
@@ -1985,7 +2040,8 @@
                     ],
                     "other_info": {
                         "carNumber": "12",
-                        "laps": "178"
+                        "laps": "178",
+                        "grid": "21"
                     }
                 },
                 "22": {
@@ -1998,7 +2054,8 @@
                     ],
                     "other_info": {
                         "carNumber": "22",
-                        "laps": "170"
+                        "laps": "170",
+                        "grid": "9"
                     }
                 },
                 "99": {
@@ -2011,7 +2068,8 @@
                     ],
                     "other_info": {
                         "carNumber": "99",
-                        "laps": "168"
+                        "laps": "168",
+                        "grid": "24"
                     }
                 },
                 "81": {
@@ -2024,7 +2082,8 @@
                     ],
                     "other_info": {
                         "carNumber": "81",
-                        "laps": "142"
+                        "laps": "142",
+                        "grid": "31"
                     }
                 },
                 "8": {
@@ -2037,7 +2096,8 @@
                     ],
                     "other_info": {
                         "carNumber": "8",
-                        "laps": "134"
+                        "laps": "134",
+                        "grid": "6"
                     }
                 },
                 "31": {
@@ -2050,7 +2110,8 @@
                     ],
                     "other_info": {
                         "carNumber": "31",
-                        "laps": "120"
+                        "laps": "120",
+                        "grid": "28"
                     }
                 },
                 "16": {
@@ -2063,7 +2124,8 @@
                     ],
                     "other_info": {
                         "carNumber": "16",
-                        "laps": "119"
+                        "laps": "119",
+                        "grid": "27"
                     }
                 },
                 "37": {
@@ -2076,7 +2138,8 @@
                     ],
                     "other_info": {
                         "carNumber": "37",
-                        "laps": "112"
+                        "laps": "112",
+                        "grid": "13"
                     }
                 },
                 "49": {
@@ -2085,11 +2148,12 @@
                     "fastest_lap": "",
                     "team": "Kurtis_Kraft_Offenhauser",
                     "drivers": [
-                        "Kurtis_Kraft_Offenhauser"
+                        "Ray_Crawford"
                     ],
                     "other_info": {
                         "carNumber": "49",
-                        "laps": "111"
+                        "laps": "111",
+                        "grid": "23"
                     }
                 },
                 "1": {
@@ -2102,12 +2166,13 @@
                     ],
                     "other_info": {
                         "carNumber": "1",
-                        "laps": "90"
+                        "laps": "90",
+                        "grid": "11"
                     }
                 },
                 "4": {
                     "position": "DNF",
-                    "points": 0,
+                    "points": 1,
                     "fastest_lap": "1:03.670",
                     "team": "lindsey_hopkins",
                     "drivers": [
@@ -2117,7 +2182,8 @@
                         "carNumber": "4",
                         "laps": "56",
                         "fastestLap": "1:03.670",
-                        "lap_of_fastestLap": "27"
+                        "lap_of_fastestLap": "27",
+                        "grid": "5"
                     }
                 },
                 "3": {
@@ -2130,7 +2196,8 @@
                     ],
                     "other_info": {
                         "carNumber": "3",
-                        "laps": "54"
+                        "laps": "54",
+                        "grid": "3"
                     }
                 },
                 "42": {
@@ -2143,7 +2210,8 @@
                     ],
                     "other_info": {
                         "carNumber": "42",
-                        "laps": "54"
+                        "laps": "54",
+                        "grid": "22"
                     }
                 },
                 "39": {
@@ -2156,7 +2224,8 @@
                     ],
                     "other_info": {
                         "carNumber": "39",
-                        "laps": "53"
+                        "laps": "53",
+                        "grid": "26"
                     }
                 },
                 "68": {
@@ -2169,7 +2238,8 @@
                     ],
                     "other_info": {
                         "carNumber": "68",
-                        "laps": "53"
+                        "laps": "53",
+                        "grid": "29"
                     }
                 },
                 "27": {
@@ -2182,7 +2252,8 @@
                     ],
                     "other_info": {
                         "carNumber": "27",
-                        "laps": "53"
+                        "laps": "53",
+                        "grid": "30"
                     }
                 },
                 "23": {
@@ -2195,7 +2266,8 @@
                     ],
                     "other_info": {
                         "carNumber": "23",
-                        "laps": "40"
+                        "laps": "40",
+                        "grid": "1"
                     }
                 },
                 "14": {
@@ -2208,7 +2280,8 @@
                     ],
                     "other_info": {
                         "carNumber": "14",
-                        "laps": "39"
+                        "laps": "39",
+                        "grid": "4"
                     }
                 },
                 "5": {
@@ -2221,245 +2294,13 @@
                     ],
                     "other_info": {
                         "carNumber": "5",
-                        "laps": "10"
+                        "laps": "10",
+                        "grid": "15"
                     }
                 }
             }
         },
-        "Belgian-grand-prix": {
-            "Race": {
-                "10": {
-                    "position": "1",
-                    "points": 0,
-                    "fastest_lap": "4:20.600",
-                    "team": "Mercedes",
-                    "drivers": [
-                        "Juan_Manuel Fangio"
-                    ],
-                    "other_info": {
-                        "carNumber": "10",
-                        "laps": "36",
-                        "speed": "191.237",
-                        "fastestLap": "4:20.600",
-                        "lap_of_fastestLap": "18"
-                    }
-                },
-                "14": {
-                    "position": "2",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Mercedes",
-                    "drivers": [
-                        "Stirling_Moss"
-                    ],
-                    "other_info": {
-                        "carNumber": "14",
-                        "laps": "36",
-                        "gap": "+ 8.100",
-                        "interval": "+ 8.100",
-                        "speed": "191.075"
-                    }
-                },
-                "2": {
-                    "position": "3",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Ferrari",
-                    "drivers": [
-                        "Nino_Farina"
-                    ],
-                    "other_info": {
-                        "carNumber": "2",
-                        "laps": "36",
-                        "gap": "+ 1:40.500",
-                        "interval": "+ 1:32.400",
-                        "speed": "189.249"
-                    }
-                },
-                "6": {
-                    "position": "4",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Ferrari",
-                    "drivers": [
-                        "Paul_Frere"
-                    ],
-                    "other_info": {
-                        "carNumber": "6",
-                        "laps": "36",
-                        "gap": "+ 3:25.500",
-                        "interval": "+ 1:45.000",
-                        "speed": "187.216"
-                    }
-                },
-                "24": {
-                    "position": "5",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Maserati",
-                    "drivers": [
-                        "Roberto_Mieres",
-                        "Jean_Behra"
-                    ],
-                    "other_info": {
-                        "carNumber": "24",
-                        "laps": "35",
-                        "gap": "1 Lap",
-                        "interval": "1 Lap"
-                    }
-                },
-                "22": {
-                    "position": "7",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Maserati",
-                    "drivers": [
-                        "Luigi_Musso"
-                    ],
-                    "other_info": {
-                        "carNumber": "22",
-                        "laps": "34",
-                        "gap": "2 Laps",
-                        "interval": "1 Lap"
-                    }
-                },
-                "26": {
-                    "position": "8",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Maserati",
-                    "drivers": [
-                        "Cesare_Perdisa"
-                    ],
-                    "other_info": {
-                        "carNumber": "26",
-                        "laps": "33",
-                        "gap": "3 Laps",
-                        "interval": "1 Lap"
-                    }
-                },
-                "28": {
-                    "position": "9",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "ecurie_rosier",
-                    "drivers": [
-                        "Louis_Rosier"
-                    ],
-                    "other_info": {
-                        "carNumber": "28",
-                        "laps": "33",
-                        "gap": "3 Laps"
-                    }
-                },
-                "4": {
-                    "position": "DNS",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Ferrari",
-                    "drivers": [
-                        "Maurice_Trintignant"
-                    ],
-                    "other_info": {
-                        "carNumber": "4",
-                        "laps": "35",
-                        "gap": "1 Lap"
-                    }
-                },
-                "12": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Mercedes",
-                    "drivers": [
-                        "Karl_Kling"
-                    ],
-                    "other_info": {
-                        "carNumber": "12",
-                        "laps": "21"
-                    }
-                },
-                "30": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Lancia",
-                    "drivers": [
-                        "Eugenio_Castellotti"
-                    ],
-                    "other_info": {
-                        "carNumber": "30",
-                        "laps": "16"
-                    }
-                },
-                "40": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "vandervell_products_ltd",
-                    "drivers": [
-                        "Mike_Hawthorn"
-                    ],
-                    "other_info": {
-                        "carNumber": "40",
-                        "laps": "8"
-                    }
-                },
-                "20": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Maserati",
-                    "drivers": [
-                        "Jean_Behra"
-                    ],
-                    "other_info": {
-                        "carNumber": "20",
-                        "laps": "3"
-                    }
-                },
-                "8": {
-                    "position": "DNS",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Ferrari",
-                    "drivers": [
-                        "Piero_Taruffi"
-                    ],
-                    "other_info": {
-                        "carNumber": "8"
-                    }
-                },
-                "38": {
-                    "position": "DNS",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "stirling_moss_ltd",
-                    "drivers": [
-                        "Johnny_Claes"
-                    ],
-                    "other_info": {
-                        "carNumber": "38"
-                    }
-                }
-            },
-            "1st Qualifying": {
-                "4": {
-                    "position": "9",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Ferrari",
-                    "drivers": [
-                        "Harry_Schell"
-                    ],
-                    "other_info": {
-                        "carNumber": "4",
-                        "gap": "+ 4:31.000",
-                        "interval": "+ 4:31.000",
-                        "speed": "187.6"
-                    }
-                }
-            },
+        "Belgian Grand Prix": {
             "Qualifying": {
                 "30": {
                     "position": "1",
@@ -2654,9 +2495,255 @@
                         "speed": "187.571"
                     }
                 }
+            },
+            "Race": {
+                "10": {
+                    "position": "1",
+                    "points": 9,
+                    "fastest_lap": "4:20.600",
+                    "team": "Mercedes",
+                    "drivers": [
+                        "Juan_Manuel Fangio"
+                    ],
+                    "other_info": {
+                        "carNumber": "10",
+                        "laps": "36",
+                        "speed": "191.237",
+                        "fastestLap": "4:20.600",
+                        "lap_of_fastestLap": "18",
+                        "grid": "2"
+                    }
+                },
+                "14": {
+                    "position": "2",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Mercedes",
+                    "drivers": [
+                        "Stirling_Moss"
+                    ],
+                    "other_info": {
+                        "carNumber": "14",
+                        "laps": "36",
+                        "gap": "+ 8.100",
+                        "interval": "+ 8.100",
+                        "speed": "191.075",
+                        "grid": "3"
+                    }
+                },
+                "2": {
+                    "position": "3",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "Ferrari",
+                    "drivers": [
+                        "Nino_Farina"
+                    ],
+                    "other_info": {
+                        "carNumber": "2",
+                        "laps": "36",
+                        "gap": "+ 1:40.500",
+                        "interval": "+ 1:32.400",
+                        "speed": "189.249",
+                        "grid": "4"
+                    }
+                },
+                "6": {
+                    "position": "4",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "Ferrari",
+                    "drivers": [
+                        "Paul_Frere"
+                    ],
+                    "other_info": {
+                        "carNumber": "6",
+                        "laps": "36",
+                        "gap": "+ 3:25.500",
+                        "interval": "+ 1:45.000",
+                        "speed": "187.216",
+                        "grid": "8"
+                    }
+                },
+                "24": {
+                    "position": "5",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "Maserati",
+                    "drivers": [
+                        "Roberto_Mieres",
+                        "Jean_Behra"
+                    ],
+                    "other_info": {
+                        "carNumber": "24",
+                        "laps": "35",
+                        "gap": "1 Lap",
+                        "interval": "1 Lap",
+                        "grid": "13"
+                    }
+                },
+                "22": {
+                    "position": "7",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Maserati",
+                    "drivers": [
+                        "Luigi_Musso"
+                    ],
+                    "other_info": {
+                        "carNumber": "22",
+                        "laps": "34",
+                        "gap": "2 Laps",
+                        "interval": "1 Lap",
+                        "grid": "7"
+                    }
+                },
+                "26": {
+                    "position": "8",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Maserati",
+                    "drivers": [
+                        "Cesare_Perdisa"
+                    ],
+                    "other_info": {
+                        "carNumber": "26",
+                        "laps": "33",
+                        "gap": "3 Laps",
+                        "interval": "1 Lap",
+                        "grid": "11"
+                    }
+                },
+                "28": {
+                    "position": "9",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "ecurie_rosier",
+                    "drivers": [
+                        "Louis_Rosier"
+                    ],
+                    "other_info": {
+                        "carNumber": "28",
+                        "laps": "33",
+                        "gap": "3 Laps",
+                        "grid": "12"
+                    }
+                },
+                "4": {
+                    "position": "6",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Ferrari",
+                    "drivers": [
+                        "Maurice_Trintignant"
+                    ],
+                    "other_info": {
+                        "carNumber": "4",
+                        "laps": "35",
+                        "gap": "1 Lap",
+                        "grid": "10"
+                    }
+                },
+                "12": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Mercedes",
+                    "drivers": [
+                        "Karl_Kling"
+                    ],
+                    "other_info": {
+                        "carNumber": "12",
+                        "laps": "21",
+                        "grid": "6"
+                    }
+                },
+                "30": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Lancia",
+                    "drivers": [
+                        "Eugenio_Castellotti"
+                    ],
+                    "other_info": {
+                        "carNumber": "30",
+                        "laps": "16",
+                        "grid": "1"
+                    }
+                },
+                "40": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "vandervell_products_ltd",
+                    "drivers": [
+                        "Mike_Hawthorn"
+                    ],
+                    "other_info": {
+                        "carNumber": "40",
+                        "laps": "8",
+                        "grid": "9"
+                    }
+                },
+                "20": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Maserati",
+                    "drivers": [
+                        "Jean_Behra"
+                    ],
+                    "other_info": {
+                        "carNumber": "20",
+                        "laps": "3",
+                        "grid": "5"
+                    }
+                },
+                "8": {
+                    "position": "DNS",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Ferrari",
+                    "drivers": [
+                        "Piero_Taruffi"
+                    ],
+                    "other_info": {
+                        "carNumber": "8"
+                    }
+                },
+                "38": {
+                    "position": "DNS",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "stirling_moss_ltd",
+                    "drivers": [
+                        "Johnny_Claes"
+                    ],
+                    "other_info": {
+                        "carNumber": "38"
+                    }
+                }
+            },
+            "1st Qualifying": {
+                "4": {
+                    "position": "9",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Ferrari",
+                    "drivers": [
+                        "Harry_Schell"
+                    ],
+                    "other_info": {
+                        "carNumber": "4",
+                        "gap": "+ 4:31.000",
+                        "interval": "+ 4:31.000",
+                        "speed": "187.6"
+                    }
+                }
             }
         },
-        "Dutch-grand-prix": {
+        "Dutch Grand Prix": {
             "Qualifying": {
                 "8": {
                     "position": "1",
@@ -2883,7 +2970,7 @@
             "Race": {
                 "8": {
                     "position": "1",
-                    "points": 0,
+                    "points": 8,
                     "fastest_lap": "",
                     "team": "Mercedes",
                     "drivers": [
@@ -2891,12 +2978,13 @@
                     ],
                     "other_info": {
                         "carNumber": "8",
-                        "laps": "100"
+                        "laps": "100",
+                        "grid": "1"
                     }
                 },
                 "10": {
                     "position": "2",
-                    "points": 0,
+                    "points": 6,
                     "fastest_lap": "",
                     "team": "Mercedes",
                     "drivers": [
@@ -2906,12 +2994,13 @@
                         "carNumber": "10",
                         "laps": "100",
                         "gap": "+ 0.300",
-                        "interval": "+ 0.300"
+                        "interval": "+ 0.300",
+                        "grid": "2"
                     }
                 },
                 "18": {
                     "position": "3",
-                    "points": 0,
+                    "points": 4,
                     "fastest_lap": "",
                     "team": "Maserati",
                     "drivers": [
@@ -2921,12 +3010,13 @@
                         "carNumber": "18",
                         "laps": "100",
                         "gap": "+ 57.100",
-                        "interval": "+ 56.800"
+                        "interval": "+ 56.800",
+                        "grid": "4"
                     }
                 },
                 "16": {
                     "position": "4",
-                    "points": 0,
+                    "points": 4,
                     "fastest_lap": "1:40.900",
                     "team": "Maserati",
                     "drivers": [
@@ -2938,12 +3028,13 @@
                         "gap": "1 Lap",
                         "interval": "1 Lap",
                         "fastestLap": "1:40.900",
-                        "lap_of_fastestLap": "3"
+                        "lap_of_fastestLap": "3",
+                        "grid": "7"
                     }
                 },
                 "6": {
                     "position": "5",
-                    "points": 0,
+                    "points": 2,
                     "fastest_lap": "",
                     "team": "Ferrari",
                     "drivers": [
@@ -2953,7 +3044,8 @@
                         "carNumber": "6",
                         "laps": "97",
                         "gap": "3 Laps",
-                        "interval": "2 Laps"
+                        "interval": "2 Laps",
+                        "grid": "9"
                     }
                 },
                 "14": {
@@ -2967,7 +3059,8 @@
                     "other_info": {
                         "carNumber": "14",
                         "laps": "97",
-                        "gap": "3 Laps"
+                        "gap": "3 Laps",
+                        "grid": "6"
                     }
                 },
                 "2": {
@@ -2982,7 +3075,8 @@
                         "carNumber": "2",
                         "laps": "95",
                         "gap": "5 Laps",
-                        "interval": "2 Laps"
+                        "interval": "2 Laps",
+                        "grid": "5"
                     }
                 },
                 "22": {
@@ -2997,7 +3091,8 @@
                         "carNumber": "22",
                         "laps": "92",
                         "gap": "8 Laps",
-                        "interval": "3 Laps"
+                        "interval": "3 Laps",
+                        "grid": "14"
                     }
                 },
                 "28": {
@@ -3011,7 +3106,8 @@
                     "other_info": {
                         "carNumber": "28",
                         "laps": "92",
-                        "gap": "8 Laps"
+                        "gap": "8 Laps",
+                        "grid": "13"
                     }
                 },
                 "24": {
@@ -3026,7 +3122,8 @@
                         "carNumber": "24",
                         "laps": "90",
                         "gap": "10 Laps",
-                        "interval": "2 Laps"
+                        "interval": "2 Laps",
+                        "grid": "12"
                     }
                 },
                 "30": {
@@ -3041,7 +3138,8 @@
                         "carNumber": "30",
                         "laps": "88",
                         "gap": "12 Laps",
-                        "interval": "2 Laps"
+                        "interval": "2 Laps",
+                        "grid": "16"
                     }
                 },
                 "4": {
@@ -3054,7 +3152,8 @@
                     ],
                     "other_info": {
                         "carNumber": "4",
-                        "laps": "65"
+                        "laps": "65",
+                        "grid": "8"
                     }
                 },
                 "20": {
@@ -3067,7 +3166,8 @@
                     ],
                     "other_info": {
                         "carNumber": "20",
-                        "laps": "44"
+                        "laps": "44",
+                        "grid": "11"
                     }
                 },
                 "32": {
@@ -3080,7 +3180,8 @@
                     ],
                     "other_info": {
                         "carNumber": "32",
-                        "laps": "23"
+                        "laps": "23",
+                        "grid": "15"
                     }
                 },
                 "12": {
@@ -3093,7 +3194,8 @@
                     ],
                     "other_info": {
                         "carNumber": "12",
-                        "laps": "21"
+                        "laps": "21",
+                        "grid": "3"
                     }
                 },
                 "26": {
@@ -3106,12 +3208,13 @@
                     ],
                     "other_info": {
                         "carNumber": "26",
-                        "laps": "2"
+                        "laps": "2",
+                        "grid": "10"
                     }
                 }
             }
         },
-        "British-grand-prix": {
+        "British Grand Prix": {
             "Qualifying": {
                 "12": {
                     "position": "1",
@@ -3463,7 +3566,7 @@
             "Race": {
                 "12": {
                     "position": "1",
-                    "points": 0,
+                    "points": 9,
                     "fastest_lap": "2:00.400",
                     "team": "Mercedes",
                     "drivers": [
@@ -3473,12 +3576,13 @@
                         "carNumber": "12",
                         "laps": "90",
                         "fastestLap": "2:00.400",
-                        "lap_of_fastestLap": "88"
+                        "lap_of_fastestLap": "88",
+                        "grid": "1"
                     }
                 },
                 "10": {
                     "position": "2",
-                    "points": 0,
+                    "points": 6,
                     "fastest_lap": "",
                     "team": "Mercedes",
                     "drivers": [
@@ -3488,12 +3592,13 @@
                         "carNumber": "10",
                         "laps": "90",
                         "gap": "+ 0.200",
-                        "interval": "+ 0.200"
+                        "interval": "+ 0.200",
+                        "grid": "2"
                     }
                 },
                 "14": {
                     "position": "3",
-                    "points": 0,
+                    "points": 4,
                     "fastest_lap": "",
                     "team": "Mercedes",
                     "drivers": [
@@ -3501,12 +3606,13 @@
                     ],
                     "other_info": {
                         "carNumber": "14",
-                        "laps": "90"
+                        "laps": "90",
+                        "grid": "4"
                     }
                 },
                 "50": {
                     "position": "4",
-                    "points": 0,
+                    "points": 3,
                     "fastest_lap": "",
                     "team": "Mercedes",
                     "drivers": [
@@ -3516,12 +3622,13 @@
                         "carNumber": "50",
                         "laps": "89",
                         "gap": "1 Lap",
-                        "interval": "1 Lap"
+                        "interval": "1 Lap",
+                        "grid": "5"
                     }
                 },
                 "4": {
                     "position": "5",
-                    "points": 0,
+                    "points": 2,
                     "fastest_lap": "",
                     "team": "Maserati",
                     "drivers": [
@@ -3530,7 +3637,8 @@
                     "other_info": {
                         "carNumber": "4",
                         "laps": "89",
-                        "gap": "1 Lap"
+                        "gap": "1 Lap",
+                        "grid": "9"
                     }
                 },
                 "16": {
@@ -3545,7 +3653,8 @@
                         "carNumber": "16",
                         "laps": "87",
                         "gap": "3 Laps",
-                        "interval": "2 Laps"
+                        "interval": "2 Laps",
+                        "grid": "12"
                     }
                 },
                 "26": {
@@ -3560,7 +3669,8 @@
                         "carNumber": "26",
                         "laps": "81",
                         "gap": "9 Laps",
-                        "interval": "6 Laps"
+                        "interval": "6 Laps",
+                        "grid": "23"
                     }
                 },
                 "46": {
@@ -3575,7 +3685,8 @@
                         "carNumber": "46",
                         "laps": "79",
                         "gap": "11 Laps",
-                        "interval": "2 Laps"
+                        "interval": "2 Laps",
+                        "grid": "16"
                     }
                 },
                 "28": {
@@ -3590,7 +3701,8 @@
                         "carNumber": "28",
                         "laps": "72",
                         "gap": "18 Laps",
-                        "interval": "7 Laps"
+                        "interval": "7 Laps",
+                        "grid": "15"
                     }
                 },
                 "18": {
@@ -3603,7 +3715,8 @@
                     ],
                     "other_info": {
                         "carNumber": "18",
-                        "laps": "59"
+                        "laps": "59",
+                        "grid": "13"
                     }
                 },
                 "6": {
@@ -3616,7 +3729,8 @@
                     ],
                     "other_info": {
                         "carNumber": "6",
-                        "laps": "47"
+                        "laps": "47",
+                        "grid": "6"
                     }
                 },
                 "40": {
@@ -3629,7 +3743,8 @@
                     ],
                     "other_info": {
                         "carNumber": "40",
-                        "laps": "30"
+                        "laps": "30",
+                        "grid": "25"
                     }
                 },
                 "32": {
@@ -3642,7 +3757,8 @@
                     ],
                     "other_info": {
                         "carNumber": "32",
-                        "laps": "30"
+                        "laps": "30",
+                        "grid": "17"
                     }
                 },
                 "42": {
@@ -3655,7 +3771,8 @@
                     ],
                     "other_info": {
                         "carNumber": "42",
-                        "laps": "28"
+                        "laps": "28",
+                        "grid": "24"
                     }
                 },
                 "24": {
@@ -3668,7 +3785,8 @@
                     ],
                     "other_info": {
                         "carNumber": "24",
-                        "laps": "26"
+                        "laps": "26",
+                        "grid": "18"
                     }
                 },
                 "44": {
@@ -3681,7 +3799,8 @@
                     ],
                     "other_info": {
                         "carNumber": "44",
-                        "laps": "23"
+                        "laps": "23",
+                        "grid": "20"
                     }
                 },
                 "48": {
@@ -3694,7 +3813,8 @@
                     ],
                     "other_info": {
                         "carNumber": "48",
-                        "laps": "22"
+                        "laps": "22",
+                        "grid": "22"
                     }
                 },
                 "30": {
@@ -3707,7 +3827,8 @@
                     ],
                     "other_info": {
                         "carNumber": "30",
-                        "laps": "20"
+                        "laps": "20",
+                        "grid": "7"
                     }
                 },
                 "36": {
@@ -3720,7 +3841,8 @@
                     ],
                     "other_info": {
                         "carNumber": "36",
-                        "laps": "19"
+                        "laps": "19",
+                        "grid": "14"
                     }
                 },
                 "38": {
@@ -3733,7 +3855,8 @@
                     ],
                     "other_info": {
                         "carNumber": "38",
-                        "laps": "18"
+                        "laps": "18",
+                        "grid": "19"
                     }
                 },
                 "20": {
@@ -3746,7 +3869,8 @@
                     ],
                     "other_info": {
                         "carNumber": "20",
-                        "laps": "16"
+                        "laps": "16",
+                        "grid": "10"
                     }
                 },
                 "8": {
@@ -3759,7 +3883,8 @@
                     ],
                     "other_info": {
                         "carNumber": "8",
-                        "laps": "9"
+                        "laps": "9",
+                        "grid": "8"
                     }
                 },
                 "2": {
@@ -3772,7 +3897,8 @@
                     ],
                     "other_info": {
                         "carNumber": "2",
-                        "laps": "9"
+                        "laps": "9",
+                        "grid": "3"
                     }
                 },
                 "22": {
@@ -3785,7 +3911,8 @@
                     ],
                     "other_info": {
                         "carNumber": "22",
-                        "laps": "4"
+                        "laps": "4",
+                        "grid": "11"
                     }
                 },
                 "34": {
@@ -3797,12 +3924,13 @@
                         "Jack_Fairman"
                     ],
                     "other_info": {
-                        "carNumber": "34"
+                        "carNumber": "34",
+                        "grid": "21"
                     }
                 }
             }
         },
-        "Italian-grand-prix": {
+        "Italian Grand Prix": {
             "Qualifying": {
                 "18": {
                     "position": "1",
@@ -4126,7 +4254,7 @@
             "Race": {
                 "18": {
                     "position": "1",
-                    "points": 0,
+                    "points": 8,
                     "fastest_lap": "",
                     "team": "Mercedes",
                     "drivers": [
@@ -4134,12 +4262,13 @@
                     ],
                     "other_info": {
                         "carNumber": "18",
-                        "laps": "50"
+                        "laps": "50",
+                        "grid": "1"
                     }
                 },
                 "14": {
                     "position": "2",
-                    "points": 0,
+                    "points": 6,
                     "fastest_lap": "",
                     "team": "Mercedes",
                     "drivers": [
@@ -4149,12 +4278,13 @@
                         "carNumber": "14",
                         "laps": "50",
                         "gap": "+ 0.700",
-                        "interval": "+ 0.700"
+                        "interval": "+ 0.700",
+                        "grid": "9"
                     }
                 },
                 "4": {
                     "position": "3",
-                    "points": 0,
+                    "points": 4,
                     "fastest_lap": "",
                     "team": "Ferrari",
                     "drivers": [
@@ -4164,12 +4294,13 @@
                         "carNumber": "4",
                         "laps": "50",
                         "gap": "+ 46.200",
-                        "interval": "+ 45.500"
+                        "interval": "+ 45.500",
+                        "grid": "4"
                     }
                 },
                 "36": {
                     "position": "4",
-                    "points": 0,
+                    "points": 3,
                     "fastest_lap": "",
                     "team": "Maserati",
                     "drivers": [
@@ -4179,12 +4310,13 @@
                         "carNumber": "36",
                         "laps": "50",
                         "gap": "+ 3:57.500",
-                        "interval": "+ 3:11.300"
+                        "interval": "+ 3:11.300",
+                        "grid": "6"
                     }
                 },
                 "34": {
                     "position": "5",
-                    "points": 0,
+                    "points": 2,
                     "fastest_lap": "",
                     "team": "Maserati",
                     "drivers": [
@@ -4194,7 +4326,8 @@
                         "carNumber": "34",
                         "laps": "49",
                         "gap": "1 Lap",
-                        "interval": "1 Lap"
+                        "interval": "1 Lap",
+                        "grid": "16"
                     }
                 },
                 "12": {
@@ -4208,7 +4341,8 @@
                     "other_info": {
                         "carNumber": "12",
                         "laps": "49",
-                        "gap": "1 Lap"
+                        "gap": "1 Lap",
+                        "grid": "12"
                     }
                 },
                 "28": {
@@ -4223,7 +4357,8 @@
                         "carNumber": "28",
                         "laps": "48",
                         "gap": "2 Laps",
-                        "interval": "1 Lap"
+                        "interval": "1 Lap",
+                        "grid": "7"
                     }
                 },
                 "8": {
@@ -4238,7 +4373,8 @@
                         "carNumber": "8",
                         "laps": "47",
                         "gap": "3 Laps",
-                        "interval": "1 Lap"
+                        "interval": "1 Lap",
+                        "grid": "15"
                     }
                 },
                 "40": {
@@ -4253,11 +4389,12 @@
                         "carNumber": "40",
                         "laps": "46",
                         "gap": "4 Laps",
-                        "interval": "1 Lap"
+                        "interval": "1 Lap",
+                        "grid": "20"
                     }
                 },
                 "6": {
-                    "position": "DNF",
+                    "position": "10",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "Ferrari",
@@ -4266,7 +4403,8 @@
                     ],
                     "other_info": {
                         "carNumber": "6",
-                        "laps": "38"
+                        "laps": "38",
+                        "grid": "14"
                     }
                 },
                 "20": {
@@ -4279,7 +4417,8 @@
                     ],
                     "other_info": {
                         "carNumber": "20",
-                        "laps": "32"
+                        "laps": "32",
+                        "grid": "3"
                     }
                 },
                 "30": {
@@ -4292,7 +4431,8 @@
                     ],
                     "other_info": {
                         "carNumber": "30",
-                        "laps": "31"
+                        "laps": "31",
+                        "grid": "10"
                     }
                 },
                 "38": {
@@ -4305,12 +4445,13 @@
                     ],
                     "other_info": {
                         "carNumber": "38",
-                        "laps": "31"
+                        "laps": "31",
+                        "grid": "21"
                     }
                 },
                 "16": {
                     "position": "DNF",
-                    "points": 0,
+                    "points": 1,
                     "fastest_lap": "2:46.900",
                     "team": "Mercedes",
                     "drivers": [
@@ -4320,7 +4461,8 @@
                         "carNumber": "16",
                         "laps": "27",
                         "fastestLap": "2:46.900",
-                        "lap_of_fastestLap": "21"
+                        "lap_of_fastestLap": "21",
+                        "grid": "2"
                     }
                 },
                 "26": {
@@ -4333,7 +4475,8 @@
                     ],
                     "other_info": {
                         "carNumber": "26",
-                        "laps": "26"
+                        "laps": "26",
+                        "grid": "19"
                     }
                 },
                 "22": {
@@ -4346,7 +4489,8 @@
                     ],
                     "other_info": {
                         "carNumber": "22",
-                        "laps": "23"
+                        "laps": "23",
+                        "grid": "18"
                     }
                 },
                 "32": {
@@ -4359,7 +4503,8 @@
                     ],
                     "other_info": {
                         "carNumber": "32",
-                        "laps": "22"
+                        "laps": "22",
+                        "grid": "11"
                     }
                 },
                 "42": {
@@ -4372,7 +4517,8 @@
                     ],
                     "other_info": {
                         "carNumber": "42",
-                        "laps": "7"
+                        "laps": "7",
+                        "grid": "13"
                     }
                 },
                 "24": {
@@ -4385,7 +4531,8 @@
                     ],
                     "other_info": {
                         "carNumber": "24",
-                        "laps": "7"
+                        "laps": "7",
+                        "grid": "22"
                     }
                 },
                 "44": {
@@ -4397,7 +4544,8 @@
                         "Ken_Wharton"
                     ],
                     "other_info": {
-                        "carNumber": "44"
+                        "carNumber": "44",
+                        "grid": "17"
                     }
                 },
                 "2": {
@@ -4409,7 +4557,8 @@
                         "Nino_Farina"
                     ],
                     "other_info": {
-                        "carNumber": "2"
+                        "carNumber": "2",
+                        "grid": "5"
                     }
                 },
                 "10": {
@@ -4421,11 +4570,12 @@
                         "Luigi_Villoresi"
                     ],
                     "other_info": {
-                        "carNumber": "10"
+                        "carNumber": "10",
+                        "grid": "8"
                     }
                 },
                 "46": {
-                    "position": "DNA",
+                    "position": "DNS",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "arzani-volpini",
