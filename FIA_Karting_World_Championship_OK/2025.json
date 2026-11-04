@@ -2,42 +2,1504 @@
     "name": "FIA_Karting_World_Championship_OK",
     "events": {
         "Kristianstad": {
-            "Final": {
-                "Thibaut_Ramaekers": {
+            "Super Heat A": {
+                "5": {
                     "position": "1",
                     "points": 0,
-                    "fastest_lap": "",
+                    "fastest_lap": "1:00.809",
+                    "team": "KR",
+                    "drivers": [
+                        "James_Anagnostiadis"
+                    ],
+                    "other_info": {
+                        "carNumber": "5",
+                        "equipment": "KR / IAME / Maxxis"
+                    }
+                },
+                "12": {
+                    "position": "2",
+                    "points": 0,
+                    "fastest_lap": "1:02.099",
                     "team": "KR",
                     "drivers": [
                         "Thibaut_Ramaekers"
                     ],
                     "other_info": {
-                        "class": "OK",
-                        "engine": "IAME"
+                        "carNumber": "12",
+                        "equipment": "KR / IAME / Maxxis",
+                        "gap": "3.215"
                     }
                 },
-                "Joe_Turney": {
-                    "position": "2",
+                "23": {
+                    "position": "3",
                     "points": 0,
-                    "fastest_lap": "",
-                    "team": "",
+                    "fastest_lap": "1:05.236",
+                    "team": "KR",
+                    "drivers": [
+                        "Borys_Lyzen"
+                    ],
+                    "other_info": {
+                        "carNumber": "23",
+                        "equipment": "KR / TM Kart / Maxxis",
+                        "gap": "5.186"
+                    }
+                },
+                "6": {
+                    "position": "4",
+                    "points": 0,
+                    "fastest_lap": "1:00.947",
+                    "team": "KR",
+                    "drivers": [
+                        "Zac_Drummond"
+                    ],
+                    "other_info": {
+                        "carNumber": "6",
+                        "equipment": "KR / IAME / Maxxis",
+                        "gap": "6.932"
+                    }
+                },
+                "29": {
+                    "position": "5",
+                    "points": 0,
+                    "fastest_lap": "1:03.160",
+                    "team": "Birel_ART",
+                    "drivers": [
+                        "Vladimir_Ivannikov"
+                    ],
+                    "other_info": {
+                        "carNumber": "29",
+                        "equipment": "Birel Art / TM Kart / Maxxis",
+                        "gap": "8.087"
+                    }
+                },
+                "2": {
+                    "position": "6",
+                    "points": 0,
+                    "fastest_lap": "1:01.195",
+                    "team": "KR",
                     "drivers": [
                         "Joe_Turney"
                     ],
                     "other_info": {
-                        "class": "OK"
+                        "carNumber": "2",
+                        "equipment": "KR / IAME / Maxxis",
+                        "gap": "9.875"
                     }
                 },
-                "Lev_Krutogolov": {
-                    "position": "3",
+                "26": {
+                    "position": "7",
                     "points": 0,
-                    "fastest_lap": "",
-                    "team": "",
+                    "fastest_lap": "1:05.836",
+                    "team": "Exprit",
                     "drivers": [
-                        "Lev_Krutogolov"
+                        "Filippo_Sala"
                     ],
                     "other_info": {
-                        "class": "OK"
+                        "carNumber": "26",
+                        "equipment": "Exprit / TM Kart / Maxxis",
+                        "gap": "10.064"
+                    }
+                },
+                "77": {
+                    "position": "8",
+                    "points": 0,
+                    "fastest_lap": "1:02.903",
+                    "team": "KR",
+                    "drivers": [
+                        "Agustin_Sepulveda"
+                    ],
+                    "other_info": {
+                        "carNumber": "77",
+                        "equipment": "KR / IAME / Maxxis",
+                        "gap": "16.027"
+                    }
+                },
+                "108": {
+                    "position": "9",
+                    "points": 0,
+                    "fastest_lap": "1:05.981",
+                    "team": "Birel_ART",
+                    "drivers": [
+                        "Joel_Pohjola"
+                    ],
+                    "other_info": {
+                        "carNumber": "108",
+                        "equipment": "Birel Art / TM Kart / Maxxis",
+                        "gap": "18.370"
+                    }
+                },
+                "27": {
+                    "position": "10",
+                    "points": 0,
+                    "fastest_lap": "1:02.757",
+                    "team": "Exprit",
+                    "drivers": [
+                        "Jensen_Burnett"
+                    ],
+                    "other_info": {
+                        "carNumber": "27",
+                        "equipment": "Exprit / TM Kart / Maxxis",
+                        "gap": "18.403"
+                    }
+                },
+                "9": {
+                    "position": "11",
+                    "points": 0,
+                    "fastest_lap": "1:06.216",
+                    "team": "KR",
+                    "drivers": [
+                        "Scott_Marsh"
+                    ],
+                    "other_info": {
+                        "carNumber": "9",
+                        "equipment": "KR / IAME / Maxxis",
+                        "gap": "20.644"
+                    }
+                },
+                "48": {
+                    "position": "12",
+                    "points": 0,
+                    "fastest_lap": "1:06.209",
+                    "team": "Henza_Kart",
+                    "drivers": [
+                        "Eemeli_Koivisto"
+                    ],
+                    "other_info": {
+                        "carNumber": "48",
+                        "equipment": "Henza Kart / IAME / Maxxis",
+                        "gap": "24.496"
+                    }
+                },
+                "76": {
+                    "position": "13",
+                    "points": 0,
+                    "fastest_lap": "1:06.042",
+                    "team": "KR",
+                    "drivers": [
+                        "François_Kerdal"
+                    ],
+                    "other_info": {
+                        "carNumber": "76",
+                        "equipment": "KR / IAME / Maxxis",
+                        "gap": "24.649"
+                    }
+                },
+                "35": {
+                    "position": "14",
+                    "points": 0,
+                    "fastest_lap": "1:05.079",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Elliot_Kaczynski"
+                    ],
+                    "other_info": {
+                        "carNumber": "35",
+                        "equipment": "Tony Kart / TM Kart / Maxxis",
+                        "gap": "24.856"
+                    }
+                },
+                "64": {
+                    "position": "15",
+                    "points": 0,
+                    "fastest_lap": "1:03.731",
+                    "team": "KR",
+                    "drivers": [
+                        "Matthias_Vandekerckhove"
+                    ],
+                    "other_info": {
+                        "carNumber": "64",
+                        "equipment": "KR / IAME / Maxxis",
+                        "gap": "26.539"
+                    }
+                },
+                "41": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "1:06.145",
+                    "team": "Monster_Kart",
+                    "drivers": [
+                        "Gino_Rocchio"
+                    ],
+                    "other_info": {
+                        "carNumber": "41",
+                        "equipment": "Monster Kart / TM Kart / Maxxis",
+                        "gap": "32.060"
+                    }
+                },
+                "99": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "1:07.803",
+                    "team": "KR",
+                    "drivers": [
+                        "Franciszek_Cegielski"
+                    ],
+                    "other_info": {
+                        "carNumber": "99",
+                        "equipment": "KR / TM Kart / Maxxis",
+                        "gap": "34.425"
+                    }
+                },
+                "86": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "1:07.597",
+                    "team": "Parolin",
+                    "drivers": [
+                        "Maria Germano_Neto"
+                    ],
+                    "other_info": {
+                        "carNumber": "86",
+                        "equipment": "Parolin / TM Kart / Maxxis",
+                        "gap": "38.913"
+                    }
+                },
+                "55": {
+                    "position": "20",
+                    "points": 0,
+                    "fastest_lap": "1:07.276",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Arata_Endo"
+                    ],
+                    "other_info": {
+                        "carNumber": "55",
+                        "equipment": "Tony Kart / TM Kart / Maxxis",
+                        "gap": "39.409"
+                    }
+                },
+                "101": {
+                    "position": "21",
+                    "points": 0,
+                    "fastest_lap": "1:04.882",
+                    "team": "KR",
+                    "drivers": [
+                        "Jesse_Phillips"
+                    ],
+                    "other_info": {
+                        "carNumber": "101",
+                        "equipment": "KR / IAME / Maxxis",
+                        "gap": "39.741"
+                    }
+                },
+                "96": {
+                    "position": "22",
+                    "points": 0,
+                    "fastest_lap": "1:06.706",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Ina_Rostad"
+                    ],
+                    "other_info": {
+                        "carNumber": "96",
+                        "equipment": "Tony Kart / TM Kart / Maxxis",
+                        "gap": "39.916"
+                    }
+                },
+                "52": {
+                    "position": "23",
+                    "points": 0,
+                    "fastest_lap": "1:07.344",
+                    "team": "LN",
+                    "drivers": [
+                        "Luke_Kornder"
+                    ],
+                    "other_info": {
+                        "carNumber": "52",
+                        "equipment": "LN / TM Kart / Maxxis",
+                        "gap": "40.085"
+                    }
+                },
+                "40": {
+                    "position": "24",
+                    "points": 0,
+                    "fastest_lap": "1:05.406",
+                    "team": "KR",
+                    "drivers": [
+                        "Jakub_Kamenik"
+                    ],
+                    "other_info": {
+                        "carNumber": "40",
+                        "equipment": "KR / IAME / Maxxis",
+                        "gap": "40.298"
+                    }
+                },
+                "87": {
+                    "position": "25",
+                    "points": 0,
+                    "fastest_lap": "1:07.927",
+                    "team": "Exprit",
+                    "drivers": [
+                        "Nicolo_Cuman"
+                    ],
+                    "other_info": {
+                        "carNumber": "87",
+                        "equipment": "Exprit / TM Kart / Maxxis",
+                        "gap": "40.882"
+                    }
+                },
+                "60": {
+                    "position": "26",
+                    "points": 0,
+                    "fastest_lap": "1:07.166",
+                    "team": "LN",
+                    "drivers": [
+                        "Hou Zai_Jiang"
+                    ],
+                    "other_info": {
+                        "carNumber": "60",
+                        "equipment": "LN / TM Kart / Maxxis",
+                        "gap": "42.336"
+                    }
+                },
+                "47": {
+                    "position": "27",
+                    "points": 0,
+                    "fastest_lap": "1:01.964",
+                    "team": "KR",
+                    "drivers": [
+                        "Marco_Garst"
+                    ],
+                    "other_info": {
+                        "carNumber": "47",
+                        "equipment": "KR / IAME / Maxxis",
+                        "gap": "42.682"
+                    }
+                },
+                "90": {
+                    "position": "28",
+                    "points": 0,
+                    "fastest_lap": "1:07.834",
+                    "team": "Birel_ART",
+                    "drivers": [
+                        "Skye_Parker"
+                    ],
+                    "other_info": {
+                        "carNumber": "90",
+                        "equipment": "Birel Art / TM Kart / Maxxis",
+                        "gap": "45.596"
+                    }
+                },
+                "44": {
+                    "position": "29",
+                    "points": 0,
+                    "fastest_lap": "1:06.578",
+                    "team": "Birel_ART",
+                    "drivers": [
+                        "Vilmer_Svahn"
+                    ],
+                    "other_info": {
+                        "carNumber": "44",
+                        "equipment": "Birel Art / TM Kart / Maxxis",
+                        "gap": "8 Laps"
+                    }
+                },
+                "22": {
+                    "position": "30",
+                    "points": 0,
+                    "fastest_lap": "1:08.069",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Markas_Silkunas"
+                    ],
+                    "other_info": {
+                        "carNumber": "22",
+                        "equipment": "Tony Kart / Vortex / Maxxis",
+                        "gap": "9 Laps"
+                    }
+                },
+                "30": {
+                    "position": "31",
+                    "points": 0,
+                    "fastest_lap": "1:20.259",
+                    "team": "KR",
+                    "drivers": [
+                        "Jacob_Micallef"
+                    ],
+                    "other_info": {
+                        "carNumber": "30",
+                        "equipment": "KR / IAME / Maxxis",
+                        "gap": "13 Laps"
+                    }
+                },
+                "58": {
+                    "position": "32",
+                    "points": 0,
+                    "fastest_lap": "1:04.999",
+                    "team": "Exprit",
+                    "drivers": [
+                        "Amin_Kara Osman"
+                    ],
+                    "other_info": {
+                        "carNumber": "58",
+                        "equipment": "Exprit / TM Kart / Maxxis",
+                        "gap": "14 Laps"
+                    }
+                },
+                "71": {
+                    "position": "33",
+                    "points": 0,
+                    "fastest_lap": "1:07.473",
+                    "team": "KR",
+                    "drivers": [
+                        "Zijun_Zhao"
+                    ],
+                    "other_info": {
+                        "carNumber": "71",
+                        "equipment": "KR / IAME / Maxxis",
+                        "gap": "14 Laps"
+                    }
+                },
+                "19": {
+                    "position": "34",
+                    "points": 0,
+                    "fastest_lap": "1:03.136",
+                    "team": "LN",
+                    "drivers": [
+                        "Roman_Kamyab"
+                    ],
+                    "other_info": {
+                        "carNumber": "19",
+                        "equipment": "LN / TM Kart / Maxxis",
+                        "gap": "16 Laps"
+                    }
+                },
+                "15": {
+                    "position": "35",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Birel_ART",
+                    "drivers": [
+                        "Aston_Sharp"
+                    ],
+                    "other_info": {
+                        "carNumber": "15",
+                        "equipment": "Birel Art / TM Kart / Maxxis",
+                        "gap": "17 Laps"
+                    }
+                },
+                "32": {
+                    "position": "DSQ",
+                    "points": 0,
+                    "fastest_lap": "1:03.033",
+                    "team": "KR",
+                    "drivers": [
+                        "Louis_Cochet"
+                    ],
+                    "other_info": {
+                        "carNumber": "32",
+                        "equipment": "KR / IAME / Maxxis",
+                        "gap": "DSQ"
+                    }
+                }
+            },
+            "Super Heat B": {
+                "8": {
+                    "position": "1",
+                    "points": 0,
+                    "fastest_lap": "1:07.118",
+                    "team": "Energy",
+                    "drivers": [
+                        "Lev_Krutoholov"
+                    ],
+                    "other_info": {
+                        "carNumber": "8",
+                        "equipment": "Energy / IAME / Maxxis"
+                    }
+                },
+                "16": {
+                    "position": "2",
+                    "points": 0,
+                    "fastest_lap": "1:07.384",
+                    "team": "Birel_ART",
+                    "drivers": [
+                        "Noah_Wolfe"
+                    ],
+                    "other_info": {
+                        "carNumber": "16",
+                        "equipment": "Birel Art / TM Kart / Maxxis",
+                        "gap": "0.933"
+                    }
+                },
+                "7": {
+                    "position": "3",
+                    "points": 0,
+                    "fastest_lap": "1:07.272",
+                    "team": "KR",
+                    "drivers": [
+                        "Zac_Green"
+                    ],
+                    "other_info": {
+                        "carNumber": "7",
+                        "equipment": "KR / IAME / Maxxis",
+                        "gap": "7.502"
+                    }
+                },
+                "33": {
+                    "position": "4",
+                    "points": 0,
+                    "fastest_lap": "1:07.342",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Thomas_Pradier"
+                    ],
+                    "other_info": {
+                        "carNumber": "33",
+                        "equipment": "Tony Kart / Vortex / Maxxis",
+                        "gap": "9.080"
+                    }
+                },
+                "4": {
+                    "position": "5",
+                    "points": 0,
+                    "fastest_lap": "1:07.324",
+                    "team": "KR",
+                    "drivers": [
+                        "Kenzo_Craigie"
+                    ],
+                    "other_info": {
+                        "carNumber": "4",
+                        "equipment": "KR / IAME / Maxxis",
+                        "gap": "9.822"
+                    }
+                },
+                "34": {
+                    "position": "6",
+                    "points": 0,
+                    "fastest_lap": "1:07.603",
+                    "team": "KR",
+                    "drivers": [
+                        "Iacopo_Martinese"
+                    ],
+                    "other_info": {
+                        "carNumber": "34",
+                        "equipment": "KR / IAME / Maxxis",
+                        "gap": "10.075"
+                    }
+                },
+                "28": {
+                    "position": "7",
+                    "points": 0,
+                    "fastest_lap": "1:07.981",
+                    "team": "KR",
+                    "drivers": [
+                        "Daniel_Kelleher"
+                    ],
+                    "other_info": {
+                        "carNumber": "28",
+                        "equipment": "KR / IAME / Maxxis",
+                        "gap": "10.789"
+                    }
+                },
+                "46": {
+                    "position": "8",
+                    "points": 0,
+                    "fastest_lap": "1:07.666",
+                    "team": "CRG",
+                    "drivers": [
+                        "Viktor_Gustafsson"
+                    ],
+                    "other_info": {
+                        "carNumber": "46",
+                        "equipment": "CRG / TM Kart / Maxxis",
+                        "gap": "11.841"
+                    }
+                },
+                "25": {
+                    "position": "9",
+                    "points": 0,
+                    "fastest_lap": "1:08.037",
+                    "team": "CRG",
+                    "drivers": [
+                        "Davide_Bottaro"
+                    ],
+                    "other_info": {
+                        "carNumber": "25",
+                        "equipment": "CRG / TM Kart / Maxxis",
+                        "gap": "13.274"
+                    }
+                },
+                "3": {
+                    "position": "10",
+                    "points": 0,
+                    "fastest_lap": "1:07.990",
+                    "team": "Energy",
+                    "drivers": [
+                        "Matthew_Higgins"
+                    ],
+                    "other_info": {
+                        "carNumber": "3",
+                        "equipment": "Energy / IAME / Maxxis",
+                        "gap": "16.132"
+                    }
+                },
+                "20": {
+                    "position": "11",
+                    "points": 0,
+                    "fastest_lap": "1:08.060",
+                    "team": "Parolin",
+                    "drivers": [
+                        "Christian_Costoya"
+                    ],
+                    "other_info": {
+                        "carNumber": "20",
+                        "equipment": "Parolin / TM Kart / Maxxis",
+                        "gap": "17.288"
+                    }
+                },
+                "11": {
+                    "position": "12",
+                    "points": 0,
+                    "fastest_lap": "1:07.690",
+                    "team": "Parolin",
+                    "drivers": [
+                        "Hugo_Marti"
+                    ],
+                    "other_info": {
+                        "carNumber": "11",
+                        "equipment": "Parolin / TM Kart / Maxxis",
+                        "gap": "17.856"
+                    }
+                },
+                "10": {
+                    "position": "13",
+                    "points": 0,
+                    "fastest_lap": "1:07.489",
+                    "team": "KR",
+                    "drivers": [
+                        "Sebastian_Minns"
+                    ],
+                    "other_info": {
+                        "carNumber": "10",
+                        "equipment": "KR / IAME / Maxxis",
+                        "gap": "19.374"
+                    }
+                },
+                "39": {
+                    "position": "14",
+                    "points": 0,
+                    "fastest_lap": "1:07.616",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Jindrich_Pesl"
+                    ],
+                    "other_info": {
+                        "carNumber": "39",
+                        "equipment": "Tony Kart / Vortex / Maxxis",
+                        "gap": "22.379"
+                    }
+                },
+                "42": {
+                    "position": "15",
+                    "points": 0,
+                    "fastest_lap": "1:07.961",
+                    "team": "KR",
+                    "drivers": [
+                        "Luna_Fluxa Cross"
+                    ],
+                    "other_info": {
+                        "carNumber": "42",
+                        "equipment": "KR / IAME / Maxxis",
+                        "gap": "23.613"
+                    }
+                },
+                "36": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "1:07.933",
+                    "team": "KR",
+                    "drivers": [
+                        "Oliver_Kinnmark"
+                    ],
+                    "other_info": {
+                        "carNumber": "36",
+                        "equipment": "KR / IAME / Maxxis",
+                        "gap": "24.952"
+                    }
+                },
+                "18": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "1:08.337",
+                    "team": "KR",
+                    "drivers": [
+                        "Mariano_Lopez"
+                    ],
+                    "other_info": {
+                        "carNumber": "18",
+                        "equipment": "KR / IAME / Maxxis",
+                        "gap": "29.077"
+                    }
+                },
+                "31": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "1:08.327",
+                    "team": "KR",
+                    "drivers": [
+                        "Chiara_Bättig"
+                    ],
+                    "other_info": {
+                        "carNumber": "31",
+                        "equipment": "KR / IAME / Maxxis",
+                        "gap": "29.485"
+                    }
+                },
+                "24": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "1:08.248",
+                    "team": "KR",
+                    "drivers": [
+                        "Kacper_Rajpold"
+                    ],
+                    "other_info": {
+                        "carNumber": "24",
+                        "equipment": "KR / IAME / Maxxis",
+                        "gap": "29.550"
+                    }
+                },
+                "66": {
+                    "position": "20",
+                    "points": 0,
+                    "fastest_lap": "1:08.333",
+                    "team": "CRG",
+                    "drivers": [
+                        "Clovis_Nougueyrede"
+                    ],
+                    "other_info": {
+                        "carNumber": "66",
+                        "equipment": "CRG / IAME / Maxxis",
+                        "gap": "29.742"
+                    }
+                },
+                "43": {
+                    "position": "21",
+                    "points": 0,
+                    "fastest_lap": "1:07.993",
+                    "team": "KR",
+                    "drivers": [
+                        "Leo_Nilsson"
+                    ],
+                    "other_info": {
+                        "carNumber": "43",
+                        "equipment": "KR / IAME / Maxxis",
+                        "gap": "29.798"
+                    }
+                },
+                "17": {
+                    "position": "22",
+                    "points": 0,
+                    "fastest_lap": "1:08.206",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Oliver Fodor_Rasmussen"
+                    ],
+                    "other_info": {
+                        "carNumber": "17",
+                        "equipment": "Tony Kart / Vortex / Maxxis",
+                        "gap": "31.188"
+                    }
+                },
+                "37": {
+                    "position": "23",
+                    "points": 0,
+                    "fastest_lap": "1:07.327",
+                    "team": "KR",
+                    "drivers": [
+                        "Lewis_Francis"
+                    ],
+                    "other_info": {
+                        "carNumber": "37",
+                        "equipment": "KR / IAME / Maxxis",
+                        "gap": "31.615"
+                    }
+                },
+                "38": {
+                    "position": "24",
+                    "points": 0,
+                    "fastest_lap": "1:08.131",
+                    "team": "KR",
+                    "drivers": [
+                        "Peter_Stiller"
+                    ],
+                    "other_info": {
+                        "carNumber": "38",
+                        "equipment": "KR / IAME / Maxxis",
+                        "gap": "31.950"
+                    }
+                },
+                "67": {
+                    "position": "25",
+                    "points": 0,
+                    "fastest_lap": "1:08.022",
+                    "team": "Energy",
+                    "drivers": [
+                        "Paul_Andriotis"
+                    ],
+                    "other_info": {
+                        "carNumber": "67",
+                        "equipment": "Energy / IAME / Maxxis",
+                        "gap": "33.007"
+                    }
+                },
+                "69": {
+                    "position": "26",
+                    "points": 0,
+                    "fastest_lap": "1:08.291",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Simon_Bulbarella"
+                    ],
+                    "other_info": {
+                        "carNumber": "69",
+                        "equipment": "Tony Kart / TM Kart / Maxxis",
+                        "gap": "34.389"
+                    }
+                },
+                "51": {
+                    "position": "27",
+                    "points": 0,
+                    "fastest_lap": "1:07.878",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Qarrar_Firhand"
+                    ],
+                    "other_info": {
+                        "carNumber": "51",
+                        "equipment": "Tony Kart / TM Kart / Maxxis",
+                        "gap": "34.880"
+                    }
+                },
+                "95": {
+                    "position": "28",
+                    "points": 0,
+                    "fastest_lap": "1:07.979",
+                    "team": "Henza_Kart",
+                    "drivers": [
+                        "Carl_Luthardt"
+                    ],
+                    "other_info": {
+                        "carNumber": "95",
+                        "equipment": "Henza Kart / IAME / Maxxis",
+                        "gap": "37.813"
+                    }
+                },
+                "78": {
+                    "position": "29",
+                    "points": 0,
+                    "fastest_lap": "1:07.457",
+                    "team": "Birel_ART",
+                    "drivers": [
+                        "Austin_Gale"
+                    ],
+                    "other_info": {
+                        "carNumber": "78",
+                        "equipment": "Birel Art / TM Kart / Maxxis",
+                        "gap": "38.849"
+                    }
+                },
+                "63": {
+                    "position": "30",
+                    "points": 0,
+                    "fastest_lap": "1:07.797",
+                    "team": "LN",
+                    "drivers": [
+                        "Yibei_Sun"
+                    ],
+                    "other_info": {
+                        "carNumber": "63",
+                        "equipment": "LN / TM Kart / Maxxis",
+                        "gap": "39.083"
+                    }
+                },
+                "73": {
+                    "position": "31",
+                    "points": 0,
+                    "fastest_lap": "1:08.304",
+                    "team": "KR",
+                    "drivers": [
+                        "Sara_Matsui"
+                    ],
+                    "other_info": {
+                        "carNumber": "73",
+                        "equipment": "KR / IAME / Maxxis",
+                        "gap": "46.883"
+                    }
+                },
+                "83": {
+                    "position": "32",
+                    "points": 0,
+                    "fastest_lap": "1:08.489",
+                    "team": "Parolin",
+                    "drivers": [
+                        "Efim_Derunov"
+                    ],
+                    "other_info": {
+                        "carNumber": "83",
+                        "equipment": "Parolin / TM Kart / Maxxis",
+                        "gap": "47.563"
+                    }
+                },
+                "74": {
+                    "position": "33",
+                    "points": 0,
+                    "fastest_lap": "1:08.517",
+                    "team": "IPK",
+                    "drivers": [
+                        "Jiri_Becicka"
+                    ],
+                    "other_info": {
+                        "carNumber": "74",
+                        "equipment": "IPK / TM Kart / Maxxis",
+                        "gap": "50.717"
+                    }
+                },
+                "89": {
+                    "position": "34",
+                    "points": 0,
+                    "fastest_lap": "1:08.533",
+                    "team": "KR",
+                    "drivers": [
+                        "Jagrat_Detroja"
+                    ],
+                    "other_info": {
+                        "carNumber": "89",
+                        "equipment": "KR / IAME / Maxxis",
+                        "gap": "50.928"
+                    }
+                },
+                "80": {
+                    "position": "35",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Birel_ART",
+                    "drivers": [
+                        "Toby_Gale"
+                    ],
+                    "other_info": {
+                        "carNumber": "80",
+                        "equipment": "Birel Art / TM Kart / Maxxis",
+                        "gap": "17 Laps"
+                    }
+                },
+                "65": {
+                    "position": "36",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "KR",
+                    "drivers": [
+                        "Oskar_Galan"
+                    ],
+                    "other_info": {
+                        "carNumber": "65",
+                        "equipment": "KR / IAME / Maxxis",
+                        "gap": "17 Laps"
+                    }
+                }
+            },
+            "Final": {
+                "12": {
+                    "position": "1",
+                    "points": 0,
+                    "fastest_lap": "50.254",
+                    "team": "KR",
+                    "drivers": [
+                        "Thibaut_Ramaekers"
+                    ],
+                    "other_info": {
+                        "carNumber": "12",
+                        "equipment": "KR / IAME / Maxxis"
+                    }
+                },
+                "2": {
+                    "position": "2",
+                    "points": 0,
+                    "fastest_lap": "50.324",
+                    "team": "KR",
+                    "drivers": [
+                        "Joe_Turney"
+                    ],
+                    "other_info": {
+                        "carNumber": "2",
+                        "equipment": "KR / IAME / Maxxis",
+                        "gap": "0.760"
+                    }
+                },
+                "8": {
+                    "position": "3",
+                    "points": 0,
+                    "fastest_lap": "50.421",
+                    "team": "Energy",
+                    "drivers": [
+                        "Lev_Krutoholov"
+                    ],
+                    "other_info": {
+                        "carNumber": "8",
+                        "equipment": "Energy / IAME / Maxxis",
+                        "gap": "4.260"
+                    }
+                },
+                "5": {
+                    "position": "4",
+                    "points": 0,
+                    "fastest_lap": "50.532",
+                    "team": "KR",
+                    "drivers": [
+                        "James_Anagnostiadis"
+                    ],
+                    "other_info": {
+                        "carNumber": "5",
+                        "equipment": "KR / IAME / Maxxis",
+                        "gap": "9.184"
+                    }
+                },
+                "4": {
+                    "position": "5",
+                    "points": 0,
+                    "fastest_lap": "50.273",
+                    "team": "KR",
+                    "drivers": [
+                        "Kenzo_Craigie"
+                    ],
+                    "other_info": {
+                        "carNumber": "4",
+                        "equipment": "KR / IAME / Maxxis",
+                        "gap": "9.284"
+                    }
+                },
+                "6": {
+                    "position": "6",
+                    "points": 0,
+                    "fastest_lap": "50.511",
+                    "team": "KR",
+                    "drivers": [
+                        "Zac_Drummond"
+                    ],
+                    "other_info": {
+                        "carNumber": "6",
+                        "equipment": "KR / IAME / Maxxis",
+                        "gap": "9.348"
+                    }
+                },
+                "7": {
+                    "position": "7",
+                    "points": 0,
+                    "fastest_lap": "50.222",
+                    "team": "KR",
+                    "drivers": [
+                        "Zac_Green"
+                    ],
+                    "other_info": {
+                        "carNumber": "7",
+                        "equipment": "KR / IAME / Maxxis",
+                        "gap": "9.435"
+                    }
+                },
+                "15": {
+                    "position": "8",
+                    "points": 0,
+                    "fastest_lap": "50.298",
+                    "team": "Birel_ART",
+                    "drivers": [
+                        "Aston_Sharp"
+                    ],
+                    "other_info": {
+                        "carNumber": "15",
+                        "equipment": "Birel Art / TM Kart / Maxxis",
+                        "gap": "10.242"
+                    }
+                },
+                "27": {
+                    "position": "9",
+                    "points": 0,
+                    "fastest_lap": "50.348",
+                    "team": "Exprit",
+                    "drivers": [
+                        "Jensen_Burnett"
+                    ],
+                    "other_info": {
+                        "carNumber": "27",
+                        "equipment": "Exprit / TM Kart / Maxxis",
+                        "gap": "11.407"
+                    }
+                },
+                "26": {
+                    "position": "10",
+                    "points": 0,
+                    "fastest_lap": "50.213",
+                    "team": "Exprit",
+                    "drivers": [
+                        "Filippo_Sala"
+                    ],
+                    "other_info": {
+                        "carNumber": "26",
+                        "equipment": "Exprit / TM Kart / Maxxis",
+                        "gap": "11.482"
+                    }
+                },
+                "34": {
+                    "position": "11",
+                    "points": 0,
+                    "fastest_lap": "50.432",
+                    "team": "KR",
+                    "drivers": [
+                        "Iacopo_Martinese"
+                    ],
+                    "other_info": {
+                        "carNumber": "34",
+                        "equipment": "KR / IAME / Maxxis",
+                        "gap": "12.895"
+                    }
+                },
+                "38": {
+                    "position": "12",
+                    "points": 0,
+                    "fastest_lap": "50.367",
+                    "team": "KR",
+                    "drivers": [
+                        "Peter_Stiller"
+                    ],
+                    "other_info": {
+                        "carNumber": "38",
+                        "equipment": "KR / IAME / Maxxis",
+                        "gap": "14.311"
+                    }
+                },
+                "28": {
+                    "position": "13",
+                    "points": 0,
+                    "fastest_lap": "50.435",
+                    "team": "KR",
+                    "drivers": [
+                        "Daniel_Kelleher"
+                    ],
+                    "other_info": {
+                        "carNumber": "28",
+                        "equipment": "KR / IAME / Maxxis",
+                        "gap": "14.468"
+                    }
+                },
+                "20": {
+                    "position": "14",
+                    "points": 0,
+                    "fastest_lap": "50.192",
+                    "team": "Parolin",
+                    "drivers": [
+                        "Christian_Costoya"
+                    ],
+                    "other_info": {
+                        "carNumber": "20",
+                        "equipment": "Parolin / TM Kart / Maxxis",
+                        "gap": "15.190"
+                    }
+                },
+                "40": {
+                    "position": "15",
+                    "points": 0,
+                    "fastest_lap": "50.202",
+                    "team": "KR",
+                    "drivers": [
+                        "Jakub_Kamenik"
+                    ],
+                    "other_info": {
+                        "carNumber": "40",
+                        "equipment": "KR / IAME / Maxxis",
+                        "gap": "15.285"
+                    }
+                },
+                "25": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "50.417",
+                    "team": "CRG",
+                    "drivers": [
+                        "Davide_Bottaro"
+                    ],
+                    "other_info": {
+                        "carNumber": "25",
+                        "equipment": "CRG / TM Kart / Maxxis",
+                        "gap": "18.442"
+                    }
+                },
+                "36": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "50.201",
+                    "team": "KR",
+                    "drivers": [
+                        "Oliver_Kinnmark"
+                    ],
+                    "other_info": {
+                        "carNumber": "36",
+                        "equipment": "KR / IAME / Maxxis",
+                        "gap": "18.484"
+                    }
+                },
+                "77": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "50.472",
+                    "team": "KR",
+                    "drivers": [
+                        "Agustin_Sepulveda"
+                    ],
+                    "other_info": {
+                        "carNumber": "77",
+                        "equipment": "KR / IAME / Maxxis",
+                        "gap": "19.138"
+                    }
+                },
+                "23": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "50.280",
+                    "team": "KR",
+                    "drivers": [
+                        "Borys_Lyzen"
+                    ],
+                    "other_info": {
+                        "carNumber": "23",
+                        "equipment": "KR / TM Kart / Maxxis",
+                        "gap": "19.471"
+                    }
+                },
+                "32": {
+                    "position": "20",
+                    "points": 0,
+                    "fastest_lap": "50.351",
+                    "team": "KR",
+                    "drivers": [
+                        "Louis_Cochet"
+                    ],
+                    "other_info": {
+                        "carNumber": "32",
+                        "equipment": "KR / IAME / Maxxis",
+                        "gap": "19.512"
+                    }
+                },
+                "30": {
+                    "position": "21",
+                    "points": 0,
+                    "fastest_lap": "50.242",
+                    "team": "KR",
+                    "drivers": [
+                        "Jacob_Micallef"
+                    ],
+                    "other_info": {
+                        "carNumber": "30",
+                        "equipment": "KR / IAME / Maxxis",
+                        "gap": "20.509"
+                    }
+                },
+                "29": {
+                    "position": "22",
+                    "points": 0,
+                    "fastest_lap": "50.450",
+                    "team": "Birel_ART",
+                    "drivers": [
+                        "Vladimir_Ivannikov"
+                    ],
+                    "other_info": {
+                        "carNumber": "29",
+                        "equipment": "Birel Art / TM Kart / Maxxis",
+                        "gap": "21.164"
+                    }
+                },
+                "18": {
+                    "position": "23",
+                    "points": 0,
+                    "fastest_lap": "50.449",
+                    "team": "KR",
+                    "drivers": [
+                        "Mariano_Lopez"
+                    ],
+                    "other_info": {
+                        "carNumber": "18",
+                        "equipment": "KR / IAME / Maxxis",
+                        "gap": "22.018"
+                    }
+                },
+                "47": {
+                    "position": "24",
+                    "points": 0,
+                    "fastest_lap": "50.498",
+                    "team": "KR",
+                    "drivers": [
+                        "Marco_Garst"
+                    ],
+                    "other_info": {
+                        "carNumber": "47",
+                        "equipment": "KR / IAME / Maxxis",
+                        "gap": "22.599"
+                    }
+                },
+                "80": {
+                    "position": "25",
+                    "points": 0,
+                    "fastest_lap": "50.409",
+                    "team": "Birel_ART",
+                    "drivers": [
+                        "Toby_Gale"
+                    ],
+                    "other_info": {
+                        "carNumber": "80",
+                        "equipment": "Birel Art / TM Kart / Maxxis",
+                        "gap": "23.595"
+                    }
+                },
+                "39": {
+                    "position": "26",
+                    "points": 0,
+                    "fastest_lap": "50.445",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Jindrich_Pesl"
+                    ],
+                    "other_info": {
+                        "carNumber": "39",
+                        "equipment": "Tony Kart / Vortex / Maxxis",
+                        "gap": "23.878"
+                    }
+                },
+                "51": {
+                    "position": "27",
+                    "points": 0,
+                    "fastest_lap": "50.632",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Qarrar_Firhand"
+                    ],
+                    "other_info": {
+                        "carNumber": "51",
+                        "equipment": "Tony Kart / TM Kart / Maxxis",
+                        "gap": "24.427"
+                    }
+                },
+                "108": {
+                    "position": "28",
+                    "points": 0,
+                    "fastest_lap": "50.578",
+                    "team": "Birel_ART",
+                    "drivers": [
+                        "Joel_Pohjola"
+                    ],
+                    "other_info": {
+                        "carNumber": "108",
+                        "equipment": "Birel Art / TM Kart / Maxxis",
+                        "gap": "32.458"
+                    }
+                },
+                "46": {
+                    "position": "29",
+                    "points": 0,
+                    "fastest_lap": "50.555",
+                    "team": "CRG",
+                    "drivers": [
+                        "Viktor_Gustafsson"
+                    ],
+                    "other_info": {
+                        "carNumber": "46",
+                        "equipment": "CRG / TM Kart / Maxxis",
+                        "gap": "33.169"
+                    }
+                },
+                "24": {
+                    "position": "30",
+                    "points": 0,
+                    "fastest_lap": "50.674",
+                    "team": "KR",
+                    "drivers": [
+                        "Kacper_Rajpold"
+                    ],
+                    "other_info": {
+                        "carNumber": "24",
+                        "equipment": "KR / IAME / Maxxis",
+                        "gap": "39.448"
+                    }
+                },
+                "16": {
+                    "position": "31",
+                    "points": 0,
+                    "fastest_lap": "50.351",
+                    "team": "Birel_ART",
+                    "drivers": [
+                        "Noah_Wolfe"
+                    ],
+                    "other_info": {
+                        "carNumber": "16",
+                        "equipment": "Birel Art / TM Kart / Maxxis",
+                        "gap": "1 Lap"
+                    }
+                },
+                "35": {
+                    "position": "32",
+                    "points": 0,
+                    "fastest_lap": "50.378",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Elliot_Kaczynski"
+                    ],
+                    "other_info": {
+                        "carNumber": "35",
+                        "equipment": "Tony Kart / TM Kart / Maxxis",
+                        "gap": "5 Laps"
+                    }
+                },
+                "64": {
+                    "position": "33",
+                    "points": 0,
+                    "fastest_lap": "50.918",
+                    "team": "KR",
+                    "drivers": [
+                        "Matthias_Vandekerckhove"
+                    ],
+                    "other_info": {
+                        "carNumber": "64",
+                        "equipment": "KR / IAME / Maxxis",
+                        "gap": "20 Laps"
+                    }
+                },
+                "17": {
+                    "position": "34",
+                    "points": 0,
+                    "fastest_lap": "52.805",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Oliver Fodor_Rasmussen"
+                    ],
+                    "other_info": {
+                        "carNumber": "17",
+                        "equipment": "Tony Kart / Vortex / Maxxis",
+                        "gap": "23 Laps"
+                    }
+                },
+                "3": {
+                    "position": "35",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Energy",
+                    "drivers": [
+                        "Matthew_Higgins"
+                    ],
+                    "other_info": {
+                        "carNumber": "3",
+                        "equipment": "Energy / IAME / Maxxis",
+                        "gap": "25 Laps"
+                    }
+                },
+                "33": {
+                    "position": "DSQ",
+                    "points": 0,
+                    "fastest_lap": "50.477",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Thomas_Pradier"
+                    ],
+                    "other_info": {
+                        "carNumber": "33",
+                        "equipment": "Tony Kart / Vortex / Maxxis",
+                        "gap": "DSQ"
                     }
                 }
             }

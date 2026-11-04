@@ -2,8 +2,8 @@
     "name": "FIA_Karting_World_Championship_OK",
     "events": {
         "Kristianstad": {
-            "Final": {
-                "Lorenzo_Travisanutto": {
+            "Qualifying": {
+                "10": {
                     "position": "1",
                     "points": 0,
                     "fastest_lap": "",
@@ -12,32 +12,1785 @@
                         "Lorenzo_Travisanutto"
                     ],
                     "other_info": {
-                        "class": "OK",
-                        "engine": "Parilla"
+                        "carNumber": "10",
+                        "equipment": "KR / Parilla / B'stone"
                     }
                 },
-                "Hannes_Janker": {
+                "6": {
                     "position": "2",
                     "points": 0,
                     "fastest_lap": "",
-                    "team": "",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "David_Vidales Ajenjo"
+                    ],
+                    "other_info": {
+                        "carNumber": "6",
+                        "equipment": "Tony Kart / Vortex / B'stone"
+                    }
+                },
+                "1": {
+                    "position": "3",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "KR",
                     "drivers": [
                         "Hannes_Janker"
                     ],
                     "other_info": {
-                        "class": "OK"
+                        "carNumber": "1",
+                        "equipment": "KR / Parilla / B'stone"
                     }
                 },
-                "Luigi_Coluccio": {
-                    "position": "3",
+                "12": {
+                    "position": "4",
                     "points": 0,
                     "fastest_lap": "",
-                    "team": "",
+                    "team": "Birel_ART",
                     "drivers": [
                         "Luigi_Coluccio"
                     ],
                     "other_info": {
-                        "class": "OK"
+                        "carNumber": "12",
+                        "equipment": "Birel Art / TM Racing / B'stone"
+                    }
+                },
+                "26": {
+                    "position": "5",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "KR",
+                    "drivers": [
+                        "Tijmen_van der Helm"
+                    ],
+                    "other_info": {
+                        "carNumber": "26",
+                        "equipment": "KR / Parilla / B'stone"
+                    }
+                },
+                "31": {
+                    "position": "6",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Noah_Milell"
+                    ],
+                    "other_info": {
+                        "carNumber": "31",
+                        "equipment": "Tony Kart / Vortex / B'stone"
+                    }
+                },
+                "2": {
+                    "position": "7",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "FA_Kart",
+                    "drivers": [
+                        "Harry_Thompson"
+                    ],
+                    "other_info": {
+                        "carNumber": "2",
+                        "equipment": "FA Kart / Vortex / B'stone"
+                    }
+                },
+                "8": {
+                    "position": "8",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "KR",
+                    "drivers": [
+                        "Dexter_Patterson"
+                    ],
+                    "other_info": {
+                        "carNumber": "8",
+                        "equipment": "KR / Parilla / B'stone"
+                    }
+                },
+                "76": {
+                    "position": "9",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Gillard",
+                    "drivers": [
+                        "Viktor_Öberg"
+                    ],
+                    "other_info": {
+                        "carNumber": "76",
+                        "equipment": "Gillard / Parilla / B'stone"
+                    }
+                },
+                "62": {
+                    "position": "10",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Praga",
+                    "drivers": [
+                        "Yannick_De Brabander"
+                    ],
+                    "other_info": {
+                        "carNumber": "62",
+                        "equipment": "Praga / Vortex / B'stone"
+                    }
+                },
+                "20": {
+                    "position": "11",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "CRG",
+                    "drivers": [
+                        "Andrea_Rosso"
+                    ],
+                    "other_info": {
+                        "carNumber": "20",
+                        "equipment": "CRG / TM Racing / B'stone"
+                    }
+                },
+                "24": {
+                    "position": "12",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Praga",
+                    "drivers": [
+                        "Jorge Carlos_Pescador"
+                    ],
+                    "other_info": {
+                        "carNumber": "24",
+                        "equipment": "Praga / Vortex / B'stone"
+                    }
+                },
+                "48": {
+                    "position": "13",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Alexey_Brizhan"
+                    ],
+                    "other_info": {
+                        "carNumber": "48",
+                        "equipment": "Tony Kart / Vortex / B'stone"
+                    }
+                },
+                "42": {
+                    "position": "14",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Viktor_Gustafsson"
+                    ],
+                    "other_info": {
+                        "carNumber": "42",
+                        "equipment": "Kosmic / Vortex / B'stone"
+                    }
+                },
+                "23": {
+                    "position": "15",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Karol_Basz"
+                    ],
+                    "other_info": {
+                        "carNumber": "23",
+                        "equipment": "Kosmic / Vortex / B'stone"
+                    }
+                },
+                "11": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "CRG",
+                    "drivers": [
+                        "Callum_Bradshaw"
+                    ],
+                    "other_info": {
+                        "carNumber": "11",
+                        "equipment": "CRG / TM Racing / B'stone"
+                    }
+                },
+                "41": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Exprit",
+                    "drivers": [
+                        "Glenn_van Berlo"
+                    ],
+                    "other_info": {
+                        "carNumber": "41",
+                        "equipment": "Exprit / Vortex / B'stone"
+                    }
+                },
+                "15": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Rasmus_Joutsimies"
+                    ],
+                    "other_info": {
+                        "carNumber": "15",
+                        "equipment": "Tony Kart / Vortex / B'stone"
+                    }
+                },
+                "54": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Aleksey_Sizov"
+                    ],
+                    "other_info": {
+                        "carNumber": "54",
+                        "equipment": "Tony Kart / TM Racing / B'stone"
+                    }
+                },
+                "107": {
+                    "position": "20",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Drago_Corse",
+                    "drivers": [
+                        "Ren_Sato"
+                    ],
+                    "other_info": {
+                        "carNumber": "107",
+                        "equipment": "Drago Corse / TM Racing / B'stone"
+                    }
+                },
+                "103": {
+                    "position": "21",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Praga",
+                    "drivers": [
+                        "Zsombor Bence_Kovacs"
+                    ],
+                    "other_info": {
+                        "carNumber": "103",
+                        "equipment": "Praga / Vortex / B'stone"
+                    }
+                },
+                "17": {
+                    "position": "22",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "CRG",
+                    "drivers": [
+                        "Kas_Haverkort"
+                    ],
+                    "other_info": {
+                        "carNumber": "17",
+                        "equipment": "CRG / TM Racing / B'stone"
+                    }
+                },
+                "32": {
+                    "position": "23",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Exprit",
+                    "drivers": [
+                        "Jonny_Edgar"
+                    ],
+                    "other_info": {
+                        "carNumber": "32",
+                        "equipment": "Exprit / TM Racing / B'stone"
+                    }
+                },
+                "5": {
+                    "position": "24",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Juho_Valtanen"
+                    ],
+                    "other_info": {
+                        "carNumber": "5",
+                        "equipment": "Kosmic / Vortex / B'stone"
+                    }
+                },
+                "36": {
+                    "position": "25",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "KR",
+                    "drivers": [
+                        "Leonardo_Marseglia"
+                    ],
+                    "other_info": {
+                        "carNumber": "36",
+                        "equipment": "KR / Parilla / B'stone"
+                    }
+                },
+                "52": {
+                    "position": "26",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Praga",
+                    "drivers": [
+                        "Pietro_Delli Guanti"
+                    ],
+                    "other_info": {
+                        "carNumber": "52",
+                        "equipment": "Praga / Vortex / B'stone"
+                    }
+                },
+                "95": {
+                    "position": "27",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "KR",
+                    "drivers": [
+                        "Matias_Salonen"
+                    ],
+                    "other_info": {
+                        "carNumber": "95",
+                        "equipment": "KR / Parilla / B'stone"
+                    }
+                },
+                "37": {
+                    "position": "28",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Axel_Saarniala"
+                    ],
+                    "other_info": {
+                        "carNumber": "37",
+                        "equipment": "Kosmic / Vortex / B'stone"
+                    }
+                },
+                "7": {
+                    "position": "29",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Roman_Staněk"
+                    ],
+                    "other_info": {
+                        "carNumber": "7",
+                        "equipment": "Kosmic / Vortex / B'stone"
+                    }
+                },
+                "101": {
+                    "position": "30",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "CRG",
+                    "drivers": [
+                        "Olin_Galli Vieira"
+                    ],
+                    "other_info": {
+                        "carNumber": "101",
+                        "equipment": "CRG / Parilla / B'stone"
+                    }
+                },
+                "3": {
+                    "position": "31",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "CRG",
+                    "drivers": [
+                        "Pedro_Hiltbrand"
+                    ],
+                    "other_info": {
+                        "carNumber": "3",
+                        "equipment": "CRG / TM Racing / B'stone"
+                    }
+                },
+                "16": {
+                    "position": "32",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "KR",
+                    "drivers": [
+                        "Danny_Keirle"
+                    ],
+                    "other_info": {
+                        "carNumber": "16",
+                        "equipment": "KR / Parilla / B'stone"
+                    }
+                },
+                "63": {
+                    "position": "33",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Gabriel_Nord"
+                    ],
+                    "other_info": {
+                        "carNumber": "63",
+                        "equipment": "Tony Kart / Vortex / B'stone"
+                    }
+                },
+                "57": {
+                    "position": "34",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Robin_Sario"
+                    ],
+                    "other_info": {
+                        "carNumber": "57",
+                        "equipment": "Kosmic / Vortex / B'stone"
+                    }
+                },
+                "21": {
+                    "position": "35",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Birel_ART",
+                    "drivers": [
+                        "Marijn_Kremers"
+                    ],
+                    "other_info": {
+                        "carNumber": "21",
+                        "equipment": "Birel Art / TM Racing / B'stone"
+                    }
+                },
+                "66": {
+                    "position": "36",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Birel_ART",
+                    "drivers": [
+                        "Gustas_Grinbergas"
+                    ],
+                    "other_info": {
+                        "carNumber": "66",
+                        "equipment": "Birel Art / TM Racing / B'stone"
+                    }
+                },
+                "53": {
+                    "position": "37",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "FA_Kart",
+                    "drivers": [
+                        "Genis_Civico Espona"
+                    ],
+                    "other_info": {
+                        "carNumber": "53",
+                        "equipment": "FA Kart / Parilla / B'stone"
+                    }
+                },
+                "92": {
+                    "position": "38",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Bastian_Buus"
+                    ],
+                    "other_info": {
+                        "carNumber": "92",
+                        "equipment": "Tony Kart / Vortex / B'stone"
+                    }
+                },
+                "14": {
+                    "position": "39",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "KR",
+                    "drivers": [
+                        "Mattia_Michelotto"
+                    ],
+                    "other_info": {
+                        "carNumber": "14",
+                        "equipment": "KR / Parilla / B'stone"
+                    }
+                },
+                "18": {
+                    "position": "40",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "KR",
+                    "drivers": [
+                        "Hugo_Sasse"
+                    ],
+                    "other_info": {
+                        "carNumber": "18",
+                        "equipment": "KR / Parilla / B'stone"
+                    }
+                },
+                "38": {
+                    "position": "41",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Antoine_Potty"
+                    ],
+                    "other_info": {
+                        "carNumber": "38",
+                        "equipment": "Kosmic / Parilla / B'stone"
+                    }
+                },
+                "108": {
+                    "position": "42",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Birel_ART",
+                    "drivers": [
+                        "Jesper_Sjöberg"
+                    ],
+                    "other_info": {
+                        "carNumber": "108",
+                        "equipment": "Birel Art / TM Racing / B'stone"
+                    }
+                },
+                "91": {
+                    "position": "43",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Isac_Valtonen"
+                    ],
+                    "other_info": {
+                        "carNumber": "91",
+                        "equipment": "Kosmic / Vortex / B'stone"
+                    }
+                },
+                "44": {
+                    "position": "44",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "David_Rozenfeld"
+                    ],
+                    "other_info": {
+                        "carNumber": "44",
+                        "equipment": "Kosmic / Vortex / B'stone"
+                    }
+                },
+                "69": {
+                    "position": "45",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Parolin",
+                    "drivers": [
+                        "Franco_Colapinto"
+                    ],
+                    "other_info": {
+                        "carNumber": "69",
+                        "equipment": "Parolin / TM Racing / B'stone"
+                    }
+                },
+                "65": {
+                    "position": "46",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "CRG",
+                    "drivers": [
+                        "Benjamin_Tornqvist Persson"
+                    ],
+                    "other_info": {
+                        "carNumber": "65",
+                        "equipment": "CRG / Vortex / B'stone"
+                    }
+                },
+                "39": {
+                    "position": "47",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "CRG",
+                    "drivers": [
+                        "Ayrton_Fontecha Martinez"
+                    ],
+                    "other_info": {
+                        "carNumber": "39",
+                        "equipment": "CRG / TM Racing / B'stone"
+                    }
+                },
+                "40": {
+                    "position": "48",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Frans-Emil_Saarijärvi"
+                    ],
+                    "other_info": {
+                        "carNumber": "40",
+                        "equipment": "Kosmic / Vortex / B'stone"
+                    }
+                },
+                "22": {
+                    "position": "49",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Birel_ART",
+                    "drivers": [
+                        "Vincent_Fraisse"
+                    ],
+                    "other_info": {
+                        "carNumber": "22",
+                        "equipment": "Birel Art / TM Racing / B'stone"
+                    }
+                },
+                "79": {
+                    "position": "50",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Sodi",
+                    "drivers": [
+                        "Alexander_Müller"
+                    ],
+                    "other_info": {
+                        "carNumber": "79",
+                        "equipment": "Sodi / Parilla / B'stone"
+                    }
+                },
+                "28": {
+                    "position": "51",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Praga",
+                    "drivers": [
+                        "Leonardo_Bizzotto"
+                    ],
+                    "other_info": {
+                        "carNumber": "28",
+                        "equipment": "Praga / Vortex / B'stone"
+                    }
+                },
+                "47": {
+                    "position": "52",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Aleksei_Nesov"
+                    ],
+                    "other_info": {
+                        "carNumber": "47",
+                        "equipment": "Tony Kart / Vortex / B'stone"
+                    }
+                },
+                "50": {
+                    "position": "53",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Parolin",
+                    "drivers": [
+                        "Lorenzo_Ferrari"
+                    ],
+                    "other_info": {
+                        "carNumber": "50",
+                        "equipment": "Parolin / TM Racing / B'stone"
+                    }
+                },
+                "27": {
+                    "position": "54",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Redspeed",
+                    "drivers": [
+                        "Franck_Chappard"
+                    ],
+                    "other_info": {
+                        "carNumber": "27",
+                        "equipment": "Redspeed / Parilla / B'stone"
+                    }
+                },
+                "25": {
+                    "position": "55",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Birel_ART",
+                    "drivers": [
+                        "Oliver_Hodgson"
+                    ],
+                    "other_info": {
+                        "carNumber": "25",
+                        "equipment": "Birel Art / Parilla / B'stone"
+                    }
+                },
+                "88": {
+                    "position": "56",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Robin_Knutsson"
+                    ],
+                    "other_info": {
+                        "carNumber": "88",
+                        "equipment": "Kosmic / Vortex / B'stone"
+                    }
+                },
+                "45": {
+                    "position": "57",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Exprit",
+                    "drivers": [
+                        "Matías_Zagazeta"
+                    ],
+                    "other_info": {
+                        "carNumber": "45",
+                        "equipment": "Exprit / Vortex / B'stone"
+                    }
+                },
+                "61": {
+                    "position": "58",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "CRG",
+                    "drivers": [
+                        "Francisco Javier_Sagrera Pont"
+                    ],
+                    "other_info": {
+                        "carNumber": "61",
+                        "equipment": "CRG / Parilla / B'stone"
+                    }
+                },
+                "90": {
+                    "position": "59",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Charlie_Andersen"
+                    ],
+                    "other_info": {
+                        "carNumber": "90",
+                        "equipment": "Kosmic / Vortex / B'stone"
+                    }
+                },
+                "67": {
+                    "position": "60",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Daiki_Sasaki"
+                    ],
+                    "other_info": {
+                        "carNumber": "67",
+                        "equipment": "Tony Kart / Vortex / B'stone"
+                    }
+                },
+                "80": {
+                    "position": "61",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Rasmus_Kortelainen"
+                    ],
+                    "other_info": {
+                        "carNumber": "80",
+                        "equipment": "Tony Kart / Vortex / B'stone"
+                    }
+                },
+                "84": {
+                    "position": "62",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Alex_Bergqvist"
+                    ],
+                    "other_info": {
+                        "carNumber": "84",
+                        "equipment": "Tony Kart / Vortex / B'stone"
+                    }
+                },
+                "73": {
+                    "position": "63",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Axel_Malmström"
+                    ],
+                    "other_info": {
+                        "carNumber": "73",
+                        "equipment": "Tony Kart / Vortex / B'stone"
+                    }
+                },
+                "71": {
+                    "position": "64",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Rasmus_Jansson"
+                    ],
+                    "other_info": {
+                        "carNumber": "71",
+                        "equipment": "Tony Kart / Vortex / B'stone"
+                    }
+                },
+                "89": {
+                    "position": "65",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Simon_Sjögren"
+                    ],
+                    "other_info": {
+                        "carNumber": "89",
+                        "equipment": "Kosmic / Vortex / B'stone"
+                    }
+                },
+                "33": {
+                    "position": "66",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Evan_Spenle"
+                    ],
+                    "other_info": {
+                        "carNumber": "33",
+                        "equipment": "Kosmic / Parilla / B'stone"
+                    }
+                },
+                "109": {
+                    "position": "67",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Kacper_Szczurek"
+                    ],
+                    "other_info": {
+                        "carNumber": "109",
+                        "equipment": "Kosmic / Vortex / B'stone"
+                    }
+                },
+                "60": {
+                    "position": "68",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Elie_Goldstein"
+                    ],
+                    "other_info": {
+                        "carNumber": "60",
+                        "equipment": "Kosmic / Parilla / B'stone"
+                    }
+                },
+                "93": {
+                    "position": "69",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Oliver Skov_Skjellerup"
+                    ],
+                    "other_info": {
+                        "carNumber": "93",
+                        "equipment": "Tony Kart / Vortex / B'stone"
+                    }
+                },
+                "106": {
+                    "position": "70",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Nicolai_Pedersen"
+                    ],
+                    "other_info": {
+                        "carNumber": "106",
+                        "equipment": "Kosmic / Vortex / B'stone"
+                    }
+                },
+                "64": {
+                    "position": "71",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Birel_ART",
+                    "drivers": [
+                        "Archie_Tillett"
+                    ],
+                    "other_info": {
+                        "carNumber": "64",
+                        "equipment": "Birel Art / Parilla / B'stone"
+                    }
+                },
+                "83": {
+                    "position": "72",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "KR",
+                    "drivers": [
+                        "Victor_Schoma"
+                    ],
+                    "other_info": {
+                        "carNumber": "83",
+                        "equipment": "KR / Parilla / B'stone"
+                    }
+                },
+                "105": {
+                    "position": "73",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Super_Winforce",
+                    "drivers": [
+                        "Sutumno_Tanapongpan"
+                    ],
+                    "other_info": {
+                        "carNumber": "105",
+                        "equipment": "Super Winforce / Parilla / B'stone"
+                    }
+                },
+                "68": {
+                    "position": "74",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Comp",
+                    "drivers": [
+                        "Dante_Yu"
+                    ],
+                    "other_info": {
+                        "carNumber": "68",
+                        "equipment": "Comp / Vortex / B'stone"
+                    }
+                },
+                "43": {
+                    "position": "75",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Praga",
+                    "drivers": [
+                        "Jasin_Ferati"
+                    ],
+                    "other_info": {
+                        "carNumber": "43",
+                        "equipment": "Praga / Vortex / B'stone"
+                    }
+                },
+                "49": {
+                    "position": "76",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Luka_Nurmi"
+                    ],
+                    "other_info": {
+                        "carNumber": "49",
+                        "equipment": "Tony Kart / Vortex / B'stone"
+                    }
+                },
+                "70": {
+                    "position": "77",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Lev_Lomko"
+                    ],
+                    "other_info": {
+                        "carNumber": "70",
+                        "equipment": "Kosmic / Parilla / B'stone"
+                    }
+                },
+                "46": {
+                    "position": "78",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "KR",
+                    "drivers": [
+                        "Felix_Arnold"
+                    ],
+                    "other_info": {
+                        "carNumber": "46",
+                        "equipment": "KR / Parilla / B'stone"
+                    }
+                },
+                "34": {
+                    "position": "79",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Nikolas_Pirttilahti"
+                    ],
+                    "other_info": {
+                        "carNumber": "34",
+                        "equipment": "Kosmic / Vortex / B'stone"
+                    }
+                },
+                "4": {
+                    "position": "80",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "FA_Kart",
+                    "drivers": [
+                        "Zane_Maloney"
+                    ],
+                    "other_info": {
+                        "carNumber": "4",
+                        "equipment": "FA Kart / Vortex / B'stone"
+                    }
+                },
+                "75": {
+                    "position": "81",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Hugo_Lindström"
+                    ],
+                    "other_info": {
+                        "carNumber": "75",
+                        "equipment": "Kosmic / Vortex / B'stone"
+                    }
+                },
+                "55": {
+                    "position": "82",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Fabian_Almqvist"
+                    ],
+                    "other_info": {
+                        "carNumber": "55",
+                        "equipment": "Tony Kart / Vortex / B'stone"
+                    }
+                },
+                "74": {
+                    "position": "83",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Energy_Corse",
+                    "drivers": [
+                        "Artem_Kosarev"
+                    ],
+                    "other_info": {
+                        "carNumber": "74",
+                        "equipment": "Energy Corse / TM Racing / B'stone"
+                    }
+                },
+                "98": {
+                    "position": "84",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "KR",
+                    "drivers": [
+                        "Kamil_Donicz"
+                    ],
+                    "other_info": {
+                        "carNumber": "98",
+                        "equipment": "KR / Parilla / B'stone"
+                    }
+                },
+                "72": {
+                    "position": "85",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Birel_ART",
+                    "drivers": [
+                        "Matej_Kacovsky"
+                    ],
+                    "other_info": {
+                        "carNumber": "72",
+                        "equipment": "Birel Art / TM Racing / B'stone"
+                    }
+                },
+                "100": {
+                    "position": "86",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Haase-Corsa",
+                    "drivers": [
+                        "Daniel_Träger"
+                    ],
+                    "other_info": {
+                        "carNumber": "100",
+                        "equipment": "Haase-Corsa / Parilla / B'stone"
+                    }
+                },
+                "78": {
+                    "position": "87",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Sodi",
+                    "drivers": [
+                        "Alexander_Hartvig"
+                    ],
+                    "other_info": {
+                        "carNumber": "78",
+                        "equipment": "Sodi / Parilla / B'stone"
+                    }
+                },
+                "96": {
+                    "position": "88",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Sodi",
+                    "drivers": [
+                        "Luke Brandon_Füngeling"
+                    ],
+                    "other_info": {
+                        "carNumber": "96",
+                        "equipment": "Sodi / Parilla / B'stone"
+                    }
+                },
+                "94": {
+                    "position": "89",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "KR",
+                    "drivers": [
+                        "Toni_Herranen"
+                    ],
+                    "other_info": {
+                        "carNumber": "94",
+                        "equipment": "KR / Parilla / B'stone"
+                    }
+                },
+                "110": {
+                    "position": "90",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Parolin",
+                    "drivers": [
+                        "Nicolas_Filter"
+                    ],
+                    "other_info": {
+                        "carNumber": "110",
+                        "equipment": "Parolin / TM Racing / B'stone"
+                    }
+                },
+                "30": {
+                    "position": "91",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Exprit",
+                    "drivers": [
+                        "Elias_Seppänen"
+                    ],
+                    "other_info": {
+                        "carNumber": "30",
+                        "equipment": "Exprit / TM Racing / B'stone"
+                    }
+                },
+                "58": {
+                    "position": "92",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "KR",
+                    "drivers": [
+                        "Carl-Anton_Gerner"
+                    ],
+                    "other_info": {
+                        "carNumber": "58",
+                        "equipment": "KR / Parilla / B'stone"
+                    }
+                },
+                "77": {
+                    "position": "93",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "FA_Kart",
+                    "drivers": [
+                        "Jenny_Jakobsen"
+                    ],
+                    "other_info": {
+                        "carNumber": "77",
+                        "equipment": "FA Kart / TM Racing / B'stone"
+                    }
+                },
+                "104": {
+                    "position": "94",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Gento_Miyashita"
+                    ],
+                    "other_info": {
+                        "carNumber": "104",
+                        "equipment": "Tony Kart / Vortex / B'stone"
+                    }
+                },
+                "81": {
+                    "position": "95",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Niko_Perttala"
+                    ],
+                    "other_info": {
+                        "carNumber": "81",
+                        "equipment": "Tony Kart / Vortex / B'stone"
+                    }
+                },
+                "86": {
+                    "position": "96",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Cecilia_Hedqvist"
+                    ],
+                    "other_info": {
+                        "carNumber": "86",
+                        "equipment": "Kosmic / Vortex / B'stone"
+                    }
+                },
+                "99": {
+                    "position": "97",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Mach_1",
+                    "drivers": [
+                        "Tim_Albertsson"
+                    ],
+                    "other_info": {
+                        "carNumber": "99",
+                        "equipment": "Mach 1 / Parilla / B'stone"
+                    }
+                },
+                "85": {
+                    "position": "98",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Maja_Hallén Fellenius"
+                    ],
+                    "other_info": {
+                        "carNumber": "85",
+                        "equipment": "Kosmic / Vortex / B'stone"
+                    }
+                },
+                "97": {
+                    "position": "99",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Riku_Salmenautio"
+                    ],
+                    "other_info": {
+                        "carNumber": "97",
+                        "equipment": "Tony Kart / Vortex / B'stone"
+                    }
+                },
+                "35": {
+                    "position": "100",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Birel_ART",
+                    "drivers": [
+                        "Jules_Mettetal"
+                    ],
+                    "other_info": {
+                        "carNumber": "35",
+                        "equipment": "Birel Art / TM Racing / B'stone"
+                    }
+                },
+                "87": {
+                    "position": "101",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Oscar_Hedqvist"
+                    ],
+                    "other_info": {
+                        "carNumber": "87",
+                        "equipment": "Tony Kart / Vortex / B'stone"
+                    }
+                }
+            },
+            "Final": {
+                "10": {
+                    "position": "1",
+                    "points": 0,
+                    "fastest_lap": "50.855",
+                    "team": "KR",
+                    "drivers": [
+                        "Lorenzo_Travisanutto"
+                    ],
+                    "other_info": {
+                        "carNumber": "10",
+                        "equipment": "KR / Parilla / B'stone"
+                    }
+                },
+                "1": {
+                    "position": "2",
+                    "points": 0,
+                    "fastest_lap": "50.788",
+                    "team": "KR",
+                    "drivers": [
+                        "Hannes_Janker"
+                    ],
+                    "other_info": {
+                        "carNumber": "1",
+                        "equipment": "KR / Parilla / B'stone",
+                        "gap": "0.446"
+                    }
+                },
+                "12": {
+                    "position": "3",
+                    "points": 0,
+                    "fastest_lap": "50.981",
+                    "team": "Birel_ART",
+                    "drivers": [
+                        "Luigi_Coluccio"
+                    ],
+                    "other_info": {
+                        "carNumber": "12",
+                        "equipment": "Birel Art / TM Racing / B'stone",
+                        "gap": "3.389"
+                    }
+                },
+                "8": {
+                    "position": "4",
+                    "points": 0,
+                    "fastest_lap": "50.951",
+                    "team": "KR",
+                    "drivers": [
+                        "Dexter_Patterson"
+                    ],
+                    "other_info": {
+                        "carNumber": "8",
+                        "equipment": "KR / Parilla / B'stone",
+                        "gap": "7.631"
+                    }
+                },
+                "31": {
+                    "position": "5",
+                    "points": 0,
+                    "fastest_lap": "51.017",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Noah_Milell"
+                    ],
+                    "other_info": {
+                        "carNumber": "31",
+                        "equipment": "Tony Kart / Vortex / B'stone",
+                        "gap": "10.336"
+                    }
+                },
+                "11": {
+                    "position": "6",
+                    "points": 0,
+                    "fastest_lap": "51.063",
+                    "team": "CRG",
+                    "drivers": [
+                        "Callum_Bradshaw"
+                    ],
+                    "other_info": {
+                        "carNumber": "11",
+                        "equipment": "CRG / TM Racing / B'stone",
+                        "gap": "13.508"
+                    }
+                },
+                "23": {
+                    "position": "7",
+                    "points": 0,
+                    "fastest_lap": "51.110",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Karol_Basz"
+                    ],
+                    "other_info": {
+                        "carNumber": "23",
+                        "equipment": "Kosmic / Vortex / B'stone",
+                        "gap": "13.644"
+                    }
+                },
+                "6": {
+                    "position": "8",
+                    "points": 0,
+                    "fastest_lap": "51.129",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "David_Vidales Ajenjo"
+                    ],
+                    "other_info": {
+                        "carNumber": "6",
+                        "equipment": "Tony Kart / Vortex / B'stone",
+                        "gap": "14.217"
+                    }
+                },
+                "101": {
+                    "position": "9",
+                    "points": 0,
+                    "fastest_lap": "51.121",
+                    "team": "CRG",
+                    "drivers": [
+                        "Olin_Galli Vieira"
+                    ],
+                    "other_info": {
+                        "carNumber": "101",
+                        "equipment": "CRG / Parilla / B'stone",
+                        "gap": "14.970"
+                    }
+                },
+                "26": {
+                    "position": "10",
+                    "points": 0,
+                    "fastest_lap": "51.171",
+                    "team": "KR",
+                    "drivers": [
+                        "Tijmen_van der Helm"
+                    ],
+                    "other_info": {
+                        "carNumber": "26",
+                        "equipment": "KR / Parilla / B'stone",
+                        "gap": "15.404"
+                    }
+                },
+                "42": {
+                    "position": "11",
+                    "points": 0,
+                    "fastest_lap": "51.135",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Viktor_Gustafsson"
+                    ],
+                    "other_info": {
+                        "carNumber": "42",
+                        "equipment": "Kosmic / Vortex / B'stone",
+                        "gap": "17.238"
+                    }
+                },
+                "62": {
+                    "position": "12",
+                    "points": 0,
+                    "fastest_lap": "51.180",
+                    "team": "Praga",
+                    "drivers": [
+                        "Yannick_De Brabander"
+                    ],
+                    "other_info": {
+                        "carNumber": "62",
+                        "equipment": "Praga / Vortex / B'stone",
+                        "gap": "17.638"
+                    }
+                },
+                "3": {
+                    "position": "13",
+                    "points": 0,
+                    "fastest_lap": "51.105",
+                    "team": "CRG",
+                    "drivers": [
+                        "Pedro_Hiltbrand"
+                    ],
+                    "other_info": {
+                        "carNumber": "3",
+                        "equipment": "CRG / TM Racing / B'stone",
+                        "gap": "17.735"
+                    }
+                },
+                "32": {
+                    "position": "14",
+                    "points": 0,
+                    "fastest_lap": "50.963",
+                    "team": "Exprit",
+                    "drivers": [
+                        "Jonny_Edgar"
+                    ],
+                    "other_info": {
+                        "carNumber": "32",
+                        "equipment": "Exprit / TM Racing / B'stone",
+                        "gap": "19.421"
+                    }
+                },
+                "41": {
+                    "position": "15",
+                    "points": 0,
+                    "fastest_lap": "51.162",
+                    "team": "Exprit",
+                    "drivers": [
+                        "Glenn_van Berlo"
+                    ],
+                    "other_info": {
+                        "carNumber": "41",
+                        "equipment": "Exprit / Vortex / B'stone",
+                        "gap": "20.093"
+                    }
+                },
+                "48": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "51.042",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Alexey_Brizhan"
+                    ],
+                    "other_info": {
+                        "carNumber": "48",
+                        "equipment": "Tony Kart / Vortex / B'stone",
+                        "gap": "20.373"
+                    }
+                },
+                "36": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "51.146",
+                    "team": "KR",
+                    "drivers": [
+                        "Leonardo_Marseglia"
+                    ],
+                    "other_info": {
+                        "carNumber": "36",
+                        "equipment": "KR / Parilla / B'stone",
+                        "gap": "21.548"
+                    }
+                },
+                "24": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "51.219",
+                    "team": "Praga",
+                    "drivers": [
+                        "Jorge Carlos_Pescador"
+                    ],
+                    "other_info": {
+                        "carNumber": "24",
+                        "equipment": "Praga / Vortex / B'stone",
+                        "gap": "21.872"
+                    }
+                },
+                "54": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "51.222",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Aleksey_Sizov"
+                    ],
+                    "other_info": {
+                        "carNumber": "54",
+                        "equipment": "Tony Kart / TM Racing / B'stone",
+                        "gap": "22.552"
+                    }
+                },
+                "103": {
+                    "position": "20",
+                    "points": 0,
+                    "fastest_lap": "51.322",
+                    "team": "Praga",
+                    "drivers": [
+                        "Zsombor Bence_Kovacs"
+                    ],
+                    "other_info": {
+                        "carNumber": "103",
+                        "equipment": "Praga / Vortex / B'stone",
+                        "gap": "22.958"
+                    }
+                },
+                "16": {
+                    "position": "21",
+                    "points": 0,
+                    "fastest_lap": "51.253",
+                    "team": "KR",
+                    "drivers": [
+                        "Danny_Keirle"
+                    ],
+                    "other_info": {
+                        "carNumber": "16",
+                        "equipment": "KR / Parilla / B'stone",
+                        "gap": "23.587"
+                    }
+                },
+                "95": {
+                    "position": "22",
+                    "points": 0,
+                    "fastest_lap": "51.225",
+                    "team": "KR",
+                    "drivers": [
+                        "Matias_Salonen"
+                    ],
+                    "other_info": {
+                        "carNumber": "95",
+                        "equipment": "KR / Parilla / B'stone",
+                        "gap": "23.732"
+                    }
+                },
+                "107": {
+                    "position": "23",
+                    "points": 0,
+                    "fastest_lap": "51.169",
+                    "team": "Drago_Corse",
+                    "drivers": [
+                        "Ren_Sato"
+                    ],
+                    "other_info": {
+                        "carNumber": "107",
+                        "equipment": "Drago Corse / TM Racing / B'stone",
+                        "gap": "23.886"
+                    }
+                },
+                "52": {
+                    "position": "24",
+                    "points": 0,
+                    "fastest_lap": "51.402",
+                    "team": "Praga",
+                    "drivers": [
+                        "Pietro_Delli Guanti"
+                    ],
+                    "other_info": {
+                        "carNumber": "52",
+                        "equipment": "Praga / Vortex / B'stone",
+                        "gap": "26.407"
+                    }
+                },
+                "15": {
+                    "position": "25",
+                    "points": 0,
+                    "fastest_lap": "51.029",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Rasmus_Joutsimies"
+                    ],
+                    "other_info": {
+                        "carNumber": "15",
+                        "equipment": "Tony Kart / Vortex / B'stone",
+                        "gap": "27.397"
+                    }
+                },
+                "7": {
+                    "position": "26",
+                    "points": 0,
+                    "fastest_lap": "51.235",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Roman_Staněk"
+                    ],
+                    "other_info": {
+                        "carNumber": "7",
+                        "equipment": "Kosmic / Vortex / B'stone",
+                        "gap": "30.039"
+                    }
+                },
+                "17": {
+                    "position": "27",
+                    "points": 0,
+                    "fastest_lap": "51.119",
+                    "team": "CRG",
+                    "drivers": [
+                        "Kas_Haverkort"
+                    ],
+                    "other_info": {
+                        "carNumber": "17",
+                        "equipment": "CRG / TM Racing / B'stone",
+                        "gap": "30.247"
+                    }
+                },
+                "37": {
+                    "position": "28",
+                    "points": 0,
+                    "fastest_lap": "51.188",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Axel_Saarniala"
+                    ],
+                    "other_info": {
+                        "carNumber": "37",
+                        "equipment": "Kosmic / Vortex / B'stone",
+                        "gap": "31.978"
+                    }
+                },
+                "76": {
+                    "position": "29",
+                    "points": 0,
+                    "fastest_lap": "51.164",
+                    "team": "Gillard",
+                    "drivers": [
+                        "Viktor_Öberg"
+                    ],
+                    "other_info": {
+                        "carNumber": "76",
+                        "equipment": "Gillard / Parilla / B'stone",
+                        "gap": "34.792"
+                    }
+                },
+                "2": {
+                    "position": "30",
+                    "points": 0,
+                    "fastest_lap": "51.075",
+                    "team": "FA_Kart",
+                    "drivers": [
+                        "Harry_Thompson"
+                    ],
+                    "other_info": {
+                        "carNumber": "2",
+                        "equipment": "FA Kart / Vortex / B'stone",
+                        "gap": "9 Laps"
+                    }
+                },
+                "20": {
+                    "position": "31",
+                    "points": 0,
+                    "fastest_lap": "51.256",
+                    "team": "CRG",
+                    "drivers": [
+                        "Andrea_Rosso"
+                    ],
+                    "other_info": {
+                        "carNumber": "20",
+                        "equipment": "CRG / TM Racing / B'stone",
+                        "gap": "9 Laps"
+                    }
+                },
+                "57": {
+                    "position": "32",
+                    "points": 0,
+                    "fastest_lap": "51.285",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Robin_Sario"
+                    ],
+                    "other_info": {
+                        "carNumber": "57",
+                        "equipment": "Kosmic / Vortex / B'stone",
+                        "gap": "14 Laps"
+                    }
+                },
+                "63": {
+                    "position": "33",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Gabriel_Nord"
+                    ],
+                    "other_info": {
+                        "carNumber": "63",
+                        "equipment": "Tony Kart / Vortex / B'stone",
+                        "gap": "25 Laps"
+                    }
+                },
+                "5": {
+                    "position": "DSQ",
+                    "points": 0,
+                    "fastest_lap": "51.197",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Juho_Valtanen"
+                    ],
+                    "other_info": {
+                        "carNumber": "5",
+                        "equipment": "Kosmic / Vortex / B'stone",
+                        "gap": "DSQ"
                     }
                 }
             }
