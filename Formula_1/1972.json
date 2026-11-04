@@ -1,7 +1,7 @@
 {
     "name": "Formula_1",
     "events": {
-        "Argentine-grand-prix": {
+        "Argentine Grand Prix": {
             "Qualifying": {
                 "2": {
                     "position": "1",
@@ -311,7 +311,7 @@
             "Race": {
                 "21": {
                     "position": "1",
-                    "points": 0,
+                    "points": 9,
                     "fastest_lap": "1:13.660",
                     "team": "elf_team_tyrrell",
                     "drivers": [
@@ -322,12 +322,13 @@
                         "laps": "95",
                         "speed": "161.63",
                         "fastestLap": "1:13.660",
-                        "lap_of_fastestLap": "25"
+                        "lap_of_fastestLap": "25",
+                        "grid": "2"
                     }
                 },
                 "17": {
                     "position": "2",
-                    "points": 0,
+                    "points": 6,
                     "fastest_lap": "",
                     "team": "McLaren",
                     "drivers": [
@@ -338,12 +339,13 @@
                         "laps": "95",
                         "gap": "+ 25.960",
                         "interval": "+ 25.960",
-                        "speed": "161.04"
+                        "speed": "161.04",
+                        "grid": "4"
                     }
                 },
                 "8": {
                     "position": "3",
-                    "points": 0,
+                    "points": 4,
                     "fastest_lap": "",
                     "team": "Ferrari",
                     "drivers": [
@@ -354,12 +356,13 @@
                         "laps": "95",
                         "gap": "+ 59.390",
                         "interval": "+ 33.430",
-                        "speed": "160.29"
+                        "speed": "160.29",
+                        "grid": "8"
                     }
                 },
                 "9": {
                     "position": "4",
-                    "points": 0,
+                    "points": 3,
                     "fastest_lap": "",
                     "team": "Ferrari",
                     "drivers": [
@@ -370,12 +373,13 @@
                         "laps": "95",
                         "gap": "+ 1:06.720",
                         "interval": "+ 7.330",
-                        "speed": "160.12"
+                        "speed": "160.12",
+                        "grid": "6"
                     }
                 },
                 "19": {
                     "position": "5",
-                    "points": 0,
+                    "points": 2,
                     "fastest_lap": "",
                     "team": "brooke_bond_oxo-rob_walker-team_surtees",
                     "drivers": [
@@ -386,12 +390,13 @@
                         "laps": "95",
                         "gap": "+ 1:09.110",
                         "interval": "+ 2.390",
-                        "speed": "160.07"
+                        "speed": "160.07",
+                        "grid": "11"
                     }
                 },
                 "14": {
                     "position": "6",
-                    "points": 0,
+                    "points": 1,
                     "fastest_lap": "",
                     "team": "stp_march_racing_team",
                     "drivers": [
@@ -402,7 +407,8 @@
                         "laps": "94",
                         "gap": "1 Lap",
                         "interval": "1 Lap",
-                        "speed": "159.17"
+                        "speed": "159.17",
+                        "grid": "10"
                     }
                 },
                 "2": {
@@ -418,7 +424,8 @@
                         "laps": "93",
                         "gap": "2 Laps",
                         "interval": "1 Lap",
-                        "speed": "158.22"
+                        "speed": "158.22",
+                        "grid": "1"
                     }
                 },
                 "23": {
@@ -434,7 +441,8 @@
                         "laps": "93",
                         "gap": "2 Laps",
                         "interval": "+ 36.820",
-                        "speed": "157.4"
+                        "speed": "157.4",
+                        "grid": "15"
                     }
                 },
                 "3": {
@@ -450,7 +458,8 @@
                         "laps": "93",
                         "gap": "2 Laps",
                         "interval": "+ 4.190",
-                        "speed": "157.31"
+                        "speed": "157.31",
+                        "grid": "13"
                     }
                 },
                 "7": {
@@ -466,7 +475,8 @@
                         "laps": "93",
                         "gap": "2 Laps",
                         "interval": "+ 13.630",
-                        "speed": "157.01"
+                        "speed": "157.01",
+                        "grid": "19"
                     }
                 },
                 "15": {
@@ -482,7 +492,8 @@
                         "laps": "93",
                         "gap": "2 Laps",
                         "interval": "+ 0.470",
-                        "speed": "157"
+                        "speed": "157",
+                        "grid": "22"
                     }
                 },
                 "11": {
@@ -495,7 +506,8 @@
                     ],
                     "other_info": {
                         "carNumber": "11",
-                        "laps": "61"
+                        "laps": "61",
+                        "grid": "5"
                     }
                 },
                 "22": {
@@ -508,7 +520,8 @@
                     ],
                     "other_info": {
                         "carNumber": "22",
-                        "laps": "59"
+                        "laps": "59",
+                        "grid": "17"
                     }
                 },
                 "4": {
@@ -521,7 +534,8 @@
                     ],
                     "other_info": {
                         "carNumber": "4",
-                        "laps": "59"
+                        "laps": "59",
+                        "grid": "7"
                     }
                 },
                 "18": {
@@ -534,7 +548,8 @@
                     ],
                     "other_info": {
                         "carNumber": "18",
-                        "laps": "49"
+                        "laps": "49",
+                        "grid": "3"
                     }
                 },
                 "10": {
@@ -547,7 +562,8 @@
                     ],
                     "other_info": {
                         "carNumber": "10",
-                        "laps": "20"
+                        "laps": "20",
+                        "grid": "9"
                     }
                 },
                 "20": {
@@ -560,7 +576,8 @@
                     ],
                     "other_info": {
                         "carNumber": "20",
-                        "laps": "11"
+                        "laps": "11",
+                        "grid": "14"
                     }
                 },
                 "1": {
@@ -573,7 +590,8 @@
                     ],
                     "other_info": {
                         "carNumber": "1",
-                        "laps": "11"
+                        "laps": "11",
+                        "grid": "16"
                     }
                 },
                 "12": {
@@ -586,7 +604,8 @@
                     ],
                     "other_info": {
                         "carNumber": "12",
-                        "laps": "8"
+                        "laps": "8",
+                        "grid": "20"
                     }
                 },
                 "5": {
@@ -599,7 +618,8 @@
                     ],
                     "other_info": {
                         "carNumber": "5",
-                        "laps": "1"
+                        "laps": "1",
+                        "grid": "18"
                     }
                 },
                 "6": {
@@ -612,7 +632,8 @@
                     ],
                     "other_info": {
                         "carNumber": "6",
-                        "laps": "1"
+                        "laps": "1",
+                        "grid": "21"
                     }
                 },
                 "16": {
@@ -624,12 +645,13 @@
                         "Chris_Amon"
                     ],
                     "other_info": {
-                        "carNumber": "16"
+                        "carNumber": "16",
+                        "grid": "12"
                     }
                 }
             }
         },
-        "South-african-grand-prix": {
+        "South African Grand Prix": {
             "Qualifying": {
                 "1": {
                     "position": "1",
@@ -1008,7 +1030,7 @@
             "Race": {
                 "12": {
                     "position": "1",
-                    "points": 0,
+                    "points": 9,
                     "fastest_lap": "1:19.300",
                     "team": "McLaren",
                     "drivers": [
@@ -1018,12 +1040,13 @@
                         "carNumber": "12",
                         "laps": "79",
                         "speed": "183.8",
-                        "fastestLap": "1:19.300"
+                        "fastestLap": "1:19.300",
+                        "grid": "5"
                     }
                 },
                 "8": {
                     "position": "2",
-                    "points": 0,
+                    "points": 6,
                     "fastest_lap": "1:19.100",
                     "team": "lotus",
                     "drivers": [
@@ -1035,12 +1058,13 @@
                         "gap": "+ 14.100",
                         "interval": "+ 14.100",
                         "speed": "183.4",
-                        "fastestLap": "1:19.100"
+                        "fastestLap": "1:19.100",
+                        "grid": "3"
                     }
                 },
                 "14": {
                     "position": "3",
-                    "points": 0,
+                    "points": 4,
                     "fastest_lap": "1:19.500",
                     "team": "McLaren",
                     "drivers": [
@@ -1052,12 +1076,13 @@
                         "gap": "+ 25.800",
                         "interval": "+ 11.700",
                         "speed": "183.1",
-                        "fastestLap": "1:19.500"
+                        "fastestLap": "1:19.500",
+                        "grid": "12"
                     }
                 },
                 "7": {
                     "position": "4",
-                    "points": 0,
+                    "points": 3,
                     "fastest_lap": "",
                     "team": "Ferrari",
                     "drivers": [
@@ -1068,12 +1093,13 @@
                         "laps": "79",
                         "gap": "+ 38.500",
                         "interval": "+ 12.700",
-                        "speed": "182.7"
+                        "speed": "182.7",
+                        "grid": "6"
                     }
                 },
                 "3": {
                     "position": "5",
-                    "points": 0,
+                    "points": 2,
                     "fastest_lap": "1:19.500",
                     "team": "stp_march_racing_team",
                     "drivers": [
@@ -1085,12 +1111,13 @@
                         "gap": "+ 49.000",
                         "interval": "+ 10.500",
                         "speed": "182.4",
-                        "fastestLap": "1:19.500"
+                        "fastestLap": "1:19.500",
+                        "grid": "9"
                     }
                 },
                 "19": {
                     "position": "6",
-                    "points": 0,
+                    "points": 1,
                     "fastest_lap": "",
                     "team": "motor_racing_developments_ltd",
                     "drivers": [
@@ -1101,7 +1128,8 @@
                         "laps": "78",
                         "gap": "1 Lap",
                         "interval": "1 Lap",
-                        "speed": "181.4"
+                        "speed": "181.4",
+                        "grid": "14"
                     }
                 },
                 "4": {
@@ -1117,7 +1145,8 @@
                         "laps": "78",
                         "gap": "1 Lap",
                         "interval": "+ 0.300",
-                        "speed": "181.3"
+                        "speed": "181.3",
+                        "grid": "21"
                     }
                 },
                 "5": {
@@ -1133,7 +1162,8 @@
                         "laps": "78",
                         "gap": "1 Lap",
                         "interval": "+ 19.900",
-                        "speed": "180.8"
+                        "speed": "180.8",
+                        "grid": "7"
                     }
                 },
                 "2": {
@@ -1149,7 +1179,8 @@
                         "laps": "78",
                         "gap": "1 Lap",
                         "interval": "+ 33.700",
-                        "speed": "179.8"
+                        "speed": "179.8",
+                        "grid": "8"
                     }
                 },
                 "9": {
@@ -1165,7 +1196,8 @@
                         "laps": "78",
                         "gap": "1 Lap",
                         "interval": "+ 9.500",
-                        "speed": "179.6"
+                        "speed": "179.6",
+                        "grid": "19"
                     }
                 },
                 "21": {
@@ -1182,7 +1214,8 @@
                         "gap": "1 Lap",
                         "interval": "+ 4.500",
                         "speed": "179.4",
-                        "fastestLap": "1:19.300"
+                        "fastestLap": "1:19.300",
+                        "grid": "22"
                     }
                 },
                 "6": {
@@ -1198,7 +1231,8 @@
                         "laps": "77",
                         "gap": "2 Laps",
                         "interval": "1 Lap",
-                        "speed": "177.8"
+                        "speed": "177.8",
+                        "grid": "2"
                     }
                 },
                 "25": {
@@ -1214,7 +1248,8 @@
                         "laps": "77",
                         "gap": "2 Laps",
                         "interval": "+ 5.900",
-                        "speed": "177.6"
+                        "speed": "177.6",
+                        "grid": "25"
                     }
                 },
                 "24": {
@@ -1230,7 +1265,8 @@
                         "laps": "76",
                         "gap": "3 Laps",
                         "interval": "1 Lap",
-                        "speed": "175"
+                        "speed": "175",
+                        "grid": "23"
                     }
                 },
                 "15": {
@@ -1247,7 +1283,8 @@
                         "gap": "3 Laps",
                         "interval": "+ 10.800",
                         "speed": "174.7",
-                        "fastestLap": "1:19.100"
+                        "fastestLap": "1:19.100",
+                        "grid": "13"
                     }
                 },
                 "27": {
@@ -1262,7 +1299,8 @@
                         "carNumber": "27",
                         "laps": "73",
                         "gap": "6 Laps",
-                        "interval": "3 Laps"
+                        "interval": "3 Laps",
+                        "grid": "26"
                     }
                 },
                 "22": {
@@ -1278,11 +1316,12 @@
                         "laps": "73",
                         "gap": "6 Laps",
                         "interval": "+ 1:46:28.100",
-                        "speed": "168.8"
+                        "speed": "168.8",
+                        "grid": "24"
                     }
                 },
                 "23": {
-                    "position": "NC",
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "marlboro_brm",
@@ -1291,11 +1330,12 @@
                     ],
                     "other_info": {
                         "carNumber": "23",
-                        "laps": "70"
+                        "laps": "70",
+                        "grid": "16"
                     }
                 },
                 "18": {
-                    "position": "NC",
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "brooke_bond_oxo-rob_walker-team_surtees",
@@ -1304,11 +1344,12 @@
                     ],
                     "other_info": {
                         "carNumber": "18",
-                        "laps": "69"
+                        "laps": "69",
+                        "grid": "20"
                     }
                 },
                 "11": {
-                    "position": "NC",
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "1:19.100",
                     "team": "marlboro_brm",
@@ -1318,7 +1359,8 @@
                     "other_info": {
                         "carNumber": "11",
                         "laps": "65",
-                        "fastestLap": "1:19.100"
+                        "fastestLap": "1:19.100",
+                        "grid": "18"
                     }
                 },
                 "10": {
@@ -1332,7 +1374,8 @@
                     "other_info": {
                         "carNumber": "10",
                         "laps": "61",
-                        "fastestLap": "1:19.200"
+                        "fastestLap": "1:19.200",
+                        "grid": "11"
                     }
                 },
                 "1": {
@@ -1346,7 +1389,8 @@
                     "other_info": {
                         "carNumber": "1",
                         "laps": "45",
-                        "fastestLap": "1:19.100"
+                        "fastestLap": "1:19.100",
+                        "grid": "1"
                     }
                 },
                 "17": {
@@ -1361,7 +1405,8 @@
                         "carNumber": "17",
                         "laps": "28",
                         "fastestLap": "1:18.900",
-                        "lap_of_fastestLap": "20"
+                        "lap_of_fastestLap": "20",
+                        "grid": "4"
                     }
                 },
                 "20": {
@@ -1374,7 +1419,8 @@
                     ],
                     "other_info": {
                         "carNumber": "20",
-                        "laps": "27"
+                        "laps": "27",
+                        "grid": "15"
                     }
                 },
                 "16": {
@@ -1387,7 +1433,8 @@
                     ],
                     "other_info": {
                         "carNumber": "16",
-                        "laps": "9"
+                        "laps": "9",
+                        "grid": "10"
                     }
                 },
                 "26": {
@@ -1400,12 +1447,13 @@
                     ],
                     "other_info": {
                         "carNumber": "26",
-                        "laps": "2"
+                        "laps": "2",
+                        "grid": "17"
                     }
                 }
             }
         },
-        "Spanish-grand-prix": {
+        "Spanish Grand Prix": {
             "Qualifying": {
                 "4": {
                     "position": "1",
@@ -1773,7 +1821,7 @@
             "Race": {
                 "5": {
                     "position": "1",
-                    "points": 0,
+                    "points": 9,
                     "fastest_lap": "1:21.060",
                     "team": "lotus",
                     "drivers": [
@@ -1784,12 +1832,13 @@
                         "laps": "90",
                         "speed": "148.63",
                         "fastestLap": "1:21.060",
-                        "lap_of_fastestLap": "40"
+                        "lap_of_fastestLap": "40",
+                        "grid": "3"
                     }
                 },
                 "4": {
                     "position": "2",
-                    "points": 0,
+                    "points": 6,
                     "fastest_lap": "1:21.010",
                     "team": "Ferrari",
                     "drivers": [
@@ -1802,12 +1851,13 @@
                         "interval": "+ 18.920",
                         "speed": "148.25",
                         "fastestLap": "1:21.010",
-                        "lap_of_fastestLap": "52"
+                        "lap_of_fastestLap": "52",
+                        "grid": "1"
                     }
                 },
                 "6": {
                     "position": "3",
-                    "points": 0,
+                    "points": 4,
                     "fastest_lap": "1:22.200",
                     "team": "Ferrari",
                     "drivers": [
@@ -1820,12 +1870,13 @@
                         "interval": "1 Lap",
                         "speed": "146.52",
                         "fastestLap": "1:22.200",
-                        "lap_of_fastestLap": "59"
+                        "lap_of_fastestLap": "59",
+                        "grid": "8"
                     }
                 },
                 "26": {
                     "position": "4",
-                    "points": 0,
+                    "points": 3,
                     "fastest_lap": "1:22.340",
                     "team": "ceramica_pagnossin_team_surtees",
                     "drivers": [
@@ -1838,12 +1889,13 @@
                         "interval": "+ 43.760",
                         "speed": "145.66",
                         "fastestLap": "1:22.340",
-                        "lap_of_fastestLap": "88"
+                        "lap_of_fastestLap": "88",
+                        "grid": "13"
                     }
                 },
                 "20": {
                     "position": "5",
-                    "points": 0,
+                    "points": 2,
                     "fastest_lap": "1:22.180",
                     "team": "McLaren",
                     "drivers": [
@@ -1856,12 +1908,13 @@
                         "interval": "+ 0.490",
                         "speed": "145.65",
                         "fastestLap": "1:22.180",
-                        "lap_of_fastestLap": "74"
+                        "lap_of_fastestLap": "74",
+                        "grid": "11"
                     }
                 },
                 "29": {
                     "position": "6",
-                    "points": 0,
+                    "points": 1,
                     "fastest_lap": "1:22.130",
                     "team": "Williams",
                     "drivers": [
@@ -1874,7 +1927,8 @@
                         "interval": "+ 0.330",
                         "speed": "145.65",
                         "fastestLap": "1:22.130",
-                        "lap_of_fastestLap": "85"
+                        "lap_of_fastestLap": "85",
+                        "grid": "16"
                     }
                 },
                 "22": {
@@ -1892,7 +1946,8 @@
                         "interval": "1 Lap",
                         "speed": "144.68",
                         "fastestLap": "1:22.960",
-                        "lap_of_fastestLap": "54"
+                        "lap_of_fastestLap": "54",
+                        "grid": "14"
                     }
                 },
                 "12": {
@@ -1910,7 +1965,8 @@
                         "interval": "+ 11.330",
                         "speed": "144.46",
                         "fastestLap": "1:22.900",
-                        "lap_of_fastestLap": "52"
+                        "lap_of_fastestLap": "52",
+                        "grid": "18"
                     }
                 },
                 "21": {
@@ -1928,7 +1984,8 @@
                         "interval": "1 Lap",
                         "speed": "145.16",
                         "fastestLap": "1:22.360",
-                        "lap_of_fastestLap": "62"
+                        "lap_of_fastestLap": "62",
+                        "grid": "24"
                     }
                 },
                 "18": {
@@ -1946,7 +2003,8 @@
                         "interval": "1 Lap",
                         "speed": "141.53",
                         "fastestLap": "1:23.980",
-                        "lap_of_fastestLap": "75"
+                        "lap_of_fastestLap": "75",
+                        "grid": "23"
                     }
                 },
                 "14": {
@@ -1964,7 +2022,8 @@
                         "interval": "+ 8.870",
                         "speed": "141.36",
                         "fastestLap": "1:23.370",
-                        "lap_of_fastestLap": "17"
+                        "lap_of_fastestLap": "17",
+                        "grid": "19"
                     }
                 },
                 "1": {
@@ -1979,7 +2038,8 @@
                         "carNumber": "1",
                         "laps": "69",
                         "fastestLap": "1:21.030",
-                        "lap_of_fastestLap": "31"
+                        "lap_of_fastestLap": "31",
+                        "grid": "4"
                     }
                 },
                 "9": {
@@ -1994,7 +2054,8 @@
                         "carNumber": "9",
                         "laps": "66",
                         "fastestLap": "1:22.910",
-                        "lap_of_fastestLap": "9"
+                        "lap_of_fastestLap": "9",
+                        "grid": "6"
                     }
                 },
                 "3": {
@@ -2009,7 +2070,8 @@
                         "carNumber": "3",
                         "laps": "65",
                         "fastestLap": "1:22.040",
-                        "lap_of_fastestLap": "60"
+                        "lap_of_fastestLap": "60",
+                        "grid": "12"
                     }
                 },
                 "8": {
@@ -2024,7 +2086,8 @@
                         "carNumber": "8",
                         "laps": "65",
                         "fastestLap": "1:24.610",
-                        "lap_of_fastestLap": "12"
+                        "lap_of_fastestLap": "12",
+                        "grid": "21"
                     }
                 },
                 "11": {
@@ -2039,7 +2102,8 @@
                         "carNumber": "11",
                         "laps": "48",
                         "fastestLap": "1:21.800",
-                        "lap_of_fastestLap": "33"
+                        "lap_of_fastestLap": "33",
+                        "grid": "2"
                     }
                 },
                 "25": {
@@ -2054,7 +2118,8 @@
                         "carNumber": "25",
                         "laps": "38",
                         "fastestLap": "1:23.300",
-                        "lap_of_fastestLap": "32"
+                        "lap_of_fastestLap": "32",
+                        "grid": "20"
                     }
                 },
                 "10": {
@@ -2069,7 +2134,8 @@
                         "carNumber": "10",
                         "laps": "24",
                         "fastestLap": "1:22.600",
-                        "lap_of_fastestLap": "9"
+                        "lap_of_fastestLap": "9",
+                        "grid": "10"
                     }
                 },
                 "7": {
@@ -2084,7 +2150,8 @@
                         "carNumber": "7",
                         "laps": "23",
                         "fastestLap": "1:21.820",
-                        "lap_of_fastestLap": "10"
+                        "lap_of_fastestLap": "10",
+                        "grid": "5"
                     }
                 },
                 "15": {
@@ -2099,7 +2166,8 @@
                         "carNumber": "15",
                         "laps": "20",
                         "fastestLap": "1:23.400",
-                        "lap_of_fastestLap": "10"
+                        "lap_of_fastestLap": "10",
+                        "grid": "15"
                     }
                 },
                 "2": {
@@ -2114,7 +2182,8 @@
                         "carNumber": "2",
                         "laps": "16",
                         "fastestLap": "1:22.970",
-                        "lap_of_fastestLap": "7"
+                        "lap_of_fastestLap": "7",
+                        "grid": "9"
                     }
                 },
                 "16": {
@@ -2129,7 +2198,8 @@
                         "carNumber": "16",
                         "laps": "15",
                         "fastestLap": "1:24.110",
-                        "lap_of_fastestLap": "12"
+                        "lap_of_fastestLap": "12",
+                        "grid": "17"
                     }
                 },
                 "19": {
@@ -2144,7 +2214,8 @@
                         "carNumber": "19",
                         "laps": "9",
                         "fastestLap": "1:24.150",
-                        "lap_of_fastestLap": "3"
+                        "lap_of_fastestLap": "3",
+                        "grid": "7"
                     }
                 },
                 "24": {
@@ -2159,7 +2230,8 @@
                         "carNumber": "24",
                         "laps": "7",
                         "fastestLap": "1:29.840",
-                        "lap_of_fastestLap": "3"
+                        "lap_of_fastestLap": "3",
+                        "grid": "25"
                     }
                 },
                 "28": {
@@ -2174,12 +2246,13 @@
                         "carNumber": "28",
                         "laps": "6",
                         "fastestLap": "1:25.490",
-                        "lap_of_fastestLap": "4"
+                        "lap_of_fastestLap": "4",
+                        "grid": "22"
                     }
                 }
             }
         },
-        "Monaco-grand-prix": {
+        "Monaco Grand Prix": {
             "Qualifying": {
                 "8": {
                     "position": "1",
@@ -2532,7 +2605,7 @@
             "Race": {
                 "17": {
                     "position": "1",
-                    "points": 0,
+                    "points": 9,
                     "fastest_lap": "1:40.000",
                     "team": "marlboro_brm",
                     "drivers": [
@@ -2543,12 +2616,13 @@
                         "laps": "80",
                         "speed": "102.8",
                         "fastestLap": "1:40.000",
-                        "lap_of_fastestLap": "9"
+                        "lap_of_fastestLap": "9",
+                        "grid": "4"
                     }
                 },
                 "6": {
                     "position": "2",
-                    "points": 0,
+                    "points": 6,
                     "fastest_lap": "1:40.600",
                     "team": "Ferrari",
                     "drivers": [
@@ -2560,12 +2634,13 @@
                         "gap": "+ 38.200",
                         "interval": "+ 38.200",
                         "speed": "102.3",
-                        "fastestLap": "1:40.600"
+                        "fastestLap": "1:40.600",
+                        "grid": "2"
                     }
                 },
                 "8": {
                     "position": "3",
-                    "points": 0,
+                    "points": 4,
                     "fastest_lap": "1:41.300",
                     "team": "lotus",
                     "drivers": [
@@ -2576,12 +2651,13 @@
                         "laps": "79",
                         "gap": "1 Lap",
                         "interval": "1 Lap",
-                        "fastestLap": "1:41.300"
+                        "fastestLap": "1:41.300",
+                        "grid": "1"
                     }
                 },
                 "1": {
                     "position": "4",
-                    "points": 0,
+                    "points": 3,
                     "fastest_lap": "1:42.400",
                     "team": "elf_team_tyrrell",
                     "drivers": [
@@ -2592,12 +2668,13 @@
                         "laps": "78",
                         "gap": "2 Laps",
                         "interval": "1 Lap",
-                        "fastestLap": "1:42.400"
+                        "fastestLap": "1:42.400",
+                        "grid": "8"
                     }
                 },
                 "15": {
                     "position": "5",
-                    "points": 0,
+                    "points": 2,
                     "fastest_lap": "",
                     "team": "McLaren",
                     "drivers": [
@@ -2607,12 +2684,13 @@
                         "carNumber": "15",
                         "laps": "77",
                         "gap": "3 Laps",
-                        "interval": "1 Lap"
+                        "interval": "1 Lap",
+                        "grid": "10"
                     }
                 },
                 "16": {
                     "position": "6",
-                    "points": 0,
+                    "points": 1,
                     "fastest_lap": "1:42.600",
                     "team": "equipe_matra",
                     "drivers": [
@@ -2622,7 +2700,8 @@
                         "carNumber": "16",
                         "laps": "77",
                         "gap": "3 Laps",
-                        "fastestLap": "1:42.600"
+                        "fastestLap": "1:42.600",
+                        "grid": "6"
                     }
                 },
                 "12": {
@@ -2636,7 +2715,8 @@
                     "other_info": {
                         "carNumber": "12",
                         "laps": "77",
-                        "gap": "3 Laps"
+                        "gap": "3 Laps",
+                        "grid": "18"
                     }
                 },
                 "26": {
@@ -2650,7 +2730,8 @@
                     "other_info": {
                         "carNumber": "26",
                         "laps": "77",
-                        "gap": "3 Laps"
+                        "gap": "3 Laps",
+                        "grid": "17"
                     }
                 },
                 "21": {
@@ -2664,7 +2745,8 @@
                     "other_info": {
                         "carNumber": "21",
                         "laps": "77",
-                        "gap": "3 Laps"
+                        "gap": "3 Laps",
+                        "grid": "21"
                     }
                 },
                 "27": {
@@ -2678,7 +2760,8 @@
                     "other_info": {
                         "carNumber": "27",
                         "laps": "77",
-                        "gap": "3 Laps"
+                        "gap": "3 Laps",
+                        "grid": "25"
                     }
                 },
                 "3": {
@@ -2693,7 +2776,8 @@
                         "carNumber": "3",
                         "laps": "76",
                         "gap": "4 Laps",
-                        "interval": "1 Lap"
+                        "interval": "1 Lap",
+                        "grid": "15"
                     }
                 },
                 "20": {
@@ -2707,7 +2791,8 @@
                     "other_info": {
                         "carNumber": "20",
                         "laps": "76",
-                        "gap": "4 Laps"
+                        "gap": "4 Laps",
+                        "grid": "20"
                     }
                 },
                 "5": {
@@ -2721,7 +2806,8 @@
                     "other_info": {
                         "carNumber": "5",
                         "laps": "76",
-                        "gap": "4 Laps"
+                        "gap": "4 Laps",
+                        "grid": "23"
                     }
                 },
                 "9": {
@@ -2737,7 +2823,8 @@
                         "laps": "75",
                         "gap": "5 Laps",
                         "interval": "1 Lap",
-                        "fastestLap": "1:42.700"
+                        "fastestLap": "1:42.700",
+                        "grid": "14"
                     }
                 },
                 "14": {
@@ -2752,7 +2839,8 @@
                         "carNumber": "14",
                         "laps": "74",
                         "gap": "6 Laps",
-                        "interval": "1 Lap"
+                        "interval": "1 Lap",
+                        "grid": "7"
                     }
                 },
                 "4": {
@@ -2766,7 +2854,8 @@
                     "other_info": {
                         "carNumber": "4",
                         "laps": "74",
-                        "gap": "6 Laps"
+                        "gap": "6 Laps",
+                        "grid": "22"
                     }
                 },
                 "23": {
@@ -2781,11 +2870,12 @@
                         "carNumber": "23",
                         "laps": "72",
                         "gap": "8 Laps",
-                        "interval": "2 Laps"
+                        "interval": "2 Laps",
+                        "grid": "24"
                     }
                 },
                 "2": {
-                    "position": "NC",
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "elf_team_tyrrell",
@@ -2794,7 +2884,8 @@
                     ],
                     "other_info": {
                         "carNumber": "2",
-                        "laps": "70"
+                        "laps": "70",
+                        "grid": "12"
                     }
                 },
                 "22": {
@@ -2807,7 +2898,8 @@
                     ],
                     "other_info": {
                         "carNumber": "22",
-                        "laps": "58"
+                        "laps": "58",
+                        "grid": "9"
                     }
                 },
                 "7": {
@@ -2821,7 +2913,8 @@
                     "other_info": {
                         "carNumber": "7",
                         "laps": "51",
-                        "fastestLap": "1:41.100"
+                        "fastestLap": "1:41.100",
+                        "grid": "3"
                     }
                 },
                 "11": {
@@ -2835,7 +2928,8 @@
                     "other_info": {
                         "carNumber": "11",
                         "laps": "48",
-                        "fastestLap": "1:42.200"
+                        "fastestLap": "1:42.200",
+                        "grid": "11"
                     }
                 },
                 "19": {
@@ -2848,7 +2942,8 @@
                     ],
                     "other_info": {
                         "carNumber": "19",
-                        "laps": "47"
+                        "laps": "47",
+                        "grid": "20"
                     }
                 },
                 "10": {
@@ -2861,7 +2956,8 @@
                     ],
                     "other_info": {
                         "carNumber": "10",
-                        "laps": "31"
+                        "laps": "31",
+                        "grid": "13"
                     }
                 },
                 "18": {
@@ -2875,7 +2971,8 @@
                     "other_info": {
                         "carNumber": "18",
                         "laps": "27",
-                        "fastestLap": "1:41.800"
+                        "fastestLap": "1:41.800",
+                        "grid": "5"
                     }
                 },
                 "28": {
@@ -2889,12 +2986,13 @@
                     "other_info": {
                         "carNumber": "28",
                         "laps": "16",
-                        "fastestLap": "1:42.000"
+                        "fastestLap": "1:42.000",
+                        "grid": "16"
                     }
                 }
             }
         },
-        "Belgian-grand-prix": {
+        "Belgian Grand Prix": {
             "Qualifying": {
                 "32": {
                     "position": "1",
@@ -3262,7 +3360,7 @@
             "Race": {
                 "32": {
                     "position": "1",
-                    "points": 0,
+                    "points": 9,
                     "fastest_lap": "",
                     "team": "lotus",
                     "drivers": [
@@ -3271,12 +3369,13 @@
                     "other_info": {
                         "carNumber": "32",
                         "laps": "85",
-                        "speed": "182.4"
+                        "speed": "182.4",
+                        "grid": "1"
                     }
                 },
                 "8": {
                     "position": "2",
-                    "points": 0,
+                    "points": 6,
                     "fastest_lap": "",
                     "team": "elf_team_tyrrell",
                     "drivers": [
@@ -3287,12 +3386,13 @@
                         "laps": "85",
                         "gap": "+ 26.600",
                         "interval": "+ 26.600",
-                        "speed": "181.6"
+                        "speed": "181.6",
+                        "grid": "5"
                     }
                 },
                 "9": {
                     "position": "3",
-                    "points": 0,
+                    "points": 4,
                     "fastest_lap": "",
                     "team": "McLaren",
                     "drivers": [
@@ -3303,12 +3403,13 @@
                         "laps": "85",
                         "gap": "+ 58.100",
                         "interval": "+ 31.500",
-                        "speed": "180.7"
+                        "speed": "180.7",
+                        "grid": "3"
                     }
                 },
                 "34": {
                     "position": "4",
-                    "points": 0,
+                    "points": 3,
                     "fastest_lap": "",
                     "team": "brooke_bond_oxo-rob_walker-team_surtees",
                     "drivers": [
@@ -3319,12 +3420,13 @@
                         "laps": "85",
                         "gap": "+ 1:12.000",
                         "interval": "+ 13.900",
-                        "speed": "180.3"
+                        "speed": "180.3",
+                        "grid": "8"
                     }
                 },
                 "16": {
                     "position": "5",
-                    "points": 0,
+                    "points": 2,
                     "fastest_lap": "",
                     "team": "Williams",
                     "drivers": [
@@ -3334,12 +3436,13 @@
                         "carNumber": "16",
                         "laps": "84",
                         "gap": "1 Lap",
-                        "interval": "1 Lap"
+                        "interval": "1 Lap",
+                        "grid": "11"
                     }
                 },
                 "5": {
                     "position": "6",
-                    "points": 0,
+                    "points": 1,
                     "fastest_lap": "1:12.120",
                     "team": "equipe_matra",
                     "drivers": [
@@ -3350,7 +3453,8 @@
                         "laps": "84",
                         "gap": "1 Lap",
                         "fastestLap": "1:12.120",
-                        "lap_of_fastestLap": "66"
+                        "lap_of_fastestLap": "66",
+                        "grid": "13"
                     }
                 },
                 "10": {
@@ -3365,7 +3469,8 @@
                         "carNumber": "10",
                         "laps": "83",
                         "gap": "2 Laps",
-                        "interval": "1 Lap"
+                        "interval": "1 Lap",
+                        "grid": "7"
                     }
                 },
                 "25": {
@@ -3379,7 +3484,8 @@
                     "other_info": {
                         "carNumber": "25",
                         "laps": "83",
-                        "gap": "2 Laps"
+                        "gap": "2 Laps",
+                        "grid": "15"
                     }
                 },
                 "11": {
@@ -3393,7 +3499,8 @@
                     "other_info": {
                         "carNumber": "11",
                         "laps": "83",
-                        "gap": "2 Laps"
+                        "gap": "2 Laps",
+                        "grid": "14"
                     }
                 },
                 "27": {
@@ -3407,7 +3514,8 @@
                     "other_info": {
                         "carNumber": "27",
                         "laps": "83",
-                        "gap": "2 Laps"
+                        "gap": "2 Laps",
+                        "grid": "23"
                     }
                 },
                 "6": {
@@ -3421,7 +3529,8 @@
                     "other_info": {
                         "carNumber": "6",
                         "laps": "83",
-                        "gap": "2 Laps"
+                        "gap": "2 Laps",
+                        "grid": "20"
                     }
                 },
                 "12": {
@@ -3436,7 +3545,8 @@
                         "carNumber": "12",
                         "laps": "82",
                         "gap": "3 Laps",
-                        "interval": "1 Lap"
+                        "interval": "1 Lap",
+                        "grid": "25"
                     }
                 },
                 "19": {
@@ -3451,7 +3561,8 @@
                         "carNumber": "19",
                         "laps": "81",
                         "gap": "4 Laps",
-                        "interval": "1 Lap"
+                        "interval": "1 Lap",
+                        "grid": "9"
                     }
                 },
                 "33": {
@@ -3466,7 +3577,8 @@
                         "carNumber": "33",
                         "laps": "79",
                         "gap": "6 Laps",
-                        "interval": "2 Laps"
+                        "interval": "2 Laps",
+                        "grid": "12"
                     }
                 },
                 "17": {
@@ -3479,11 +3591,12 @@
                     ],
                     "other_info": {
                         "carNumber": "17",
-                        "laps": "73"
+                        "laps": "73",
+                        "grid": "16"
                     }
                 },
                 "15": {
-                    "position": "NC",
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "Williams",
@@ -3492,7 +3605,8 @@
                     ],
                     "other_info": {
                         "carNumber": "15",
-                        "laps": "59"
+                        "laps": "59",
+                        "grid": "19"
                     }
                 },
                 "30": {
@@ -3505,7 +3619,8 @@
                     ],
                     "other_info": {
                         "carNumber": "30",
-                        "laps": "57"
+                        "laps": "57",
+                        "grid": "2"
                     }
                 },
                 "36": {
@@ -3518,7 +3633,8 @@
                     ],
                     "other_info": {
                         "carNumber": "36",
-                        "laps": "55"
+                        "laps": "55",
+                        "grid": "10"
                     }
                 },
                 "22": {
@@ -3531,7 +3647,8 @@
                     ],
                     "other_info": {
                         "carNumber": "22",
-                        "laps": "54"
+                        "laps": "54",
+                        "grid": "24"
                     }
                 },
                 "29": {
@@ -3544,7 +3661,8 @@
                     ],
                     "other_info": {
                         "carNumber": "29",
-                        "laps": "47"
+                        "laps": "47",
+                        "grid": "4"
                     }
                 },
                 "14": {
@@ -3557,7 +3675,8 @@
                     ],
                     "other_info": {
                         "carNumber": "14",
-                        "laps": "31"
+                        "laps": "31",
+                        "grid": "22"
                     }
                 },
                 "18": {
@@ -3570,7 +3689,8 @@
                     ],
                     "other_info": {
                         "carNumber": "18",
-                        "laps": "28"
+                        "laps": "28",
+                        "grid": "18"
                     }
                 },
                 "24": {
@@ -3583,7 +3703,8 @@
                     ],
                     "other_info": {
                         "carNumber": "24",
-                        "laps": "27"
+                        "laps": "27",
+                        "grid": "17"
                     }
                 },
                 "23": {
@@ -3596,7 +3717,8 @@
                     ],
                     "other_info": {
                         "carNumber": "23",
-                        "laps": "15"
+                        "laps": "15",
+                        "grid": "6"
                     }
                 },
                 "35": {
@@ -3609,12 +3731,13 @@
                     ],
                     "other_info": {
                         "carNumber": "35",
-                        "laps": "11"
+                        "laps": "11",
+                        "grid": "21"
                     }
                 }
             }
         },
-        "French-grand-prix": {
+        "French Grand Prix": {
             "Qualifying": {
                 "9": {
                     "position": "1",
@@ -4020,7 +4143,7 @@
             "Race": {
                 "4": {
                     "position": "1",
-                    "points": 0,
+                    "points": 9,
                     "fastest_lap": "2:55.800",
                     "team": "elf_team_tyrrell",
                     "drivers": [
@@ -4030,12 +4153,13 @@
                         "carNumber": "4",
                         "laps": "38",
                         "speed": "163.5",
-                        "fastestLap": "2:55.800"
+                        "fastestLap": "2:55.800",
+                        "grid": "3"
                     }
                 },
                 "1": {
                     "position": "2",
-                    "points": 0,
+                    "points": 6,
                     "fastest_lap": "2:55.700",
                     "team": "lotus",
                     "drivers": [
@@ -4047,12 +4171,13 @@
                         "gap": "+ 27.700",
                         "interval": "+ 27.700",
                         "speed": "162.8",
-                        "fastestLap": "2:55.700"
+                        "fastestLap": "2:55.700",
+                        "grid": "8"
                     }
                 },
                 "9": {
                     "position": "3",
-                    "points": 0,
+                    "points": 4,
                     "fastest_lap": "2:53.900",
                     "team": "equipe_matra",
                     "drivers": [
@@ -4065,12 +4190,13 @@
                         "interval": "+ 4.200",
                         "speed": "162.7",
                         "fastestLap": "2:53.900",
-                        "lap_of_fastestLap": "32"
+                        "lap_of_fastestLap": "32",
+                        "grid": "1"
                     }
                 },
                 "7": {
                     "position": "4",
-                    "points": 0,
+                    "points": 3,
                     "fastest_lap": "2:56.000",
                     "team": "elf_team_tyrrell",
                     "drivers": [
@@ -4082,12 +4208,13 @@
                         "gap": "+ 49.300",
                         "interval": "+ 17.400",
                         "speed": "162.3",
-                        "fastestLap": "2:56.000"
+                        "fastestLap": "2:56.000",
+                        "grid": "7"
                     }
                 },
                 "12": {
                     "position": "5",
-                    "points": 0,
+                    "points": 2,
                     "fastest_lap": "2:55.900",
                     "team": "stp_march_racing_team",
                     "drivers": [
@@ -4099,12 +4226,13 @@
                         "gap": "+ 56.800",
                         "interval": "+ 7.500",
                         "speed": "162.1",
-                        "fastestLap": "2:55.900"
+                        "fastestLap": "2:55.900",
+                        "grid": "9"
                     }
                 },
                 "26": {
                     "position": "6",
-                    "points": 0,
+                    "points": 1,
                     "fastest_lap": "2:57.400",
                     "team": "brooke_bond_oxo-rob_walker-team_surtees",
                     "drivers": [
@@ -4116,7 +4244,8 @@
                         "gap": "+ 1:36.100",
                         "interval": "+ 39.300",
                         "speed": "161.2",
-                        "fastestLap": "2:57.400"
+                        "fastestLap": "2:57.400",
+                        "grid": "10"
                     }
                 },
                 "2": {
@@ -4133,7 +4262,8 @@
                         "gap": "+ 1:48.100",
                         "interval": "+ 12.000",
                         "speed": "160.9",
-                        "fastestLap": "2:54.400"
+                        "fastestLap": "2:54.400",
+                        "grid": "2"
                     }
                 },
                 "19": {
@@ -4150,7 +4280,8 @@
                         "gap": "+ 2:25.100",
                         "interval": "+ 37.000",
                         "speed": "160",
-                        "fastestLap": "2:58.900"
+                        "fastestLap": "2:58.900",
+                        "grid": "14"
                     }
                 },
                 "11": {
@@ -4167,7 +4298,8 @@
                         "gap": "+ 2:55.500",
                         "interval": "+ 30.400",
                         "speed": "159.3",
-                        "fastestLap": "2:56.800"
+                        "fastestLap": "2:56.800",
+                        "grid": "13"
                     }
                 },
                 "18": {
@@ -4184,7 +4316,8 @@
                         "gap": "+ 2:59.500",
                         "interval": "+ 4.000",
                         "speed": "159.2",
-                        "fastestLap": "2:59.500"
+                        "fastestLap": "2:59.500",
+                        "grid": "20"
                     }
                 },
                 "3": {
@@ -4200,7 +4333,8 @@
                         "laps": "37",
                         "gap": "1 Lap",
                         "interval": "1 Lap",
-                        "fastestLap": "2:54.400"
+                        "fastestLap": "2:54.400",
+                        "grid": "4"
                     }
                 },
                 "20": {
@@ -4215,7 +4349,8 @@
                         "carNumber": "20",
                         "laps": "37",
                         "gap": "1 Lap",
-                        "fastestLap": "2:58.600"
+                        "fastestLap": "2:58.600",
+                        "grid": "17"
                     }
                 },
                 "30": {
@@ -4230,7 +4365,8 @@
                         "carNumber": "30",
                         "laps": "37",
                         "gap": "1 Lap",
-                        "fastestLap": "2:59.000"
+                        "fastestLap": "2:59.000",
+                        "grid": "19"
                     }
                 },
                 "28": {
@@ -4245,7 +4381,8 @@
                         "carNumber": "28",
                         "laps": "37",
                         "gap": "1 Lap",
-                        "fastestLap": "2:59.900"
+                        "fastestLap": "2:59.900",
+                        "grid": "12"
                     }
                 },
                 "5": {
@@ -4260,7 +4397,8 @@
                         "carNumber": "5",
                         "laps": "37",
                         "gap": "1 Lap",
-                        "fastestLap": "3:01.100"
+                        "fastestLap": "3:01.100",
+                        "grid": "24"
                     }
                 },
                 "10": {
@@ -4275,7 +4413,8 @@
                         "carNumber": "10",
                         "laps": "37",
                         "gap": "1 Lap",
-                        "fastestLap": "2:59.100"
+                        "fastestLap": "2:59.100",
+                        "grid": "15"
                     }
                 },
                 "27": {
@@ -4291,7 +4430,8 @@
                         "laps": "36",
                         "gap": "2 Laps",
                         "interval": "1 Lap",
-                        "fastestLap": "2:59.300"
+                        "fastestLap": "2:59.300",
+                        "grid": "5"
                     }
                 },
                 "6": {
@@ -4307,7 +4447,8 @@
                         "laps": "34",
                         "gap": "4 Laps",
                         "interval": "2 Laps",
-                        "fastestLap": "2:59.500"
+                        "fastestLap": "2:59.500",
+                        "grid": "22"
                     }
                 },
                 "15": {
@@ -4323,11 +4464,12 @@
                         "laps": "33",
                         "gap": "5 Laps",
                         "interval": "1 Lap",
-                        "fastestLap": "3:05.000"
+                        "fastestLap": "3:05.000",
+                        "grid": "23"
                     }
                 },
                 "8": {
-                    "position": "NC",
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "2:57.200",
                     "team": "elf_team_tyrrell",
@@ -4337,7 +4479,8 @@
                     "other_info": {
                         "carNumber": "8",
                         "laps": "33",
-                        "fastestLap": "2:57.200"
+                        "fastestLap": "2:57.200",
+                        "grid": "16"
                     }
                 },
                 "24": {
@@ -4351,7 +4494,8 @@
                     "other_info": {
                         "carNumber": "24",
                         "laps": "25",
-                        "fastestLap": "3:00.500"
+                        "fastestLap": "3:00.500",
+                        "grid": "18"
                     }
                 },
                 "17": {
@@ -4365,7 +4509,8 @@
                     "other_info": {
                         "carNumber": "17",
                         "laps": "18",
-                        "fastestLap": "2:58.600"
+                        "fastestLap": "2:58.600",
+                        "grid": "11"
                     }
                 },
                 "25": {
@@ -4379,7 +4524,8 @@
                     "other_info": {
                         "carNumber": "25",
                         "laps": "8",
-                        "fastestLap": "2:59.600"
+                        "fastestLap": "2:59.600",
+                        "grid": "6"
                     }
                 },
                 "14": {
@@ -4393,12 +4539,13 @@
                     "other_info": {
                         "carNumber": "14",
                         "laps": "4",
-                        "fastestLap": "3:23.000"
+                        "fastestLap": "3:23.000",
+                        "grid": "21"
                     }
                 }
             }
         },
-        "British-grand-prix": {
+        "British Grand Prix": {
             "Qualifying": {
                 "5": {
                     "position": "1",
@@ -4776,7 +4923,7 @@
             "Race": {
                 "8": {
                     "position": "1",
-                    "points": 0,
+                    "points": 9,
                     "fastest_lap": "1:24.100",
                     "team": "lotus",
                     "drivers": [
@@ -4787,12 +4934,13 @@
                         "laps": "76",
                         "speed": "180.3",
                         "fastestLap": "1:24.100",
-                        "lap_of_fastestLap": "30"
+                        "lap_of_fastestLap": "30",
+                        "grid": "2"
                     }
                 },
                 "1": {
                     "position": "2",
-                    "points": 0,
+                    "points": 6,
                     "fastest_lap": "1:24.000",
                     "team": "elf_team_tyrrell",
                     "drivers": [
@@ -4805,12 +4953,13 @@
                         "interval": "+ 4.100",
                         "speed": "180.2",
                         "fastestLap": "1:24.000",
-                        "lap_of_fastestLap": "58"
+                        "lap_of_fastestLap": "58",
+                        "grid": "4"
                     }
                 },
                 "19": {
                     "position": "3",
-                    "points": 0,
+                    "points": 4,
                     "fastest_lap": "1:24.500",
                     "team": "McLaren",
                     "drivers": [
@@ -4823,12 +4972,13 @@
                         "interval": "+ 1:08.400",
                         "speed": "178.3",
                         "fastestLap": "1:24.500",
-                        "lap_of_fastestLap": "55"
+                        "lap_of_fastestLap": "55",
+                        "grid": "3"
                     }
                 },
                 "17": {
                     "position": "4",
-                    "points": 0,
+                    "points": 3,
                     "fastest_lap": "1:27.000",
                     "team": "equipe_matra",
                     "drivers": [
@@ -4841,12 +4991,13 @@
                         "interval": "1 Lap",
                         "speed": "176.4",
                         "fastestLap": "1:27.000",
-                        "lap_of_fastestLap": "64"
+                        "lap_of_fastestLap": "64",
+                        "grid": "17"
                     }
                 },
                 "18": {
                     "position": "5",
-                    "points": 0,
+                    "points": 2,
                     "fastest_lap": "1:25.500",
                     "team": "McLaren",
                     "drivers": [
@@ -4859,12 +5010,13 @@
                         "interval": "+ 1.100",
                         "speed": "176.4",
                         "fastestLap": "1:25.500",
-                        "lap_of_fastestLap": "17"
+                        "lap_of_fastestLap": "17",
+                        "grid": "11"
                     }
                 },
                 "6": {
                     "position": "6",
-                    "points": 0,
+                    "points": 1,
                     "fastest_lap": "1:24.500",
                     "team": "Ferrari",
                     "drivers": [
@@ -4877,7 +5029,8 @@
                         "interval": "+ 4.800",
                         "speed": "176.2",
                         "fastestLap": "1:24.500",
-                        "lap_of_fastestLap": "54"
+                        "lap_of_fastestLap": "54",
+                        "grid": "9"
                     }
                 },
                 "3": {
@@ -4894,7 +5047,8 @@
                         "gap": "2 Laps",
                         "interval": "1 Lap",
                         "fastestLap": "1:25.400",
-                        "lap_of_fastestLap": "6"
+                        "lap_of_fastestLap": "6",
+                        "grid": "8"
                     }
                 },
                 "27": {
@@ -4912,7 +5066,8 @@
                         "interval": "1 Lap",
                         "speed": "172.2",
                         "fastestLap": "1:25.100",
-                        "lap_of_fastestLap": "37"
+                        "lap_of_fastestLap": "37",
+                        "grid": "10"
                     }
                 },
                 "4": {
@@ -4930,7 +5085,8 @@
                         "interval": "+ 8.100",
                         "speed": "171.9",
                         "fastestLap": "1:26.500",
-                        "lap_of_fastestLap": "15"
+                        "lap_of_fastestLap": "15",
+                        "grid": "19"
                     }
                 },
                 "33": {
@@ -4948,7 +5104,8 @@
                         "interval": "2 Laps",
                         "speed": "167.9",
                         "fastestLap": "1:27.500",
-                        "lap_of_fastestLap": "14"
+                        "lap_of_fastestLap": "14",
+                        "grid": "25"
                     }
                 },
                 "11": {
@@ -4966,7 +5123,8 @@
                         "interval": "1 Lap",
                         "speed": "164.9",
                         "fastestLap": "1:25.500",
-                        "lap_of_fastestLap": "15"
+                        "lap_of_fastestLap": "15",
+                        "grid": "6"
                     }
                 },
                 "28": {
@@ -4983,7 +5141,8 @@
                         "gap": "7 Laps",
                         "interval": "1 Lap",
                         "fastestLap": "1:26.700",
-                        "lap_of_fastestLap": "47"
+                        "lap_of_fastestLap": "47",
+                        "grid": "22"
                     }
                 },
                 "31": {
@@ -5001,7 +5160,8 @@
                         "interval": "+ 1:48:10.000",
                         "speed": "163.2",
                         "fastestLap": "1:26.500",
-                        "lap_of_fastestLap": "29"
+                        "lap_of_fastestLap": "29",
+                        "grid": "23"
                     }
                 },
                 "22": {
@@ -5016,7 +5176,8 @@
                         "carNumber": "22",
                         "laps": "64",
                         "fastestLap": "1:25.300",
-                        "lap_of_fastestLap": "45"
+                        "lap_of_fastestLap": "45",
+                        "grid": "5"
                     }
                 },
                 "2": {
@@ -5031,7 +5192,8 @@
                         "carNumber": "2",
                         "laps": "60",
                         "fastestLap": "1:25.100",
-                        "lap_of_fastestLap": "57"
+                        "lap_of_fastestLap": "57",
+                        "grid": "12"
                     }
                 },
                 "9": {
@@ -5046,7 +5208,8 @@
                         "carNumber": "9",
                         "laps": "59",
                         "fastestLap": "1:25.100",
-                        "lap_of_fastestLap": "46"
+                        "lap_of_fastestLap": "46",
+                        "grid": "15"
                     }
                 },
                 "5": {
@@ -5061,7 +5224,8 @@
                         "carNumber": "5",
                         "laps": "49",
                         "fastestLap": "1:24.200",
-                        "lap_of_fastestLap": "48"
+                        "lap_of_fastestLap": "48",
+                        "grid": "1"
                     }
                 },
                 "26": {
@@ -5076,7 +5240,8 @@
                         "carNumber": "26",
                         "laps": "47",
                         "fastestLap": "1:26.100",
-                        "lap_of_fastestLap": "47"
+                        "lap_of_fastestLap": "47",
+                        "grid": "21"
                     }
                 },
                 "25": {
@@ -5091,7 +5256,8 @@
                         "carNumber": "25",
                         "laps": "39",
                         "fastestLap": "1:25.600",
-                        "lap_of_fastestLap": "24"
+                        "lap_of_fastestLap": "24",
+                        "grid": "13"
                     }
                 },
                 "14": {
@@ -5106,7 +5272,8 @@
                         "carNumber": "14",
                         "laps": "36",
                         "fastestLap": "1:25.800",
-                        "lap_of_fastestLap": "16"
+                        "lap_of_fastestLap": "16",
+                        "grid": "14"
                     }
                 },
                 "21": {
@@ -5121,7 +5288,8 @@
                         "carNumber": "21",
                         "laps": "31",
                         "fastestLap": "1:25.600",
-                        "lap_of_fastestLap": "3"
+                        "lap_of_fastestLap": "3",
+                        "grid": "7"
                     }
                 },
                 "29": {
@@ -5136,7 +5304,8 @@
                         "carNumber": "29",
                         "laps": "21",
                         "fastestLap": "1:27.300",
-                        "lap_of_fastestLap": "14"
+                        "lap_of_fastestLap": "14",
+                        "grid": "24"
                     }
                 },
                 "30": {
@@ -5151,7 +5320,8 @@
                         "carNumber": "30",
                         "laps": "9",
                         "fastestLap": "1:28.200",
-                        "lap_of_fastestLap": "7"
+                        "lap_of_fastestLap": "7",
+                        "grid": "18"
                     }
                 },
                 "24": {
@@ -5166,7 +5336,8 @@
                         "carNumber": "24",
                         "laps": "7",
                         "fastestLap": "1:29.200",
-                        "lap_of_fastestLap": "6"
+                        "lap_of_fastestLap": "6",
+                        "grid": "26"
                     }
                 },
                 "12": {
@@ -5181,7 +5352,8 @@
                         "carNumber": "12",
                         "laps": "5",
                         "fastestLap": "1:27.400",
-                        "lap_of_fastestLap": "3"
+                        "lap_of_fastestLap": "3",
+                        "grid": "16"
                     }
                 },
                 "23": {
@@ -5196,12 +5368,13 @@
                         "carNumber": "23",
                         "laps": "3",
                         "fastestLap": "1:28.100",
-                        "lap_of_fastestLap": "3"
+                        "lap_of_fastestLap": "3",
+                        "grid": "20"
                     }
                 }
             }
         },
-        "German-grand-prix": {
+        "German Grand Prix": {
             "Qualifying": {
                 "4": {
                     "position": "1",
@@ -5583,7 +5756,7 @@
             "Race": {
                 "4": {
                     "position": "1",
-                    "points": 0,
+                    "points": 9,
                     "fastest_lap": "7:13.600",
                     "team": "Ferrari",
                     "drivers": [
@@ -5594,12 +5767,13 @@
                         "laps": "14",
                         "speed": "187.7",
                         "fastestLap": "7:13.600",
-                        "lap_of_fastestLap": "10"
+                        "lap_of_fastestLap": "10",
+                        "grid": "1"
                     }
                 },
                 "9": {
                     "position": "2",
-                    "points": 0,
+                    "points": 6,
                     "fastest_lap": "7:17.200",
                     "team": "Ferrari",
                     "drivers": [
@@ -5611,12 +5785,13 @@
                         "gap": "+ 48.300",
                         "interval": "+ 48.300",
                         "speed": "186.2",
-                        "fastestLap": "7:17.200"
+                        "fastestLap": "7:17.200",
+                        "grid": "7"
                     }
                 },
                 "10": {
                     "position": "3",
-                    "points": 0,
+                    "points": 4,
                     "fastest_lap": "7:16.400",
                     "team": "stp_march_racing_team",
                     "drivers": [
@@ -5628,12 +5803,13 @@
                         "gap": "+ 1:06.700",
                         "interval": "+ 18.400",
                         "speed": "185.7",
-                        "fastestLap": "7:16.400"
+                        "fastestLap": "7:16.400",
+                        "grid": "4"
                     }
                 },
                 "17": {
                     "position": "4",
-                    "points": 0,
+                    "points": 3,
                     "fastest_lap": "",
                     "team": "marlboro_brm",
                     "drivers": [
@@ -5644,12 +5820,13 @@
                         "laps": "14",
                         "gap": "+ 2:20.200",
                         "interval": "+ 1:13.500",
-                        "speed": "183.5"
+                        "speed": "183.5",
+                        "grid": "18"
                     }
                 },
                 "5": {
                     "position": "5",
-                    "points": 0,
+                    "points": 2,
                     "fastest_lap": "",
                     "team": "McLaren",
                     "drivers": [
@@ -5660,12 +5837,13 @@
                         "laps": "14",
                         "gap": "+ 2:35.700",
                         "interval": "+ 15.500",
-                        "speed": "183"
+                        "speed": "183",
+                        "grid": "19"
                     }
                 },
                 "11": {
                     "position": "6",
-                    "points": 0,
+                    "points": 1,
                     "fastest_lap": "",
                     "team": "motor_racing_developments_ltd",
                     "drivers": [
@@ -5676,7 +5854,8 @@
                         "laps": "14",
                         "gap": "+ 2:59.600",
                         "interval": "+ 23.900",
-                        "speed": "182.3"
+                        "speed": "182.3",
+                        "grid": "15"
                     }
                 },
                 "26": {
@@ -5692,7 +5871,8 @@
                         "laps": "14",
                         "gap": "+ 3:00.100",
                         "interval": "+ 0.500",
-                        "speed": "182.3"
+                        "speed": "182.3",
+                        "grid": "21"
                     }
                 },
                 "28": {
@@ -5708,7 +5888,8 @@
                         "laps": "14",
                         "gap": "+ 5:10.700",
                         "interval": "+ 2:10.600",
-                        "speed": "178.6"
+                        "speed": "178.6",
+                        "grid": "27"
                     }
                 },
                 "6": {
@@ -5725,7 +5906,8 @@
                         "gap": "+ 5:20.200",
                         "interval": "+ 9.500",
                         "speed": "178.4",
-                        "fastestLap": "7:20.000"
+                        "fastestLap": "7:20.000",
+                        "grid": "13"
                     }
                 },
                 "7": {
@@ -5742,7 +5924,8 @@
                         "gap": "+ 5:43.700",
                         "interval": "+ 23.500",
                         "speed": "177.7",
-                        "fastestLap": "7:22.000"
+                        "fastestLap": "7:22.000",
+                        "grid": "5"
                     }
                 },
                 "1": {
@@ -5759,7 +5942,8 @@
                         "gap": "1 Lap",
                         "interval": "1 Lap",
                         "speed": "186.5",
-                        "fastestLap": "7:16.900"
+                        "fastestLap": "7:16.900",
+                        "grid": "2"
                     }
                 },
                 "19": {
@@ -5775,7 +5959,8 @@
                         "laps": "13",
                         "gap": "1 Lap",
                         "interval": "+ 7:09.300",
-                        "speed": "173.5"
+                        "speed": "173.5",
+                        "grid": "22"
                     }
                 },
                 "16": {
@@ -5791,7 +5976,8 @@
                         "laps": "13",
                         "gap": "1 Lap",
                         "interval": "+ 2:35.600",
-                        "speed": "169.2"
+                        "speed": "169.2",
+                        "grid": "20"
                     }
                 },
                 "15": {
@@ -5807,7 +5993,8 @@
                         "laps": "13",
                         "gap": "1 Lap",
                         "interval": "+ 4.900",
-                        "speed": "169.1"
+                        "speed": "169.1",
+                        "grid": "12"
                     }
                 },
                 "8": {
@@ -5823,11 +6010,12 @@
                         "laps": "13",
                         "gap": "1 Lap",
                         "interval": "+ 3:42.000",
-                        "speed": "163.3"
+                        "speed": "163.3",
+                        "grid": "8"
                     }
                 },
                 "21": {
-                    "position": "NC",
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "7:22.100",
                     "team": "Williams",
@@ -5837,7 +6025,8 @@
                     "other_info": {
                         "carNumber": "21",
                         "laps": "11",
-                        "fastestLap": "7:22.100"
+                        "fastestLap": "7:22.100",
+                        "grid": "11"
                     }
                 },
                 "2": {
@@ -5851,7 +6040,8 @@
                     "other_info": {
                         "carNumber": "2",
                         "laps": "10",
-                        "fastestLap": "7:16.600"
+                        "fastestLap": "7:16.600",
+                        "grid": "3"
                     }
                 },
                 "20": {
@@ -5865,7 +6055,8 @@
                     "other_info": {
                         "carNumber": "20",
                         "laps": "10",
-                        "fastestLap": "7:22.300"
+                        "fastestLap": "7:22.300",
+                        "grid": "9"
                     }
                 },
                 "3": {
@@ -5878,7 +6069,8 @@
                     ],
                     "other_info": {
                         "carNumber": "3",
-                        "laps": "8"
+                        "laps": "8",
+                        "grid": "10"
                     }
                 },
                 "14": {
@@ -5891,7 +6083,8 @@
                     ],
                     "other_info": {
                         "carNumber": "14",
-                        "laps": "8"
+                        "laps": "8",
+                        "grid": "16"
                     }
                 },
                 "12": {
@@ -5905,7 +6098,8 @@
                     "other_info": {
                         "carNumber": "12",
                         "laps": "6",
-                        "fastestLap": "7:20.500"
+                        "fastestLap": "7:20.500",
+                        "grid": "6"
                     }
                 },
                 "22": {
@@ -5918,7 +6112,8 @@
                     ],
                     "other_info": {
                         "carNumber": "22",
-                        "laps": "6"
+                        "laps": "6",
+                        "grid": "14"
                     }
                 },
                 "25": {
@@ -5931,7 +6126,8 @@
                     ],
                     "other_info": {
                         "carNumber": "25",
-                        "laps": "6"
+                        "laps": "6",
+                        "grid": "23"
                     }
                 },
                 "23": {
@@ -5944,7 +6140,8 @@
                     ],
                     "other_info": {
                         "carNumber": "23",
-                        "laps": "4"
+                        "laps": "4",
+                        "grid": "24"
                     }
                 },
                 "27": {
@@ -5957,7 +6154,8 @@
                     ],
                     "other_info": {
                         "carNumber": "27",
-                        "laps": "4"
+                        "laps": "4",
+                        "grid": "25"
                     }
                 },
                 "29": {
@@ -5970,7 +6168,8 @@
                     ],
                     "other_info": {
                         "carNumber": "29",
-                        "laps": "4"
+                        "laps": "4",
+                        "grid": "26"
                     }
                 },
                 "18": {
@@ -5983,12 +6182,13 @@
                     ],
                     "other_info": {
                         "carNumber": "18",
-                        "laps": "3"
+                        "laps": "3",
+                        "grid": "17"
                     }
                 }
             }
         },
-        "Austrian-grand-prix": {
+        "Austrian Grand Prix": {
             "Qualifying": {
                 "31": {
                     "position": "1",
@@ -6355,7 +6555,7 @@
             "Race": {
                 "31": {
                     "position": "1",
-                    "points": 0,
+                    "points": 9,
                     "fastest_lap": "",
                     "team": "lotus",
                     "drivers": [
@@ -6364,12 +6564,13 @@
                     "other_info": {
                         "carNumber": "31",
                         "laps": "54",
-                        "speed": "214.517"
+                        "speed": "214.517",
+                        "grid": "1"
                     }
                 },
                 "12": {
                     "position": "2",
-                    "points": 0,
+                    "points": 6,
                     "fastest_lap": "1:38.320",
                     "team": "McLaren",
                     "drivers": [
@@ -6382,12 +6583,13 @@
                         "interval": "+ 1.180",
                         "speed": "214.47",
                         "fastestLap": "1:38.320",
-                        "lap_of_fastestLap": "47"
+                        "lap_of_fastestLap": "47",
+                        "grid": "7"
                     }
                 },
                 "14": {
                     "position": "3",
-                    "points": 0,
+                    "points": 4,
                     "fastest_lap": "",
                     "team": "McLaren",
                     "drivers": [
@@ -6398,12 +6600,13 @@
                         "laps": "54",
                         "gap": "+ 36.530",
                         "interval": "+ 35.350",
-                        "speed": "213.064"
+                        "speed": "213.064",
+                        "grid": "4"
                     }
                 },
                 "25": {
                     "position": "4",
-                    "points": 0,
+                    "points": 3,
                     "fastest_lap": "",
                     "team": "brooke_bond_oxo-rob_walker-team_surtees",
                     "drivers": [
@@ -6414,12 +6617,13 @@
                         "laps": "54",
                         "gap": "+ 44.760",
                         "interval": "+ 8.230",
-                        "speed": "212.74"
+                        "speed": "212.74",
+                        "grid": "12"
                     }
                 },
                 "10": {
                     "position": "5",
-                    "points": 0,
+                    "points": 2,
                     "fastest_lap": "",
                     "team": "equipe_matra",
                     "drivers": [
@@ -6430,12 +6634,13 @@
                         "laps": "54",
                         "gap": "+ 45.640",
                         "interval": "+ 0.880",
-                        "speed": "212.705"
+                        "speed": "212.705",
+                        "grid": "6"
                     }
                 },
                 "9": {
                     "position": "6",
-                    "points": 0,
+                    "points": 1,
                     "fastest_lap": "",
                     "team": "marlboro_brm",
                     "drivers": [
@@ -6446,7 +6651,8 @@
                         "laps": "54",
                         "gap": "+ 1:01.190",
                         "interval": "+ 15.550",
-                        "speed": "212.094"
+                        "speed": "212.094",
+                        "grid": "10"
                     }
                 },
                 "1": {
@@ -6462,7 +6668,8 @@
                         "laps": "54",
                         "gap": "+ 1:09.090",
                         "interval": "+ 7.900",
-                        "speed": "211.786"
+                        "speed": "211.786",
+                        "grid": "3"
                     }
                 },
                 "7": {
@@ -6478,7 +6685,8 @@
                         "laps": "54",
                         "gap": "+ 1:21.450",
                         "interval": "+ 12.360",
-                        "speed": "211.304"
+                        "speed": "211.304",
+                        "grid": "21"
                     }
                 },
                 "2": {
@@ -6494,7 +6702,8 @@
                         "laps": "53",
                         "gap": "1 Lap",
                         "interval": "1 Lap",
-                        "speed": "208.611"
+                        "speed": "208.611",
+                        "grid": "20"
                     }
                 },
                 "4": {
@@ -6510,7 +6719,8 @@
                         "laps": "53",
                         "gap": "1 Lap",
                         "interval": "+ 43.640",
-                        "speed": "206.94"
+                        "speed": "206.94",
+                        "grid": "22"
                     }
                 },
                 "24": {
@@ -6526,7 +6736,8 @@
                         "laps": "52",
                         "gap": "2 Laps",
                         "interval": "1 Lap",
-                        "speed": "204.843"
+                        "speed": "204.843",
+                        "grid": "8"
                     }
                 },
                 "5": {
@@ -6542,7 +6753,8 @@
                         "laps": "52",
                         "gap": "2 Laps",
                         "interval": "+ 48.670",
-                        "speed": "203.014"
+                        "speed": "203.014",
+                        "grid": "11"
                     }
                 },
                 "6": {
@@ -6558,7 +6770,8 @@
                         "laps": "51",
                         "gap": "3 Laps",
                         "interval": "1 Lap",
-                        "speed": "200.384"
+                        "speed": "200.384",
+                        "grid": "16"
                     }
                 },
                 "11": {
@@ -6574,11 +6787,12 @@
                         "laps": "51",
                         "gap": "3 Laps",
                         "interval": "+ 12.470",
-                        "speed": "199.924"
+                        "speed": "199.924",
+                        "grid": "13"
                     }
                 },
                 "27": {
-                    "position": "NC",
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "team_eifelland_caravans",
@@ -6587,11 +6801,12 @@
                     ],
                     "other_info": {
                         "carNumber": "27",
-                        "laps": "48"
+                        "laps": "48",
+                        "grid": "17"
                     }
                 },
                 "23": {
-                    "position": "NC",
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "Williams",
@@ -6600,11 +6815,12 @@
                     ],
                     "other_info": {
                         "carNumber": "23",
-                        "laps": "46"
+                        "laps": "46",
+                        "grid": "18"
                     }
                 },
                 "15": {
-                    "position": "NC",
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "martini_racing_team",
@@ -6613,7 +6829,8 @@
                     ],
                     "other_info": {
                         "carNumber": "15",
-                        "laps": "45"
+                        "laps": "45",
+                        "grid": "23"
                     }
                 },
                 "16": {
@@ -6626,7 +6843,8 @@
                     ],
                     "other_info": {
                         "carNumber": "16",
-                        "laps": "36"
+                        "laps": "36",
+                        "grid": "14"
                     }
                 },
                 "28": {
@@ -6639,7 +6857,8 @@
                     ],
                     "other_info": {
                         "carNumber": "28",
-                        "laps": "31"
+                        "laps": "31",
+                        "grid": "15"
                     }
                 },
                 "3": {
@@ -6652,7 +6871,8 @@
                     ],
                     "other_info": {
                         "carNumber": "3",
-                        "laps": "24"
+                        "laps": "24",
+                        "grid": "24"
                     }
                 },
                 "29": {
@@ -6665,7 +6885,8 @@
                     ],
                     "other_info": {
                         "carNumber": "29",
-                        "laps": "22"
+                        "laps": "22",
+                        "grid": "25"
                     }
                 },
                 "18": {
@@ -6678,7 +6899,8 @@
                     ],
                     "other_info": {
                         "carNumber": "18",
-                        "laps": "20"
+                        "laps": "20",
+                        "grid": "9"
                     }
                 },
                 "17": {
@@ -6691,7 +6913,8 @@
                     ],
                     "other_info": {
                         "carNumber": "17",
-                        "laps": "14"
+                        "laps": "14",
+                        "grid": "5"
                     }
                 },
                 "19": {
@@ -6704,7 +6927,8 @@
                     ],
                     "other_info": {
                         "carNumber": "19",
-                        "laps": "13"
+                        "laps": "13",
+                        "grid": "2"
                     }
                 },
                 "21": {
@@ -6717,7 +6941,8 @@
                     ],
                     "other_info": {
                         "carNumber": "21",
-                        "laps": "6"
+                        "laps": "6",
+                        "grid": "19"
                     }
                 },
                 "22": {
@@ -6734,7 +6959,7 @@
                 }
             }
         },
-        "Italian-grand-prix": {
+        "Italian Grand Prix": {
             "Qualifying": {
                 "4": {
                     "position": "1",
@@ -7116,7 +7341,7 @@
             "Race": {
                 "6": {
                     "position": "1",
-                    "points": 0,
+                    "points": 9,
                     "fastest_lap": "1:36.600",
                     "team": "lotus",
                     "drivers": [
@@ -7125,12 +7350,13 @@
                     "other_info": {
                         "carNumber": "6",
                         "laps": "55",
-                        "fastestLap": "1:36.600"
+                        "fastestLap": "1:36.600",
+                        "grid": "4"
                     }
                 },
                 "10": {
                     "position": "2",
-                    "points": 0,
+                    "points": 6,
                     "fastest_lap": "1:37.200",
                     "team": "brooke_bond_oxo-rob_walker-team_surtees",
                     "drivers": [
@@ -7141,12 +7367,13 @@
                         "laps": "55",
                         "gap": "+ 14.500",
                         "interval": "+ 14.500",
-                        "fastestLap": "1:37.200"
+                        "fastestLap": "1:37.200",
+                        "grid": "9"
                     }
                 },
                 "14": {
                     "position": "3",
-                    "points": 0,
+                    "points": 4,
                     "fastest_lap": "1:37.000",
                     "team": "McLaren",
                     "drivers": [
@@ -7157,12 +7384,13 @@
                         "laps": "55",
                         "gap": "+ 23.800",
                         "interval": "+ 9.300",
-                        "fastestLap": "1:37.000"
+                        "fastestLap": "1:37.000",
+                        "grid": "5"
                     }
                 },
                 "15": {
                     "position": "4",
-                    "points": 0,
+                    "points": 3,
                     "fastest_lap": "1:37.200",
                     "team": "McLaren",
                     "drivers": [
@@ -7173,12 +7401,13 @@
                         "laps": "55",
                         "gap": "+ 35.700",
                         "interval": "+ 11.900",
-                        "fastestLap": "1:37.200"
+                        "fastestLap": "1:37.200",
+                        "grid": "8"
                     }
                 },
                 "28": {
                     "position": "5",
-                    "points": 0,
+                    "points": 2,
                     "fastest_lap": "",
                     "team": "motor_racing_developments_ltd",
                     "drivers": [
@@ -7188,12 +7417,13 @@
                         "carNumber": "28",
                         "laps": "55",
                         "gap": "+ 1:05.600",
-                        "interval": "+ 29.900"
+                        "interval": "+ 29.900",
+                        "grid": "13"
                     }
                 },
                 "23": {
                     "position": "6",
-                    "points": 0,
+                    "points": 1,
                     "fastest_lap": "",
                     "team": "marlboro_brm",
                     "drivers": [
@@ -7203,7 +7433,8 @@
                         "carNumber": "23",
                         "laps": "55",
                         "gap": "+ 1:21.900",
-                        "interval": "+ 16.300"
+                        "interval": "+ 16.300",
+                        "grid": "12"
                     }
                 },
                 "3": {
@@ -7219,7 +7450,8 @@
                         "laps": "54",
                         "gap": "1 Lap",
                         "interval": "1 Lap",
-                        "fastestLap": "1:37.100"
+                        "fastestLap": "1:37.100",
+                        "grid": "7"
                     }
                 },
                 "21": {
@@ -7233,7 +7465,8 @@
                     "other_info": {
                         "carNumber": "21",
                         "laps": "54",
-                        "gap": "1 Lap"
+                        "gap": "1 Lap",
+                        "grid": "16"
                     }
                 },
                 "19": {
@@ -7247,7 +7480,8 @@
                     "other_info": {
                         "carNumber": "19",
                         "laps": "54",
-                        "gap": "1 Lap"
+                        "gap": "1 Lap",
+                        "grid": "24"
                     }
                 },
                 "16": {
@@ -7262,7 +7496,8 @@
                         "carNumber": "16",
                         "laps": "54",
                         "gap": "1 Lap",
-                        "fastestLap": "1:37.300"
+                        "fastestLap": "1:37.300",
+                        "grid": "25"
                     }
                 },
                 "22": {
@@ -7278,7 +7513,8 @@
                         "laps": "52",
                         "gap": "3 Laps",
                         "interval": "2 Laps",
-                        "fastestLap": "1:37.400"
+                        "fastestLap": "1:37.400",
+                        "grid": "17"
                     }
                 },
                 "24": {
@@ -7294,7 +7530,8 @@
                         "laps": "51",
                         "gap": "4 Laps",
                         "interval": "1 Lap",
-                        "fastestLap": "1:37.200"
+                        "fastestLap": "1:37.200",
+                        "grid": "10"
                     }
                 },
                 "18": {
@@ -7309,7 +7546,8 @@
                         "carNumber": "18",
                         "laps": "50",
                         "gap": "5 Laps",
-                        "interval": "1 Lap"
+                        "interval": "1 Lap",
+                        "grid": "20"
                     }
                 },
                 "4": {
@@ -7324,7 +7562,8 @@
                         "carNumber": "4",
                         "laps": "46",
                         "fastestLap": "1:36.300",
-                        "lap_of_fastestLap": "44"
+                        "lap_of_fastestLap": "44",
+                        "grid": "1"
                     }
                 },
                 "20": {
@@ -7338,7 +7577,8 @@
                     "other_info": {
                         "carNumber": "20",
                         "laps": "38",
-                        "fastestLap": "1:37.000"
+                        "fastestLap": "1:37.000",
+                        "grid": "2"
                     }
                 },
                 "9": {
@@ -7351,7 +7591,8 @@
                     ],
                     "other_info": {
                         "carNumber": "9",
-                        "laps": "33"
+                        "laps": "33",
+                        "grid": "21"
                     }
                 },
                 "29": {
@@ -7364,7 +7605,8 @@
                     ],
                     "other_info": {
                         "carNumber": "29",
-                        "laps": "20"
+                        "laps": "20",
+                        "grid": "19"
                     }
                 },
                 "7": {
@@ -7377,7 +7619,8 @@
                     ],
                     "other_info": {
                         "carNumber": "7",
-                        "laps": "20"
+                        "laps": "20",
+                        "grid": "22"
                     }
                 },
                 "8": {
@@ -7390,7 +7633,8 @@
                     ],
                     "other_info": {
                         "carNumber": "8",
-                        "laps": "20"
+                        "laps": "20",
+                        "grid": "15"
                     }
                 },
                 "5": {
@@ -7403,7 +7647,8 @@
                     ],
                     "other_info": {
                         "carNumber": "5",
-                        "laps": "16"
+                        "laps": "16",
+                        "grid": "4"
                     }
                 },
                 "26": {
@@ -7416,7 +7661,8 @@
                     ],
                     "other_info": {
                         "carNumber": "26",
-                        "laps": "15"
+                        "laps": "15",
+                        "grid": "18"
                     }
                 },
                 "30": {
@@ -7429,7 +7675,8 @@
                     ],
                     "other_info": {
                         "carNumber": "30",
-                        "laps": "14"
+                        "laps": "14",
+                        "grid": "11"
                     }
                 },
                 "2": {
@@ -7442,7 +7689,8 @@
                     ],
                     "other_info": {
                         "carNumber": "2",
-                        "laps": "14"
+                        "laps": "14",
+                        "grid": "14"
                     }
                 },
                 "11": {
@@ -7455,7 +7703,8 @@
                     ],
                     "other_info": {
                         "carNumber": "11",
-                        "laps": "6"
+                        "laps": "6",
+                        "grid": "23"
                     }
                 },
                 "1": {
@@ -7467,7 +7716,8 @@
                         "Jackie_Stewart"
                     ],
                     "other_info": {
-                        "carNumber": "1"
+                        "carNumber": "1",
+                        "grid": "3"
                     }
                 },
                 "25": {
@@ -7496,7 +7746,7 @@
                 }
             }
         },
-        "Canadian-grand-prix": {
+        "Canadian Grand Prix": {
             "Qualifying": {
                 "19": {
                     "position": "1",
@@ -7849,7 +8099,7 @@
             "Race": {
                 "1": {
                     "position": "1",
-                    "points": 0,
+                    "points": 9,
                     "fastest_lap": "1:15.700",
                     "team": "elf_team_tyrrell",
                     "drivers": [
@@ -7859,12 +8109,13 @@
                         "carNumber": "1",
                         "laps": "80",
                         "fastestLap": "1:15.700",
-                        "lap_of_fastestLap": "25"
+                        "lap_of_fastestLap": "25",
+                        "grid": "5"
                     }
                 },
                 "19": {
                     "position": "2",
-                    "points": 0,
+                    "points": 6,
                     "fastest_lap": "1:16.700",
                     "team": "McLaren",
                     "drivers": [
@@ -7875,12 +8126,13 @@
                         "laps": "80",
                         "gap": "+ 48.200",
                         "interval": "+ 48.200",
-                        "fastestLap": "1:16.700"
+                        "fastestLap": "1:16.700",
+                        "grid": "1"
                     }
                 },
                 "18": {
                     "position": "3",
-                    "points": 0,
+                    "points": 4,
                     "fastest_lap": "1:16.400",
                     "team": "McLaren",
                     "drivers": [
@@ -7891,12 +8143,13 @@
                         "laps": "80",
                         "gap": "+ 54.600",
                         "interval": "+ 6.400",
-                        "fastestLap": "1:16.400"
+                        "fastestLap": "1:16.400",
+                        "grid": "2"
                     }
                 },
                 "8": {
                     "position": "4",
-                    "points": 0,
+                    "points": 3,
                     "fastest_lap": "1:16.600",
                     "team": "motor_racing_developments_ltd",
                     "drivers": [
@@ -7907,12 +8160,13 @@
                         "laps": "80",
                         "gap": "+ 1:00.700",
                         "interval": "+ 6.100",
-                        "fastestLap": "1:16.600"
+                        "fastestLap": "1:16.600",
+                        "grid": "9"
                     }
                 },
                 "11": {
                     "position": "5",
-                    "points": 0,
+                    "points": 2,
                     "fastest_lap": "1:16.900",
                     "team": "Ferrari",
                     "drivers": [
@@ -7923,12 +8177,13 @@
                         "laps": "80",
                         "gap": "+ 1:07.000",
                         "interval": "+ 6.300",
-                        "fastestLap": "1:16.900"
+                        "fastestLap": "1:16.900",
+                        "grid": "7"
                     }
                 },
                 "4": {
                     "position": "6",
-                    "points": 0,
+                    "points": 1,
                     "fastest_lap": "1:17.200",
                     "team": "equipe_matra",
                     "drivers": [
@@ -7939,7 +8194,8 @@
                         "laps": "79",
                         "gap": "1 Lap",
                         "interval": "1 Lap",
-                        "fastestLap": "1:17.200"
+                        "fastestLap": "1:17.200",
+                        "grid": "10"
                     }
                 },
                 "22": {
@@ -7954,7 +8210,8 @@
                         "carNumber": "22",
                         "laps": "79",
                         "gap": "1 Lap",
-                        "fastestLap": "1:17.100"
+                        "fastestLap": "1:17.100",
+                        "grid": "13"
                     }
                 },
                 "7": {
@@ -7969,7 +8226,8 @@
                         "carNumber": "7",
                         "laps": "79",
                         "gap": "1 Lap",
-                        "fastestLap": "1:17.500"
+                        "fastestLap": "1:17.500",
+                        "grid": "17"
                     }
                 },
                 "29": {
@@ -7985,7 +8243,8 @@
                         "laps": "78",
                         "gap": "2 Laps",
                         "interval": "1 Lap",
-                        "fastestLap": "1:16.500"
+                        "fastestLap": "1:16.500",
+                        "grid": "18"
                     }
                 },
                 "15": {
@@ -8000,7 +8259,8 @@
                         "carNumber": "15",
                         "laps": "78",
                         "gap": "2 Laps",
-                        "fastestLap": "1:17.700"
+                        "fastestLap": "1:17.700",
+                        "grid": "14"
                     }
                 },
                 "5": {
@@ -8015,7 +8275,8 @@
                         "carNumber": "5",
                         "laps": "78",
                         "gap": "2 Laps",
-                        "fastestLap": "1:16.800"
+                        "fastestLap": "1:16.800",
+                        "grid": "4"
                     }
                 },
                 "10": {
@@ -8031,7 +8292,8 @@
                         "laps": "76",
                         "gap": "4 Laps",
                         "interval": "2 Laps",
-                        "fastestLap": "1:16.400"
+                        "fastestLap": "1:16.400",
+                        "grid": "8"
                     }
                 },
                 "28": {
@@ -8047,7 +8309,8 @@
                         "laps": "73",
                         "gap": "7 Laps",
                         "interval": "3 Laps",
-                        "fastestLap": "1:18.900"
+                        "fastestLap": "1:18.900",
+                        "grid": "21"
                     }
                 },
                 "6": {
@@ -8061,7 +8324,8 @@
                     "other_info": {
                         "carNumber": "6",
                         "laps": "65",
-                        "fastestLap": "1:17.600"
+                        "fastestLap": "1:17.600",
+                        "grid": "16"
                     }
                 },
                 "26": {
@@ -8075,11 +8339,12 @@
                     "other_info": {
                         "carNumber": "26",
                         "laps": "64",
-                        "fastestLap": "1:17.700"
+                        "fastestLap": "1:17.700",
+                        "grid": "19"
                     }
                 },
                 "25": {
-                    "position": "DSQ",
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "1:16.300",
                     "team": "stp_march_racing_team",
@@ -8089,11 +8354,12 @@
                     "other_info": {
                         "carNumber": "25",
                         "laps": "61",
-                        "fastestLap": "1:16.300"
+                        "fastestLap": "1:16.300",
+                        "grid": "3"
                     }
                 },
                 "27": {
-                    "position": "NCL",
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "1:21.500",
                     "team": "clarke-mordaunt-guthrie_racing",
@@ -8103,7 +8369,8 @@
                     "other_info": {
                         "carNumber": "27",
                         "laps": "59",
-                        "fastestLap": "1:21.500"
+                        "fastestLap": "1:21.500",
+                        "grid": "24"
                     }
                 },
                 "2": {
@@ -8117,7 +8384,8 @@
                     "other_info": {
                         "carNumber": "2",
                         "laps": "51",
-                        "fastestLap": "1:16.700"
+                        "fastestLap": "1:16.700",
+                        "grid": "6"
                     }
                 },
                 "16": {
@@ -8131,11 +8399,12 @@
                     "other_info": {
                         "carNumber": "16",
                         "laps": "25",
-                        "fastestLap": "1:17.900"
+                        "fastestLap": "1:17.900",
+                        "grid": "12"
                     }
                 },
                 "33": {
-                    "position": "NCL",
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "1:20.100",
                     "team": "gene_mason_racing",
@@ -8145,7 +8414,8 @@
                     "other_info": {
                         "carNumber": "33",
                         "laps": "24",
-                        "fastestLap": "1:20.100"
+                        "fastestLap": "1:20.100",
+                        "grid": "22"
                     }
                 },
                 "14": {
@@ -8159,7 +8429,8 @@
                     "other_info": {
                         "carNumber": "14",
                         "laps": "21",
-                        "fastestLap": "1:18.100"
+                        "fastestLap": "1:18.100",
+                        "grid": "20"
                     }
                 },
                 "17": {
@@ -8173,7 +8444,8 @@
                     "other_info": {
                         "carNumber": "17",
                         "laps": "20",
-                        "fastestLap": "1:21.500"
+                        "fastestLap": "1:21.500",
+                        "grid": "23"
                     }
                 },
                 "9": {
@@ -8186,7 +8458,8 @@
                     ],
                     "other_info": {
                         "carNumber": "9",
-                        "laps": "5"
+                        "laps": "5",
+                        "grid": "11"
                     }
                 },
                 "23": {
@@ -8200,12 +8473,13 @@
                     "other_info": {
                         "carNumber": "23",
                         "laps": "2",
-                        "fastestLap": "1:24.600"
+                        "fastestLap": "1:24.600",
+                        "grid": "15"
                     }
                 }
             }
         },
-        "United-states-grand-prix": {
+        "United States Grand Prix": {
             "Qualifying": {
                 "1": {
                     "position": "1",
@@ -8657,7 +8931,7 @@
             "Race": {
                 "1": {
                     "position": "1",
-                    "points": 0,
+                    "points": 9,
                     "fastest_lap": "1:41.644",
                     "team": "elf_team_tyrrell",
                     "drivers": [
@@ -8668,12 +8942,13 @@
                         "laps": "59",
                         "speed": "189.078",
                         "fastestLap": "1:41.644",
-                        "lap_of_fastestLap": "33"
+                        "lap_of_fastestLap": "33",
+                        "grid": "1"
                     }
                 },
                 "2": {
                     "position": "2",
-                    "points": 0,
+                    "points": 6,
                     "fastest_lap": "",
                     "team": "elf_team_tyrrell",
                     "drivers": [
@@ -8684,12 +8959,13 @@
                         "laps": "59",
                         "gap": "+ 32.268",
                         "interval": "+ 32.268",
-                        "speed": "188.084"
+                        "speed": "188.084",
+                        "grid": "4"
                     }
                 },
                 "19": {
                     "position": "3",
-                    "points": 0,
+                    "points": 4,
                     "fastest_lap": "",
                     "team": "McLaren",
                     "drivers": [
@@ -8700,12 +8976,13 @@
                         "laps": "59",
                         "gap": "+ 37.528",
                         "interval": "+ 5.260",
-                        "speed": "187.923"
+                        "speed": "187.923",
+                        "grid": "3"
                     }
                 },
                 "4": {
                     "position": "4",
-                    "points": 0,
+                    "points": 3,
                     "fastest_lap": "",
                     "team": "stp_march_racing_team",
                     "drivers": [
@@ -8716,12 +8993,13 @@
                         "laps": "59",
                         "gap": "+ 1:22.516",
                         "interval": "+ 44.988",
-                        "speed": "186.557"
+                        "speed": "186.557",
+                        "grid": "26"
                     }
                 },
                 "7": {
                     "position": "5",
-                    "points": 0,
+                    "points": 2,
                     "fastest_lap": "",
                     "team": "Ferrari",
                     "drivers": [
@@ -8732,12 +9010,13 @@
                         "laps": "59",
                         "gap": "+ 1:23.119",
                         "interval": "+ 0.603",
-                        "speed": "186.539"
+                        "speed": "186.539",
+                        "grid": "12"
                     }
                 },
                 "9": {
                     "position": "6",
-                    "points": 0,
+                    "points": 1,
                     "fastest_lap": "",
                     "team": "Ferrari",
                     "drivers": [
@@ -8747,7 +9026,8 @@
                         "carNumber": "9",
                         "laps": "58",
                         "gap": "1 Lap",
-                        "interval": "1 Lap"
+                        "interval": "1 Lap",
+                        "grid": "10"
                     }
                 },
                 "3": {
@@ -8761,7 +9041,8 @@
                     "other_info": {
                         "carNumber": "3",
                         "laps": "58",
-                        "gap": "1 Lap"
+                        "gap": "1 Lap",
+                        "grid": "11"
                     }
                 },
                 "8": {
@@ -8775,7 +9056,8 @@
                     "other_info": {
                         "carNumber": "8",
                         "laps": "58",
-                        "gap": "1 Lap"
+                        "gap": "1 Lap",
+                        "grid": "6"
                     }
                 },
                 "21": {
@@ -8789,7 +9071,8 @@
                     "other_info": {
                         "carNumber": "21",
                         "laps": "58",
-                        "gap": "1 Lap"
+                        "gap": "1 Lap",
+                        "grid": "8"
                     }
                 },
                 "12": {
@@ -8804,7 +9087,8 @@
                         "carNumber": "12",
                         "laps": "57",
                         "gap": "2 Laps",
-                        "interval": "1 Lap"
+                        "interval": "1 Lap",
+                        "grid": "16"
                     }
                 },
                 "28": {
@@ -8818,7 +9102,8 @@
                     "other_info": {
                         "carNumber": "28",
                         "laps": "57",
-                        "gap": "2 Laps"
+                        "gap": "2 Laps",
+                        "grid": "27"
                     }
                 },
                 "34": {
@@ -8832,7 +9117,8 @@
                     "other_info": {
                         "carNumber": "34",
                         "laps": "57",
-                        "gap": "2 Laps"
+                        "gap": "2 Laps",
+                        "grid": "22"
                     }
                 },
                 "6": {
@@ -8846,7 +9132,8 @@
                     "other_info": {
                         "carNumber": "6",
                         "laps": "57",
-                        "gap": "2 Laps"
+                        "gap": "2 Laps",
+                        "grid": "20"
                     }
                 },
                 "26": {
@@ -8860,7 +9147,8 @@
                     "other_info": {
                         "carNumber": "26",
                         "laps": "57",
-                        "gap": "2 Laps"
+                        "gap": "2 Laps",
+                        "grid": "21"
                     }
                 },
                 "18": {
@@ -8874,7 +9162,8 @@
                     "other_info": {
                         "carNumber": "18",
                         "laps": "57",
-                        "gap": "2 Laps"
+                        "gap": "2 Laps",
+                        "grid": "7"
                     }
                 },
                 "33": {
@@ -8888,7 +9177,8 @@
                     "other_info": {
                         "carNumber": "33",
                         "laps": "57",
-                        "gap": "2 Laps"
+                        "gap": "2 Laps",
+                        "grid": "20"
                     }
                 },
                 "23": {
@@ -8903,7 +9193,8 @@
                         "carNumber": "23",
                         "laps": "56",
                         "gap": "3 Laps",
-                        "interval": "1 Lap"
+                        "interval": "1 Lap",
+                        "grid": "14"
                     }
                 },
                 "20": {
@@ -8918,11 +9209,12 @@
                         "carNumber": "20",
                         "laps": "54",
                         "gap": "5 Laps",
-                        "interval": "2 Laps"
+                        "interval": "2 Laps",
+                        "grid": "2"
                     }
                 },
                 "5": {
-                    "position": "NC",
+                    "position": "19",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "stp_march_racing_team",
@@ -8931,7 +9223,8 @@
                     ],
                     "other_info": {
                         "carNumber": "5",
-                        "laps": "49"
+                        "laps": "49",
+                        "grid": "25"
                     }
                 },
                 "27": {
@@ -8944,7 +9237,8 @@
                     ],
                     "other_info": {
                         "carNumber": "27",
-                        "laps": "48"
+                        "laps": "48",
+                        "grid": "15"
                     }
                 },
                 "14": {
@@ -8957,7 +9251,8 @@
                     ],
                     "other_info": {
                         "carNumber": "14",
-                        "laps": "47"
+                        "laps": "47",
+                        "grid": "28"
                     }
                 },
                 "16": {
@@ -8970,7 +9265,8 @@
                     ],
                     "other_info": {
                         "carNumber": "16",
-                        "laps": "44"
+                        "laps": "44",
+                        "grid": "17"
                     }
                 },
                 "11": {
@@ -8983,7 +9279,8 @@
                     ],
                     "other_info": {
                         "carNumber": "11",
-                        "laps": "44"
+                        "laps": "44",
+                        "grid": "30"
                     }
                 },
                 "30": {
@@ -8996,7 +9293,8 @@
                     ],
                     "other_info": {
                         "carNumber": "30",
-                        "laps": "43"
+                        "laps": "43",
+                        "grid": "13"
                     }
                 },
                 "17": {
@@ -9009,7 +9307,8 @@
                     ],
                     "other_info": {
                         "carNumber": "17",
-                        "laps": "40"
+                        "laps": "40",
+                        "grid": "18"
                     }
                 },
                 "15": {
@@ -9022,7 +9321,8 @@
                     ],
                     "other_info": {
                         "carNumber": "15",
-                        "laps": "34"
+                        "laps": "34",
+                        "grid": "24"
                     }
                 },
                 "29": {
@@ -9035,7 +9335,8 @@
                     ],
                     "other_info": {
                         "carNumber": "29",
-                        "laps": "31"
+                        "laps": "31",
+                        "grid": "5"
                     }
                 },
                 "25": {
@@ -9048,7 +9349,8 @@
                     ],
                     "other_info": {
                         "carNumber": "25",
-                        "laps": "25"
+                        "laps": "25",
+                        "grid": "19"
                     }
                 },
                 "24": {
@@ -9061,7 +9363,8 @@
                     ],
                     "other_info": {
                         "carNumber": "24",
-                        "laps": "22"
+                        "laps": "22",
+                        "grid": "31"
                     }
                 },
                 "10": {
@@ -9074,7 +9377,8 @@
                     ],
                     "other_info": {
                         "carNumber": "10",
-                        "laps": "17"
+                        "laps": "17",
+                        "grid": "9"
                     }
                 },
                 "31": {
@@ -9087,7 +9391,8 @@
                     ],
                     "other_info": {
                         "carNumber": "31",
-                        "laps": "8"
+                        "laps": "8",
+                        "grid": "29"
                     }
                 }
             }

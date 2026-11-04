@@ -1,7 +1,7 @@
 {
     "name": "Formula_1",
     "events": {
-        "United-states-grand-prix": {
+        "United States Grand Prix": {
             "Qualifying": {
                 "1": {
                     "position": "1",
@@ -425,7 +425,7 @@
             "Race": {
                 "1": {
                     "position": "1",
-                    "points": 0,
+                    "points": 10,
                     "fastest_lap": "1:27.153",
                     "team": "McLaren",
                     "drivers": [
@@ -436,12 +436,13 @@
                         "laps": "81",
                         "speed": "149.698",
                         "fastestLap": "1:27.153",
-                        "lap_of_fastestLap": "39"
+                        "lap_of_fastestLap": "39",
+                        "grid": "1"
                     }
                 },
                 "27": {
                     "position": "2",
-                    "points": 0,
+                    "points": 6,
                     "fastest_lap": "1:26.845",
                     "team": "Ferrari",
                     "drivers": [
@@ -454,12 +455,13 @@
                         "interval": "+ 16.322",
                         "speed": "149.361",
                         "fastestLap": "1:26.845",
-                        "lap_of_fastestLap": "68"
+                        "lap_of_fastestLap": "68",
+                        "grid": "2"
                     }
                 },
                 "20": {
                     "position": "3",
-                    "points": 0,
+                    "points": 4,
                     "fastest_lap": "1:26.965",
                     "team": "camel_benneton_ford",
                     "drivers": [
@@ -472,12 +474,13 @@
                         "interval": "+ 1.054",
                         "speed": "149.34",
                         "fastestLap": "1:26.965",
-                        "lap_of_fastestLap": "67"
+                        "lap_of_fastestLap": "67",
+                        "grid": "5"
                     }
                 },
                 "4": {
                     "position": "4",
-                    "points": 0,
+                    "points": 3,
                     "fastest_lap": "1:27.983",
                     "team": "braun_tyrrell_honda",
                     "drivers": [
@@ -490,12 +493,13 @@
                         "interval": "+ 8.033",
                         "speed": "149.175",
                         "fastestLap": "1:27.983",
-                        "lap_of_fastestLap": "69"
+                        "lap_of_fastestLap": "69",
+                        "grid": "11"
                     }
                 },
                 "3": {
                     "position": "5",
-                    "points": 0,
+                    "points": 2,
                     "fastest_lap": "1:28.227",
                     "team": "braun_tyrrell_honda",
                     "drivers": [
@@ -508,12 +512,13 @@
                         "interval": "1 Lap",
                         "speed": "146.53",
                         "fastestLap": "1:28.227",
-                        "lap_of_fastestLap": "67"
+                        "lap_of_fastestLap": "67",
+                        "grid": "16"
                     }
                 },
                 "30": {
                     "position": "6",
-                    "points": 0,
+                    "points": 1,
                     "fastest_lap": "1:28.993",
                     "team": "larrousse_f1",
                     "drivers": [
@@ -526,7 +531,8 @@
                         "interval": "1 Lap",
                         "speed": "145.73",
                         "fastestLap": "1:28.993",
-                        "lap_of_fastestLap": "12"
+                        "lap_of_fastestLap": "12",
+                        "grid": "21"
                     }
                 },
                 "34": {
@@ -544,7 +550,8 @@
                         "interval": "1 Lap",
                         "speed": "143.092",
                         "fastestLap": "1:29.877",
-                        "lap_of_fastestLap": "46"
+                        "lap_of_fastestLap": "46",
+                        "grid": "17"
                     }
                 },
                 "17": {
@@ -562,7 +569,8 @@
                         "interval": "1 Lap",
                         "speed": "142.249",
                         "fastestLap": "1:30.242",
-                        "lap_of_fastestLap": "73"
+                        "lap_of_fastestLap": "73",
+                        "grid": "22"
                     }
                 },
                 "23": {
@@ -580,7 +588,8 @@
                         "interval": "2 Laps",
                         "speed": "146.593",
                         "fastestLap": "1:29.356",
-                        "lap_of_fastestLap": "47"
+                        "lap_of_fastestLap": "47",
+                        "grid": "15"
                     }
                 },
                 "32": {
@@ -598,7 +607,8 @@
                         "interval": "+ 39.365",
                         "speed": "145.756",
                         "fastestLap": "1:28.975",
-                        "lap_of_fastestLap": "73"
+                        "lap_of_fastestLap": "73",
+                        "grid": "14"
                     }
                 },
                 "7": {
@@ -616,7 +626,8 @@
                         "interval": "2 Laps",
                         "speed": "133.514",
                         "fastestLap": "1:30.472",
-                        "lap_of_fastestLap": "29"
+                        "lap_of_fastestLap": "29",
+                        "grid": "12"
                     }
                 },
                 "28": {
@@ -634,11 +645,12 @@
                         "interval": "1 Lap",
                         "speed": "149.205",
                         "fastestLap": "1:26.758",
-                        "lap_of_fastestLap": "49"
+                        "lap_of_fastestLap": "49",
+                        "grid": "6"
                     }
                 },
                 "11": {
-                    "position": "DNF",
+                    "position": "13",
                     "points": 0,
                     "fastest_lap": "1:29.072",
                     "team": "team_lotus",
@@ -650,7 +662,8 @@
                         "laps": "59",
                         "speed": "139.431",
                         "fastestLap": "1:29.072",
-                        "lap_of_fastestLap": "43"
+                        "lap_of_fastestLap": "43",
+                        "grid": "13"
                     }
                 },
                 "6": {
@@ -666,7 +679,8 @@
                         "laps": "49",
                         "speed": "149.654",
                         "fastestLap": "1:27.450",
-                        "lap_of_fastestLap": "24"
+                        "lap_of_fastestLap": "24",
+                        "grid": "3"
                     }
                 },
                 "19": {
@@ -682,7 +696,8 @@
                         "laps": "49",
                         "speed": "149.235",
                         "fastestLap": "1:28.044",
-                        "lap_of_fastestLap": "40"
+                        "lap_of_fastestLap": "40",
+                        "grid": "8"
                     }
                 },
                 "9": {
@@ -698,7 +713,8 @@
                         "laps": "41",
                         "speed": "136.382",
                         "fastestLap": "1:30.077",
-                        "lap_of_fastestLap": "27"
+                        "lap_of_fastestLap": "27",
+                        "grid": "25"
                     }
                 },
                 "16": {
@@ -714,7 +730,8 @@
                         "laps": "40",
                         "speed": "147.261",
                         "fastestLap": "1:29.201",
-                        "lap_of_fastestLap": "30"
+                        "lap_of_fastestLap": "30",
+                        "grid": "18"
                     }
                 },
                 "25": {
@@ -730,7 +747,8 @@
                         "laps": "40",
                         "speed": "146.117",
                         "fastestLap": "1:29.310",
-                        "lap_of_fastestLap": "40"
+                        "lap_of_fastestLap": "40",
+                        "grid": "20"
                     }
                 },
                 "2": {
@@ -746,7 +764,8 @@
                         "laps": "36",
                         "speed": "149.097",
                         "fastestLap": "1:28.286",
-                        "lap_of_fastestLap": "33"
+                        "lap_of_fastestLap": "33",
+                        "grid": "7"
                     }
                 },
                 "5": {
@@ -762,7 +781,8 @@
                         "laps": "35",
                         "speed": "148.857",
                         "fastestLap": "1:28.502",
-                        "lap_of_fastestLap": "28"
+                        "lap_of_fastestLap": "28",
+                        "grid": "4"
                     }
                 },
                 "15": {
@@ -778,7 +798,8 @@
                         "laps": "34",
                         "speed": "145.832",
                         "fastestLap": "1:29.505",
-                        "lap_of_fastestLap": "24"
+                        "lap_of_fastestLap": "24",
+                        "grid": "23"
                     }
                 },
                 "8": {
@@ -794,7 +815,8 @@
                         "laps": "32",
                         "speed": "143.24",
                         "fastestLap": "1:31.092",
-                        "lap_of_fastestLap": "32"
+                        "lap_of_fastestLap": "32",
+                        "grid": "24"
                     }
                 },
                 "21": {
@@ -810,7 +832,8 @@
                         "laps": "16",
                         "speed": "146.031",
                         "fastestLap": "1:29.910",
-                        "lap_of_fastestLap": "14"
+                        "lap_of_fastestLap": "14",
+                        "grid": "9"
                     }
                 },
                 "24": {
@@ -826,7 +849,8 @@
                         "laps": "15",
                         "speed": "142.512",
                         "fastestLap": "1:31.631",
-                        "lap_of_fastestLap": "13"
+                        "lap_of_fastestLap": "13",
+                        "grid": "26"
                     }
                 },
                 "22": {
@@ -842,7 +866,8 @@
                         "laps": "12",
                         "speed": "141.834",
                         "fastestLap": "1:31.435",
-                        "lap_of_fastestLap": "6"
+                        "lap_of_fastestLap": "6",
+                        "grid": "10"
                     }
                 },
                 "29": {
@@ -858,12 +883,13 @@
                         "laps": "4",
                         "speed": "139.063",
                         "fastestLap": "1:31.732",
-                        "lap_of_fastestLap": "4"
+                        "lap_of_fastestLap": "4",
+                        "grid": "19"
                     }
                 }
             }
         },
-        "Brazilian-grand-prix": {
+        "Brazilian Grand Prix": {
             "Qualifying": {
                 "1": {
                     "position": "1",
@@ -1287,7 +1313,7 @@
             "Race": {
                 "1": {
                     "position": "1",
-                    "points": 0,
+                    "points": 10,
                     "fastest_lap": "1:20.841",
                     "team": "McLaren",
                     "drivers": [
@@ -1298,12 +1324,13 @@
                         "laps": "71",
                         "speed": "187.11",
                         "fastestLap": "1:20.841",
-                        "lap_of_fastestLap": "36"
+                        "lap_of_fastestLap": "36",
+                        "grid": "1"
                     }
                 },
                 "6": {
                     "position": "2",
-                    "points": 0,
+                    "points": 6,
                     "fastest_lap": "1:21.330",
                     "team": "Williams",
                     "drivers": [
@@ -1316,12 +1343,13 @@
                         "interval": "+ 2.991",
                         "speed": "187.015",
                         "fastestLap": "1:21.330",
-                        "lap_of_fastestLap": "45"
+                        "lap_of_fastestLap": "45",
+                        "grid": "2"
                     }
                 },
                 "2": {
                     "position": "3",
-                    "points": 0,
+                    "points": 4,
                     "fastest_lap": "1:21.125",
                     "team": "McLaren",
                     "drivers": [
@@ -1334,12 +1362,13 @@
                         "interval": "+ 2.425",
                         "speed": "186.938",
                         "fastestLap": "1:21.125",
-                        "lap_of_fastestLap": "66"
+                        "lap_of_fastestLap": "66",
+                        "grid": "4"
                     }
                 },
                 "27": {
                     "position": "4",
-                    "points": 0,
+                    "points": 3,
                     "fastest_lap": "1:20.635",
                     "team": "Ferrari",
                     "drivers": [
@@ -1352,12 +1381,13 @@
                         "interval": "+ 13.953",
                         "speed": "186.498",
                         "fastestLap": "1:20.635",
-                        "lap_of_fastestLap": "64"
+                        "lap_of_fastestLap": "64",
+                        "grid": "6"
                     }
                 },
                 "20": {
                     "position": "5",
-                    "points": 0,
+                    "points": 2,
                     "fastest_lap": "1:21.280",
                     "team": "camel_benneton_ford",
                     "drivers": [
@@ -1370,12 +1400,13 @@
                         "interval": "+ 2.591",
                         "speed": "186.417",
                         "fastestLap": "1:21.280",
-                        "lap_of_fastestLap": "66"
+                        "lap_of_fastestLap": "66",
+                        "grid": "7"
                     }
                 },
                 "28": {
                     "position": "6",
-                    "points": 0,
+                    "points": 1,
                     "fastest_lap": "1:20.991",
                     "team": "Ferrari",
                     "drivers": [
@@ -1388,7 +1419,8 @@
                         "interval": "+ 1.681",
                         "speed": "186.364",
                         "fastestLap": "1:20.991",
-                        "lap_of_fastestLap": "66"
+                        "lap_of_fastestLap": "66",
+                        "grid": "5"
                     }
                 },
                 "19": {
@@ -1406,7 +1438,8 @@
                         "interval": "1 Lap",
                         "speed": "183.691",
                         "fastestLap": "1:22.473",
-                        "lap_of_fastestLap": "63"
+                        "lap_of_fastestLap": "63",
+                        "grid": "14"
                     }
                 },
                 "24": {
@@ -1424,7 +1457,8 @@
                         "interval": "1 Lap",
                         "speed": "182.093",
                         "fastestLap": "1:23.161",
-                        "lap_of_fastestLap": "44"
+                        "lap_of_fastestLap": "44",
+                        "grid": "21"
                     }
                 },
                 "11": {
@@ -1442,7 +1476,8 @@
                         "interval": "1 Lap",
                         "speed": "178.294",
                         "fastestLap": "1:22.613",
-                        "lap_of_fastestLap": "33"
+                        "lap_of_fastestLap": "33",
+                        "grid": "22"
                     }
                 },
                 "25": {
@@ -1460,7 +1495,8 @@
                         "interval": "+ 6.858",
                         "speed": "178.088",
                         "fastestLap": "1:23.873",
-                        "lap_of_fastestLap": "32"
+                        "lap_of_fastestLap": "32",
+                        "grid": "18"
                     }
                 },
                 "21": {
@@ -1478,7 +1514,8 @@
                         "interval": "+ 3.856",
                         "speed": "177.973",
                         "fastestLap": "1:23.808",
-                        "lap_of_fastestLap": "62"
+                        "lap_of_fastestLap": "62",
+                        "grid": "12"
                     }
                 },
                 "7": {
@@ -1496,7 +1533,8 @@
                         "interval": "1 Lap",
                         "speed": "175.113",
                         "fastestLap": "1:25.319",
-                        "lap_of_fastestLap": "44"
+                        "lap_of_fastestLap": "44",
+                        "grid": "26"
                     }
                 },
                 "32": {
@@ -1514,7 +1552,8 @@
                         "interval": "4 Laps",
                         "speed": "182.765",
                         "fastestLap": "1:23.051",
-                        "lap_of_fastestLap": "11"
+                        "lap_of_fastestLap": "11",
+                        "grid": "10"
                     }
                 },
                 "5": {
@@ -1530,7 +1569,8 @@
                         "laps": "59",
                         "speed": "187.834",
                         "fastestLap": "1:20.436",
-                        "lap_of_fastestLap": "35"
+                        "lap_of_fastestLap": "35",
+                        "grid": "3"
                     }
                 },
                 "26": {
@@ -1546,7 +1586,8 @@
                         "laps": "50",
                         "speed": "180.777",
                         "fastestLap": "1:23.587",
-                        "lap_of_fastestLap": "33"
+                        "lap_of_fastestLap": "33",
+                        "grid": "23"
                     }
                 },
                 "23": {
@@ -1562,7 +1603,8 @@
                         "laps": "47",
                         "speed": "182.89",
                         "fastestLap": "1:22.887",
-                        "lap_of_fastestLap": "37"
+                        "lap_of_fastestLap": "37",
+                        "grid": "20"
                     }
                 },
                 "8": {
@@ -1578,7 +1620,8 @@
                         "laps": "34",
                         "speed": "174.528",
                         "fastestLap": "1:26.224",
-                        "lap_of_fastestLap": "7"
+                        "lap_of_fastestLap": "7",
+                        "grid": "25"
                     }
                 },
                 "29": {
@@ -1594,7 +1637,8 @@
                         "laps": "33",
                         "speed": "181.676",
                         "fastestLap": "1:23.270",
-                        "lap_of_fastestLap": "32"
+                        "lap_of_fastestLap": "32",
+                        "grid": "11"
                     }
                 },
                 "22": {
@@ -1610,7 +1654,8 @@
                         "laps": "22",
                         "speed": "181.446",
                         "fastestLap": "1:24.420",
-                        "lap_of_fastestLap": "14"
+                        "lap_of_fastestLap": "14",
+                        "grid": "19"
                     }
                 },
                 "33": {
@@ -1626,7 +1671,8 @@
                         "laps": "20",
                         "speed": "184.021",
                         "fastestLap": "1:23.144",
-                        "lap_of_fastestLap": "17"
+                        "lap_of_fastestLap": "17",
+                        "grid": "13"
                     }
                 },
                 "4": {
@@ -1642,7 +1688,8 @@
                         "laps": "19",
                         "speed": "184.619",
                         "fastestLap": "1:23.424",
-                        "lap_of_fastestLap": "11"
+                        "lap_of_fastestLap": "11",
+                        "grid": "9"
                     }
                 },
                 "16": {
@@ -1658,7 +1705,8 @@
                         "laps": "16",
                         "speed": "182.682",
                         "fastestLap": "1:23.580",
-                        "lap_of_fastestLap": "6"
+                        "lap_of_fastestLap": "6",
+                        "grid": "15"
                     }
                 },
                 "3": {
@@ -1674,7 +1722,8 @@
                         "laps": "12",
                         "speed": "179.369",
                         "fastestLap": "1:25.053",
-                        "lap_of_fastestLap": "6"
+                        "lap_of_fastestLap": "6",
+                        "grid": "16"
                     }
                 },
                 "15": {
@@ -1690,7 +1739,8 @@
                         "laps": "9",
                         "speed": "180.259",
                         "fastestLap": "1:23.669",
-                        "lap_of_fastestLap": "4"
+                        "lap_of_fastestLap": "4",
+                        "grid": "8"
                     }
                 },
                 "17": {
@@ -1702,11 +1752,12 @@
                         "Gabriele_Tarquini"
                     ],
                     "other_info": {
-                        "carNumber": "17"
+                        "carNumber": "17",
+                        "grid": "24"
                     }
                 },
                 "30": {
-                    "position": "DNS",
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "larrousse_f1",
@@ -1714,12 +1765,13 @@
                         "Aguri_Suzuki"
                     ],
                     "other_info": {
-                        "carNumber": "30"
+                        "carNumber": "30",
+                        "grid": "17"
                     }
                 }
             }
         },
-        "San-marino-grand-prix": {
+        "San Marino Grand Prix": {
             "Qualifying": {
                 "1": {
                     "position": "1",
@@ -2143,7 +2195,7 @@
             "Race": {
                 "1": {
                     "position": "1",
-                    "points": 0,
+                    "points": 10,
                     "fastest_lap": "1:27.168",
                     "team": "McLaren",
                     "drivers": [
@@ -2154,12 +2206,13 @@
                         "laps": "61",
                         "speed": "193.671",
                         "fastestLap": "1:27.168",
-                        "lap_of_fastestLap": "47"
+                        "lap_of_fastestLap": "47",
+                        "grid": "1"
                     }
                 },
                 "2": {
                     "position": "2",
-                    "points": 0,
+                    "points": 6,
                     "fastest_lap": "1:26.531",
                     "team": "McLaren",
                     "drivers": [
@@ -2172,12 +2225,13 @@
                         "interval": "+ 1.675",
                         "speed": "193.614",
                         "fastestLap": "1:26.531",
-                        "lap_of_fastestLap": "55"
+                        "lap_of_fastestLap": "55",
+                        "grid": "5"
                     }
                 },
                 "22": {
                     "position": "3",
-                    "points": 0,
+                    "points": 4,
                     "fastest_lap": "1:29.091",
                     "team": "scuderia_italia_spa",
                     "drivers": [
@@ -2190,12 +2244,13 @@
                         "interval": "1 Lap",
                         "speed": "187.481",
                         "fastestLap": "1:29.091",
-                        "lap_of_fastestLap": "40"
+                        "lap_of_fastestLap": "40",
+                        "grid": "16"
                     }
                 },
                 "23": {
                     "position": "4",
-                    "points": 0,
+                    "points": 3,
                     "fastest_lap": "1:30.476",
                     "team": "minardi_team",
                     "drivers": [
@@ -2208,12 +2263,13 @@
                         "interval": "1 Lap",
                         "speed": "184.76",
                         "fastestLap": "1:30.476",
-                        "lap_of_fastestLap": "33"
+                        "lap_of_fastestLap": "33",
+                        "grid": "9"
                     }
                 },
                 "11": {
                     "position": "5",
-                    "points": 0,
+                    "points": 2,
                     "fastest_lap": "1:30.481",
                     "team": "team_lotus",
                     "drivers": [
@@ -2226,12 +2282,13 @@
                         "interval": "1 Lap",
                         "speed": "183.509",
                         "fastestLap": "1:30.481",
-                        "lap_of_fastestLap": "56"
+                        "lap_of_fastestLap": "56",
+                        "grid": "25"
                     }
                 },
                 "12": {
                     "position": "6",
-                    "points": 0,
+                    "points": 1,
                     "fastest_lap": "1:29.968",
                     "team": "team_lotus",
                     "drivers": [
@@ -2244,7 +2301,8 @@
                         "interval": "+ 0.848",
                         "speed": "183.482",
                         "fastestLap": "1:29.968",
-                        "lap_of_fastestLap": "58"
+                        "lap_of_fastestLap": "58",
+                        "grid": "26"
                     }
                 },
                 "25": {
@@ -2262,7 +2320,8 @@
                         "interval": "+ 47.221",
                         "speed": "181.984",
                         "fastestLap": "1:29.368",
-                        "lap_of_fastestLap": "48"
+                        "lap_of_fastestLap": "48",
+                        "grid": "24"
                     }
                 },
                 "8": {
@@ -2280,7 +2339,8 @@
                         "interval": "+ 20.184",
                         "speed": "181.351",
                         "fastestLap": "1:31.442",
-                        "lap_of_fastestLap": "53"
+                        "lap_of_fastestLap": "53",
+                        "grid": "23"
                     }
                 },
                 "35": {
@@ -2298,7 +2358,8 @@
                         "interval": "1 Lap",
                         "speed": "183.395",
                         "fastestLap": "1:30.528",
-                        "lap_of_fastestLap": "50"
+                        "lap_of_fastestLap": "50",
+                        "grid": "21"
                     }
                 },
                 "26": {
@@ -2316,7 +2377,8 @@
                         "interval": "+ 1:26.051",
                         "speed": "180.639",
                         "fastestLap": "1:31.860",
-                        "lap_of_fastestLap": "42"
+                        "lap_of_fastestLap": "42",
+                        "grid": "19"
                     }
                 },
                 "7": {
@@ -2334,7 +2396,8 @@
                         "interval": "+ 36.739",
                         "speed": "179.487",
                         "fastestLap": "1:30.115",
-                        "lap_of_fastestLap": "50"
+                        "lap_of_fastestLap": "50",
+                        "grid": "18"
                     }
                 },
                 "15": {
@@ -2352,7 +2415,8 @@
                         "interval": "2 Laps",
                         "speed": "181.146",
                         "fastestLap": "1:30.422",
-                        "lap_of_fastestLap": "46"
+                        "lap_of_fastestLap": "46",
+                        "grid": "15"
                     }
                 },
                 "19": {
@@ -2370,7 +2434,8 @@
                         "interval": "1 Lap",
                         "speed": "186.199",
                         "fastestLap": "1:28.423",
-                        "lap_of_fastestLap": "44"
+                        "lap_of_fastestLap": "44",
+                        "grid": "13"
                     }
                 },
                 "4": {
@@ -2386,7 +2451,8 @@
                         "laps": "41",
                         "speed": "184.302",
                         "fastestLap": "1:28.906",
-                        "lap_of_fastestLap": "40"
+                        "lap_of_fastestLap": "40",
+                        "grid": "6"
                     }
                 },
                 "33": {
@@ -2402,7 +2468,8 @@
                         "laps": "37",
                         "speed": "179.037",
                         "fastestLap": "1:30.471",
-                        "lap_of_fastestLap": "28"
+                        "lap_of_fastestLap": "28",
+                        "grid": "11"
                     }
                 },
                 "32": {
@@ -2418,7 +2485,8 @@
                         "laps": "37",
                         "speed": "169.039",
                         "fastestLap": "1:33.534",
-                        "lap_of_fastestLap": "28"
+                        "lap_of_fastestLap": "28",
+                        "grid": "13"
                     }
                 },
                 "16": {
@@ -2434,7 +2502,8 @@
                         "laps": "24",
                         "speed": "170.948",
                         "fastestLap": "1:31.257",
-                        "lap_of_fastestLap": "24"
+                        "lap_of_fastestLap": "24",
+                        "grid": "22"
                     }
                 },
                 "29": {
@@ -2450,7 +2519,8 @@
                         "laps": "17",
                         "speed": "159.016",
                         "fastestLap": "1:33.555",
-                        "lap_of_fastestLap": "17"
+                        "lap_of_fastestLap": "17",
+                        "grid": "17"
                     }
                 },
                 "6": {
@@ -2466,7 +2536,8 @@
                         "laps": "17",
                         "speed": "136.6",
                         "fastestLap": "1:28.776",
-                        "lap_of_fastestLap": "16"
+                        "lap_of_fastestLap": "16",
+                        "grid": "2"
                     }
                 },
                 "3": {
@@ -2482,7 +2553,8 @@
                         "laps": "15",
                         "speed": "162.676",
                         "fastestLap": "1:44.827",
-                        "lap_of_fastestLap": "15"
+                        "lap_of_fastestLap": "15",
+                        "grid": "10"
                     }
                 },
                 "24": {
@@ -2498,7 +2570,8 @@
                         "laps": "10",
                         "speed": "155.365",
                         "fastestLap": "1:50.522",
-                        "lap_of_fastestLap": "10"
+                        "lap_of_fastestLap": "10",
+                        "grid": "8"
                     }
                 },
                 "28": {
@@ -2514,7 +2587,8 @@
                         "laps": "2",
                         "speed": "149.998",
                         "fastestLap": "1:55.709",
-                        "lap_of_fastestLap": "2"
+                        "lap_of_fastestLap": "2",
+                        "grid": "7"
                     }
                 },
                 "30": {
@@ -2530,7 +2604,8 @@
                         "laps": "2",
                         "speed": "136.503",
                         "fastestLap": "2:01.658",
-                        "lap_of_fastestLap": "2"
+                        "lap_of_fastestLap": "2",
+                        "grid": "20"
                     }
                 },
                 "20": {
@@ -2546,7 +2621,8 @@
                         "laps": "1",
                         "speed": "128.176",
                         "fastestLap": "2:21.555",
-                        "lap_of_fastestLap": "1"
+                        "lap_of_fastestLap": "1",
+                        "grid": "14"
                     }
                 },
                 "5": {
@@ -2558,7 +2634,8 @@
                         "Nigel_Mansell"
                     ],
                     "other_info": {
-                        "carNumber": "5"
+                        "carNumber": "5",
+                        "grid": "4"
                     }
                 },
                 "27": {
@@ -2570,12 +2647,13 @@
                         "Alain_Prost"
                     ],
                     "other_info": {
-                        "carNumber": "27"
+                        "carNumber": "27",
+                        "grid": "3"
                     }
                 }
             }
         },
-        "Monaco-grand-prix": {
+        "Monaco Grand Prix": {
             "Qualifying": {
                 "1": {
                     "position": "1",
@@ -2995,7 +3073,7 @@
             "Race": {
                 "1": {
                     "position": "1",
-                    "points": 0,
+                    "points": 10,
                     "fastest_lap": "1:25.250",
                     "team": "McLaren",
                     "drivers": [
@@ -3006,12 +3084,13 @@
                         "laps": "78",
                         "speed": "137.785",
                         "fastestLap": "1:25.250",
-                        "lap_of_fastestLap": "32"
+                        "lap_of_fastestLap": "32",
+                        "grid": "1"
                     }
                 },
                 "5": {
                     "position": "2",
-                    "points": 0,
+                    "points": 6,
                     "fastest_lap": "1:24.850",
                     "team": "Williams",
                     "drivers": [
@@ -3024,12 +3103,13 @@
                         "interval": "+ 18.348",
                         "speed": "137.413",
                         "fastestLap": "1:24.850",
-                        "lap_of_fastestLap": "53"
+                        "lap_of_fastestLap": "53",
+                        "grid": "5"
                     }
                 },
                 "28": {
                     "position": "3",
-                    "points": 0,
+                    "points": 4,
                     "fastest_lap": "1:26.055",
                     "team": "Ferrari",
                     "drivers": [
@@ -3042,12 +3122,13 @@
                         "interval": "+ 29.107",
                         "speed": "136.827",
                         "fastestLap": "1:26.055",
-                        "lap_of_fastestLap": "51"
+                        "lap_of_fastestLap": "51",
+                        "grid": "9"
                     }
                 },
                 "19": {
                     "position": "4",
-                    "points": 0,
+                    "points": 3,
                     "fastest_lap": "1:25.823",
                     "team": "camel_benneton_ford",
                     "drivers": [
@@ -3060,12 +3141,13 @@
                         "interval": "1 Lap",
                         "speed": "135.992",
                         "fastestLap": "1:25.823",
-                        "lap_of_fastestLap": "31"
+                        "lap_of_fastestLap": "31",
+                        "grid": "8"
                     }
                 },
                 "27": {
                     "position": "5",
-                    "points": 0,
+                    "points": 2,
                     "fastest_lap": "1:24.368",
                     "team": "Ferrari",
                     "drivers": [
@@ -3078,12 +3160,13 @@
                         "interval": "+ 6.163",
                         "speed": "135.868",
                         "fastestLap": "1:24.368",
-                        "lap_of_fastestLap": "77"
+                        "lap_of_fastestLap": "77",
+                        "grid": "7"
                     }
                 },
                 "21": {
                     "position": "6",
-                    "points": 0,
+                    "points": 1,
                     "fastest_lap": "1:26.924",
                     "team": "scuderia_italia_spa",
                     "drivers": [
@@ -3096,7 +3179,8 @@
                         "interval": "+ 1:31.363",
                         "speed": "134.064",
                         "fastestLap": "1:26.924",
-                        "lap_of_fastestLap": "52"
+                        "lap_of_fastestLap": "52",
+                        "grid": "12"
                     }
                 },
                 "25": {
@@ -3114,7 +3198,8 @@
                         "interval": "1 Lap",
                         "speed": "133.786",
                         "fastestLap": "1:27.787",
-                        "lap_of_fastestLap": "71"
+                        "lap_of_fastestLap": "71",
+                        "grid": "16"
                     }
                 },
                 "32": {
@@ -3132,7 +3217,8 @@
                         "interval": "+ 1.187",
                         "speed": "133.763",
                         "fastestLap": "1:27.163",
-                        "lap_of_fastestLap": "64"
+                        "lap_of_fastestLap": "64",
+                        "grid": "23"
                     }
                 },
                 "29": {
@@ -3150,7 +3236,8 @@
                         "interval": "+ 0.247",
                         "speed": "133.758",
                         "fastestLap": "1:27.624",
-                        "lap_of_fastestLap": "64"
+                        "lap_of_fastestLap": "64",
+                        "grid": "13"
                     }
                 },
                 "26": {
@@ -3168,7 +3255,8 @@
                         "interval": "+ 1:13.946",
                         "speed": "132.321",
                         "fastestLap": "1:27.304",
-                        "lap_of_fastestLap": "40"
+                        "lap_of_fastestLap": "40",
+                        "grid": "26"
                     }
                 },
                 "22": {
@@ -3186,7 +3274,8 @@
                         "interval": "1 Lap",
                         "speed": "131.553",
                         "fastestLap": "1:27.541",
-                        "lap_of_fastestLap": "41"
+                        "lap_of_fastestLap": "41",
+                        "grid": "21"
                     }
                 },
                 "23": {
@@ -3204,7 +3293,8 @@
                         "interval": "3 Laps",
                         "speed": "125.105",
                         "fastestLap": "1:27.740",
-                        "lap_of_fastestLap": "49"
+                        "lap_of_fastestLap": "49",
+                        "grid": "14"
                     }
                 },
                 "11": {
@@ -3220,7 +3310,8 @@
                         "laps": "64",
                         "speed": "133.459",
                         "fastestLap": "1:26.627",
-                        "lap_of_fastestLap": "64"
+                        "lap_of_fastestLap": "64",
+                        "grid": "25"
                     }
                 },
                 "24": {
@@ -3236,7 +3327,8 @@
                         "laps": "49",
                         "speed": "132.782",
                         "fastestLap": "1:28.648",
-                        "lap_of_fastestLap": "41"
+                        "lap_of_fastestLap": "41",
+                        "grid": "17"
                     }
                 },
                 "15": {
@@ -3252,7 +3344,8 @@
                         "laps": "43",
                         "speed": "133.304",
                         "fastestLap": "1:28.012",
-                        "lap_of_fastestLap": "37"
+                        "lap_of_fastestLap": "37",
+                        "grid": "15"
                     }
                 },
                 "4": {
@@ -3268,7 +3361,8 @@
                         "laps": "42",
                         "speed": "137.844",
                         "fastestLap": "1:25.629",
-                        "lap_of_fastestLap": "34"
+                        "lap_of_fastestLap": "34",
+                        "grid": "2"
                     }
                 },
                 "6": {
@@ -3284,7 +3378,8 @@
                         "laps": "42",
                         "speed": "137.795",
                         "fastestLap": "1:25.147",
-                        "lap_of_fastestLap": "34"
+                        "lap_of_fastestLap": "34",
+                        "grid": "3"
                     }
                 },
                 "8": {
@@ -3300,7 +3395,8 @@
                         "laps": "41",
                         "speed": "132.809",
                         "fastestLap": "1:27.641",
-                        "lap_of_fastestLap": "33"
+                        "lap_of_fastestLap": "33",
+                        "grid": "19"
                     }
                 },
                 "9": {
@@ -3316,7 +3412,8 @@
                         "laps": "39",
                         "speed": "128.545",
                         "fastestLap": "1:30.366",
-                        "lap_of_fastestLap": "6"
+                        "lap_of_fastestLap": "6",
+                        "grid": "22"
                     }
                 },
                 "3": {
@@ -3332,7 +3429,8 @@
                         "laps": "35",
                         "speed": "134.64",
                         "fastestLap": "1:27.740",
-                        "lap_of_fastestLap": "11"
+                        "lap_of_fastestLap": "11",
+                        "grid": "11"
                     }
                 },
                 "30": {
@@ -3348,7 +3446,8 @@
                         "laps": "24",
                         "speed": "132.202",
                         "fastestLap": "1:28.661",
-                        "lap_of_fastestLap": "6"
+                        "lap_of_fastestLap": "6",
+                        "grid": "20"
                     }
                 },
                 "33": {
@@ -3364,7 +3463,8 @@
                         "laps": "21",
                         "speed": "136.141",
                         "fastestLap": "1:26.257",
-                        "lap_of_fastestLap": "10"
+                        "lap_of_fastestLap": "10",
+                        "grid": "10"
                     }
                 },
                 "16": {
@@ -3380,7 +3480,8 @@
                         "laps": "12",
                         "speed": "97.476",
                         "fastestLap": "1:28.803",
-                        "lap_of_fastestLap": "4"
+                        "lap_of_fastestLap": "4",
+                        "grid": "18"
                     }
                 },
                 "17": {
@@ -3396,7 +3497,8 @@
                         "laps": "9",
                         "speed": "129.36",
                         "fastestLap": "1:29.711",
-                        "lap_of_fastestLap": "7"
+                        "lap_of_fastestLap": "7",
+                        "grid": "24"
                     }
                 },
                 "2": {
@@ -3412,7 +3514,8 @@
                         "laps": "9",
                         "speed": "107.098",
                         "fastestLap": "1:25.228",
-                        "lap_of_fastestLap": "6"
+                        "lap_of_fastestLap": "6",
+                        "grid": "6"
                     }
                 },
                 "20": {
@@ -3424,7 +3527,8 @@
                         "Nelson_Piquet"
                     ],
                     "other_info": {
-                        "carNumber": "20"
+                        "carNumber": "20",
+                        "grid": "4"
                     }
                 },
                 "7": {
@@ -3441,7 +3545,7 @@
                 }
             }
         },
-        "Canadian-grand-prix": {
+        "Canadian Grand Prix": {
             "Qualifying": {
                 "6": {
                     "position": "1",
@@ -3864,7 +3968,7 @@
             "Race": {
                 "20": {
                     "position": "1",
-                    "points": 0,
+                    "points": 10,
                     "fastest_lap": "1:23.758",
                     "team": "camel_benneton_ford",
                     "drivers": [
@@ -3875,12 +3979,13 @@
                         "laps": "69",
                         "speed": "185.52",
                         "fastestLap": "1:23.758",
-                        "lap_of_fastestLap": "34"
+                        "lap_of_fastestLap": "34",
+                        "grid": "8"
                     }
                 },
                 "4": {
                     "position": "2",
-                    "points": 0,
+                    "points": 6,
                     "fastest_lap": "1:23.528",
                     "team": "braun_tyrrell_honda",
                     "drivers": [
@@ -3893,12 +3998,13 @@
                         "interval": "+ 31.832",
                         "speed": "184.53",
                         "fastestLap": "1:23.528",
-                        "lap_of_fastestLap": "52"
+                        "lap_of_fastestLap": "52",
+                        "grid": "9"
                     }
                 },
                 "6": {
                     "position": "3",
-                    "points": 0,
+                    "points": 4,
                     "fastest_lap": "1:22.672",
                     "team": "Williams",
                     "drivers": [
@@ -3911,12 +4017,13 @@
                         "interval": "+ 10.385",
                         "speed": "184.209",
                         "fastestLap": "1:22.672",
-                        "lap_of_fastestLap": "48"
+                        "lap_of_fastestLap": "48",
+                        "grid": "1"
                     }
                 },
                 "33": {
                     "position": "4",
-                    "points": 0,
+                    "points": 3,
                     "fastest_lap": "1:24.105",
                     "team": "jordan",
                     "drivers": [
@@ -3929,12 +4036,13 @@
                         "interval": "+ 37.993",
                         "speed": "183.045",
                         "fastestLap": "1:24.105",
-                        "lap_of_fastestLap": "54"
+                        "lap_of_fastestLap": "54",
+                        "grid": "11"
                     }
                 },
                 "32": {
                     "position": "5",
-                    "points": 0,
+                    "points": 2,
                     "fastest_lap": "1:24.479",
                     "team": "jordan",
                     "drivers": [
@@ -3947,12 +4055,13 @@
                         "interval": "+ 2.141",
                         "speed": "182.979",
                         "fastestLap": "1:24.479",
-                        "lap_of_fastestLap": "50"
+                        "lap_of_fastestLap": "50",
+                        "grid": "14"
                     }
                 },
                 "5": {
                     "position": "6",
-                    "points": 0,
+                    "points": 1,
                     "fastest_lap": "1:22.385",
                     "team": "Williams",
                     "drivers": [
@@ -3965,7 +4074,8 @@
                         "interval": "1 Lap",
                         "speed": "187.392",
                         "fastestLap": "1:22.385",
-                        "lap_of_fastestLap": "65"
+                        "lap_of_fastestLap": "65",
+                        "grid": "2"
                     }
                 },
                 "23": {
@@ -3983,7 +4093,8 @@
                         "interval": "+ 2:48.574",
                         "speed": "182.088",
                         "fastestLap": "1:25.237",
-                        "lap_of_fastestLap": "46"
+                        "lap_of_fastestLap": "46",
+                        "grid": "18"
                     }
                 },
                 "26": {
@@ -4001,7 +4112,8 @@
                         "interval": "+ 26.599",
                         "speed": "181.278",
                         "fastestLap": "1:25.877",
-                        "lap_of_fastestLap": "36"
+                        "lap_of_fastestLap": "36",
+                        "grid": "26"
                     }
                 },
                 "21": {
@@ -4019,7 +4131,8 @@
                         "interval": "+ 38.096",
                         "speed": "180.131",
                         "fastestLap": "1:25.183",
-                        "lap_of_fastestLap": "45"
+                        "lap_of_fastestLap": "45",
+                        "grid": "10"
                     }
                 },
                 "3": {
@@ -4037,7 +4150,8 @@
                         "interval": "1 Lap",
                         "speed": "178.656",
                         "fastestLap": "1:25.620",
-                        "lap_of_fastestLap": "65"
+                        "lap_of_fastestLap": "65",
+                        "grid": "12"
                     }
                 },
                 "15": {
@@ -4053,7 +4167,8 @@
                         "laps": "61",
                         "speed": "177.748",
                         "fastestLap": "1:28.212",
-                        "lap_of_fastestLap": "48"
+                        "lap_of_fastestLap": "48",
+                        "grid": "23"
                     }
                 },
                 "22": {
@@ -4069,7 +4184,8 @@
                         "laps": "50",
                         "speed": "183.266",
                         "fastestLap": "1:24.680",
-                        "lap_of_fastestLap": "48"
+                        "lap_of_fastestLap": "48",
+                        "grid": "17"
                     }
                 },
                 "10": {
@@ -4085,7 +4201,8 @@
                         "laps": "48",
                         "speed": "165.802",
                         "fastestLap": "1:28.420",
-                        "lap_of_fastestLap": "38"
+                        "lap_of_fastestLap": "38",
+                        "grid": "25"
                     }
                 },
                 "16": {
@@ -4101,7 +4218,8 @@
                         "laps": "42",
                         "speed": "182.868",
                         "fastestLap": "1:24.547",
-                        "lap_of_fastestLap": "40"
+                        "lap_of_fastestLap": "40",
+                        "grid": "13"
                     }
                 },
                 "28": {
@@ -4117,7 +4235,8 @@
                         "laps": "34",
                         "speed": "183.401",
                         "fastestLap": "1:24.125",
-                        "lap_of_fastestLap": "32"
+                        "lap_of_fastestLap": "32",
+                        "grid": "7"
                     }
                 },
                 "29": {
@@ -4133,7 +4252,8 @@
                         "laps": "29",
                         "speed": "179.484",
                         "fastestLap": "1:26.510",
-                        "lap_of_fastestLap": "28"
+                        "lap_of_fastestLap": "28",
+                        "grid": "19"
                     }
                 },
                 "27": {
@@ -4149,7 +4269,8 @@
                         "laps": "27",
                         "speed": "182.425",
                         "fastestLap": "1:24.186",
-                        "lap_of_fastestLap": "25"
+                        "lap_of_fastestLap": "25",
+                        "grid": "4"
                     }
                 },
                 "25": {
@@ -4165,7 +4286,8 @@
                         "laps": "27",
                         "speed": "180.047",
                         "fastestLap": "1:26.469",
-                        "lap_of_fastestLap": "27"
+                        "lap_of_fastestLap": "27",
+                        "grid": "16"
                     }
                 },
                 "1": {
@@ -4181,7 +4303,8 @@
                         "laps": "25",
                         "speed": "184.293",
                         "fastestLap": "1:24.647",
-                        "lap_of_fastestLap": "19"
+                        "lap_of_fastestLap": "19",
+                        "grid": "3"
                     }
                 },
                 "11": {
@@ -4197,7 +4320,8 @@
                         "laps": "21",
                         "speed": "177.734",
                         "fastestLap": "1:26.626",
-                        "lap_of_fastestLap": "18"
+                        "lap_of_fastestLap": "18",
+                        "grid": "24"
                     }
                 },
                 "7": {
@@ -4213,7 +4337,8 @@
                         "laps": "21",
                         "speed": "153.498",
                         "fastestLap": "1:27.549",
-                        "lap_of_fastestLap": "13"
+                        "lap_of_fastestLap": "13",
+                        "grid": "20"
                     }
                 },
                 "24": {
@@ -4229,7 +4354,8 @@
                         "laps": "20",
                         "speed": "179.605",
                         "fastestLap": "1:26.576",
-                        "lap_of_fastestLap": "16"
+                        "lap_of_fastestLap": "16",
+                        "grid": "15"
                     }
                 },
                 "19": {
@@ -4245,7 +4371,8 @@
                         "laps": "10",
                         "speed": "174.511",
                         "fastestLap": "1:25.690",
-                        "lap_of_fastestLap": "9"
+                        "lap_of_fastestLap": "9",
+                        "grid": "5"
                     }
                 },
                 "2": {
@@ -4261,7 +4388,8 @@
                         "laps": "4",
                         "speed": "83.49",
                         "fastestLap": "1:29.815",
-                        "lap_of_fastestLap": "3"
+                        "lap_of_fastestLap": "3",
+                        "grid": "6"
                     }
                 },
                 "30": {
@@ -4277,7 +4405,8 @@
                         "laps": "3",
                         "speed": "164.851",
                         "fastestLap": "1:29.644",
-                        "lap_of_fastestLap": "3"
+                        "lap_of_fastestLap": "3",
+                        "grid": "22"
                     }
                 },
                 "9": {
@@ -4293,12 +4422,13 @@
                         "laps": "2",
                         "speed": "158.054",
                         "fastestLap": "1:36.279",
-                        "lap_of_fastestLap": "2"
+                        "lap_of_fastestLap": "2",
+                        "grid": "21"
                     }
                 }
             }
         },
-        "Mexican-grand-prix": {
+        "Mexican Grand Prix": {
             "Qualifying": {
                 "6": {
                     "position": "1",
@@ -4722,7 +4852,7 @@
             "Race": {
                 "6": {
                     "position": "1",
-                    "points": 0,
+                    "points": 10,
                     "fastest_lap": "1:17.299",
                     "team": "Williams",
                     "drivers": [
@@ -4733,12 +4863,13 @@
                         "laps": "67",
                         "speed": "197.757",
                         "fastestLap": "1:17.299",
-                        "lap_of_fastestLap": "67"
+                        "lap_of_fastestLap": "67",
+                        "grid": "1"
                     }
                 },
                 "5": {
                     "position": "2",
-                    "points": 0,
+                    "points": 6,
                     "fastest_lap": "1:16.788",
                     "team": "Williams",
                     "drivers": [
@@ -4751,12 +4882,13 @@
                         "interval": "+ 1.336",
                         "speed": "197.707",
                         "fastestLap": "1:16.788",
-                        "lap_of_fastestLap": "61"
+                        "lap_of_fastestLap": "61",
+                        "grid": "2"
                     }
                 },
                 "1": {
                     "position": "3",
-                    "points": 0,
+                    "points": 4,
                     "fastest_lap": "1:18.570",
                     "team": "McLaren",
                     "drivers": [
@@ -4769,12 +4901,13 @@
                         "interval": "+ 56.020",
                         "speed": "195.675",
                         "fastestLap": "1:18.570",
-                        "lap_of_fastestLap": "52"
+                        "lap_of_fastestLap": "52",
+                        "grid": "3"
                     }
                 },
                 "33": {
                     "position": "4",
-                    "points": 0,
+                    "points": 3,
                     "fastest_lap": "1:19.109",
                     "team": "jordan",
                     "drivers": [
@@ -4787,12 +4920,13 @@
                         "interval": "1 Lap",
                         "speed": "195.466",
                         "fastestLap": "1:19.109",
-                        "lap_of_fastestLap": "49"
+                        "lap_of_fastestLap": "49",
+                        "grid": "11"
                     }
                 },
                 "19": {
                     "position": "5",
-                    "points": 0,
+                    "points": 2,
                     "fastest_lap": "1:19.718",
                     "team": "camel_benneton_ford",
                     "drivers": [
@@ -4805,12 +4939,13 @@
                         "interval": "+ 50.153",
                         "speed": "193.658",
                         "fastestLap": "1:19.718",
-                        "lap_of_fastestLap": "55"
+                        "lap_of_fastestLap": "55",
+                        "grid": "9"
                     }
                 },
                 "29": {
                     "position": "6",
-                    "points": 0,
+                    "points": 1,
                     "fastest_lap": "1:19.648",
                     "team": "larrousse_f1",
                     "drivers": [
@@ -4823,7 +4958,8 @@
                         "interval": "+ 5.702",
                         "speed": "193.455",
                         "fastestLap": "1:19.648",
-                        "lap_of_fastestLap": "56"
+                        "lap_of_fastestLap": "56",
+                        "grid": "23"
                     }
                 },
                 "24": {
@@ -4841,7 +4977,8 @@
                         "interval": "+ 32.911",
                         "speed": "192.29",
                         "fastestLap": "1:20.411",
-                        "lap_of_fastestLap": "56"
+                        "lap_of_fastestLap": "56",
+                        "grid": "14"
                     }
                 },
                 "25": {
@@ -4859,7 +4996,8 @@
                         "interval": "1 Lap",
                         "speed": "191.779",
                         "fastestLap": "1:19.953",
-                        "lap_of_fastestLap": "64"
+                        "lap_of_fastestLap": "64",
+                        "grid": "10"
                     }
                 },
                 "11": {
@@ -4877,7 +5015,8 @@
                         "interval": "+ 13.079",
                         "speed": "191.315",
                         "fastestLap": "1:20.446",
-                        "lap_of_fastestLap": "63"
+                        "lap_of_fastestLap": "63",
+                        "grid": "24"
                     }
                 },
                 "12": {
@@ -4895,7 +5034,8 @@
                         "interval": "+ 0.276",
                         "speed": "191.305",
                         "fastestLap": "1:20.472",
-                        "lap_of_fastestLap": "61"
+                        "lap_of_fastestLap": "61",
+                        "grid": "25"
                     }
                 },
                 "4": {
@@ -4913,7 +5053,8 @@
                         "interval": "+ 1:01.141",
                         "speed": "189.166",
                         "fastestLap": "1:19.920",
-                        "lap_of_fastestLap": "50"
+                        "lap_of_fastestLap": "50",
+                        "grid": "8"
                     }
                 },
                 "3": {
@@ -4931,7 +5072,8 @@
                         "interval": "1 Lap",
                         "speed": "188.412",
                         "fastestLap": "1:20.613",
-                        "lap_of_fastestLap": "58"
+                        "lap_of_fastestLap": "58",
+                        "grid": "13"
                     }
                 },
                 "8": {
@@ -4947,7 +5089,8 @@
                         "laps": "54",
                         "speed": "191.614",
                         "fastestLap": "1:21.105",
-                        "lap_of_fastestLap": "46"
+                        "lap_of_fastestLap": "46",
+                        "grid": "12"
                     }
                 },
                 "32": {
@@ -4963,7 +5106,8 @@
                         "laps": "51",
                         "speed": "193.822",
                         "fastestLap": "1:19.510",
-                        "lap_of_fastestLap": "47"
+                        "lap_of_fastestLap": "47",
+                        "grid": "20"
                     }
                 },
                 "30": {
@@ -4979,7 +5123,8 @@
                         "laps": "48",
                         "speed": "191.198",
                         "fastestLap": "1:20.622",
-                        "lap_of_fastestLap": "46"
+                        "lap_of_fastestLap": "46",
+                        "grid": "19"
                     }
                 },
                 "20": {
@@ -4995,7 +5140,8 @@
                         "laps": "44",
                         "speed": "193.201",
                         "fastestLap": "1:19.744",
-                        "lap_of_fastestLap": "42"
+                        "lap_of_fastestLap": "42",
+                        "grid": "6"
                     }
                 },
                 "28": {
@@ -5011,7 +5157,8 @@
                         "laps": "42",
                         "speed": "194.034",
                         "fastestLap": "1:20.129",
-                        "lap_of_fastestLap": "37"
+                        "lap_of_fastestLap": "37",
+                        "grid": "4"
                     }
                 },
                 "22": {
@@ -5027,7 +5174,8 @@
                         "laps": "30",
                         "speed": "191.483",
                         "fastestLap": "1:20.982",
-                        "lap_of_fastestLap": "29"
+                        "lap_of_fastestLap": "29",
+                        "grid": "16"
                     }
                 },
                 "9": {
@@ -5043,7 +5191,8 @@
                         "laps": "24",
                         "speed": "187.221",
                         "fastestLap": "1:22.269",
-                        "lap_of_fastestLap": "21"
+                        "lap_of_fastestLap": "21",
+                        "grid": "26"
                     }
                 },
                 "7": {
@@ -5059,7 +5208,8 @@
                         "laps": "20",
                         "speed": "184.338",
                         "fastestLap": "1:23.323",
-                        "lap_of_fastestLap": "16"
+                        "lap_of_fastestLap": "16",
+                        "grid": "17"
                     }
                 },
                 "16": {
@@ -5075,7 +5225,8 @@
                         "laps": "19",
                         "speed": "186.73",
                         "fastestLap": "1:22.487",
-                        "lap_of_fastestLap": "16"
+                        "lap_of_fastestLap": "16",
+                        "grid": "22"
                     }
                 },
                 "27": {
@@ -5091,7 +5242,8 @@
                         "laps": "16",
                         "speed": "189.038",
                         "fastestLap": "1:21.266",
-                        "lap_of_fastestLap": "13"
+                        "lap_of_fastestLap": "13",
+                        "grid": "7"
                     }
                 },
                 "15": {
@@ -5107,7 +5259,8 @@
                         "laps": "15",
                         "speed": "182.174",
                         "fastestLap": "1:24.895",
-                        "lap_of_fastestLap": "7"
+                        "lap_of_fastestLap": "7",
+                        "grid": "18"
                     }
                 },
                 "14": {
@@ -5123,7 +5276,8 @@
                         "laps": "13",
                         "speed": "184.915",
                         "fastestLap": "1:23.300",
-                        "lap_of_fastestLap": "10"
+                        "lap_of_fastestLap": "10",
+                        "grid": "21"
                     }
                 },
                 "2": {
@@ -5139,7 +5293,8 @@
                         "laps": "5",
                         "speed": "179.803",
                         "fastestLap": "1:23.948",
-                        "lap_of_fastestLap": "4"
+                        "lap_of_fastestLap": "4",
+                        "grid": "5"
                     }
                 },
                 "23": {
@@ -5155,12 +5310,13 @@
                         "laps": "4",
                         "speed": "176.771",
                         "fastestLap": "1:24.014",
-                        "lap_of_fastestLap": "4"
+                        "lap_of_fastestLap": "4",
+                        "grid": "15"
                     }
                 }
             }
         },
-        "French-grand-prix": {
+        "French Grand Prix": {
             "Qualifying": {
                 "6": {
                     "position": "1",
@@ -5584,7 +5740,7 @@
             "Race": {
                 "5": {
                     "position": "1",
-                    "points": 0,
+                    "points": 10,
                     "fastest_lap": "1:19.168",
                     "team": "Williams",
                     "drivers": [
@@ -5595,12 +5751,13 @@
                         "laps": "72",
                         "speed": "188.271",
                         "fastestLap": "1:19.168",
-                        "lap_of_fastestLap": "49"
+                        "lap_of_fastestLap": "49",
+                        "grid": "4"
                     }
                 },
                 "27": {
                     "position": "2",
-                    "points": 0,
+                    "points": 6,
                     "fastest_lap": "1:19.944",
                     "team": "Ferrari",
                     "drivers": [
@@ -5613,12 +5770,13 @@
                         "interval": "+ 5.003",
                         "speed": "188.11",
                         "fastestLap": "1:19.944",
-                        "lap_of_fastestLap": "49"
+                        "lap_of_fastestLap": "49",
+                        "grid": "2"
                     }
                 },
                 "1": {
                     "position": "3",
-                    "points": 0,
+                    "points": 4,
                     "fastest_lap": "1:20.570",
                     "team": "McLaren",
                     "drivers": [
@@ -5631,12 +5789,13 @@
                         "interval": "+ 29.931",
                         "speed": "187.158",
                         "fastestLap": "1:20.570",
-                        "lap_of_fastestLap": "54"
+                        "lap_of_fastestLap": "54",
+                        "grid": "3"
                     }
                 },
                 "28": {
                     "position": "4",
-                    "points": 0,
+                    "points": 3,
                     "fastest_lap": "1:20.425",
                     "team": "Ferrari",
                     "drivers": [
@@ -5649,12 +5808,13 @@
                         "interval": "+ 0.986",
                         "speed": "187.127",
                         "fastestLap": "1:20.425",
-                        "lap_of_fastestLap": "56"
+                        "lap_of_fastestLap": "56",
+                        "grid": "6"
                     }
                 },
                 "6": {
                     "position": "5",
-                    "points": 0,
+                    "points": 2,
                     "fastest_lap": "1:20.028",
                     "team": "Williams",
                     "drivers": [
@@ -5667,12 +5827,13 @@
                         "interval": "1 Lap",
                         "speed": "183.969",
                         "fastestLap": "1:20.028",
-                        "lap_of_fastestLap": "65"
+                        "lap_of_fastestLap": "65",
+                        "grid": "1"
                     }
                 },
                 "33": {
                     "position": "6",
-                    "points": 0,
+                    "points": 1,
                     "fastest_lap": "1:21.051",
                     "team": "jordan",
                     "drivers": [
@@ -5685,7 +5846,8 @@
                         "interval": "+ 25.296",
                         "speed": "183.188",
                         "fastestLap": "1:21.051",
-                        "lap_of_fastestLap": "57"
+                        "lap_of_fastestLap": "57",
+                        "grid": "13"
                     }
                 },
                 "15": {
@@ -5703,7 +5865,8 @@
                         "interval": "1 Lap",
                         "speed": "182.902",
                         "fastestLap": "1:22.309",
-                        "lap_of_fastestLap": "53"
+                        "lap_of_fastestLap": "53",
+                        "grid": "9"
                     }
                 },
                 "20": {
@@ -5721,7 +5884,8 @@
                         "interval": "+ 11.020",
                         "speed": "182.56",
                         "fastestLap": "1:21.873",
-                        "lap_of_fastestLap": "64"
+                        "lap_of_fastestLap": "64",
+                        "grid": "7"
                     }
                 },
                 "23": {
@@ -5739,7 +5903,8 @@
                         "interval": "+ 2.559",
                         "speed": "182.481",
                         "fastestLap": "1:21.719",
-                        "lap_of_fastestLap": "50"
+                        "lap_of_fastestLap": "50",
+                        "grid": "12"
                     }
                 },
                 "12": {
@@ -5757,7 +5922,8 @@
                         "interval": "+ 27.264",
                         "speed": "181.641",
                         "fastestLap": "1:23.201",
-                        "lap_of_fastestLap": "47"
+                        "lap_of_fastestLap": "47",
+                        "grid": "20"
                     }
                 },
                 "26": {
@@ -5775,7 +5941,8 @@
                         "interval": "+ 16.179",
                         "speed": "181.147",
                         "fastestLap": "1:21.916",
-                        "lap_of_fastestLap": "26"
+                        "lap_of_fastestLap": "26",
+                        "grid": "14"
                     }
                 },
                 "25": {
@@ -5793,7 +5960,8 @@
                         "interval": "1 Lap",
                         "speed": "178.612",
                         "fastestLap": "1:21.641",
-                        "lap_of_fastestLap": "34"
+                        "lap_of_fastestLap": "34",
+                        "grid": "16"
                     }
                 },
                 "19": {
@@ -5809,7 +5977,8 @@
                         "laps": "63",
                         "speed": "181.1",
                         "fastestLap": "1:23.693",
-                        "lap_of_fastestLap": "36"
+                        "lap_of_fastestLap": "36",
+                        "grid": "8"
                     }
                 },
                 "4": {
@@ -5825,7 +5994,8 @@
                         "laps": "57",
                         "speed": "178.5",
                         "fastestLap": "1:23.480",
-                        "lap_of_fastestLap": "48"
+                        "lap_of_fastestLap": "48",
+                        "grid": "11"
                     }
                 },
                 "14": {
@@ -5841,7 +6011,8 @@
                         "laps": "47",
                         "speed": "178.861",
                         "fastestLap": "1:22.837",
-                        "lap_of_fastestLap": "30"
+                        "lap_of_fastestLap": "30",
+                        "grid": "21"
                     }
                 },
                 "29": {
@@ -5857,7 +6028,8 @@
                         "laps": "43",
                         "speed": "181.916",
                         "fastestLap": "1:22.133",
-                        "lap_of_fastestLap": "42"
+                        "lap_of_fastestLap": "42",
+                        "grid": "23"
                     }
                 },
                 "22": {
@@ -5873,7 +6045,8 @@
                         "laps": "39",
                         "speed": "179.205",
                         "fastestLap": "1:23.748",
-                        "lap_of_fastestLap": "32"
+                        "lap_of_fastestLap": "32",
+                        "grid": "26"
                     }
                 },
                 "8": {
@@ -5889,7 +6062,8 @@
                         "laps": "36",
                         "speed": "181.08",
                         "fastestLap": "1:23.282",
-                        "lap_of_fastestLap": "26"
+                        "lap_of_fastestLap": "26",
+                        "grid": "17"
                     }
                 },
                 "30": {
@@ -5905,7 +6079,8 @@
                         "laps": "32",
                         "speed": "180.93",
                         "fastestLap": "1:23.448",
-                        "lap_of_fastestLap": "24"
+                        "lap_of_fastestLap": "24",
+                        "grid": "22"
                     }
                 },
                 "9": {
@@ -5921,7 +6096,8 @@
                         "laps": "31",
                         "speed": "178.833",
                         "fastestLap": "1:24.369",
-                        "lap_of_fastestLap": "16"
+                        "lap_of_fastestLap": "16",
+                        "grid": "25"
                     }
                 },
                 "7": {
@@ -5937,7 +6113,8 @@
                         "laps": "21",
                         "speed": "177.208",
                         "fastestLap": "1:23.636",
-                        "lap_of_fastestLap": "16"
+                        "lap_of_fastestLap": "16",
+                        "grid": "24"
                     }
                 },
                 "3": {
@@ -5953,7 +6130,8 @@
                         "laps": "12",
                         "speed": "178.962",
                         "fastestLap": "1:24.420",
-                        "lap_of_fastestLap": "12"
+                        "lap_of_fastestLap": "12",
+                        "grid": "18"
                     }
                 },
                 "24": {
@@ -5969,7 +6147,8 @@
                         "laps": "8",
                         "speed": "181.241",
                         "fastestLap": "1:23.687",
-                        "lap_of_fastestLap": "5"
+                        "lap_of_fastestLap": "5",
+                        "grid": "10"
                     }
                 },
                 "16": {
@@ -5985,7 +6164,8 @@
                         "laps": "7",
                         "speed": "178.591",
                         "fastestLap": "1:23.623",
-                        "lap_of_fastestLap": "7"
+                        "lap_of_fastestLap": "7",
+                        "grid": "15"
                     }
                 },
                 "2": {
@@ -6001,7 +6181,8 @@
                         "laps": "6",
                         "speed": "183.151",
                         "fastestLap": "1:23.297",
-                        "lap_of_fastestLap": "6"
+                        "lap_of_fastestLap": "6",
+                        "grid": "5"
                     }
                 },
                 "32": {
@@ -6013,12 +6194,13 @@
                         "Bertrand_Gachot"
                     ],
                     "other_info": {
-                        "carNumber": "32"
+                        "carNumber": "32",
+                        "grid": "19"
                     }
                 }
             }
         },
-        "British-grand-prix": {
+        "British Grand Prix": {
             "Qualifying": {
                 "5": {
                     "position": "1",
@@ -6441,7 +6623,7 @@
             "Race": {
                 "5": {
                     "position": "1",
-                    "points": 0,
+                    "points": 10,
                     "fastest_lap": "1:26.379",
                     "team": "Williams",
                     "drivers": [
@@ -6452,12 +6634,13 @@
                         "laps": "59",
                         "speed": "211.19",
                         "fastestLap": "1:26.379",
-                        "lap_of_fastestLap": "43"
+                        "lap_of_fastestLap": "43",
+                        "grid": "1"
                     }
                 },
                 "2": {
                     "position": "2",
-                    "points": 0,
+                    "points": 6,
                     "fastest_lap": "1:26.633",
                     "team": "McLaren",
                     "drivers": [
@@ -6470,12 +6653,13 @@
                         "interval": "+ 42.293",
                         "speed": "209.504",
                         "fastestLap": "1:26.633",
-                        "lap_of_fastestLap": "51"
+                        "lap_of_fastestLap": "51",
+                        "grid": "4"
                     }
                 },
                 "27": {
                     "position": "3",
-                    "points": 0,
+                    "points": 4,
                     "fastest_lap": "1:26.589",
                     "team": "Ferrari",
                     "drivers": [
@@ -6488,12 +6672,13 @@
                         "interval": "+ 17.857",
                         "speed": "208.8",
                         "fastestLap": "1:26.589",
-                        "lap_of_fastestLap": "48"
+                        "lap_of_fastestLap": "48",
+                        "grid": "5"
                     }
                 },
                 "1": {
                     "position": "4",
-                    "points": 0,
+                    "points": 3,
                     "fastest_lap": "1:27.509",
                     "team": "McLaren",
                     "drivers": [
@@ -6506,12 +6691,13 @@
                         "interval": "1 Lap",
                         "speed": "210.161",
                         "fastestLap": "1:27.509",
-                        "lap_of_fastestLap": "43"
+                        "lap_of_fastestLap": "43",
+                        "grid": "2"
                     }
                 },
                 "20": {
                     "position": "5",
-                    "points": 0,
+                    "points": 2,
                     "fastest_lap": "1:27.857",
                     "team": "camel_benneton_ford",
                     "drivers": [
@@ -6524,12 +6710,13 @@
                         "interval": "+ 1:08.789",
                         "speed": "207.413",
                         "fastestLap": "1:27.857",
-                        "lap_of_fastestLap": "53"
+                        "lap_of_fastestLap": "53",
+                        "grid": "8"
                     }
                 },
                 "32": {
                     "position": "6",
-                    "points": 0,
+                    "points": 1,
                     "fastest_lap": "1:28.869",
                     "team": "jordan",
                     "drivers": [
@@ -6542,7 +6729,8 @@
                         "interval": "+ 5.336",
                         "speed": "207.202",
                         "fastestLap": "1:28.869",
-                        "lap_of_fastestLap": "23"
+                        "lap_of_fastestLap": "23",
+                        "grid": "17"
                     }
                 },
                 "4": {
@@ -6560,7 +6748,8 @@
                         "interval": "+ 0.199",
                         "speed": "207.195",
                         "fastestLap": "1:27.936",
-                        "lap_of_fastestLap": "57"
+                        "lap_of_fastestLap": "57",
+                        "grid": "10"
                     }
                 },
                 "3": {
@@ -6578,7 +6767,8 @@
                         "interval": "+ 57.382",
                         "speed": "204.961",
                         "fastestLap": "1:29.379",
-                        "lap_of_fastestLap": "49"
+                        "lap_of_fastestLap": "49",
+                        "grid": "15"
                     }
                 },
                 "23": {
@@ -6596,7 +6786,8 @@
                         "interval": "+ 1:37.334",
                         "speed": "201.281",
                         "fastestLap": "1:30.222",
-                        "lap_of_fastestLap": "41"
+                        "lap_of_fastestLap": "41",
+                        "grid": "23"
                     }
                 },
                 "21": {
@@ -6614,7 +6805,8 @@
                         "interval": "1 Lap",
                         "speed": "203.766",
                         "fastestLap": "1:29.485",
-                        "lap_of_fastestLap": "49"
+                        "lap_of_fastestLap": "49",
+                        "grid": "18"
                     }
                 },
                 "24": {
@@ -6632,7 +6824,8 @@
                         "interval": "+ 14.867",
                         "speed": "203.192",
                         "fastestLap": "1:28.856",
-                        "lap_of_fastestLap": "56"
+                        "lap_of_fastestLap": "56",
+                        "grid": "20"
                     }
                 },
                 "11": {
@@ -6650,7 +6843,8 @@
                         "interval": "+ 51.184",
                         "speed": "201.24",
                         "fastestLap": "1:29.411",
-                        "lap_of_fastestLap": "39"
+                        "lap_of_fastestLap": "39",
+                        "grid": "25"
                     }
                 },
                 "22": {
@@ -6668,7 +6862,8 @@
                         "interval": "1 Lap",
                         "speed": "199.898",
                         "fastestLap": "1:28.305",
-                        "lap_of_fastestLap": "55"
+                        "lap_of_fastestLap": "55",
+                        "grid": "11"
                     }
                 },
                 "12": {
@@ -6686,7 +6881,8 @@
                         "interval": "1 Lap",
                         "speed": "204.384",
                         "fastestLap": "1:29.877",
-                        "lap_of_fastestLap": "50"
+                        "lap_of_fastestLap": "50",
+                        "grid": "24"
                     }
                 },
                 "8": {
@@ -6702,7 +6898,8 @@
                         "laps": "52",
                         "speed": "203.948",
                         "fastestLap": "1:29.316",
-                        "lap_of_fastestLap": "41"
+                        "lap_of_fastestLap": "41",
+                        "grid": "12"
                     }
                 },
                 "33": {
@@ -6718,7 +6915,8 @@
                         "laps": "41",
                         "speed": "204.296",
                         "fastestLap": "1:29.246",
-                        "lap_of_fastestLap": "40"
+                        "lap_of_fastestLap": "40",
+                        "grid": "13"
                     }
                 },
                 "28": {
@@ -6734,7 +6932,8 @@
                         "laps": "31",
                         "speed": "207.524",
                         "fastestLap": "1:27.998",
-                        "lap_of_fastestLap": "30"
+                        "lap_of_fastestLap": "30",
+                        "grid": "6"
                     }
                 },
                 "30": {
@@ -6750,7 +6949,8 @@
                         "laps": "29",
                         "speed": "201.969",
                         "fastestLap": "1:31.133",
-                        "lap_of_fastestLap": "28"
+                        "lap_of_fastestLap": "28",
+                        "grid": "22"
                     }
                 },
                 "25": {
@@ -6766,7 +6966,8 @@
                         "laps": "29",
                         "speed": "198.909",
                         "fastestLap": "1:31.192",
-                        "lap_of_fastestLap": "20"
+                        "lap_of_fastestLap": "20",
+                        "grid": "19"
                     }
                 },
                 "7": {
@@ -6782,7 +6983,8 @@
                         "laps": "28",
                         "speed": "202.737",
                         "fastestLap": "1:30.935",
-                        "lap_of_fastestLap": "23"
+                        "lap_of_fastestLap": "23",
+                        "grid": "14"
                     }
                 },
                 "9": {
@@ -6798,7 +7000,8 @@
                         "laps": "25",
                         "speed": "200.787",
                         "fastestLap": "1:31.804",
-                        "lap_of_fastestLap": "25"
+                        "lap_of_fastestLap": "25",
+                        "grid": "26"
                     }
                 },
                 "15": {
@@ -6814,7 +7017,8 @@
                         "laps": "24",
                         "speed": "197.144",
                         "fastestLap": "1:31.207",
-                        "lap_of_fastestLap": "5"
+                        "lap_of_fastestLap": "5",
+                        "grid": "9"
                     }
                 },
                 "19": {
@@ -6830,7 +7034,8 @@
                         "laps": "21",
                         "speed": "205.189",
                         "fastestLap": "1:30.204",
-                        "lap_of_fastestLap": "16"
+                        "lap_of_fastestLap": "16",
+                        "grid": "7"
                     }
                 },
                 "29": {
@@ -6846,7 +7051,8 @@
                         "laps": "21",
                         "speed": "201.154",
                         "fastestLap": "1:31.493",
-                        "lap_of_fastestLap": "21"
+                        "lap_of_fastestLap": "21",
+                        "grid": "21"
                     }
                 },
                 "16": {
@@ -6862,7 +7068,8 @@
                         "laps": "16",
                         "speed": "202.581",
                         "fastestLap": "1:31.078",
-                        "lap_of_fastestLap": "9"
+                        "lap_of_fastestLap": "9",
+                        "grid": "16"
                     }
                 },
                 "6": {
@@ -6878,12 +7085,13 @@
                         "laps": "1",
                         "speed": "111.373",
                         "fastestLap": "2:48.923",
-                        "lap_of_fastestLap": "1"
+                        "lap_of_fastestLap": "1",
+                        "grid": "3"
                     }
                 }
             }
         },
-        "German-grand-prix": {
+        "German Grand Prix": {
             "Qualifying": {
                 "5": {
                     "position": "1",
@@ -7307,7 +7515,7 @@
             "Race": {
                 "5": {
                     "position": "1",
-                    "points": 0,
+                    "points": 10,
                     "fastest_lap": "1:43.745",
                     "team": "Williams",
                     "drivers": [
@@ -7318,12 +7526,13 @@
                         "laps": "45",
                         "speed": "231.028",
                         "fastestLap": "1:43.745",
-                        "lap_of_fastestLap": "34"
+                        "lap_of_fastestLap": "34",
+                        "grid": "1"
                     }
                 },
                 "6": {
                     "position": "2",
-                    "points": 0,
+                    "points": 6,
                     "fastest_lap": "1:43.569",
                     "team": "Williams",
                     "drivers": [
@@ -7336,12 +7545,13 @@
                         "interval": "+ 13.779",
                         "speed": "230.362",
                         "fastestLap": "1:43.569",
-                        "lap_of_fastestLap": "35"
+                        "lap_of_fastestLap": "35",
+                        "grid": "4"
                     }
                 },
                 "28": {
                     "position": "3",
-                    "points": 0,
+                    "points": 4,
                     "fastest_lap": "1:44.395",
                     "team": "Ferrari",
                     "drivers": [
@@ -7354,12 +7564,13 @@
                         "interval": "+ 3.839",
                         "speed": "230.177",
                         "fastestLap": "1:44.395",
-                        "lap_of_fastestLap": "35"
+                        "lap_of_fastestLap": "35",
+                        "grid": "6"
                     }
                 },
                 "2": {
                     "position": "4",
-                    "points": 0,
+                    "points": 3,
                     "fastest_lap": "1:43.970",
                     "team": "McLaren",
                     "drivers": [
@@ -7372,12 +7583,13 @@
                         "interval": "+ 15.033",
                         "speed": "229.456",
                         "fastestLap": "1:43.970",
-                        "lap_of_fastestLap": "43"
+                        "lap_of_fastestLap": "43",
+                        "grid": "3"
                     }
                 },
                 "33": {
                     "position": "5",
-                    "points": 0,
+                    "points": 2,
                     "fastest_lap": "1:45.403",
                     "team": "jordan",
                     "drivers": [
@@ -7390,12 +7602,13 @@
                         "interval": "+ 44.886",
                         "speed": "227.332",
                         "fastestLap": "1:45.403",
-                        "lap_of_fastestLap": "25"
+                        "lap_of_fastestLap": "25",
+                        "grid": "7"
                     }
                 },
                 "32": {
                     "position": "6",
-                    "points": 0,
+                    "points": 1,
                     "fastest_lap": "1:44.991",
                     "team": "jordan",
                     "drivers": [
@@ -7408,7 +7621,8 @@
                         "interval": "+ 23.068",
                         "speed": "226.255",
                         "fastestLap": "1:44.991",
-                        "lap_of_fastestLap": "39"
+                        "lap_of_fastestLap": "39",
+                        "grid": "11"
                     }
                 },
                 "1": {
@@ -7426,7 +7640,8 @@
                         "interval": "1 Lap",
                         "speed": "229.607",
                         "fastestLap": "1:44.213",
-                        "lap_of_fastestLap": "43"
+                        "lap_of_fastestLap": "43",
+                        "grid": "2"
                     }
                 },
                 "19": {
@@ -7444,7 +7659,8 @@
                         "interval": "+ 1:22.410",
                         "speed": "225.644",
                         "fastestLap": "1:46.387",
-                        "lap_of_fastestLap": "32"
+                        "lap_of_fastestLap": "32",
+                        "grid": "9"
                     }
                 },
                 "25": {
@@ -7462,7 +7678,8 @@
                         "interval": "+ 56.757",
                         "speed": "222.993",
                         "fastestLap": "1:47.266",
-                        "lap_of_fastestLap": "23"
+                        "lap_of_fastestLap": "23",
+                        "grid": "17"
                     }
                 },
                 "21": {
@@ -7480,7 +7697,8 @@
                         "interval": "+ 21.858",
                         "speed": "221.989",
                         "fastestLap": "1:47.032",
-                        "lap_of_fastestLap": "35"
+                        "lap_of_fastestLap": "35",
+                        "grid": "18"
                     }
                 },
                 "7": {
@@ -7498,7 +7716,8 @@
                         "interval": "1 Lap",
                         "speed": "220.747",
                         "fastestLap": "1:46.549",
-                        "lap_of_fastestLap": "41"
+                        "lap_of_fastestLap": "41",
+                        "grid": "15"
                     }
                 },
                 "8": {
@@ -7516,7 +7735,8 @@
                         "interval": "+ 0.372",
                         "speed": "220.73",
                         "fastestLap": "1:46.964",
-                        "lap_of_fastestLap": "42"
+                        "lap_of_fastestLap": "42",
+                        "grid": "21"
                     }
                 },
                 "4": {
@@ -7534,7 +7754,8 @@
                         "interval": "2 Laps",
                         "speed": "210.123",
                         "fastestLap": "1:46.264",
-                        "lap_of_fastestLap": "41"
+                        "lap_of_fastestLap": "41",
+                        "grid": "14"
                     }
                 },
                 "27": {
@@ -7550,7 +7771,8 @@
                         "laps": "37",
                         "speed": "228.91",
                         "fastestLap": "1:44.059",
-                        "lap_of_fastestLap": "35"
+                        "lap_of_fastestLap": "35",
+                        "grid": "5"
                     }
                 },
                 "16": {
@@ -7566,7 +7788,8 @@
                         "laps": "36",
                         "speed": "214.827",
                         "fastestLap": "1:46.067",
-                        "lap_of_fastestLap": "31"
+                        "lap_of_fastestLap": "31",
+                        "grid": "12"
                     }
                 },
                 "22": {
@@ -7582,7 +7805,8 @@
                         "laps": "35",
                         "speed": "221.287",
                         "fastestLap": "1:47.097",
-                        "lap_of_fastestLap": "34"
+                        "lap_of_fastestLap": "34",
+                        "grid": "20"
                     }
                 },
                 "20": {
@@ -7598,7 +7822,8 @@
                         "laps": "27",
                         "speed": "223.94",
                         "fastestLap": "1:46.680",
-                        "lap_of_fastestLap": "20"
+                        "lap_of_fastestLap": "20",
+                        "grid": "8"
                     }
                 },
                 "3": {
@@ -7614,7 +7839,8 @@
                         "laps": "26",
                         "speed": "214.439",
                         "fastestLap": "1:49.125",
-                        "lap_of_fastestLap": "19"
+                        "lap_of_fastestLap": "19",
+                        "grid": "13"
                     }
                 },
                 "26": {
@@ -7630,7 +7856,8 @@
                         "laps": "22",
                         "speed": "218.081",
                         "fastestLap": "1:47.516",
-                        "lap_of_fastestLap": "20"
+                        "lap_of_fastestLap": "20",
+                        "grid": "26"
                     }
                 },
                 "15": {
@@ -7646,7 +7873,8 @@
                         "laps": "21",
                         "speed": "217.216",
                         "fastestLap": "1:49.307",
-                        "lap_of_fastestLap": "20"
+                        "lap_of_fastestLap": "20",
+                        "grid": "16"
                     }
                 },
                 "11": {
@@ -7662,7 +7890,8 @@
                         "laps": "19",
                         "speed": "204.975",
                         "fastestLap": "1:49.790",
-                        "lap_of_fastestLap": "17"
+                        "lap_of_fastestLap": "17",
+                        "grid": "23"
                     }
                 },
                 "30": {
@@ -7678,7 +7907,8 @@
                         "laps": "15",
                         "speed": "217.468",
                         "fastestLap": "1:49.723",
-                        "lap_of_fastestLap": "11"
+                        "lap_of_fastestLap": "11",
+                        "grid": "22"
                     }
                 },
                 "24": {
@@ -7694,7 +7924,8 @@
                         "laps": "14",
                         "speed": "219.831",
                         "fastestLap": "1:49.359",
-                        "lap_of_fastestLap": "13"
+                        "lap_of_fastestLap": "13",
+                        "grid": "19"
                     }
                 },
                 "23": {
@@ -7710,7 +7941,8 @@
                         "laps": "11",
                         "speed": "223.014",
                         "fastestLap": "1:48.431",
-                        "lap_of_fastestLap": "11"
+                        "lap_of_fastestLap": "11",
+                        "grid": "10"
                     }
                 },
                 "29": {
@@ -7726,7 +7958,8 @@
                         "laps": "9",
                         "speed": "215.975",
                         "fastestLap": "1:50.573",
-                        "lap_of_fastestLap": "4"
+                        "lap_of_fastestLap": "4",
+                        "grid": "25"
                     }
                 },
                 "34": {
@@ -7738,12 +7971,13 @@
                         "Nicola_Larini"
                     ],
                     "other_info": {
-                        "carNumber": "34"
+                        "carNumber": "34",
+                        "grid": "24"
                     }
                 }
             }
         },
-        "Hungarian-grand-prix": {
+        "Hungarian Grand Prix": {
             "Qualifying": {
                 "1": {
                     "position": "1",
@@ -8167,7 +8401,7 @@
             "Race": {
                 "1": {
                     "position": "1",
-                    "points": 0,
+                    "points": 10,
                     "fastest_lap": "1:22.392",
                     "team": "McLaren",
                     "drivers": [
@@ -8178,12 +8412,13 @@
                         "laps": "77",
                         "speed": "167.857",
                         "fastestLap": "1:22.392",
-                        "lap_of_fastestLap": "58"
+                        "lap_of_fastestLap": "58",
+                        "grid": "1"
                     }
                 },
                 "5": {
                     "position": "2",
-                    "points": 0,
+                    "points": 6,
                     "fastest_lap": "1:22.574",
                     "team": "Williams",
                     "drivers": [
@@ -8196,12 +8431,13 @@
                         "interval": "+ 4.599",
                         "speed": "167.738",
                         "fastestLap": "1:22.574",
-                        "lap_of_fastestLap": "56"
+                        "lap_of_fastestLap": "56",
+                        "grid": "3"
                     }
                 },
                 "6": {
                     "position": "3",
-                    "points": 0,
+                    "points": 4,
                     "fastest_lap": "1:22.878",
                     "team": "Williams",
                     "drivers": [
@@ -8214,12 +8450,13 @@
                         "interval": "+ 10.995",
                         "speed": "167.458",
                         "fastestLap": "1:22.878",
-                        "lap_of_fastestLap": "35"
+                        "lap_of_fastestLap": "35",
+                        "grid": "2"
                     }
                 },
                 "2": {
                     "position": "4",
-                    "points": 0,
+                    "points": 3,
                     "fastest_lap": "1:23.954",
                     "team": "McLaren",
                     "drivers": [
@@ -8232,12 +8469,13 @@
                         "interval": "+ 6.262",
                         "speed": "167.298",
                         "fastestLap": "1:23.954",
-                        "lap_of_fastestLap": "58"
+                        "lap_of_fastestLap": "58",
+                        "grid": "5"
                     }
                 },
                 "28": {
                     "position": "5",
-                    "points": 0,
+                    "points": 2,
                     "fastest_lap": "1:23.065",
                     "team": "Ferrari",
                     "drivers": [
@@ -8250,12 +8488,13 @@
                         "interval": "+ 9.533",
                         "speed": "167.056",
                         "fastestLap": "1:23.065",
-                        "lap_of_fastestLap": "39"
+                        "lap_of_fastestLap": "39",
+                        "grid": "6"
                     }
                 },
                 "16": {
                     "position": "6",
-                    "points": 0,
+                    "points": 1,
                     "fastest_lap": "1:23.962",
                     "team": "leyton_house_racing",
                     "drivers": [
@@ -8268,7 +8507,8 @@
                         "interval": "1 Lap",
                         "speed": "165.426",
                         "fastestLap": "1:23.962",
-                        "lap_of_fastestLap": "48"
+                        "lap_of_fastestLap": "48",
+                        "grid": "9"
                     }
                 },
                 "33": {
@@ -8286,7 +8526,8 @@
                         "interval": "+ 35.494",
                         "speed": "164.536",
                         "fastestLap": "1:24.146",
-                        "lap_of_fastestLap": "43"
+                        "lap_of_fastestLap": "43",
+                        "grid": "17"
                     }
                 },
                 "19": {
@@ -8304,7 +8545,8 @@
                         "interval": "+ 1.409",
                         "speed": "164.501",
                         "fastestLap": "1:23.943",
-                        "lap_of_fastestLap": "54"
+                        "lap_of_fastestLap": "54",
+                        "grid": "15"
                     }
                 },
                 "32": {
@@ -8322,7 +8564,8 @@
                         "interval": "+ 3.516",
                         "speed": "164.413",
                         "fastestLap": "1:21.547",
-                        "lap_of_fastestLap": "71"
+                        "lap_of_fastestLap": "71",
+                        "grid": "16"
                     }
                 },
                 "26": {
@@ -8340,7 +8583,8 @@
                         "interval": "1 Lap",
                         "speed": "163.463",
                         "fastestLap": "1:25.029",
-                        "lap_of_fastestLap": "27"
+                        "lap_of_fastestLap": "27",
+                        "grid": "25"
                     }
                 },
                 "15": {
@@ -8358,7 +8602,8 @@
                         "interval": "+ 14.825",
                         "speed": "163.095",
                         "fastestLap": "1:24.230",
-                        "lap_of_fastestLap": "49"
+                        "lap_of_fastestLap": "49",
+                        "grid": "13"
                     }
                 },
                 "4": {
@@ -8376,7 +8621,8 @@
                         "interval": "+ 0.320",
                         "speed": "163.087",
                         "fastestLap": "1:24.576",
-                        "lap_of_fastestLap": "66"
+                        "lap_of_fastestLap": "66",
+                        "grid": "8"
                     }
                 },
                 "24": {
@@ -8394,7 +8640,8 @@
                         "interval": "+ 47.870",
                         "speed": "161.907",
                         "fastestLap": "1:24.128",
-                        "lap_of_fastestLap": "52"
+                        "lap_of_fastestLap": "52",
+                        "grid": "23"
                     }
                 },
                 "11": {
@@ -8412,7 +8659,8 @@
                         "interval": "1 Lap",
                         "speed": "161.275",
                         "fastestLap": "1:24.594",
-                        "lap_of_fastestLap": "66"
+                        "lap_of_fastestLap": "66",
+                        "grid": "26"
                     }
                 },
                 "3": {
@@ -8430,7 +8678,8 @@
                         "interval": "+ 11.957",
                         "speed": "160.982",
                         "fastestLap": "1:26.078",
-                        "lap_of_fastestLap": "55"
+                        "lap_of_fastestLap": "55",
+                        "grid": "14"
                     }
                 },
                 "34": {
@@ -8448,7 +8697,8 @@
                         "interval": "+ 17.777",
                         "speed": "160.547",
                         "fastestLap": "1:25.322",
-                        "lap_of_fastestLap": "42"
+                        "lap_of_fastestLap": "42",
+                        "grid": "24"
                     }
                 },
                 "25": {
@@ -8466,7 +8716,8 @@
                         "interval": "3 Laps",
                         "speed": "163.533",
                         "fastestLap": "1:23.066",
-                        "lap_of_fastestLap": "49"
+                        "lap_of_fastestLap": "49",
+                        "grid": "19"
                     }
                 },
                 "23": {
@@ -8482,7 +8733,8 @@
                         "laps": "65",
                         "speed": "163.487",
                         "fastestLap": "1:23.824",
-                        "lap_of_fastestLap": "41"
+                        "lap_of_fastestLap": "41",
+                        "grid": "18"
                     }
                 },
                 "8": {
@@ -8498,7 +8750,8 @@
                         "laps": "62",
                         "speed": "163.456",
                         "fastestLap": "1:23.467",
-                        "lap_of_fastestLap": "43"
+                        "lap_of_fastestLap": "43",
+                        "grid": "20"
                     }
                 },
                 "7": {
@@ -8514,7 +8767,8 @@
                         "laps": "59",
                         "speed": "162.626",
                         "fastestLap": "1:24.573",
-                        "lap_of_fastestLap": "19"
+                        "lap_of_fastestLap": "19",
+                        "grid": "10"
                     }
                 },
                 "22": {
@@ -8530,7 +8784,8 @@
                         "laps": "49",
                         "speed": "162.216",
                         "fastestLap": "1:25.697",
-                        "lap_of_fastestLap": "43"
+                        "lap_of_fastestLap": "43",
+                        "grid": "12"
                     }
                 },
                 "20": {
@@ -8546,7 +8801,8 @@
                         "laps": "38",
                         "speed": "162.774",
                         "fastestLap": "1:25.889",
-                        "lap_of_fastestLap": "32"
+                        "lap_of_fastestLap": "32",
+                        "grid": "11"
                     }
                 },
                 "29": {
@@ -8562,7 +8818,8 @@
                         "laps": "38",
                         "speed": "158.976",
                         "fastestLap": "1:25.713",
-                        "lap_of_fastestLap": "34"
+                        "lap_of_fastestLap": "34",
+                        "grid": "21"
                     }
                 },
                 "30": {
@@ -8578,7 +8835,8 @@
                         "laps": "38",
                         "speed": "158.267",
                         "fastestLap": "1:25.548",
-                        "lap_of_fastestLap": "32"
+                        "lap_of_fastestLap": "32",
+                        "grid": "22"
                     }
                 },
                 "21": {
@@ -8594,7 +8852,8 @@
                         "laps": "37",
                         "speed": "158.034",
                         "fastestLap": "1:26.554",
-                        "lap_of_fastestLap": "17"
+                        "lap_of_fastestLap": "17",
+                        "grid": "7"
                     }
                 },
                 "27": {
@@ -8610,12 +8869,13 @@
                         "laps": "28",
                         "speed": "165.85",
                         "fastestLap": "1:23.305",
-                        "lap_of_fastestLap": "25"
+                        "lap_of_fastestLap": "25",
+                        "grid": "4"
                     }
                 }
             }
         },
-        "Belgian-grand-prix": {
+        "Belgian Grand Prix": {
             "Qualifying": {
                 "1": {
                     "position": "1",
@@ -9039,7 +9299,7 @@
             "Race": {
                 "1": {
                     "position": "1",
-                    "points": 0,
+                    "points": 10,
                     "fastest_lap": "1:56.471",
                     "team": "McLaren",
                     "drivers": [
@@ -9050,12 +9310,13 @@
                         "laps": "44",
                         "speed": "209.883",
                         "fastestLap": "1:56.471",
-                        "lap_of_fastestLap": "42"
+                        "lap_of_fastestLap": "42",
+                        "grid": "1"
                     }
                 },
                 "2": {
                     "position": "2",
-                    "points": 0,
+                    "points": 6,
                     "fastest_lap": "1:55.601",
                     "team": "McLaren",
                     "drivers": [
@@ -9068,12 +9329,13 @@
                         "interval": "+ 1.901",
                         "speed": "209.806",
                         "fastestLap": "1:55.601",
-                        "lap_of_fastestLap": "39"
+                        "lap_of_fastestLap": "39",
+                        "grid": "4"
                     }
                 },
                 "20": {
                     "position": "3",
-                    "points": 0,
+                    "points": 4,
                     "fastest_lap": "1:57.084",
                     "team": "camel_benneton_ford",
                     "drivers": [
@@ -9086,12 +9348,13 @@
                         "interval": "+ 30.275",
                         "speed": "208.601",
                         "fastestLap": "1:57.084",
-                        "lap_of_fastestLap": "26"
+                        "lap_of_fastestLap": "26",
+                        "grid": "6"
                     }
                 },
                 "19": {
                     "position": "4",
-                    "points": 0,
+                    "points": 3,
                     "fastest_lap": "1:55.161",
                     "team": "camel_benneton_ford",
                     "drivers": [
@@ -9104,12 +9367,13 @@
                         "interval": "+ 5.134",
                         "speed": "208.398",
                         "fastestLap": "1:55.161",
-                        "lap_of_fastestLap": "40"
+                        "lap_of_fastestLap": "40",
+                        "grid": "8"
                     }
                 },
                 "6": {
                     "position": "5",
-                    "points": 0,
+                    "points": 2,
                     "fastest_lap": "1:55.993",
                     "team": "Williams",
                     "drivers": [
@@ -9122,12 +9386,13 @@
                         "interval": "+ 19.877",
                         "speed": "207.615",
                         "fastestLap": "1:55.993",
-                        "lap_of_fastestLap": "39"
+                        "lap_of_fastestLap": "39",
+                        "grid": "17"
                     }
                 },
                 "8": {
                     "position": "6",
-                    "points": 0,
+                    "points": 1,
                     "fastest_lap": "1:58.145",
                     "team": "motor_racing_developments_ltd",
                     "drivers": [
@@ -9140,7 +9405,8 @@
                         "interval": "+ 42.848",
                         "speed": "205.949",
                         "fastestLap": "1:58.145",
-                        "lap_of_fastestLap": "24"
+                        "lap_of_fastestLap": "24",
+                        "grid": "13"
                     }
                 },
                 "12": {
@@ -9158,7 +9424,8 @@
                         "interval": "+ 4.564",
                         "speed": "205.773",
                         "fastestLap": "1:58.606",
-                        "lap_of_fastestLap": "29"
+                        "lap_of_fastestLap": "29",
+                        "grid": "21"
                     }
                 },
                 "21": {
@@ -9176,7 +9443,8 @@
                         "interval": "1 Lap",
                         "speed": "204.824",
                         "fastestLap": "1:58.017",
-                        "lap_of_fastestLap": "32"
+                        "lap_of_fastestLap": "32",
+                        "grid": "25"
                     }
                 },
                 "7": {
@@ -9194,7 +9462,8 @@
                         "interval": "+ 2.258",
                         "speed": "204.736",
                         "fastestLap": "1:58.540",
-                        "lap_of_fastestLap": "22"
+                        "lap_of_fastestLap": "22",
+                        "grid": "16"
                     }
                 },
                 "14": {
@@ -9212,7 +9481,8 @@
                         "interval": "+ 34.880",
                         "speed": "203.384",
                         "fastestLap": "1:59.340",
-                        "lap_of_fastestLap": "19"
+                        "lap_of_fastestLap": "19",
+                        "grid": "23"
                     }
                 },
                 "25": {
@@ -9230,7 +9500,8 @@
                         "interval": "+ 53.979",
                         "speed": "201.327",
                         "fastestLap": "1:58.921",
-                        "lap_of_fastestLap": "15"
+                        "lap_of_fastestLap": "15",
+                        "grid": "18"
                     }
                 },
                 "23": {
@@ -9248,7 +9519,8 @@
                         "interval": "1 Lap",
                         "speed": "201.084",
                         "fastestLap": "1:57.303",
-                        "lap_of_fastestLap": "22"
+                        "lap_of_fastestLap": "22",
+                        "grid": "9"
                     }
                 },
                 "33": {
@@ -9266,7 +9538,8 @@
                         "interval": "1 Lap",
                         "speed": "209.931",
                         "fastestLap": "1:56.477",
-                        "lap_of_fastestLap": "25"
+                        "lap_of_fastestLap": "25",
+                        "grid": "11"
                     }
                 },
                 "4": {
@@ -9282,7 +9555,8 @@
                         "laps": "33",
                         "speed": "208.125",
                         "fastestLap": "1:57.793",
-                        "lap_of_fastestLap": "21"
+                        "lap_of_fastestLap": "21",
+                        "grid": "10"
                     }
                 },
                 "22": {
@@ -9298,7 +9572,8 @@
                         "laps": "33",
                         "speed": "205.418",
                         "fastestLap": "1:58.164",
-                        "lap_of_fastestLap": "23"
+                        "lap_of_fastestLap": "23",
+                        "grid": "14"
                     }
                 },
                 "28": {
@@ -9314,7 +9589,8 @@
                         "laps": "30",
                         "speed": "209.737",
                         "fastestLap": "1:57.308",
-                        "lap_of_fastestLap": "29"
+                        "lap_of_fastestLap": "29",
+                        "grid": "5"
                     }
                 },
                 "24": {
@@ -9330,7 +9606,8 @@
                         "laps": "29",
                         "speed": "204.985",
                         "fastestLap": "1:58.443",
-                        "lap_of_fastestLap": "29"
+                        "lap_of_fastestLap": "29",
+                        "grid": "19"
                     }
                 },
                 "11": {
@@ -9346,7 +9623,8 @@
                         "laps": "25",
                         "speed": "204.497",
                         "fastestLap": "1:59.527",
-                        "lap_of_fastestLap": "25"
+                        "lap_of_fastestLap": "25",
+                        "grid": "24"
                     }
                 },
                 "26": {
@@ -9362,7 +9640,8 @@
                         "laps": "25",
                         "speed": "201.878",
                         "fastestLap": "1:58.348",
-                        "lap_of_fastestLap": "20"
+                        "lap_of_fastestLap": "20",
+                        "grid": "26"
                     }
                 },
                 "5": {
@@ -9378,7 +9657,8 @@
                         "laps": "22",
                         "speed": "208.774",
                         "fastestLap": "1:56.459",
-                        "lap_of_fastestLap": "21"
+                        "lap_of_fastestLap": "21",
+                        "grid": "3"
                     }
                 },
                 "29": {
@@ -9394,7 +9674,8 @@
                         "laps": "21",
                         "speed": "202.851",
                         "fastestLap": "2:01.062",
-                        "lap_of_fastestLap": "18"
+                        "lap_of_fastestLap": "18",
+                        "grid": "20"
                     }
                 },
                 "16": {
@@ -9410,7 +9691,8 @@
                         "laps": "13",
                         "speed": "205.725",
                         "fastestLap": "1:59.757",
-                        "lap_of_fastestLap": "11"
+                        "lap_of_fastestLap": "11",
+                        "grid": "12"
                     }
                 },
                 "3": {
@@ -9426,7 +9708,8 @@
                         "laps": "7",
                         "speed": "199.726",
                         "fastestLap": "2:02.123",
-                        "lap_of_fastestLap": "6"
+                        "lap_of_fastestLap": "6",
+                        "grid": "22"
                     }
                 },
                 "27": {
@@ -9442,7 +9725,8 @@
                         "laps": "2",
                         "speed": "203.091",
                         "fastestLap": "2:01.161",
-                        "lap_of_fastestLap": "2"
+                        "lap_of_fastestLap": "2",
+                        "grid": "2"
                     }
                 },
                 "15": {
@@ -9458,7 +9742,8 @@
                         "laps": "1",
                         "speed": "182.777",
                         "fastestLap": "2:16.691",
-                        "lap_of_fastestLap": "1"
+                        "lap_of_fastestLap": "1",
+                        "grid": "15"
                     }
                 },
                 "32": {
@@ -9470,12 +9755,13 @@
                         "Michael_Schumacher"
                     ],
                     "other_info": {
-                        "carNumber": "32"
+                        "carNumber": "32",
+                        "grid": "7"
                     }
                 }
             }
         },
-        "Italian-grand-prix": {
+        "Italian Grand Prix": {
             "Qualifying": {
                 "1": {
                     "position": "1",
@@ -9899,7 +10185,7 @@
             "Race": {
                 "5": {
                     "position": "1",
-                    "points": 0,
+                    "points": 10,
                     "fastest_lap": "1:26.828",
                     "team": "Williams",
                     "drivers": [
@@ -9910,12 +10196,13 @@
                         "laps": "53",
                         "speed": "236.749",
                         "fastestLap": "1:26.828",
-                        "lap_of_fastestLap": "47"
+                        "lap_of_fastestLap": "47",
+                        "grid": "2"
                     }
                 },
                 "1": {
                     "position": "2",
-                    "points": 0,
+                    "points": 6,
                     "fastest_lap": "1:26.061",
                     "team": "McLaren",
                     "drivers": [
@@ -9928,12 +10215,13 @@
                         "interval": "+ 16.262",
                         "speed": "235.928",
                         "fastestLap": "1:26.061",
-                        "lap_of_fastestLap": "41"
+                        "lap_of_fastestLap": "41",
+                        "grid": "1"
                     }
                 },
                 "27": {
                     "position": "3",
-                    "points": 0,
+                    "points": 4,
                     "fastest_lap": "1:27.247",
                     "team": "Ferrari",
                     "drivers": [
@@ -9946,12 +10234,13 @@
                         "interval": "+ 0.567",
                         "speed": "235.899",
                         "fastestLap": "1:27.247",
-                        "lap_of_fastestLap": "40"
+                        "lap_of_fastestLap": "40",
+                        "grid": "5"
                     }
                 },
                 "2": {
                     "position": "4",
-                    "points": 0,
+                    "points": 3,
                     "fastest_lap": "1:27.465",
                     "team": "McLaren",
                     "drivers": [
@@ -9964,12 +10253,13 @@
                         "interval": "+ 10.890",
                         "speed": "235.353",
                         "fastestLap": "1:27.465",
-                        "lap_of_fastestLap": "43"
+                        "lap_of_fastestLap": "43",
+                        "grid": "3"
                     }
                 },
                 "19": {
                     "position": "5",
-                    "points": 0,
+                    "points": 2,
                     "fastest_lap": "1:27.472",
                     "team": "camel_benneton_ford",
                     "drivers": [
@@ -9982,12 +10272,13 @@
                         "interval": "+ 6.744",
                         "speed": "235.016",
                         "fastestLap": "1:27.472",
-                        "lap_of_fastestLap": "43"
+                        "lap_of_fastestLap": "43",
+                        "grid": "7"
                     }
                 },
                 "20": {
                     "position": "6",
-                    "points": 0,
+                    "points": 1,
                     "fastest_lap": "1:26.437",
                     "team": "camel_benneton_ford",
                     "drivers": [
@@ -10000,7 +10291,8 @@
                         "interval": "+ 11.137",
                         "speed": "234.461",
                         "fastestLap": "1:26.437",
-                        "lap_of_fastestLap": "39"
+                        "lap_of_fastestLap": "39",
+                        "grid": "8"
                     }
                 },
                 "33": {
@@ -10018,7 +10310,8 @@
                         "interval": "+ 5.536",
                         "speed": "234.186",
                         "fastestLap": "1:27.152",
-                        "lap_of_fastestLap": "51"
+                        "lap_of_fastestLap": "51",
+                        "grid": "14"
                     }
                 },
                 "16": {
@@ -10036,7 +10329,8 @@
                         "interval": "+ 23.883",
                         "speed": "233.009",
                         "fastestLap": "1:28.455",
-                        "lap_of_fastestLap": "27"
+                        "lap_of_fastestLap": "27",
+                        "grid": "12"
                     }
                 },
                 "24": {
@@ -10054,7 +10348,8 @@
                         "interval": "1 Lap",
                         "speed": "232.001",
                         "fastestLap": "1:27.905",
-                        "lap_of_fastestLap": "37"
+                        "lap_of_fastestLap": "37",
+                        "grid": "17"
                     }
                 },
                 "21": {
@@ -10072,7 +10367,8 @@
                         "interval": "+ 27.317",
                         "speed": "230.654",
                         "fastestLap": "1:28.644",
-                        "lap_of_fastestLap": "45"
+                        "lap_of_fastestLap": "45",
+                        "grid": "16"
                     }
                 },
                 "26": {
@@ -10090,7 +10386,8 @@
                         "interval": "+ 11.276",
                         "speed": "230.103",
                         "fastestLap": "1:29.568",
-                        "lap_of_fastestLap": "28"
+                        "lap_of_fastestLap": "28",
+                        "grid": "22"
                     }
                 },
                 "8": {
@@ -10108,7 +10405,8 @@
                         "interval": "+ 0.013",
                         "speed": "230.102",
                         "fastestLap": "1:26.870",
-                        "lap_of_fastestLap": "51"
+                        "lap_of_fastestLap": "51",
+                        "grid": "11"
                     }
                 },
                 "7": {
@@ -10126,7 +10424,8 @@
                         "interval": "+ 32.475",
                         "speed": "228.53",
                         "fastestLap": "1:26.590",
-                        "lap_of_fastestLap": "52"
+                        "lap_of_fastestLap": "52",
+                        "grid": "19"
                     }
                 },
                 "11": {
@@ -10144,7 +10443,8 @@
                         "interval": "3 Laps",
                         "speed": "218.757",
                         "fastestLap": "1:33.025",
-                        "lap_of_fastestLap": "5"
+                        "lap_of_fastestLap": "5",
+                        "grid": "25"
                     }
                 },
                 "15": {
@@ -10162,7 +10462,8 @@
                         "interval": "+ 9.045",
                         "speed": "218.334",
                         "fastestLap": "1:29.354",
-                        "lap_of_fastestLap": "36"
+                        "lap_of_fastestLap": "36",
+                        "grid": "18"
                     }
                 },
                 "34": {
@@ -10180,7 +10481,8 @@
                         "interval": "1 Lap",
                         "speed": "212.287",
                         "fastestLap": "1:28.413",
-                        "lap_of_fastestLap": "43"
+                        "lap_of_fastestLap": "43",
+                        "grid": "23"
                     }
                 },
                 "14": {
@@ -10196,7 +10498,8 @@
                         "laps": "46",
                         "speed": "228.573",
                         "fastestLap": "1:29.726",
-                        "lap_of_fastestLap": "41"
+                        "lap_of_fastestLap": "41",
+                        "grid": "26"
                     }
                 },
                 "22": {
@@ -10212,7 +10515,8 @@
                         "laps": "35",
                         "speed": "228.236",
                         "fastestLap": "1:28.264",
-                        "lap_of_fastestLap": "30"
+                        "lap_of_fastestLap": "30",
+                        "grid": "20"
                     }
                 },
                 "4": {
@@ -10228,7 +10532,8 @@
                         "laps": "32",
                         "speed": "229.243",
                         "fastestLap": "1:29.901",
-                        "lap_of_fastestLap": "12"
+                        "lap_of_fastestLap": "12",
+                        "grid": "13"
                     }
                 },
                 "28": {
@@ -10244,7 +10549,8 @@
                         "laps": "29",
                         "speed": "229.142",
                         "fastestLap": "1:27.300",
-                        "lap_of_fastestLap": "28"
+                        "lap_of_fastestLap": "28",
+                        "grid": "6"
                     }
                 },
                 "6": {
@@ -10260,7 +10566,8 @@
                         "laps": "27",
                         "speed": "235.111",
                         "fastestLap": "1:27.552",
-                        "lap_of_fastestLap": "25"
+                        "lap_of_fastestLap": "25",
+                        "grid": "4"
                     }
                 },
                 "3": {
@@ -10276,7 +10583,8 @@
                         "laps": "24",
                         "speed": "228.119",
                         "fastestLap": "1:30.140",
-                        "lap_of_fastestLap": "19"
+                        "lap_of_fastestLap": "19",
+                        "grid": "15"
                     }
                 },
                 "29": {
@@ -10292,7 +10600,8 @@
                         "laps": "21",
                         "speed": "226.912",
                         "fastestLap": "1:30.326",
-                        "lap_of_fastestLap": "17"
+                        "lap_of_fastestLap": "17",
+                        "grid": "24"
                     }
                 },
                 "23": {
@@ -10308,7 +10617,8 @@
                         "laps": "8",
                         "speed": "229.27",
                         "fastestLap": "1:28.893",
-                        "lap_of_fastestLap": "6"
+                        "lap_of_fastestLap": "6",
+                        "grid": "10"
                     }
                 },
                 "32": {
@@ -10324,7 +10634,8 @@
                         "laps": "2",
                         "speed": "217.427",
                         "fastestLap": "1:32.238",
-                        "lap_of_fastestLap": "2"
+                        "lap_of_fastestLap": "2",
+                        "grid": "9"
                     }
                 },
                 "25": {
@@ -10340,12 +10651,13 @@
                         "laps": "1",
                         "speed": "196.986",
                         "fastestLap": "1:45.997",
-                        "lap_of_fastestLap": "1"
+                        "lap_of_fastestLap": "1",
+                        "grid": "21"
                     }
                 }
             }
         },
-        "Portuguese-grand-prix": {
+        "Portuguese Grand Prix": {
             "Qualifying": {
                 "6": {
                     "position": "1",
@@ -10769,7 +11081,7 @@
             "Race": {
                 "6": {
                     "position": "1",
-                    "points": 0,
+                    "points": 10,
                     "fastest_lap": "1:18.350",
                     "team": "Williams",
                     "drivers": [
@@ -10780,12 +11092,13 @@
                         "laps": "71",
                         "speed": "193.626",
                         "fastestLap": "1:18.350",
-                        "lap_of_fastestLap": "38"
+                        "lap_of_fastestLap": "38",
+                        "grid": "1"
                     }
                 },
                 "1": {
                     "position": "2",
-                    "points": 0,
+                    "points": 6,
                     "fastest_lap": "1:18.929",
                     "team": "McLaren",
                     "drivers": [
@@ -10798,12 +11111,13 @@
                         "interval": "+ 20.941",
                         "speed": "192.922",
                         "fastestLap": "1:18.929",
-                        "lap_of_fastestLap": "50"
+                        "lap_of_fastestLap": "50",
+                        "grid": "3"
                     }
                 },
                 "28": {
                     "position": "3",
-                    "points": 0,
+                    "points": 4,
                     "fastest_lap": "1:19.418",
                     "team": "Ferrari",
                     "drivers": [
@@ -10816,12 +11130,13 @@
                         "interval": "+ 32.613",
                         "speed": "191.836",
                         "fastestLap": "1:19.418",
-                        "lap_of_fastestLap": "55"
+                        "lap_of_fastestLap": "55",
+                        "grid": "6"
                     }
                 },
                 "23": {
                     "position": "4",
-                    "points": 0,
+                    "points": 3,
                     "fastest_lap": "1:19.581",
                     "team": "minardi_team",
                     "drivers": [
@@ -10834,12 +11149,13 @@
                         "interval": "+ 9.944",
                         "speed": "191.508",
                         "fastestLap": "1:19.581",
-                        "lap_of_fastestLap": "57"
+                        "lap_of_fastestLap": "57",
+                        "grid": "8"
                     }
                 },
                 "20": {
                     "position": "5",
-                    "points": 0,
+                    "points": 2,
                     "fastest_lap": "1:19.073",
                     "team": "camel_benneton_ford",
                     "drivers": [
@@ -10852,12 +11168,13 @@
                         "interval": "+ 6.535",
                         "speed": "191.293",
                         "fastestLap": "1:19.073",
-                        "lap_of_fastestLap": "45"
+                        "lap_of_fastestLap": "45",
+                        "grid": "11"
                     }
                 },
                 "19": {
                     "position": "6",
-                    "points": 0,
+                    "points": 1,
                     "fastest_lap": "1:19.206",
                     "team": "camel_benneton_ford",
                     "drivers": [
@@ -10870,7 +11187,8 @@
                         "interval": "+ 6.549",
                         "speed": "191.077",
                         "fastestLap": "1:19.206",
-                        "lap_of_fastestLap": "68"
+                        "lap_of_fastestLap": "68",
+                        "grid": "10"
                     }
                 },
                 "15": {
@@ -10888,7 +11206,8 @@
                         "interval": "1 Lap",
                         "speed": "190.183",
                         "fastestLap": "1:19.757",
-                        "lap_of_fastestLap": "65"
+                        "lap_of_fastestLap": "65",
+                        "grid": "7"
                     }
                 },
                 "33": {
@@ -10906,7 +11225,8 @@
                         "interval": "+ 0.185",
                         "speed": "190.176",
                         "fastestLap": "1:19.210",
-                        "lap_of_fastestLap": "48"
+                        "lap_of_fastestLap": "48",
+                        "grid": "14"
                     }
                 },
                 "24": {
@@ -10924,7 +11244,8 @@
                         "interval": "+ 12.894",
                         "speed": "189.752",
                         "fastestLap": "1:20.357",
-                        "lap_of_fastestLap": "56"
+                        "lap_of_fastestLap": "56",
+                        "grid": "13"
                     }
                 },
                 "32": {
@@ -10942,7 +11263,8 @@
                         "interval": "+ 10.278",
                         "speed": "189.415",
                         "fastestLap": "1:20.096",
-                        "lap_of_fastestLap": "57"
+                        "lap_of_fastestLap": "57",
+                        "grid": "21"
                     }
                 },
                 "26": {
@@ -10960,7 +11282,8 @@
                         "interval": "+ 37.588",
                         "speed": "188.193",
                         "fastestLap": "1:20.781",
-                        "lap_of_fastestLap": "43"
+                        "lap_of_fastestLap": "43",
+                        "grid": "23"
                     }
                 },
                 "7": {
@@ -10978,7 +11301,8 @@
                         "interval": "1 Lap",
                         "speed": "187.301",
                         "fastestLap": "1:20.480",
-                        "lap_of_fastestLap": "27"
+                        "lap_of_fastestLap": "27",
+                        "grid": "19"
                     }
                 },
                 "3": {
@@ -10996,7 +11320,8 @@
                         "interval": "1 Lap",
                         "speed": "185.407",
                         "fastestLap": "1:21.966",
-                        "lap_of_fastestLap": "41"
+                        "lap_of_fastestLap": "41",
+                        "grid": "17"
                     }
                 },
                 "11": {
@@ -11014,7 +11339,8 @@
                         "interval": "+ 0.992",
                         "speed": "185.375",
                         "fastestLap": "1:20.445",
-                        "lap_of_fastestLap": "35"
+                        "lap_of_fastestLap": "35",
+                        "grid": "24"
                     }
                 },
                 "9": {
@@ -11032,7 +11358,8 @@
                         "interval": "+ 3.946",
                         "speed": "185.248",
                         "fastestLap": "1:20.082",
-                        "lap_of_fastestLap": "60"
+                        "lap_of_fastestLap": "60",
+                        "grid": "22"
                     }
                 },
                 "25": {
@@ -11050,7 +11377,8 @@
                         "interval": "+ 43.181",
                         "speed": "183.867",
                         "fastestLap": "1:20.700",
-                        "lap_of_fastestLap": "38"
+                        "lap_of_fastestLap": "38",
+                        "grid": "20"
                     }
                 },
                 "16": {
@@ -11068,7 +11396,8 @@
                         "interval": "4 Laps",
                         "speed": "185.779",
                         "fastestLap": "1:19.519",
-                        "lap_of_fastestLap": "45"
+                        "lap_of_fastestLap": "45",
+                        "grid": "9"
                     }
                 },
                 "4": {
@@ -11084,7 +11413,8 @@
                         "laps": "56",
                         "speed": "188.774",
                         "fastestLap": "1:20.342",
-                        "lap_of_fastestLap": "30"
+                        "lap_of_fastestLap": "30",
+                        "grid": "12"
                     }
                 },
                 "5": {
@@ -11100,7 +11430,8 @@
                         "laps": "51",
                         "speed": "189.598",
                         "fastestLap": "1:18.179",
-                        "lap_of_fastestLap": "36"
+                        "lap_of_fastestLap": "36",
+                        "grid": "4"
                     }
                 },
                 "30": {
@@ -11116,7 +11447,8 @@
                         "laps": "40",
                         "speed": "185.046",
                         "fastestLap": "1:21.586",
-                        "lap_of_fastestLap": "33"
+                        "lap_of_fastestLap": "33",
+                        "grid": "25"
                     }
                 },
                 "27": {
@@ -11132,7 +11464,8 @@
                         "laps": "39",
                         "speed": "191.081",
                         "fastestLap": "1:19.531",
-                        "lap_of_fastestLap": "33"
+                        "lap_of_fastestLap": "33",
+                        "grid": "5"
                     }
                 },
                 "2": {
@@ -11148,7 +11481,8 @@
                         "laps": "37",
                         "speed": "191.333",
                         "fastestLap": "1:18.856",
-                        "lap_of_fastestLap": "36"
+                        "lap_of_fastestLap": "36",
+                        "grid": "2"
                     }
                 },
                 "21": {
@@ -11164,7 +11498,8 @@
                         "laps": "18",
                         "speed": "182.888",
                         "fastestLap": "1:22.592",
-                        "lap_of_fastestLap": "11"
+                        "lap_of_fastestLap": "11",
+                        "grid": "16"
                     }
                 },
                 "22": {
@@ -11180,7 +11515,8 @@
                         "laps": "14",
                         "speed": "181.301",
                         "fastestLap": "1:22.165",
-                        "lap_of_fastestLap": "13"
+                        "lap_of_fastestLap": "13",
+                        "grid": "18"
                     }
                 },
                 "8": {
@@ -11196,7 +11532,8 @@
                         "laps": "12",
                         "speed": "183.966",
                         "fastestLap": "1:22.801",
-                        "lap_of_fastestLap": "12"
+                        "lap_of_fastestLap": "12",
+                        "grid": "15"
                     }
                 },
                 "12": {
@@ -11212,12 +11549,13 @@
                         "laps": "1",
                         "speed": "156.907",
                         "fastestLap": "1:39.804",
-                        "lap_of_fastestLap": "1"
+                        "lap_of_fastestLap": "1",
+                        "grid": "26"
                     }
                 }
             }
         },
-        "Spanish-grand-prix": {
+        "Spanish Grand Prix": {
             "Qualifying": {
                 "2": {
                     "position": "1",
@@ -11641,7 +11979,7 @@
             "Race": {
                 "5": {
                     "position": "1",
-                    "points": 0,
+                    "points": 10,
                     "fastest_lap": "1:23.293",
                     "team": "Williams",
                     "drivers": [
@@ -11652,12 +11990,13 @@
                         "laps": "65",
                         "speed": "187.586",
                         "fastestLap": "1:23.293",
-                        "lap_of_fastestLap": "62"
+                        "lap_of_fastestLap": "62",
+                        "grid": "2"
                     }
                 },
                 "27": {
                     "position": "2",
-                    "points": 0,
+                    "points": 6,
                     "fastest_lap": "1:23.729",
                     "team": "Ferrari",
                     "drivers": [
@@ -11670,12 +12009,13 @@
                         "interval": "+ 11.331",
                         "speed": "187.227",
                         "fastestLap": "1:23.729",
-                        "lap_of_fastestLap": "60"
+                        "lap_of_fastestLap": "60",
+                        "grid": "6"
                     }
                 },
                 "6": {
                     "position": "3",
-                    "points": 0,
+                    "points": 4,
                     "fastest_lap": "1:22.837",
                     "team": "Williams",
                     "drivers": [
@@ -11688,12 +12028,13 @@
                         "interval": "+ 4.578",
                         "speed": "187.083",
                         "fastestLap": "1:22.837",
-                        "lap_of_fastestLap": "63"
+                        "lap_of_fastestLap": "63",
+                        "grid": "4"
                     }
                 },
                 "28": {
                     "position": "4",
-                    "points": 0,
+                    "points": 3,
                     "fastest_lap": "1:22.978",
                     "team": "Ferrari",
                     "drivers": [
@@ -11706,12 +12047,13 @@
                         "interval": "+ 6.863",
                         "speed": "186.867",
                         "fastestLap": "1:22.978",
-                        "lap_of_fastestLap": "61"
+                        "lap_of_fastestLap": "61",
+                        "grid": "7"
                     }
                 },
                 "1": {
                     "position": "5",
-                    "points": 0,
+                    "points": 2,
                     "fastest_lap": "1:24.771",
                     "team": "McLaren",
                     "drivers": [
@@ -11724,12 +12066,13 @@
                         "interval": "+ 39.630",
                         "speed": "185.629",
                         "fastestLap": "1:24.771",
-                        "lap_of_fastestLap": "58"
+                        "lap_of_fastestLap": "58",
+                        "grid": "3"
                     }
                 },
                 "19": {
                     "position": "6",
-                    "points": 0,
+                    "points": 1,
                     "fastest_lap": "1:25.546",
                     "team": "camel_benneton_ford",
                     "drivers": [
@@ -11742,7 +12085,8 @@
                         "interval": "+ 17.066",
                         "speed": "185.101",
                         "fastestLap": "1:25.546",
-                        "lap_of_fastestLap": "61"
+                        "lap_of_fastestLap": "61",
+                        "grid": "5"
                     }
                 },
                 "15": {
@@ -11760,7 +12104,8 @@
                         "interval": "1 Lap",
                         "speed": "184.312",
                         "fastestLap": "1:23.915",
-                        "lap_of_fastestLap": "61"
+                        "lap_of_fastestLap": "61",
+                        "grid": "13"
                     }
                 },
                 "22": {
@@ -11778,7 +12123,8 @@
                         "interval": "+ 10.498",
                         "speed": "183.987",
                         "fastestLap": "1:24.310",
-                        "lap_of_fastestLap": "60"
+                        "lap_of_fastestLap": "60",
+                        "grid": "15"
                     }
                 },
                 "32": {
@@ -11796,7 +12142,8 @@
                         "interval": "+ 54.722",
                         "speed": "182.309",
                         "fastestLap": "1:24.997",
-                        "lap_of_fastestLap": "60"
+                        "lap_of_fastestLap": "60",
+                        "grid": "20"
                     }
                 },
                 "7": {
@@ -11814,7 +12161,8 @@
                         "interval": "1 Lap",
                         "speed": "181.716",
                         "fastestLap": "1:25.396",
-                        "lap_of_fastestLap": "62"
+                        "lap_of_fastestLap": "62",
+                        "grid": "11"
                     }
                 },
                 "20": {
@@ -11832,7 +12180,8 @@
                         "interval": "+ 0.444",
                         "speed": "181.702",
                         "fastestLap": "1:25.120",
-                        "lap_of_fastestLap": "62"
+                        "lap_of_fastestLap": "62",
+                        "grid": "10"
                     }
                 },
                 "14": {
@@ -11850,7 +12199,8 @@
                         "interval": "+ 53.051",
                         "speed": "180.09",
                         "fastestLap": "1:27.108",
-                        "lap_of_fastestLap": "55"
+                        "lap_of_fastestLap": "55",
+                        "grid": "22"
                     }
                 },
                 "23": {
@@ -11868,7 +12218,8 @@
                         "interval": "+ 8.911",
                         "speed": "179.822",
                         "fastestLap": "1:25.020",
-                        "lap_of_fastestLap": "62"
+                        "lap_of_fastestLap": "62",
+                        "grid": "19"
                     }
                 },
                 "24": {
@@ -11886,7 +12237,8 @@
                         "interval": "1 Lap",
                         "speed": "182.412",
                         "fastestLap": "1:26.606",
-                        "lap_of_fastestLap": "57"
+                        "lap_of_fastestLap": "57",
+                        "grid": "16"
                     }
                 },
                 "21": {
@@ -11904,7 +12256,8 @@
                         "interval": "+ 2:18.485",
                         "speed": "178.164",
                         "fastestLap": "1:25.308",
-                        "lap_of_fastestLap": "46"
+                        "lap_of_fastestLap": "46",
+                        "grid": "9"
                     }
                 },
                 "4": {
@@ -11922,7 +12275,8 @@
                         "interval": "+ 37.251",
                         "speed": "177.055",
                         "fastestLap": "1:25.224",
-                        "lap_of_fastestLap": "54"
+                        "lap_of_fastestLap": "54",
+                        "grid": "14"
                     }
                 },
                 "3": {
@@ -11940,7 +12294,8 @@
                         "interval": "+ 1.295",
                         "speed": "177.017",
                         "fastestLap": "1:26.905",
-                        "lap_of_fastestLap": "60"
+                        "lap_of_fastestLap": "60",
+                        "grid": "18"
                     }
                 },
                 "8": {
@@ -11956,7 +12311,8 @@
                         "laps": "49",
                         "speed": "178.012",
                         "fastestLap": "1:25.373",
-                        "lap_of_fastestLap": "39"
+                        "lap_of_fastestLap": "39",
+                        "grid": "12"
                     }
                 },
                 "26": {
@@ -11972,7 +12328,8 @@
                         "laps": "36",
                         "speed": "152.737",
                         "fastestLap": "1:29.807",
-                        "lap_of_fastestLap": "30"
+                        "lap_of_fastestLap": "30",
+                        "grid": "25"
                     }
                 },
                 "2": {
@@ -11988,7 +12345,8 @@
                         "laps": "33",
                         "speed": "177.329",
                         "fastestLap": "1:26.078",
-                        "lap_of_fastestLap": "32"
+                        "lap_of_fastestLap": "32",
+                        "grid": "1"
                     }
                 },
                 "9": {
@@ -12004,7 +12362,8 @@
                         "laps": "23",
                         "speed": "162.874",
                         "fastestLap": "1:33.079",
-                        "lap_of_fastestLap": "21"
+                        "lap_of_fastestLap": "21",
+                        "grid": "24"
                     }
                 },
                 "33": {
@@ -12020,7 +12379,8 @@
                         "laps": "22",
                         "speed": "168.78",
                         "fastestLap": "1:31.399",
-                        "lap_of_fastestLap": "22"
+                        "lap_of_fastestLap": "22",
+                        "grid": "17"
                     }
                 },
                 "11": {
@@ -12036,7 +12396,8 @@
                         "laps": "5",
                         "speed": "157.243",
                         "fastestLap": "1:43.739",
-                        "lap_of_fastestLap": "4"
+                        "lap_of_fastestLap": "4",
+                        "grid": "21"
                     }
                 },
                 "16": {
@@ -12052,7 +12413,8 @@
                         "laps": "1",
                         "speed": "147.215",
                         "fastestLap": "1:56.083",
-                        "lap_of_fastestLap": "1"
+                        "lap_of_fastestLap": "1",
+                        "grid": "8"
                     }
                 },
                 "29": {
@@ -12064,7 +12426,8 @@
                         "Éric_Bernard"
                     ],
                     "other_info": {
-                        "carNumber": "29"
+                        "carNumber": "29",
+                        "grid": "23"
                     }
                 },
                 "25": {
@@ -12076,12 +12439,13 @@
                         "Thierry_Boutsen"
                     ],
                     "other_info": {
-                        "carNumber": "25"
+                        "carNumber": "25",
+                        "grid": "26"
                     }
                 }
             }
         },
-        "Japanese-grand-prix": {
+        "Japanese Grand Prix": {
             "Qualifying": {
                 "2": {
                     "position": "1",
@@ -12503,7 +12867,7 @@
             "Race": {
                 "2": {
                     "position": "1",
-                    "points": 0,
+                    "points": 10,
                     "fastest_lap": "1:41.572",
                     "team": "McLaren",
                     "drivers": [
@@ -12514,12 +12878,13 @@
                         "laps": "53",
                         "speed": "202.298",
                         "fastestLap": "1:41.572",
-                        "lap_of_fastestLap": "40"
+                        "lap_of_fastestLap": "40",
+                        "grid": "1"
                     }
                 },
                 "1": {
                     "position": "2",
-                    "points": 0,
+                    "points": 6,
                     "fastest_lap": "1:41.532",
                     "team": "McLaren",
                     "drivers": [
@@ -12532,12 +12897,13 @@
                         "interval": "+ 0.344",
                         "speed": "202.285",
                         "fastestLap": "1:41.532",
-                        "lap_of_fastestLap": "39"
+                        "lap_of_fastestLap": "39",
+                        "grid": "2"
                     }
                 },
                 "6": {
                     "position": "3",
-                    "points": 0,
+                    "points": 4,
                     "fastest_lap": "1:41.804",
                     "team": "Williams",
                     "drivers": [
@@ -12550,12 +12916,13 @@
                         "interval": "+ 56.387",
                         "speed": "200.244",
                         "fastestLap": "1:41.804",
-                        "lap_of_fastestLap": "27"
+                        "lap_of_fastestLap": "27",
+                        "grid": "5"
                     }
                 },
                 "27": {
                     "position": "4",
-                    "points": 0,
+                    "points": 3,
                     "fastest_lap": "1:43.712",
                     "team": "Ferrari",
                     "drivers": [
@@ -12568,12 +12935,13 @@
                         "interval": "+ 24.030",
                         "speed": "199.386",
                         "fastestLap": "1:43.712",
-                        "lap_of_fastestLap": "36"
+                        "lap_of_fastestLap": "36",
+                        "grid": "4"
                     }
                 },
                 "7": {
                     "position": "5",
-                    "points": 0,
+                    "points": 2,
                     "fastest_lap": "1:43.959",
                     "team": "motor_racing_developments_ltd",
                     "drivers": [
@@ -12586,12 +12954,13 @@
                         "interval": "1 Lap",
                         "speed": "197.743",
                         "fastestLap": "1:43.959",
-                        "lap_of_fastestLap": "32"
+                        "lap_of_fastestLap": "32",
+                        "grid": "19"
                     }
                 },
                 "4": {
                     "position": "6",
-                    "points": 0,
+                    "points": 1,
                     "fastest_lap": "1:43.596",
                     "team": "braun_tyrrell_honda",
                     "drivers": [
@@ -12604,7 +12973,8 @@
                         "interval": "+ 8.684",
                         "speed": "197.434",
                         "fastestLap": "1:43.596",
-                        "lap_of_fastestLap": "46"
+                        "lap_of_fastestLap": "46",
+                        "grid": "14"
                     }
                 },
                 "20": {
@@ -12622,7 +12992,8 @@
                         "interval": "+ 32.934",
                         "speed": "196.272",
                         "fastestLap": "1:43.997",
-                        "lap_of_fastestLap": "39"
+                        "lap_of_fastestLap": "39",
+                        "grid": "10"
                     }
                 },
                 "15": {
@@ -12640,7 +13011,8 @@
                         "interval": "+ 8.911",
                         "speed": "195.96",
                         "fastestLap": "1:44.344",
-                        "lap_of_fastestLap": "29"
+                        "lap_of_fastestLap": "29",
+                        "grid": "18"
                     }
                 },
                 "25": {
@@ -12658,7 +13030,8 @@
                         "interval": "+ 30.803",
                         "speed": "194.888",
                         "fastestLap": "1:45.723",
-                        "lap_of_fastestLap": "25"
+                        "lap_of_fastestLap": "25",
+                        "grid": "17"
                     }
                 },
                 "10": {
@@ -12676,7 +13049,8 @@
                         "interval": "1 Lap",
                         "speed": "194.119",
                         "fastestLap": "1:45.999",
-                        "lap_of_fastestLap": "28"
+                        "lap_of_fastestLap": "28",
+                        "grid": "26"
                     }
                 },
                 "14": {
@@ -12694,7 +13068,8 @@
                         "interval": "1 Lap",
                         "speed": "190.258",
                         "fastestLap": "1:46.210",
-                        "lap_of_fastestLap": "50"
+                        "lap_of_fastestLap": "50",
+                        "grid": "24"
                     }
                 },
                 "26": {
@@ -12710,7 +13085,8 @@
                         "laps": "41",
                         "speed": "193.729",
                         "fastestLap": "1:44.204",
-                        "lap_of_fastestLap": "34"
+                        "lap_of_fastestLap": "34",
+                        "grid": "20"
                     }
                 },
                 "23": {
@@ -12726,7 +13102,8 @@
                         "laps": "39",
                         "speed": "196.881",
                         "fastestLap": "1:44.718",
-                        "lap_of_fastestLap": "30"
+                        "lap_of_fastestLap": "30",
+                        "grid": "7"
                     }
                 },
                 "19": {
@@ -12742,7 +13119,8 @@
                         "laps": "34",
                         "speed": "196.278",
                         "fastestLap": "1:43.530",
-                        "lap_of_fastestLap": "29"
+                        "lap_of_fastestLap": "29",
+                        "grid": "9"
                     }
                 },
                 "12": {
@@ -12758,7 +13136,8 @@
                         "laps": "31",
                         "speed": "193.81",
                         "fastestLap": "1:45.853",
-                        "lap_of_fastestLap": "30"
+                        "lap_of_fastestLap": "30",
+                        "grid": "23"
                     }
                 },
                 "3": {
@@ -12774,7 +13153,8 @@
                         "laps": "30",
                         "speed": "193.723",
                         "fastestLap": "1:46.351",
-                        "lap_of_fastestLap": "18"
+                        "lap_of_fastestLap": "18",
+                        "grid": "15"
                     }
                 },
                 "30": {
@@ -12790,7 +13170,8 @@
                         "laps": "26",
                         "speed": "175",
                         "fastestLap": "1:45.107",
-                        "lap_of_fastestLap": "21"
+                        "lap_of_fastestLap": "21",
+                        "grid": "25"
                     }
                 },
                 "24": {
@@ -12806,7 +13187,8 @@
                         "laps": "15",
                         "speed": "189.115",
                         "fastestLap": "1:47.108",
-                        "lap_of_fastestLap": "11"
+                        "lap_of_fastestLap": "11",
+                        "grid": "8"
                     }
                 },
                 "5": {
@@ -12822,7 +13204,8 @@
                         "laps": "9",
                         "speed": "198.029",
                         "fastestLap": "1:45.642",
-                        "lap_of_fastestLap": "4"
+                        "lap_of_fastestLap": "4",
+                        "grid": "3"
                     }
                 },
                 "32": {
@@ -12838,7 +13221,8 @@
                         "laps": "7",
                         "speed": "192.875",
                         "fastestLap": "1:46.184",
-                        "lap_of_fastestLap": "3"
+                        "lap_of_fastestLap": "3",
+                        "grid": "13"
                     }
                 },
                 "11": {
@@ -12854,7 +13238,8 @@
                         "laps": "4",
                         "speed": "184.946",
                         "fastestLap": "1:48.864",
-                        "lap_of_fastestLap": "4"
+                        "lap_of_fastestLap": "4",
+                        "grid": "21"
                     }
                 },
                 "33": {
@@ -12870,7 +13255,8 @@
                         "laps": "1",
                         "speed": "179.826",
                         "fastestLap": "1:57.393",
-                        "lap_of_fastestLap": "1"
+                        "lap_of_fastestLap": "1",
+                        "grid": "11"
                     }
                 },
                 "22": {
@@ -12886,7 +13272,8 @@
                         "laps": "1",
                         "speed": "178.75",
                         "fastestLap": "1:58.100",
-                        "lap_of_fastestLap": "1"
+                        "lap_of_fastestLap": "1",
+                        "grid": "12"
                     }
                 },
                 "21": {
@@ -12902,7 +13289,8 @@
                         "laps": "1",
                         "speed": "177.761",
                         "fastestLap": "1:58.757",
-                        "lap_of_fastestLap": "1"
+                        "lap_of_fastestLap": "1",
+                        "grid": "16"
                     }
                 },
                 "16": {
@@ -12918,7 +13306,8 @@
                         "laps": "1",
                         "speed": "171.71",
                         "fastestLap": "2:02.942",
-                        "lap_of_fastestLap": "1"
+                        "lap_of_fastestLap": "1",
+                        "grid": "22"
                     }
                 },
                 "28": {
@@ -12930,12 +13319,13 @@
                         "Jean_Alesi"
                     ],
                     "other_info": {
-                        "carNumber": "28"
+                        "carNumber": "28",
+                        "grid": "6"
                     }
                 }
             }
         },
-        "Australian-grand-prix": {
+        "Australian Grand Prix": {
             "Qualifying": {
                 "1": {
                     "position": "1",
@@ -13359,7 +13749,7 @@
             "Race": {
                 "1": {
                     "position": "1",
-                    "points": 0,
+                    "points": 5,
                     "fastest_lap": "1:42.545",
                     "team": "McLaren",
                     "drivers": [
@@ -13370,12 +13760,13 @@
                         "laps": "14",
                         "speed": "129.17",
                         "fastestLap": "1:42.545",
-                        "lap_of_fastestLap": "13"
+                        "lap_of_fastestLap": "13",
+                        "grid": "1"
                     }
                 },
                 "5": {
                     "position": "2",
-                    "points": 0,
+                    "points": 3,
                     "fastest_lap": "1:42.908",
                     "team": "Williams",
                     "drivers": [
@@ -13388,12 +13779,13 @@
                         "interval": "+ 1.259",
                         "speed": "129.059",
                         "fastestLap": "1:42.908",
-                        "lap_of_fastestLap": "13"
+                        "lap_of_fastestLap": "13",
+                        "grid": "3"
                     }
                 },
                 "2": {
                     "position": "3",
-                    "points": 0,
+                    "points": 2,
                     "fastest_lap": "1:41.141",
                     "team": "McLaren",
                     "drivers": [
@@ -13406,12 +13798,13 @@
                         "interval": "+ 3.861",
                         "speed": "128.722",
                         "fastestLap": "1:41.141",
-                        "lap_of_fastestLap": "14"
+                        "lap_of_fastestLap": "14",
+                        "grid": "2"
                     }
                 },
                 "20": {
                     "position": "4",
-                    "points": 0,
+                    "points": 1.5,
                     "fastest_lap": "1:42.616",
                     "team": "camel_benneton_ford",
                     "drivers": [
@@ -13424,12 +13817,13 @@
                         "interval": "+ 24.983",
                         "speed": "126.585",
                         "fastestLap": "1:42.616",
-                        "lap_of_fastestLap": "5"
+                        "lap_of_fastestLap": "5",
+                        "grid": "5"
                     }
                 },
                 "6": {
                     "position": "5",
-                    "points": 0,
+                    "points": 1,
                     "fastest_lap": "1:45.297",
                     "team": "Williams",
                     "drivers": [
@@ -13442,12 +13836,13 @@
                         "interval": "+ 20.434",
                         "speed": "124.89",
                         "fastestLap": "1:45.297",
-                        "lap_of_fastestLap": "9"
+                        "lap_of_fastestLap": "9",
+                        "grid": "4"
                     }
                 },
                 "27": {
                     "position": "6",
-                    "points": 0,
+                    "points": 0.5,
                     "fastest_lap": "1:45.599",
                     "team": "Ferrari",
                     "drivers": [
@@ -13460,7 +13855,8 @@
                         "interval": "+ 0.532",
                         "speed": "124.846",
                         "fastestLap": "1:45.599",
-                        "lap_of_fastestLap": "5"
+                        "lap_of_fastestLap": "5",
+                        "grid": "8"
                     }
                 },
                 "21": {
@@ -13478,7 +13874,8 @@
                         "interval": "+ 1.292",
                         "speed": "124.741",
                         "fastestLap": "1:44.933",
-                        "lap_of_fastestLap": "13"
+                        "lap_of_fastestLap": "13",
+                        "grid": "13"
                     }
                 },
                 "33": {
@@ -13496,7 +13893,8 @@
                         "interval": "+ 8.070",
                         "speed": "124.085",
                         "fastestLap": "1:45.264",
-                        "lap_of_fastestLap": "14"
+                        "lap_of_fastestLap": "14",
+                        "grid": "12"
                     }
                 },
                 "32": {
@@ -13514,7 +13912,8 @@
                         "interval": "+ 15.136",
                         "speed": "122.874",
                         "fastestLap": "1:43.519",
-                        "lap_of_fastestLap": "14"
+                        "lap_of_fastestLap": "14",
+                        "grid": "16"
                     }
                 },
                 "4": {
@@ -13532,7 +13931,8 @@
                         "interval": "+ 4.803",
                         "speed": "122.494",
                         "fastestLap": "1:45.912",
-                        "lap_of_fastestLap": "12"
+                        "lap_of_fastestLap": "12",
+                        "grid": "9"
                     }
                 },
                 "12": {
@@ -13550,7 +13950,8 @@
                         "interval": "+ 1.703",
                         "speed": "122.36",
                         "fastestLap": "1:46.437",
-                        "lap_of_fastestLap": "12"
+                        "lap_of_fastestLap": "12",
+                        "grid": "21"
                     }
                 },
                 "22": {
@@ -13568,7 +13969,8 @@
                         "interval": "+ 16.446",
                         "speed": "121.081",
                         "fastestLap": "1:48.018",
-                        "lap_of_fastestLap": "11"
+                        "lap_of_fastestLap": "11",
+                        "grid": "11"
                     }
                 },
                 "9": {
@@ -13586,7 +13988,8 @@
                         "interval": "+ 0.784",
                         "speed": "121.021",
                         "fastestLap": "1:47.030",
-                        "lap_of_fastestLap": "12"
+                        "lap_of_fastestLap": "12",
+                        "grid": "15"
                     }
                 },
                 "15": {
@@ -13604,7 +14007,8 @@
                         "interval": "1 Lap",
                         "speed": "122.093",
                         "fastestLap": "1:47.395",
-                        "lap_of_fastestLap": "12"
+                        "lap_of_fastestLap": "12",
+                        "grid": "14"
                     }
                 },
                 "10": {
@@ -13622,7 +14026,8 @@
                         "interval": "+ 42.492",
                         "speed": "118.614",
                         "fastestLap": "1:47.421",
-                        "lap_of_fastestLap": "13"
+                        "lap_of_fastestLap": "13",
+                        "grid": "23"
                     }
                 },
                 "24": {
@@ -13640,7 +14045,8 @@
                         "interval": "+ 10.504",
                         "speed": "117.785",
                         "fastestLap": "1:47.000",
-                        "lap_of_fastestLap": "13"
+                        "lap_of_fastestLap": "13",
+                        "grid": "18"
                     }
                 },
                 "8": {
@@ -13658,7 +14064,8 @@
                         "interval": "+ 1.315",
                         "speed": "117.682",
                         "fastestLap": "1:46.821",
-                        "lap_of_fastestLap": "13"
+                        "lap_of_fastestLap": "13",
+                        "grid": "17"
                     }
                 },
                 "26": {
@@ -13676,7 +14083,8 @@
                         "interval": "+ 20.891",
                         "speed": "116.068",
                         "fastestLap": "1:50.046",
-                        "lap_of_fastestLap": "13"
+                        "lap_of_fastestLap": "13",
+                        "grid": "22"
                     }
                 },
                 "11": {
@@ -13694,7 +14102,8 @@
                         "interval": "+ 28.530",
                         "speed": "113.936",
                         "fastestLap": "1:50.949",
-                        "lap_of_fastestLap": "10"
+                        "lap_of_fastestLap": "10",
+                        "grid": "25"
                     }
                 },
                 "16": {
@@ -13712,7 +14121,8 @@
                         "interval": "1 Lap",
                         "speed": "103.927",
                         "fastestLap": "1:48.614",
-                        "lap_of_fastestLap": "12"
+                        "lap_of_fastestLap": "12",
+                        "grid": "26"
                     }
                 },
                 "23": {
@@ -13728,7 +14138,8 @@
                         "laps": "8",
                         "speed": "115.896",
                         "fastestLap": "1:51.274",
-                        "lap_of_fastestLap": "8"
+                        "lap_of_fastestLap": "8",
+                        "grid": "10"
                     }
                 },
                 "19": {
@@ -13744,7 +14155,8 @@
                         "laps": "5",
                         "speed": "124.708",
                         "fastestLap": "1:43.714",
-                        "lap_of_fastestLap": "4"
+                        "lap_of_fastestLap": "4",
+                        "grid": "6"
                     }
                 },
                 "28": {
@@ -13760,7 +14172,8 @@
                         "laps": "5",
                         "speed": "124.513",
                         "fastestLap": "1:45.738",
-                        "lap_of_fastestLap": "5"
+                        "lap_of_fastestLap": "5",
+                        "grid": "7"
                     }
                 },
                 "34": {
@@ -13776,7 +14189,8 @@
                         "laps": "5",
                         "speed": "114.801",
                         "fastestLap": "1:49.640",
-                        "lap_of_fastestLap": "5"
+                        "lap_of_fastestLap": "5",
+                        "grid": "19"
                     }
                 },
                 "25": {
@@ -13792,7 +14206,8 @@
                         "laps": "5",
                         "speed": "111.415",
                         "fastestLap": "1:52.628",
-                        "lap_of_fastestLap": "5"
+                        "lap_of_fastestLap": "5",
+                        "grid": "20"
                     }
                 },
                 "3": {
@@ -13808,7 +14223,8 @@
                         "laps": "4",
                         "speed": "103.39",
                         "fastestLap": "1:55.073",
-                        "lap_of_fastestLap": "4"
+                        "lap_of_fastestLap": "4",
+                        "grid": "24"
                     }
                 }
             }
