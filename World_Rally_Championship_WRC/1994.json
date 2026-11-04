@@ -1,0 +1,835 @@
+{
+    "name": "World_Rally_Championship_WRC",
+    "events": {
+        "Monte Carlo Rally": {
+            "Rally": {
+                "6": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Ford",
+                    "drivers": [
+                        "François_Delecour"
+                    ],
+                    "other_info": {
+                        "carNumber": "6",
+                        "car": "Ford Escort RS Cosworth",
+                        "time": "6:12:20"
+                    }
+                },
+                "1": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "panasonic_toyota_racing",
+                    "drivers": [
+                        "Juha_Kankkunen"
+                    ],
+                    "other_info": {
+                        "carNumber": "1",
+                        "car": "Toyota Celica Turbo 4WD (ST185)",
+                        "time": "6:13:25"
+                    }
+                },
+                "2": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Subaru",
+                    "drivers": [
+                        "Carlos_Sainz"
+                    ],
+                    "other_info": {
+                        "carNumber": "2",
+                        "car": "Subaru Impreza 555",
+                        "time": "6:14:07"
+                    }
+                },
+                "4": {
+                    "position": "4",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Ford",
+                    "drivers": [
+                        "Massimo_Biasion"
+                    ],
+                    "other_info": {
+                        "carNumber": "4",
+                        "car": "Ford Escort RS Cosworth",
+                        "time": "6:16:56"
+                    }
+                },
+                "9": {
+                    "position": "5",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Mitsubishi",
+                    "drivers": [
+                        "Kenneth_Eriksson"
+                    ],
+                    "other_info": {
+                        "carNumber": "9",
+                        "car": "Mitsubishi Lancer Evo I",
+                        "time": "6:19:17"
+                    }
+                },
+                "8": {
+                    "position": "6",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Ford",
+                    "drivers": [
+                        "Bruno_Thiry"
+                    ],
+                    "other_info": {
+                        "carNumber": "8",
+                        "car": "Ford Escort RS Cosworth",
+                        "time": "6:19:18"
+                    }
+                },
+                "5": {
+                    "position": "7",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "Mitsubishi",
+                    "drivers": [
+                        "Armin_Schwarz"
+                    ],
+                    "other_info": {
+                        "carNumber": "5",
+                        "car": "Mitsubishi Lancer Evo I",
+                        "time": "6:29:19"
+                    }
+                },
+                "19": {
+                    "position": "8",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "Ford",
+                    "drivers": [
+                        "Pierre-Manuel_Jenot"
+                    ],
+                    "other_info": {
+                        "carNumber": "19",
+                        "car": "Ford Escort RS Cosworth",
+                        "time": "6:49:16"
+                    }
+                },
+                "23": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "Ford",
+                    "drivers": [
+                        "Jesús_Puras"
+                    ],
+                    "other_info": {
+                        "carNumber": "23",
+                        "car": "Ford Escort RS Cosworth",
+                        "time": "6:54:49"
+                    }
+                },
+                "7": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "Subaru",
+                    "drivers": [
+                        "Colin_McRae"
+                    ],
+                    "other_info": {
+                        "carNumber": "7",
+                        "car": "Subaru Impreza 555",
+                        "time": "7:01:30"
+                    }
+                }
+            }
+        },
+        "Rally Argentina": {
+            "Rally": {
+                "Didier_Auriol": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Didier_Auriol"
+                    ],
+                    "other_info": {}
+                },
+                "Carlos_Sainz": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Carlos_Sainz"
+                    ],
+                    "other_info": {}
+                },
+                "Ari_Vatanen": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Ari_Vatanen"
+                    ],
+                    "other_info": {}
+                },
+                "Bruno_Thiry": {
+                    "position": "4",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Bruno_Thiry"
+                    ],
+                    "other_info": {}
+                },
+                "Jorge_Recalde": {
+                    "position": "5",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Jorge_Recalde"
+                    ],
+                    "other_info": {}
+                },
+                "Jorge_Bescham": {
+                    "position": "6",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Jorge_Bescham"
+                    ],
+                    "other_info": {}
+                },
+                "Rudi_Stohl": {
+                    "position": "7",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Rudi_Stohl"
+                    ],
+                    "other_info": {}
+                },
+                "Isolde_Holderied": {
+                    "position": "8",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Isolde_Holderied"
+                    ],
+                    "other_info": {}
+                },
+                "Gabriel_Raies": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Gabriel_Raies"
+                    ],
+                    "other_info": {}
+                },
+                "Gustavo_Ramonda": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Gustavo_Ramonda"
+                    ],
+                    "other_info": {}
+                },
+                "Juha_Kankkunen": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Juha_Kankkunen"
+                    ],
+                    "other_info": {}
+                },
+                "Colin_McRae": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Colin_McRae"
+                    ],
+                    "other_info": {}
+                },
+                "Miki_Biasion": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Miki_Biasion"
+                    ],
+                    "other_info": {}
+                },
+                "Jesús_Puras": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Jesús_Puras"
+                    ],
+                    "other_info": {}
+                }
+            }
+        },
+        "Rally New Zealand": {
+            "Rally": {
+                "Colin_McRae": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Colin_McRae"
+                    ],
+                    "other_info": {}
+                },
+                "Juha_Kankkunen": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Juha_Kankkunen"
+                    ],
+                    "other_info": {}
+                },
+                "Armin_Schwarz": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Armin_Schwarz"
+                    ],
+                    "other_info": {}
+                },
+                "Kenneth_Eriksson": {
+                    "position": "4",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Kenneth_Eriksson"
+                    ],
+                    "other_info": {}
+                },
+                "Didier_Auriol": {
+                    "position": "5",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Didier_Auriol"
+                    ],
+                    "other_info": {}
+                },
+                "Joe_McAndrew": {
+                    "position": "6",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Joe_McAndrew"
+                    ],
+                    "other_info": {}
+                },
+                "Yoshio_Fujimoto": {
+                    "position": "7",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Yoshio_Fujimoto"
+                    ],
+                    "other_info": {}
+                },
+                "Brian_Stokes": {
+                    "position": "8",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Brian_Stokes"
+                    ],
+                    "other_info": {}
+                },
+                "Ed_Ordynski": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Ed_Ordynski"
+                    ],
+                    "other_info": {}
+                },
+                "Kiyoshi_Inoue": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Kiyoshi_Inoue"
+                    ],
+                    "other_info": {}
+                },
+                "Carlos_Sainz": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Carlos_Sainz"
+                    ],
+                    "other_info": {}
+                },
+                "Miki_Biasion": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Miki_Biasion"
+                    ],
+                    "other_info": {}
+                },
+                "Ari_Vatanen": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Ari_Vatanen"
+                    ],
+                    "other_info": {}
+                },
+                "Richard_Burns": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Richard_Burns"
+                    ],
+                    "other_info": {}
+                },
+                "Jorge_Recalde": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Jorge_Recalde"
+                    ],
+                    "other_info": {}
+                },
+                "Jesús_Puras": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Jesús_Puras"
+                    ],
+                    "other_info": {}
+                }
+            }
+        },
+        "Rally Finland": {
+            "Rally": {
+                "Tommi_Mäkinen": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Tommi_Mäkinen"
+                    ],
+                    "other_info": {}
+                },
+                "Didier_Auriol": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Didier_Auriol"
+                    ],
+                    "other_info": {}
+                },
+                "Carlos_Sainz": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Carlos_Sainz"
+                    ],
+                    "other_info": {}
+                },
+                "François_Delecour": {
+                    "position": "4",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "François_Delecour"
+                    ],
+                    "other_info": {}
+                },
+                "Marcus_Grönholm": {
+                    "position": "5",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Marcus_Grönholm"
+                    ],
+                    "other_info": {}
+                },
+                "Lasse_Lampi": {
+                    "position": "6",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Lasse_Lampi"
+                    ],
+                    "other_info": {}
+                },
+                "Thomas_Rådström": {
+                    "position": "7",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Thomas_Rådström"
+                    ],
+                    "other_info": {}
+                },
+                "Jarmo_Kytölehto": {
+                    "position": "8",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Jarmo_Kytölehto"
+                    ],
+                    "other_info": {}
+                },
+                "Juha_Kankkunen": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Juha_Kankkunen"
+                    ],
+                    "other_info": {}
+                },
+                "Olli_Harkki": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Olli_Harkki"
+                    ],
+                    "other_info": {}
+                },
+                "Grégoire_De Mévius": {
+                    "position": "14",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Grégoire_De Mévius"
+                    ],
+                    "other_info": {}
+                },
+                "Pavel_Sibera": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Pavel_Sibera"
+                    ],
+                    "other_info": {}
+                },
+                "Emil_Triner": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Emil_Triner"
+                    ],
+                    "other_info": {}
+                },
+                "Isolde_Holderied": {
+                    "position": "29",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Isolde_Holderied"
+                    ],
+                    "other_info": {}
+                },
+                "Bruno_Thiry": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Bruno_Thiry"
+                    ],
+                    "other_info": {}
+                },
+                "Ari_Vatanen": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Ari_Vatanen"
+                    ],
+                    "other_info": {}
+                },
+                "Jorge_Recalde": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Jorge_Recalde"
+                    ],
+                    "other_info": {}
+                }
+            }
+        },
+        "Wales Rally": {
+            "Rally": {
+                "Colin_McRae": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Colin_McRae"
+                    ],
+                    "other_info": {}
+                },
+                "Juha_Kankkunen": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Juha_Kankkunen"
+                    ],
+                    "other_info": {}
+                },
+                "Bruno_Thiry": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Bruno_Thiry"
+                    ],
+                    "other_info": {}
+                },
+                "Stig_Blomqvist": {
+                    "position": "4",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Stig_Blomqvist"
+                    ],
+                    "other_info": {}
+                },
+                "Ari_Vatanen": {
+                    "position": "5",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Ari_Vatanen"
+                    ],
+                    "other_info": {}
+                },
+                "Didier_Auriol": {
+                    "position": "6",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Didier_Auriol"
+                    ],
+                    "other_info": {}
+                },
+                "Gwyndaf_Evans": {
+                    "position": "7",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Gwyndaf_Evans"
+                    ],
+                    "other_info": {}
+                },
+                "Jan_Habig": {
+                    "position": "8",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Jan_Habig"
+                    ],
+                    "other_info": {}
+                },
+                "Tommi_Mäkinen": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Tommi_Mäkinen"
+                    ],
+                    "other_info": {}
+                },
+                "Grégoire_De Mévius": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Grégoire_De Mévius"
+                    ],
+                    "other_info": {}
+                },
+                "Jesús_Puras": {
+                    "position": "15",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Jesús_Puras"
+                    ],
+                    "other_info": {}
+                },
+                "Isolde_Holderied": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Isolde_Holderied"
+                    ],
+                    "other_info": {}
+                },
+                "Pavel_Sibera": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Pavel_Sibera"
+                    ],
+                    "other_info": {}
+                },
+                "Emil_Triner": {
+                    "position": "22",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Emil_Triner"
+                    ],
+                    "other_info": {}
+                },
+                "Carlos_Sainz": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Carlos_Sainz"
+                    ],
+                    "other_info": {}
+                },
+                "Miki_Biasion": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Miki_Biasion"
+                    ],
+                    "other_info": {}
+                },
+                "François_Delecour": {
+                    "position": "EX",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "François_Delecour"
+                    ],
+                    "other_info": {}
+                },
+                "Richard_Burns": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Richard_Burns"
+                    ],
+                    "other_info": {}
+                },
+                "Malcolm_Wilson": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Malcolm_Wilson"
+                    ],
+                    "other_info": {}
+                },
+                "Yoshio_Fujimoto": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Yoshio_Fujimoto"
+                    ],
+                    "other_info": {}
+                }
+            }
+        }
+    }
+}
