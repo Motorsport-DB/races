@@ -2,42 +2,1056 @@
     "name": "FIA_Karting_World_Championship_KZ",
     "events": {
         "Le Mans": {
-            "Final": {
-                "Viktor_Gustavsson": {
+            "Super Heat A": {
+                "42": {
                     "position": "1",
                     "points": 0,
-                    "fastest_lap": "",
-                    "team": "CRG",
+                    "fastest_lap": "49.352",
+                    "team": "Tony_Kart",
                     "drivers": [
-                        "Viktor_Gustavsson"
+                        "Simo_Puhakka"
                     ],
                     "other_info": {
-                        "class": "KZ",
-                        "engine": "TM"
+                        "carNumber": "42",
+                        "equipment": "Tony Kart / Vortex / LeCont"
                     }
                 },
-                "Noah_Milell": {
+                "28": {
                     "position": "2",
                     "points": 0,
-                    "fastest_lap": "",
-                    "team": "",
-                    "drivers": [
-                        "Noah_Milell"
-                    ],
-                    "other_info": {
-                        "class": "KZ"
-                    }
-                },
-                "Jérémy_Iglesias": {
-                    "position": "3",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "",
+                    "fastest_lap": "49.499",
+                    "team": "CRG",
                     "drivers": [
                         "Jérémy_Iglesias"
                     ],
                     "other_info": {
-                        "class": "KZ"
+                        "carNumber": "28",
+                        "equipment": "CRG / TM Racing / LeCont",
+                        "gap": "1.416"
+                    }
+                },
+                "9": {
+                    "position": "3",
+                    "points": 0,
+                    "fastest_lap": "49.532",
+                    "team": "Sodi",
+                    "drivers": [
+                        "Senna_van Walstijn"
+                    ],
+                    "other_info": {
+                        "carNumber": "9",
+                        "equipment": "Sodi / TM Racing / LeCont",
+                        "gap": "2.018"
+                    }
+                },
+                "2": {
+                    "position": "4",
+                    "points": 0,
+                    "fastest_lap": "49.486",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Adrien_Renaudin"
+                    ],
+                    "other_info": {
+                        "carNumber": "2",
+                        "equipment": "Tony Kart / Vortex / LeCont",
+                        "gap": "2.385"
+                    }
+                },
+                "33": {
+                    "position": "5",
+                    "points": 0,
+                    "fastest_lap": "49.453",
+                    "team": "Parolin",
+                    "drivers": [
+                        "Lorenzo_Travisanutto"
+                    ],
+                    "other_info": {
+                        "carNumber": "33",
+                        "equipment": "Parolin / TM Racing / LeCont",
+                        "gap": "2.555"
+                    }
+                },
+                "31": {
+                    "position": "6",
+                    "points": 0,
+                    "fastest_lap": "49.425",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Noah_Milell"
+                    ],
+                    "other_info": {
+                        "carNumber": "31",
+                        "equipment": "Tony Kart / Vortex / LeCont",
+                        "gap": "4.093"
+                    }
+                },
+                "4": {
+                    "position": "7",
+                    "points": 0,
+                    "fastest_lap": "49.663",
+                    "team": "Birel_ART",
+                    "drivers": [
+                        "Riccardo_Longhi"
+                    ],
+                    "other_info": {
+                        "carNumber": "4",
+                        "equipment": "Birel Art / TM Racing / LeCont",
+                        "gap": "5.693"
+                    }
+                },
+                "26": {
+                    "position": "8",
+                    "points": 0,
+                    "fastest_lap": "49.737",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Juho_Valtanen"
+                    ],
+                    "other_info": {
+                        "carNumber": "26",
+                        "equipment": "Tony Kart / Vortex / LeCont",
+                        "gap": "6.374"
+                    }
+                },
+                "44": {
+                    "position": "9",
+                    "points": 0,
+                    "fastest_lap": "49.625",
+                    "team": "CRG",
+                    "drivers": [
+                        "Alex_Irlando"
+                    ],
+                    "other_info": {
+                        "carNumber": "44",
+                        "equipment": "CRG / TM Racing / LeCont",
+                        "gap": "6.590"
+                    }
+                },
+                "22": {
+                    "position": "10",
+                    "points": 0,
+                    "fastest_lap": "49.526",
+                    "team": "KR",
+                    "drivers": [
+                        "Paolo_Ippolito"
+                    ],
+                    "other_info": {
+                        "carNumber": "22",
+                        "equipment": "KR / IAME / LeCont",
+                        "gap": "6.705"
+                    }
+                },
+                "3": {
+                    "position": "11",
+                    "points": 0,
+                    "fastest_lap": "49.761",
+                    "team": "Birel_ART",
+                    "drivers": [
+                        "Marijn_Kremers"
+                    ],
+                    "other_info": {
+                        "carNumber": "3",
+                        "equipment": "Birel Art / TM Racing / LeCont",
+                        "gap": "7.441"
+                    }
+                },
+                "16": {
+                    "position": "12",
+                    "points": 0,
+                    "fastest_lap": "49.781",
+                    "team": "Oberon_Racing_Kart",
+                    "drivers": [
+                        "Yohan_Soguel"
+                    ],
+                    "other_info": {
+                        "carNumber": "16",
+                        "equipment": "Oberon Racing Kart / TM Racing / LeCont",
+                        "gap": "7.649"
+                    }
+                },
+                "50": {
+                    "position": "13",
+                    "points": 0,
+                    "fastest_lap": "49.618",
+                    "team": "TB_Kart",
+                    "drivers": [
+                        "Ariel_Elkin"
+                    ],
+                    "other_info": {
+                        "carNumber": "50",
+                        "equipment": "TB Kart / TM Racing / LeCont",
+                        "gap": "8.192"
+                    }
+                },
+                "13": {
+                    "position": "14",
+                    "points": 0,
+                    "fastest_lap": "49.451",
+                    "team": "KR",
+                    "drivers": [
+                        "Stan_Pex"
+                    ],
+                    "other_info": {
+                        "carNumber": "13",
+                        "equipment": "KR / TM Racing / LeCont",
+                        "gap": "8.937"
+                    }
+                },
+                "19": {
+                    "position": "15",
+                    "points": 0,
+                    "fastest_lap": "49.796",
+                    "team": "CRG",
+                    "drivers": [
+                        "Jaime_Alguersuari"
+                    ],
+                    "other_info": {
+                        "carNumber": "19",
+                        "equipment": "CRG / TM Racing / LeCont",
+                        "gap": "9.636"
+                    }
+                },
+                "48": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "49.903",
+                    "team": "IPK",
+                    "drivers": [
+                        "Mauro_Simoni"
+                    ],
+                    "other_info": {
+                        "carNumber": "48",
+                        "equipment": "IPK / IAME / LeCont",
+                        "gap": "16.050"
+                    }
+                },
+                "92": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "50.262",
+                    "team": "TK",
+                    "drivers": [
+                        "Roberto_Taglienti"
+                    ],
+                    "other_info": {
+                        "carNumber": "92",
+                        "equipment": "TK / TM Racing / LeCont",
+                        "gap": "16.525"
+                    }
+                },
+                "99": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "58.016",
+                    "team": "IPK",
+                    "drivers": [
+                        "Matteo_Segre"
+                    ],
+                    "other_info": {
+                        "carNumber": "99",
+                        "equipment": "IPK / IAME / LeCont",
+                        "gap": "14 Laps"
+                    }
+                },
+                "40": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "IPK",
+                    "drivers": [
+                        "Matej_Preuss"
+                    ],
+                    "other_info": {
+                        "carNumber": "40",
+                        "equipment": "IPK / TM Racing / LeCont",
+                        "gap": "15 Laps"
+                    }
+                },
+                "49": {
+                    "position": "DNS",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Birel_ART",
+                    "drivers": [
+                        "Leandro_Padez Sanchez"
+                    ],
+                    "other_info": {
+                        "carNumber": "49",
+                        "equipment": "Birel Art / TM Racing / LeCont",
+                        "gap": "DNS"
+                    }
+                }
+            },
+            "Super Heat B": {
+                "27": {
+                    "position": "1",
+                    "points": 0,
+                    "fastest_lap": "49.399",
+                    "team": "Birel_ART",
+                    "drivers": [
+                        "Pedro_Hiltbrand"
+                    ],
+                    "other_info": {
+                        "carNumber": "27",
+                        "equipment": "Birel Art / TM Racing / LeCont"
+                    }
+                },
+                "7": {
+                    "position": "2",
+                    "points": 0,
+                    "fastest_lap": "49.609",
+                    "team": "Sodi",
+                    "drivers": [
+                        "Emilien_Denner"
+                    ],
+                    "other_info": {
+                        "carNumber": "7",
+                        "equipment": "Sodi / TM Racing / LeCont",
+                        "gap": "3.578"
+                    }
+                },
+                "29": {
+                    "position": "3",
+                    "points": 0,
+                    "fastest_lap": "49.434",
+                    "team": "Parolin",
+                    "drivers": [
+                        "Francesco_Celenta"
+                    ],
+                    "other_info": {
+                        "carNumber": "29",
+                        "equipment": "Parolin / TM Racing / LeCont",
+                        "gap": "3.936"
+                    }
+                },
+                "43": {
+                    "position": "4",
+                    "points": 0,
+                    "fastest_lap": "49.460",
+                    "team": "IPK",
+                    "drivers": [
+                        "Marek_Skrivan"
+                    ],
+                    "other_info": {
+                        "carNumber": "43",
+                        "equipment": "IPK / TM Racing / LeCont",
+                        "gap": "4.068"
+                    }
+                },
+                "45": {
+                    "position": "5",
+                    "points": 0,
+                    "fastest_lap": "49.599",
+                    "team": "CRG",
+                    "drivers": [
+                        "Viktor_Gustafsson"
+                    ],
+                    "other_info": {
+                        "carNumber": "45",
+                        "equipment": "CRG / TM Racing / LeCont",
+                        "gap": "4.595"
+                    }
+                },
+                "11": {
+                    "position": "6",
+                    "points": 0,
+                    "fastest_lap": "49.684",
+                    "team": "Sodi",
+                    "drivers": [
+                        "Anthony_Abbasse"
+                    ],
+                    "other_info": {
+                        "carNumber": "11",
+                        "equipment": "Sodi / TM Racing / LeCont",
+                        "gap": "6.069"
+                    }
+                },
+                "8": {
+                    "position": "7",
+                    "points": 0,
+                    "fastest_lap": "49.501",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Tuukka_Taponen"
+                    ],
+                    "other_info": {
+                        "carNumber": "8",
+                        "equipment": "Tony Kart / Vortex / LeCont",
+                        "gap": "8.361"
+                    }
+                },
+                "17": {
+                    "position": "8",
+                    "points": 0,
+                    "fastest_lap": "49.574",
+                    "team": "Birel_ART",
+                    "drivers": [
+                        "Matteo_Vigano'"
+                    ],
+                    "other_info": {
+                        "carNumber": "17",
+                        "equipment": "Birel Art / TM Racing / LeCont",
+                        "gap": "9.359"
+                    }
+                },
+                "37": {
+                    "position": "9",
+                    "points": 0,
+                    "fastest_lap": "49.988",
+                    "team": "TB_Kart",
+                    "drivers": [
+                        "Kristijan_Habulin"
+                    ],
+                    "other_info": {
+                        "carNumber": "37",
+                        "equipment": "TB Kart / TM Racing / LeCont",
+                        "gap": "9.473"
+                    }
+                },
+                "91": {
+                    "position": "10",
+                    "points": 0,
+                    "fastest_lap": "50.067",
+                    "team": "Drago_Corse",
+                    "drivers": [
+                        "Quentin_Voria"
+                    ],
+                    "other_info": {
+                        "carNumber": "91",
+                        "equipment": "Drago Corse / TM Racing / LeCont",
+                        "gap": "12.164"
+                    }
+                },
+                "23": {
+                    "position": "11",
+                    "points": 0,
+                    "fastest_lap": "50.177",
+                    "team": "TB_Kart",
+                    "drivers": [
+                        "Michael_Rosina"
+                    ],
+                    "other_info": {
+                        "carNumber": "23",
+                        "equipment": "TB Kart / TM Racing / LeCont",
+                        "gap": "14.581"
+                    }
+                },
+                "55": {
+                    "position": "12",
+                    "points": 0,
+                    "fastest_lap": "49.844",
+                    "team": "TB_Kart",
+                    "drivers": [
+                        "Luis Laurin_Speck"
+                    ],
+                    "other_info": {
+                        "carNumber": "55",
+                        "equipment": "TB Kart / TM Racing / LeCont",
+                        "gap": "15.072"
+                    }
+                },
+                "62": {
+                    "position": "13",
+                    "points": 0,
+                    "fastest_lap": "50.131",
+                    "team": "Birel_ART",
+                    "drivers": [
+                        "Craig_Tanic"
+                    ],
+                    "other_info": {
+                        "carNumber": "62",
+                        "equipment": "Birel Art / TM Racing / LeCont",
+                        "gap": "15.131"
+                    }
+                },
+                "96": {
+                    "position": "14",
+                    "points": 0,
+                    "fastest_lap": "50.323",
+                    "team": "Birel_ART",
+                    "drivers": [
+                        "Arthur_Gautier"
+                    ],
+                    "other_info": {
+                        "carNumber": "96",
+                        "equipment": "Birel Art / TM Racing / LeCont",
+                        "gap": "16.469"
+                    }
+                },
+                "97": {
+                    "position": "15",
+                    "points": 0,
+                    "fastest_lap": "50.142",
+                    "team": "Birel_ART",
+                    "drivers": [
+                        "Dorian_Guldenfels"
+                    ],
+                    "other_info": {
+                        "carNumber": "97",
+                        "equipment": "Birel Art / TM Racing / LeCont",
+                        "gap": "23.129"
+                    }
+                },
+                "5": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "51.634",
+                    "team": "Parolin",
+                    "drivers": [
+                        "Mario_Schettino"
+                    ],
+                    "other_info": {
+                        "carNumber": "5",
+                        "equipment": "Parolin / TM Racing / LeCont",
+                        "gap": "8 Laps"
+                    }
+                },
+                "69": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "50.846",
+                    "team": "KR",
+                    "drivers": [
+                        "Jorrit_Pex"
+                    ],
+                    "other_info": {
+                        "carNumber": "69",
+                        "equipment": "KR / TM Racing / LeCont",
+                        "gap": "11 Laps"
+                    }
+                },
+                "93": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "54.706",
+                    "team": "TK",
+                    "drivers": [
+                        "Antonio_Piccioni"
+                    ],
+                    "other_info": {
+                        "carNumber": "93",
+                        "equipment": "TK / TM Racing / LeCont",
+                        "gap": "14 Laps"
+                    }
+                },
+                "15": {
+                    "position": "DSQ",
+                    "points": 0,
+                    "fastest_lap": "50.784",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Lorenzo_Camplese"
+                    ],
+                    "other_info": {
+                        "carNumber": "15",
+                        "equipment": "Tony Kart / Vortex / LeCont",
+                        "gap": "DSQ"
+                    }
+                }
+            },
+            "Final": {
+                "45": {
+                    "position": "1",
+                    "points": 0,
+                    "fastest_lap": "49.848",
+                    "team": "CRG",
+                    "drivers": [
+                        "Viktor_Gustafsson"
+                    ],
+                    "other_info": {
+                        "carNumber": "45",
+                        "equipment": "CRG / TM Racing / LeCont"
+                    }
+                },
+                "31": {
+                    "position": "2",
+                    "points": 0,
+                    "fastest_lap": "49.735",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Noah_Milell"
+                    ],
+                    "other_info": {
+                        "carNumber": "31",
+                        "equipment": "Tony Kart / Vortex / LeCont",
+                        "gap": "0.178"
+                    }
+                },
+                "28": {
+                    "position": "3",
+                    "points": 0,
+                    "fastest_lap": "49.733",
+                    "team": "CRG",
+                    "drivers": [
+                        "Jérémy_Iglesias"
+                    ],
+                    "other_info": {
+                        "carNumber": "28",
+                        "equipment": "CRG / TM Racing / LeCont",
+                        "gap": "0.562"
+                    }
+                },
+                "42": {
+                    "position": "4",
+                    "points": 0,
+                    "fastest_lap": "49.805",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Simo_Puhakka"
+                    ],
+                    "other_info": {
+                        "carNumber": "42",
+                        "equipment": "Tony Kart / Vortex / LeCont",
+                        "gap": "1.321"
+                    }
+                },
+                "9": {
+                    "position": "5",
+                    "points": 0,
+                    "fastest_lap": "49.861",
+                    "team": "Sodi",
+                    "drivers": [
+                        "Senna_van Walstijn"
+                    ],
+                    "other_info": {
+                        "carNumber": "9",
+                        "equipment": "Sodi / TM Racing / LeCont",
+                        "gap": "2.248"
+                    }
+                },
+                "7": {
+                    "position": "6",
+                    "points": 0,
+                    "fastest_lap": "49.718",
+                    "team": "Sodi",
+                    "drivers": [
+                        "Emilien_Denner"
+                    ],
+                    "other_info": {
+                        "carNumber": "7",
+                        "equipment": "Sodi / TM Racing / LeCont",
+                        "gap": "2.819"
+                    }
+                },
+                "13": {
+                    "position": "7",
+                    "points": 0,
+                    "fastest_lap": "49.823",
+                    "team": "KR",
+                    "drivers": [
+                        "Stan_Pex"
+                    ],
+                    "other_info": {
+                        "carNumber": "13",
+                        "equipment": "KR / TM Racing / LeCont",
+                        "gap": "2.951"
+                    }
+                },
+                "33": {
+                    "position": "8",
+                    "points": 0,
+                    "fastest_lap": "49.855",
+                    "team": "Parolin",
+                    "drivers": [
+                        "Lorenzo_Travisanutto"
+                    ],
+                    "other_info": {
+                        "carNumber": "33",
+                        "equipment": "Parolin / TM Racing / LeCont",
+                        "gap": "4.024"
+                    }
+                },
+                "8": {
+                    "position": "9",
+                    "points": 0,
+                    "fastest_lap": "49.782",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Tuukka_Taponen"
+                    ],
+                    "other_info": {
+                        "carNumber": "8",
+                        "equipment": "Tony Kart / Vortex / LeCont",
+                        "gap": "4.218"
+                    }
+                },
+                "2": {
+                    "position": "10",
+                    "points": 0,
+                    "fastest_lap": "49.867",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Adrien_Renaudin"
+                    ],
+                    "other_info": {
+                        "carNumber": "2",
+                        "equipment": "Tony Kart / Vortex / LeCont",
+                        "gap": "6.637"
+                    }
+                },
+                "27": {
+                    "position": "11",
+                    "points": 0,
+                    "fastest_lap": "49.903",
+                    "team": "Birel_ART",
+                    "drivers": [
+                        "Pedro_Hiltbrand"
+                    ],
+                    "other_info": {
+                        "carNumber": "27",
+                        "equipment": "Birel Art / TM Racing / LeCont",
+                        "gap": "6.749"
+                    }
+                },
+                "69": {
+                    "position": "12",
+                    "points": 0,
+                    "fastest_lap": "49.868",
+                    "team": "KR",
+                    "drivers": [
+                        "Jorrit_Pex"
+                    ],
+                    "other_info": {
+                        "carNumber": "69",
+                        "equipment": "KR / TM Racing / LeCont",
+                        "gap": "6.781"
+                    }
+                },
+                "11": {
+                    "position": "13",
+                    "points": 0,
+                    "fastest_lap": "49.947",
+                    "team": "Sodi",
+                    "drivers": [
+                        "Anthony_Abbasse"
+                    ],
+                    "other_info": {
+                        "carNumber": "11",
+                        "equipment": "Sodi / TM Racing / LeCont",
+                        "gap": "8.025"
+                    }
+                },
+                "29": {
+                    "position": "14",
+                    "points": 0,
+                    "fastest_lap": "49.844",
+                    "team": "Parolin",
+                    "drivers": [
+                        "Francesco_Celenta"
+                    ],
+                    "other_info": {
+                        "carNumber": "29",
+                        "equipment": "Parolin / TM Racing / LeCont",
+                        "gap": "8.118"
+                    }
+                },
+                "17": {
+                    "position": "15",
+                    "points": 0,
+                    "fastest_lap": "50.025",
+                    "team": "Birel_ART",
+                    "drivers": [
+                        "Matteo_Vigano'"
+                    ],
+                    "other_info": {
+                        "carNumber": "17",
+                        "equipment": "Birel Art / TM Racing / LeCont",
+                        "gap": "9.561"
+                    }
+                },
+                "3": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "50.046",
+                    "team": "Birel_ART",
+                    "drivers": [
+                        "Marijn_Kremers"
+                    ],
+                    "other_info": {
+                        "carNumber": "3",
+                        "equipment": "Birel Art / TM Racing / LeCont",
+                        "gap": "10.441"
+                    }
+                },
+                "43": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "50.006",
+                    "team": "IPK",
+                    "drivers": [
+                        "Marek_Skrivan"
+                    ],
+                    "other_info": {
+                        "carNumber": "43",
+                        "equipment": "IPK / TM Racing / LeCont",
+                        "gap": "10.508"
+                    }
+                },
+                "44": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "50.027",
+                    "team": "CRG",
+                    "drivers": [
+                        "Alex_Irlando"
+                    ],
+                    "other_info": {
+                        "carNumber": "44",
+                        "equipment": "CRG / TM Racing / LeCont",
+                        "gap": "10.739"
+                    }
+                },
+                "23": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "50.130",
+                    "team": "TB_Kart",
+                    "drivers": [
+                        "Michael_Rosina"
+                    ],
+                    "other_info": {
+                        "carNumber": "23",
+                        "equipment": "TB Kart / TM Racing / LeCont",
+                        "gap": "14.685"
+                    }
+                },
+                "26": {
+                    "position": "20",
+                    "points": 0,
+                    "fastest_lap": "50.013",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Juho_Valtanen"
+                    ],
+                    "other_info": {
+                        "carNumber": "26",
+                        "equipment": "Tony Kart / Vortex / LeCont",
+                        "gap": "16.015"
+                    }
+                },
+                "37": {
+                    "position": "21",
+                    "points": 0,
+                    "fastest_lap": "50.096",
+                    "team": "TB_Kart",
+                    "drivers": [
+                        "Kristijan_Habulin"
+                    ],
+                    "other_info": {
+                        "carNumber": "37",
+                        "equipment": "TB Kart / TM Racing / LeCont",
+                        "gap": "18.493"
+                    }
+                },
+                "22": {
+                    "position": "22",
+                    "points": 0,
+                    "fastest_lap": "50.224",
+                    "team": "KR",
+                    "drivers": [
+                        "Paolo_Ippolito"
+                    ],
+                    "other_info": {
+                        "carNumber": "22",
+                        "equipment": "KR / IAME / LeCont",
+                        "gap": "19.320"
+                    }
+                },
+                "40": {
+                    "position": "23",
+                    "points": 0,
+                    "fastest_lap": "50.131",
+                    "team": "IPK",
+                    "drivers": [
+                        "Matej_Preuss"
+                    ],
+                    "other_info": {
+                        "carNumber": "40",
+                        "equipment": "IPK / TM Racing / LeCont",
+                        "gap": "19.463"
+                    }
+                },
+                "19": {
+                    "position": "24",
+                    "points": 0,
+                    "fastest_lap": "50.172",
+                    "team": "CRG",
+                    "drivers": [
+                        "Jaime_Alguersuari"
+                    ],
+                    "other_info": {
+                        "carNumber": "19",
+                        "equipment": "CRG / TM Racing / LeCont",
+                        "gap": "20.461"
+                    }
+                },
+                "50": {
+                    "position": "25",
+                    "points": 0,
+                    "fastest_lap": "49.967",
+                    "team": "TB_Kart",
+                    "drivers": [
+                        "Ariel_Elkin"
+                    ],
+                    "other_info": {
+                        "carNumber": "50",
+                        "equipment": "TB Kart / TM Racing / LeCont",
+                        "gap": "21.353"
+                    }
+                },
+                "99": {
+                    "position": "26",
+                    "points": 0,
+                    "fastest_lap": "50.218",
+                    "team": "IPK",
+                    "drivers": [
+                        "Matteo_Segre"
+                    ],
+                    "other_info": {
+                        "carNumber": "99",
+                        "equipment": "IPK / IAME / LeCont",
+                        "gap": "24.184"
+                    }
+                },
+                "55": {
+                    "position": "27",
+                    "points": 0,
+                    "fastest_lap": "50.078",
+                    "team": "TB_Kart",
+                    "drivers": [
+                        "Luis Laurin_Speck"
+                    ],
+                    "other_info": {
+                        "carNumber": "55",
+                        "equipment": "TB Kart / TM Racing / LeCont",
+                        "gap": "25.727"
+                    }
+                },
+                "4": {
+                    "position": "28",
+                    "points": 0,
+                    "fastest_lap": "50.053",
+                    "team": "Birel_ART",
+                    "drivers": [
+                        "Riccardo_Longhi"
+                    ],
+                    "other_info": {
+                        "carNumber": "4",
+                        "equipment": "Birel Art / TM Racing / LeCont",
+                        "gap": "28.176"
+                    }
+                },
+                "96": {
+                    "position": "29",
+                    "points": 0,
+                    "fastest_lap": "50.512",
+                    "team": "Birel_ART",
+                    "drivers": [
+                        "Arthur_Gautier"
+                    ],
+                    "other_info": {
+                        "carNumber": "96",
+                        "equipment": "Birel Art / TM Racing / LeCont",
+                        "gap": "29.066"
+                    }
+                },
+                "92": {
+                    "position": "30",
+                    "points": 0,
+                    "fastest_lap": "50.639",
+                    "team": "TK",
+                    "drivers": [
+                        "Roberto_Taglienti"
+                    ],
+                    "other_info": {
+                        "carNumber": "92",
+                        "equipment": "TK / TM Racing / LeCont",
+                        "gap": "31.219"
+                    }
+                },
+                "93": {
+                    "position": "31",
+                    "points": 0,
+                    "fastest_lap": "50.150",
+                    "team": "TK",
+                    "drivers": [
+                        "Antonio_Piccioni"
+                    ],
+                    "other_info": {
+                        "carNumber": "93",
+                        "equipment": "TK / TM Racing / LeCont",
+                        "gap": "1 Lap"
+                    }
+                },
+                "91": {
+                    "position": "32",
+                    "points": 0,
+                    "fastest_lap": "50.211",
+                    "team": "Drago_Corse",
+                    "drivers": [
+                        "Quentin_Voria"
+                    ],
+                    "other_info": {
+                        "carNumber": "91",
+                        "equipment": "Drago Corse / TM Racing / LeCont",
+                        "gap": "1 Lap"
+                    }
+                },
+                "15": {
+                    "position": "33",
+                    "points": 0,
+                    "fastest_lap": "49.967",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Lorenzo_Camplese"
+                    ],
+                    "other_info": {
+                        "carNumber": "15",
+                        "equipment": "Tony Kart / Vortex / LeCont",
+                        "gap": "6 Laps"
+                    }
+                },
+                "62": {
+                    "position": "34",
+                    "points": 0,
+                    "fastest_lap": "50.423",
+                    "team": "Birel_ART",
+                    "drivers": [
+                        "Craig_Tanic"
+                    ],
+                    "other_info": {
+                        "carNumber": "62",
+                        "equipment": "Birel Art / TM Racing / LeCont",
+                        "gap": "12 Laps"
+                    }
+                },
+                "16": {
+                    "position": "35",
+                    "points": 0,
+                    "fastest_lap": "55.714",
+                    "team": "Oberon_Racing_Kart",
+                    "drivers": [
+                        "Yohan_Soguel"
+                    ],
+                    "other_info": {
+                        "carNumber": "16",
+                        "equipment": "Oberon Racing Kart / TM Racing / LeCont",
+                        "gap": "21 Laps"
+                    }
+                },
+                "97": {
+                    "position": "DSQ",
+                    "points": 0,
+                    "fastest_lap": "50.494",
+                    "team": "Birel_ART",
+                    "drivers": [
+                        "Dorian_Guldenfels"
+                    ],
+                    "other_info": {
+                        "carNumber": "97",
+                        "equipment": "Birel Art / TM Racing / LeCont",
+                        "gap": "DSQ"
                     }
                 }
             }

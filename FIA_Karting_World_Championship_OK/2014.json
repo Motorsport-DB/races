@@ -2,22 +2,81 @@
     "name": "FIA_Karting_World_Championship_OK",
     "events": {
         "Essay": {
-            "Final": {
-                "Lando_Norris": {
+            "Qualifying": {
+                "2": {
                     "position": "1",
                     "points": 0,
                     "fastest_lap": "",
-                    "team": "FA_Kart",
+                    "team": "",
+                    "drivers": [
+                        "Nicklas_Nielsen"
+                    ],
+                    "other_info": {
+                        "carNumber": "2"
+                    }
+                },
+                "3": {
+                    "position": "2",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
                     "drivers": [
                         "Lando_Norris"
                     ],
                     "other_info": {
-                        "class": "KF",
-                        "engine": "Vortex"
+                        "carNumber": "3"
                     }
                 },
-                "Nikita_Mazepin": {
-                    "position": "2",
+                "4": {
+                    "position": "3",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Tom_Joyner"
+                    ],
+                    "other_info": {
+                        "carNumber": "4"
+                    }
+                },
+                "8": {
+                    "position": "4",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Felice_Tiene"
+                    ],
+                    "other_info": {
+                        "carNumber": "8"
+                    }
+                },
+                "10": {
+                    "position": "5",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Gabriel_Aubry"
+                    ],
+                    "other_info": {
+                        "carNumber": "10"
+                    }
+                },
+                "11": {
+                    "position": "6",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Karol_Basz"
+                    ],
+                    "other_info": {
+                        "carNumber": "11"
+                    }
+                },
+                "24": {
+                    "position": "7",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "",
@@ -25,11 +84,95 @@
                         "Nikita_Mazepin"
                     ],
                     "other_info": {
-                        "class": "KF"
+                        "carNumber": "24"
                     }
                 },
-                "Jehan_Daruvala": {
-                    "position": "3",
+                "25": {
+                    "position": "8",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Linus_Lundqvist"
+                    ],
+                    "other_info": {
+                        "carNumber": "25"
+                    }
+                },
+                "37": {
+                    "position": "9",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Matteo_Vigano'"
+                    ],
+                    "other_info": {
+                        "carNumber": "37"
+                    }
+                },
+                "5": {
+                    "position": "10",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Niko_Kari"
+                    ],
+                    "other_info": {
+                        "carNumber": "5"
+                    }
+                },
+                "1": {
+                    "position": "11",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Callum_Ilott"
+                    ],
+                    "other_info": {
+                        "carNumber": "1"
+                    }
+                },
+                "38": {
+                    "position": "12",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Jussi_Kuusiniemi"
+                    ],
+                    "other_info": {
+                        "carNumber": "38"
+                    }
+                },
+                "14": {
+                    "position": "13",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Hannes_Janker"
+                    ],
+                    "other_info": {
+                        "carNumber": "14"
+                    }
+                },
+                "32": {
+                    "position": "14",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Tuomas_Tujula"
+                    ],
+                    "other_info": {
+                        "carNumber": "32"
+                    }
+                },
+                "15": {
+                    "position": "15",
                     "points": 0,
                     "fastest_lap": "",
                     "team": "",
@@ -37,7 +180,2038 @@
                         "Jehan_Daruvala"
                     ],
                     "other_info": {
-                        "class": "KF"
+                        "carNumber": "15"
+                    }
+                },
+                "40": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Juuso_Puhakka"
+                    ],
+                    "other_info": {
+                        "carNumber": "40"
+                    }
+                },
+                "23": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Kevin_Rossel"
+                    ],
+                    "other_info": {
+                        "carNumber": "23"
+                    }
+                },
+                "7": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Pedro_Hiltbrand"
+                    ],
+                    "other_info": {
+                        "carNumber": "7"
+                    }
+                },
+                "41": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Juho_Valtanen"
+                    ],
+                    "other_info": {
+                        "carNumber": "41"
+                    }
+                },
+                "44": {
+                    "position": "20",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Jorge Carlos_Pescador"
+                    ],
+                    "other_info": {
+                        "carNumber": "44"
+                    }
+                },
+                "6": {
+                    "position": "21",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Alessio_Lorandi"
+                    ],
+                    "other_info": {
+                        "carNumber": "6"
+                    }
+                },
+                "9": {
+                    "position": "22",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Martijn_Van Leeuwen"
+                    ],
+                    "other_info": {
+                        "carNumber": "9"
+                    }
+                },
+                "29": {
+                    "position": "23",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Tuomas_Haapalainen"
+                    ],
+                    "other_info": {
+                        "carNumber": "29"
+                    }
+                },
+                "49": {
+                    "position": "24",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Nikita_Troickiy"
+                    ],
+                    "other_info": {
+                        "carNumber": "49"
+                    }
+                },
+                "46": {
+                    "position": "25",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Philip_Hall"
+                    ],
+                    "other_info": {
+                        "carNumber": "46"
+                    }
+                },
+                "48": {
+                    "position": "26",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Emil_Skaras"
+                    ],
+                    "other_info": {
+                        "carNumber": "48"
+                    }
+                },
+                "17": {
+                    "position": "27",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Oliver_Hodgson"
+                    ],
+                    "other_info": {
+                        "carNumber": "17"
+                    }
+                },
+                "64": {
+                    "position": "28",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Harry_Webb"
+                    ],
+                    "other_info": {
+                        "carNumber": "64"
+                    }
+                },
+                "22": {
+                    "position": "29",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Daniel_Lundgaard"
+                    ],
+                    "other_info": {
+                        "carNumber": "22"
+                    }
+                },
+                "12": {
+                    "position": "30",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Paolo_Besancenez"
+                    ],
+                    "other_info": {
+                        "carNumber": "12"
+                    }
+                },
+                "54": {
+                    "position": "31",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Nicolas_Gonzales"
+                    ],
+                    "other_info": {
+                        "carNumber": "54"
+                    }
+                },
+                "39": {
+                    "position": "32",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Ville_Mäntylä"
+                    ],
+                    "other_info": {
+                        "carNumber": "39"
+                    }
+                },
+                "27": {
+                    "position": "33",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Egor_Stupenkov"
+                    ],
+                    "other_info": {
+                        "carNumber": "27"
+                    }
+                },
+                "75": {
+                    "position": "34",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Guan Yu_Zhou"
+                    ],
+                    "other_info": {
+                        "carNumber": "75"
+                    }
+                },
+                "71": {
+                    "position": "35",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Jessica_Backman"
+                    ],
+                    "other_info": {
+                        "carNumber": "71"
+                    }
+                },
+                "74": {
+                    "position": "36",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Sasakorn_Chaimongkol"
+                    ],
+                    "other_info": {
+                        "carNumber": "74"
+                    }
+                },
+                "73": {
+                    "position": "37",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Yan Leon_Shlom"
+                    ],
+                    "other_info": {
+                        "carNumber": "73"
+                    }
+                },
+                "28": {
+                    "position": "38",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Dionisios_Marcu"
+                    ],
+                    "other_info": {
+                        "carNumber": "28"
+                    }
+                },
+                "50": {
+                    "position": "39",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Diego_Bertonelli"
+                    ],
+                    "other_info": {
+                        "carNumber": "50"
+                    }
+                },
+                "30": {
+                    "position": "40",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Aatu_Moilanen"
+                    ],
+                    "other_info": {
+                        "carNumber": "30"
+                    }
+                },
+                "31": {
+                    "position": "41",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Olli_Peltola"
+                    ],
+                    "other_info": {
+                        "carNumber": "31"
+                    }
+                },
+                "57": {
+                    "position": "42",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Mario_Martucci"
+                    ],
+                    "other_info": {
+                        "carNumber": "57"
+                    }
+                },
+                "43": {
+                    "position": "43",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Ondrej_Kocka"
+                    ],
+                    "other_info": {
+                        "carNumber": "43"
+                    }
+                },
+                "18": {
+                    "position": "44",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Nikita_Sitnikov"
+                    ],
+                    "other_info": {
+                        "carNumber": "18"
+                    }
+                },
+                "16": {
+                    "position": "45",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Julien_Darras"
+                    ],
+                    "other_info": {
+                        "carNumber": "16"
+                    }
+                },
+                "21": {
+                    "position": "46",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Karol_Dabski"
+                    ],
+                    "other_info": {
+                        "carNumber": "21"
+                    }
+                },
+                "69": {
+                    "position": "47",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Michal_Grzyb"
+                    ],
+                    "other_info": {
+                        "carNumber": "69"
+                    }
+                },
+                "19": {
+                    "position": "48",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Oliver_Norris"
+                    ],
+                    "other_info": {
+                        "carNumber": "19"
+                    }
+                },
+                "55": {
+                    "position": "49",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Thibaut_Haublin"
+                    ],
+                    "other_info": {
+                        "carNumber": "55"
+                    }
+                },
+                "70": {
+                    "position": "50",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Sérgio_Sette Câmara"
+                    ],
+                    "other_info": {
+                        "carNumber": "70"
+                    }
+                },
+                "34": {
+                    "position": "51",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Stefano_Cucco"
+                    ],
+                    "other_info": {
+                        "carNumber": "34"
+                    }
+                },
+                "20": {
+                    "position": "52",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Marco_Maestranzi"
+                    ],
+                    "other_info": {
+                        "carNumber": "20"
+                    }
+                },
+                "45": {
+                    "position": "53",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Sato_Marino"
+                    ],
+                    "other_info": {
+                        "carNumber": "45"
+                    }
+                },
+                "60": {
+                    "position": "54",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Josh_Tynan"
+                    ],
+                    "other_info": {
+                        "carNumber": "60"
+                    }
+                },
+                "68": {
+                    "position": "55",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Paul_Evrard"
+                    ],
+                    "other_info": {
+                        "carNumber": "68"
+                    }
+                },
+                "51": {
+                    "position": "56",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Paolo_Ippolito"
+                    ],
+                    "other_info": {
+                        "carNumber": "51"
+                    }
+                },
+                "36": {
+                    "position": "57",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Riccardo_Negro"
+                    ],
+                    "other_info": {
+                        "carNumber": "36"
+                    }
+                },
+                "47": {
+                    "position": "58",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Alexey_Korneev"
+                    ],
+                    "other_info": {
+                        "carNumber": "47"
+                    }
+                },
+                "72": {
+                    "position": "59",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Kristian_Thorsen"
+                    ],
+                    "other_info": {
+                        "carNumber": "72"
+                    }
+                },
+                "56": {
+                    "position": "60",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Johannes_Heinonen"
+                    ],
+                    "other_info": {
+                        "carNumber": "56"
+                    }
+                },
+                "53": {
+                    "position": "61",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Alexandre_Gadois"
+                    ],
+                    "other_info": {
+                        "carNumber": "53"
+                    }
+                },
+                "26": {
+                    "position": "62",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Yifan_Xia"
+                    ],
+                    "other_info": {
+                        "carNumber": "26"
+                    }
+                },
+                "33": {
+                    "position": "63",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Ben_Hanley"
+                    ],
+                    "other_info": {
+                        "carNumber": "33"
+                    }
+                },
+                "66": {
+                    "position": "64",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Sidney_Gomez"
+                    ],
+                    "other_info": {
+                        "carNumber": "66"
+                    }
+                },
+                "67": {
+                    "position": "65",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Alessandro_Stura"
+                    ],
+                    "other_info": {
+                        "carNumber": "67"
+                    }
+                },
+                "76": {
+                    "position": "66",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Jose Artur_Fortunato"
+                    ],
+                    "other_info": {
+                        "carNumber": "76"
+                    }
+                },
+                "52": {
+                    "position": "67",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Lina_Von Schedvin"
+                    ],
+                    "other_info": {
+                        "carNumber": "52"
+                    }
+                },
+                "59": {
+                    "position": "68",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Moritz_Horn"
+                    ],
+                    "other_info": {
+                        "carNumber": "59"
+                    }
+                },
+                "42": {
+                    "position": "69",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Franco_Crivelli"
+                    ],
+                    "other_info": {
+                        "carNumber": "42"
+                    }
+                },
+                "35": {
+                    "position": "70",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Niklas_Kry"
+                    ],
+                    "other_info": {
+                        "carNumber": "35"
+                    }
+                },
+                "58": {
+                    "position": "71",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Julian_Van Der Watt"
+                    ],
+                    "other_info": {
+                        "carNumber": "58"
+                    }
+                },
+                "61": {
+                    "position": "72",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Wiktoria_Pankiewicz"
+                    ],
+                    "other_info": {
+                        "carNumber": "61"
+                    }
+                }
+            },
+            "Warm-up Prefinal": {
+                "11": {
+                    "position": "1",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Karol_Basz"
+                    ],
+                    "other_info": {
+                        "carNumber": "11",
+                        "equipment": "Tony Kart / Vortex / Dunlop"
+                    }
+                },
+                "2": {
+                    "position": "2",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Nicklas_Nielsen"
+                    ],
+                    "other_info": {
+                        "carNumber": "2",
+                        "equipment": "Kosmic / Vortex / Dunlop",
+                        "gap": "0.030"
+                    }
+                },
+                "15": {
+                    "position": "3",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "FA_Kart",
+                    "drivers": [
+                        "Jehan_Daruvala"
+                    ],
+                    "other_info": {
+                        "carNumber": "15",
+                        "equipment": "FA Kart / Vortex / Dunlop",
+                        "gap": "0.057"
+                    }
+                },
+                "3": {
+                    "position": "4",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "FA_Kart",
+                    "drivers": [
+                        "Lando_Norris"
+                    ],
+                    "other_info": {
+                        "carNumber": "3",
+                        "equipment": "FA Kart / Vortex / Dunlop",
+                        "gap": "0.226"
+                    }
+                },
+                "24": {
+                    "position": "5",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Nikita_Mazepin"
+                    ],
+                    "other_info": {
+                        "carNumber": "24",
+                        "equipment": "Tony Kart / Vortex / Dunlop",
+                        "gap": "0.241"
+                    }
+                },
+                "38": {
+                    "position": "6",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Jussi_Kuusiniemi"
+                    ],
+                    "other_info": {
+                        "carNumber": "38",
+                        "equipment": "Kosmic / Vortex / Dunlop",
+                        "gap": "0.375"
+                    }
+                },
+                "1": {
+                    "position": "7",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Zanardi",
+                    "drivers": [
+                        "Callum_Ilott"
+                    ],
+                    "other_info": {
+                        "carNumber": "1",
+                        "equipment": "Zanardi / Parilla / Dunlop",
+                        "gap": "0.501"
+                    }
+                },
+                "49": {
+                    "position": "8",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Nikita_Troickiy"
+                    ],
+                    "other_info": {
+                        "carNumber": "49",
+                        "equipment": "Tony Kart / Vortex / Dunlop",
+                        "gap": "0.503"
+                    }
+                },
+                "23": {
+                    "position": "9",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Kevin_Rossel"
+                    ],
+                    "other_info": {
+                        "carNumber": "23",
+                        "equipment": "Kosmic / Vortex / Dunlop",
+                        "gap": "0.518"
+                    }
+                },
+                "48": {
+                    "position": "10",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Emil_Skaras"
+                    ],
+                    "other_info": {
+                        "carNumber": "48",
+                        "equipment": "Tony Kart / Vortex / Dunlop",
+                        "gap": "0.569"
+                    }
+                },
+                "6": {
+                    "position": "11",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Alessio_Lorandi"
+                    ],
+                    "other_info": {
+                        "carNumber": "6",
+                        "equipment": "Tony Kart / Parilla / Dunlop",
+                        "gap": "0.598"
+                    }
+                },
+                "32": {
+                    "position": "12",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "ART_GP",
+                    "drivers": [
+                        "Tuomas_Tujula"
+                    ],
+                    "other_info": {
+                        "carNumber": "32",
+                        "equipment": "ART GP / TM / Dunlop",
+                        "gap": "0.606"
+                    }
+                },
+                "7": {
+                    "position": "13",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "CRG",
+                    "drivers": [
+                        "Pedro_Hiltbrand"
+                    ],
+                    "other_info": {
+                        "carNumber": "7",
+                        "equipment": "CRG / Parilla / Dunlop",
+                        "gap": "0.613"
+                    }
+                },
+                "40": {
+                    "position": "14",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Juuso_Puhakka"
+                    ],
+                    "other_info": {
+                        "carNumber": "40",
+                        "equipment": "Kosmic / Vortex / Dunlop",
+                        "gap": "0.685"
+                    }
+                },
+                "64": {
+                    "position": "15",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Harry_Webb"
+                    ],
+                    "other_info": {
+                        "carNumber": "64",
+                        "equipment": "Tony Kart / Vortex / Dunlop",
+                        "gap": "0.691"
+                    }
+                },
+                "29": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "ART_GP",
+                    "drivers": [
+                        "Tuomas_Haapalainen"
+                    ],
+                    "other_info": {
+                        "carNumber": "29",
+                        "equipment": "ART GP / TM / Dunlop",
+                        "gap": "0.710"
+                    }
+                },
+                "9": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Zanardi",
+                    "drivers": [
+                        "Martijn_Van Leeuwen"
+                    ],
+                    "other_info": {
+                        "carNumber": "9",
+                        "equipment": "Zanardi / Parilla / Dunlop",
+                        "gap": "0.746"
+                    }
+                },
+                "4": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Zanardi",
+                    "drivers": [
+                        "Tom_Joyner"
+                    ],
+                    "other_info": {
+                        "carNumber": "4",
+                        "equipment": "Zanardi / Parilla / Dunlop",
+                        "gap": "0.762"
+                    }
+                },
+                "41": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Juho_Valtanen"
+                    ],
+                    "other_info": {
+                        "carNumber": "41",
+                        "equipment": "Kosmic / Vortex / Dunlop",
+                        "gap": "0.802"
+                    }
+                },
+                "46": {
+                    "position": "20",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Philip_Hall"
+                    ],
+                    "other_info": {
+                        "carNumber": "46",
+                        "equipment": "Tony Kart / Vortex / Dunlop",
+                        "gap": "0.880"
+                    }
+                },
+                "44": {
+                    "position": "21",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Praga",
+                    "drivers": [
+                        "Jorge Carlos_Pescador"
+                    ],
+                    "other_info": {
+                        "carNumber": "44",
+                        "equipment": "Praga / Parilla / Dunlop",
+                        "gap": "0.890"
+                    }
+                },
+                "17": {
+                    "position": "22",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Oliver_Hodgson"
+                    ],
+                    "other_info": {
+                        "carNumber": "17",
+                        "equipment": "Kosmic / TM / Dunlop",
+                        "gap": "0.918"
+                    }
+                },
+                "14": {
+                    "position": "23",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Zanardi",
+                    "drivers": [
+                        "Hannes_Janker"
+                    ],
+                    "other_info": {
+                        "carNumber": "14",
+                        "equipment": "Zanardi / Parilla / Dunlop",
+                        "gap": "0.921"
+                    }
+                },
+                "25": {
+                    "position": "24",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Linus_Lundqvist"
+                    ],
+                    "other_info": {
+                        "carNumber": "25",
+                        "equipment": "Tony Kart / Vortex / Dunlop",
+                        "gap": "1.078"
+                    }
+                },
+                "10": {
+                    "position": "25",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Gabriel_Aubry"
+                    ],
+                    "other_info": {
+                        "carNumber": "10",
+                        "equipment": "Tony Kart / Vortex / Dunlop",
+                        "gap": "1.299"
+                    }
+                },
+                "8": {
+                    "position": "26",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "CRG",
+                    "drivers": [
+                        "Felice_Tiene"
+                    ],
+                    "other_info": {
+                        "carNumber": "8",
+                        "equipment": "CRG / Parilla / Dunlop",
+                        "gap": "1.437"
+                    }
+                },
+                "37": {
+                    "position": "27",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Top-Kart",
+                    "drivers": [
+                        "Matteo_Vigano'"
+                    ],
+                    "other_info": {
+                        "carNumber": "37",
+                        "equipment": "Top Kart / Parilla / Dunlop",
+                        "gap": "2.366"
+                    }
+                },
+                "5": {
+                    "position": "28",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Niko_Kari"
+                    ],
+                    "other_info": {
+                        "carNumber": "5",
+                        "equipment": "Tony Kart / Vortex / Dunlop",
+                        "gap": "2.809"
+                    }
+                }
+            },
+            "Prefinal": {
+                "4": {
+                    "position": "1",
+                    "points": 0,
+                    "fastest_lap": "57.017",
+                    "team": "Zanardi",
+                    "drivers": [
+                        "Tom_Joyner"
+                    ],
+                    "other_info": {
+                        "carNumber": "4",
+                        "equipment": "Zanardi / Parilla / Dunlop"
+                    }
+                },
+                "3": {
+                    "position": "2",
+                    "points": 0,
+                    "fastest_lap": "57.141",
+                    "team": "FA_Kart",
+                    "drivers": [
+                        "Lando_Norris"
+                    ],
+                    "other_info": {
+                        "carNumber": "3",
+                        "equipment": "FA Kart / Vortex / Dunlop",
+                        "gap": "4.729"
+                    }
+                },
+                "11": {
+                    "position": "3",
+                    "points": 0,
+                    "fastest_lap": "57.270",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Karol_Basz"
+                    ],
+                    "other_info": {
+                        "carNumber": "11",
+                        "equipment": "Tony Kart / Vortex / Dunlop",
+                        "gap": "4.945"
+                    }
+                },
+                "24": {
+                    "position": "4",
+                    "points": 0,
+                    "fastest_lap": "57.592",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Nikita_Mazepin"
+                    ],
+                    "other_info": {
+                        "carNumber": "24",
+                        "equipment": "Tony Kart / Vortex / Dunlop",
+                        "gap": "5.773"
+                    }
+                },
+                "15": {
+                    "position": "5",
+                    "points": 0,
+                    "fastest_lap": "57.423",
+                    "team": "FA_Kart",
+                    "drivers": [
+                        "Jehan_Daruvala"
+                    ],
+                    "other_info": {
+                        "carNumber": "15",
+                        "equipment": "FA Kart / Vortex / Dunlop",
+                        "gap": "7.070"
+                    }
+                },
+                "40": {
+                    "position": "6",
+                    "points": 0,
+                    "fastest_lap": "57.354",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Juuso_Puhakka"
+                    ],
+                    "other_info": {
+                        "carNumber": "40",
+                        "equipment": "Kosmic / Vortex / Dunlop",
+                        "gap": "7.660"
+                    }
+                },
+                "5": {
+                    "position": "7",
+                    "points": 0,
+                    "fastest_lap": "57.522",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Niko_Kari"
+                    ],
+                    "other_info": {
+                        "carNumber": "5",
+                        "equipment": "Tony Kart / Vortex / Dunlop",
+                        "gap": "9.021"
+                    }
+                },
+                "32": {
+                    "position": "8",
+                    "points": 0,
+                    "fastest_lap": "57.572",
+                    "team": "ART_GP",
+                    "drivers": [
+                        "Tuomas_Tujula"
+                    ],
+                    "other_info": {
+                        "carNumber": "32",
+                        "equipment": "ART GP / TM / Dunlop",
+                        "gap": "10.254"
+                    }
+                },
+                "7": {
+                    "position": "9",
+                    "points": 0,
+                    "fastest_lap": "57.834",
+                    "team": "CRG",
+                    "drivers": [
+                        "Pedro_Hiltbrand"
+                    ],
+                    "other_info": {
+                        "carNumber": "7",
+                        "equipment": "CRG / Parilla / Dunlop",
+                        "gap": "13.656"
+                    }
+                },
+                "37": {
+                    "position": "10",
+                    "points": 0,
+                    "fastest_lap": "57.469",
+                    "team": "Top-Kart",
+                    "drivers": [
+                        "Matteo_Vigano'"
+                    ],
+                    "other_info": {
+                        "carNumber": "37",
+                        "equipment": "Top Kart / Parilla / Dunlop",
+                        "gap": "13.956"
+                    }
+                },
+                "6": {
+                    "position": "11",
+                    "points": 0,
+                    "fastest_lap": "57.683",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Alessio_Lorandi"
+                    ],
+                    "other_info": {
+                        "carNumber": "6",
+                        "equipment": "Tony Kart / Parilla / Dunlop",
+                        "gap": "15.341"
+                    }
+                },
+                "38": {
+                    "position": "12",
+                    "points": 0,
+                    "fastest_lap": "57.700",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Jussi_Kuusiniemi"
+                    ],
+                    "other_info": {
+                        "carNumber": "38",
+                        "equipment": "Kosmic / Vortex / Dunlop",
+                        "gap": "15.425"
+                    }
+                },
+                "49": {
+                    "position": "13",
+                    "points": 0,
+                    "fastest_lap": "57.631",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Nikita_Troickiy"
+                    ],
+                    "other_info": {
+                        "carNumber": "49",
+                        "equipment": "Tony Kart / Vortex / Dunlop",
+                        "gap": "15.786"
+                    }
+                },
+                "8": {
+                    "position": "14",
+                    "points": 0,
+                    "fastest_lap": "57.596",
+                    "team": "CRG",
+                    "drivers": [
+                        "Felice_Tiene"
+                    ],
+                    "other_info": {
+                        "carNumber": "8",
+                        "equipment": "CRG / Parilla / Dunlop",
+                        "gap": "17.340"
+                    }
+                },
+                "29": {
+                    "position": "15",
+                    "points": 0,
+                    "fastest_lap": "57.778",
+                    "team": "ART_GP",
+                    "drivers": [
+                        "Tuomas_Haapalainen"
+                    ],
+                    "other_info": {
+                        "carNumber": "29",
+                        "equipment": "ART GP / TM / Dunlop",
+                        "gap": "17.614"
+                    }
+                },
+                "17": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "57.773",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Oliver_Hodgson"
+                    ],
+                    "other_info": {
+                        "carNumber": "17",
+                        "equipment": "Kosmic / TM / Dunlop",
+                        "gap": "20.451"
+                    }
+                },
+                "9": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "57.729",
+                    "team": "Zanardi",
+                    "drivers": [
+                        "Martijn_Van Leeuwen"
+                    ],
+                    "other_info": {
+                        "carNumber": "9",
+                        "equipment": "Zanardi / Parilla / Dunlop",
+                        "gap": "21.968"
+                    }
+                },
+                "41": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "58.068",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Juho_Valtanen"
+                    ],
+                    "other_info": {
+                        "carNumber": "41",
+                        "equipment": "Kosmic / Vortex / Dunlop",
+                        "gap": "23.583"
+                    }
+                },
+                "2": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "57.518",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Nicklas_Nielsen"
+                    ],
+                    "other_info": {
+                        "carNumber": "2",
+                        "equipment": "Kosmic / Vortex / Dunlop",
+                        "gap": "24.224"
+                    }
+                },
+                "64": {
+                    "position": "20",
+                    "points": 0,
+                    "fastest_lap": "58.056",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Harry_Webb"
+                    ],
+                    "other_info": {
+                        "carNumber": "64",
+                        "equipment": "Tony Kart / Vortex / Dunlop",
+                        "gap": "25.867"
+                    }
+                },
+                "48": {
+                    "position": "21",
+                    "points": 0,
+                    "fastest_lap": "57.776",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Emil_Skaras"
+                    ],
+                    "other_info": {
+                        "carNumber": "48",
+                        "equipment": "Tony Kart / Vortex / Dunlop",
+                        "gap": "26.298"
+                    }
+                },
+                "39": {
+                    "position": "22",
+                    "points": 0,
+                    "fastest_lap": "57.898",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Ville_Mäntylä"
+                    ],
+                    "other_info": {
+                        "carNumber": "39",
+                        "equipment": "Kosmic / Vortex / Dunlop",
+                        "gap": "26.960"
+                    }
+                },
+                "10": {
+                    "position": "23",
+                    "points": 0,
+                    "fastest_lap": "58.848",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Gabriel_Aubry"
+                    ],
+                    "other_info": {
+                        "carNumber": "10",
+                        "equipment": "Tony Kart / Vortex / Dunlop",
+                        "gap": "32.915"
+                    }
+                },
+                "25": {
+                    "position": "24",
+                    "points": 0,
+                    "fastest_lap": "58.723",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Linus_Lundqvist"
+                    ],
+                    "other_info": {
+                        "carNumber": "25",
+                        "equipment": "Tony Kart / Vortex / Dunlop",
+                        "gap": "33.544"
+                    }
+                },
+                "50": {
+                    "position": "25",
+                    "points": 0,
+                    "fastest_lap": "58.273",
+                    "team": "Birel",
+                    "drivers": [
+                        "Diego_Bertonelli"
+                    ],
+                    "other_info": {
+                        "carNumber": "50",
+                        "equipment": "Birel / TM / Dunlop",
+                        "gap": "33.898"
+                    }
+                },
+                "14": {
+                    "position": "26",
+                    "points": 0,
+                    "fastest_lap": "58.544",
+                    "team": "Zanardi",
+                    "drivers": [
+                        "Hannes_Janker"
+                    ],
+                    "other_info": {
+                        "carNumber": "14",
+                        "equipment": "Zanardi / Parilla / Dunlop",
+                        "gap": "34.250"
+                    }
+                },
+                "22": {
+                    "position": "27",
+                    "points": 0,
+                    "fastest_lap": "58.258",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Daniel_Lundgaard"
+                    ],
+                    "other_info": {
+                        "carNumber": "22",
+                        "equipment": "Tony Kart / Vortex / Dunlop",
+                        "gap": "34.727"
+                    }
+                },
+                "44": {
+                    "position": "28",
+                    "points": 0,
+                    "fastest_lap": "57.598",
+                    "team": "Praga",
+                    "drivers": [
+                        "Jorge Carlos_Pescador"
+                    ],
+                    "other_info": {
+                        "carNumber": "44",
+                        "equipment": "Praga / Parilla / Dunlop",
+                        "gap": "35.353"
+                    }
+                },
+                "51": {
+                    "position": "29",
+                    "points": 0,
+                    "fastest_lap": "58.769",
+                    "team": "Birel",
+                    "drivers": [
+                        "Paolo_Ippolito"
+                    ],
+                    "other_info": {
+                        "carNumber": "51",
+                        "equipment": "Birel / TM / Dunlop",
+                        "gap": "38.744"
+                    }
+                },
+                "74": {
+                    "position": "30",
+                    "points": 0,
+                    "fastest_lap": "57.690",
+                    "team": "FA_Kart",
+                    "drivers": [
+                        "Sasakorn_Chaimongkol"
+                    ],
+                    "other_info": {
+                        "carNumber": "74",
+                        "equipment": "FA Kart / Vortex / Dunlop",
+                        "gap": "39.003"
+                    }
+                },
+                "23": {
+                    "position": "31",
+                    "points": 0,
+                    "fastest_lap": "1:09.026",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Kevin_Rossel"
+                    ],
+                    "other_info": {
+                        "carNumber": "23",
+                        "equipment": "Kosmic / Vortex / Dunlop",
+                        "gap": "16 Laps"
+                    }
+                },
+                "1": {
+                    "position": "32",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Zanardi",
+                    "drivers": [
+                        "Callum_Ilott"
+                    ],
+                    "other_info": {
+                        "carNumber": "1",
+                        "equipment": "Zanardi / Parilla / Dunlop",
+                        "gap": "17 Laps"
+                    }
+                },
+                "46": {
+                    "position": "33",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Philip_Hall"
+                    ],
+                    "other_info": {
+                        "carNumber": "46",
+                        "equipment": "Tony Kart / Vortex / Dunlop",
+                        "gap": "17 Laps"
+                    }
+                },
+                "71": {
+                    "position": "34",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Jessica_Backman"
+                    ],
+                    "other_info": {
+                        "carNumber": "71",
+                        "equipment": "Kosmic / Vortex / Dunlop",
+                        "gap": "17 Laps"
+                    }
+                }
+            },
+            "Final": {
+                "3": {
+                    "position": "1",
+                    "points": 0,
+                    "fastest_lap": "49.035",
+                    "team": "FA_Kart",
+                    "drivers": [
+                        "Lando_Norris"
+                    ],
+                    "other_info": {
+                        "carNumber": "3",
+                        "equipment": "FA Kart / Vortex / Dunlop"
+                    }
+                },
+                "24": {
+                    "position": "2",
+                    "points": 0,
+                    "fastest_lap": "49.176",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Nikita_Mazepin"
+                    ],
+                    "other_info": {
+                        "carNumber": "24",
+                        "equipment": "Tony Kart / Vortex / Dunlop",
+                        "gap": "2.893"
+                    }
+                },
+                "15": {
+                    "position": "3",
+                    "points": 0,
+                    "fastest_lap": "49.165",
+                    "team": "FA_Kart",
+                    "drivers": [
+                        "Jehan_Daruvala"
+                    ],
+                    "other_info": {
+                        "carNumber": "15",
+                        "equipment": "FA Kart / Vortex / Dunlop",
+                        "gap": "3.265"
+                    }
+                },
+                "1": {
+                    "position": "4",
+                    "points": 0,
+                    "fastest_lap": "49.217",
+                    "team": "Zanardi",
+                    "drivers": [
+                        "Callum_Ilott"
+                    ],
+                    "other_info": {
+                        "carNumber": "1",
+                        "equipment": "Zanardi / Parilla / Dunlop",
+                        "gap": "4.204"
+                    }
+                },
+                "9": {
+                    "position": "5",
+                    "points": 0,
+                    "fastest_lap": "49.254",
+                    "team": "Zanardi",
+                    "drivers": [
+                        "Martijn_Van Leeuwen"
+                    ],
+                    "other_info": {
+                        "carNumber": "9",
+                        "equipment": "Zanardi / Parilla / Dunlop",
+                        "gap": "5.383"
+                    }
+                },
+                "23": {
+                    "position": "6",
+                    "points": 0,
+                    "fastest_lap": "49.129",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Kevin_Rossel"
+                    ],
+                    "other_info": {
+                        "carNumber": "23",
+                        "equipment": "Kosmic / Vortex / Dunlop",
+                        "gap": "6.299"
+                    }
+                },
+                "11": {
+                    "position": "7",
+                    "points": 0,
+                    "fastest_lap": "49.374",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Karol_Basz"
+                    ],
+                    "other_info": {
+                        "carNumber": "11",
+                        "equipment": "Tony Kart / Vortex / Dunlop",
+                        "gap": "6.545"
+                    }
+                },
+                "8": {
+                    "position": "8",
+                    "points": 0,
+                    "fastest_lap": "49.117",
+                    "team": "CRG",
+                    "drivers": [
+                        "Felice_Tiene"
+                    ],
+                    "other_info": {
+                        "carNumber": "8",
+                        "equipment": "CRG / Parilla / Dunlop",
+                        "gap": "7.893"
+                    }
+                },
+                "4": {
+                    "position": "9",
+                    "points": 0,
+                    "fastest_lap": "49.215",
+                    "team": "Zanardi",
+                    "drivers": [
+                        "Tom_Joyner"
+                    ],
+                    "other_info": {
+                        "carNumber": "4",
+                        "equipment": "Zanardi / Parilla / Dunlop",
+                        "gap": "8.805"
+                    }
+                },
+                "74": {
+                    "position": "10",
+                    "points": 0,
+                    "fastest_lap": "49.204",
+                    "team": "FA_Kart",
+                    "drivers": [
+                        "Sasakorn_Chaimongkol"
+                    ],
+                    "other_info": {
+                        "carNumber": "74",
+                        "equipment": "FA Kart / Vortex / Dunlop",
+                        "gap": "11.053"
+                    }
+                },
+                "14": {
+                    "position": "11",
+                    "points": 0,
+                    "fastest_lap": "49.266",
+                    "team": "Zanardi",
+                    "drivers": [
+                        "Hannes_Janker"
+                    ],
+                    "other_info": {
+                        "carNumber": "14",
+                        "equipment": "Zanardi / Parilla / Dunlop",
+                        "gap": "11.179"
+                    }
+                },
+                "37": {
+                    "position": "12",
+                    "points": 0,
+                    "fastest_lap": "49.209",
+                    "team": "Top-Kart",
+                    "drivers": [
+                        "Matteo_Vigano'"
+                    ],
+                    "other_info": {
+                        "carNumber": "37",
+                        "equipment": "Top Kart / Parilla / Dunlop",
+                        "gap": "13.031"
+                    }
+                },
+                "5": {
+                    "position": "13",
+                    "points": 0,
+                    "fastest_lap": "49.252",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Niko_Kari"
+                    ],
+                    "other_info": {
+                        "carNumber": "5",
+                        "equipment": "Tony Kart / Vortex / Dunlop",
+                        "gap": "13.628"
+                    }
+                },
+                "25": {
+                    "position": "14",
+                    "points": 0,
+                    "fastest_lap": "49.349",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Linus_Lundqvist"
+                    ],
+                    "other_info": {
+                        "carNumber": "25",
+                        "equipment": "Tony Kart / Vortex / Dunlop",
+                        "gap": "16.403"
+                    }
+                },
+                "39": {
+                    "position": "15",
+                    "points": 0,
+                    "fastest_lap": "49.460",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Ville_Mäntylä"
+                    ],
+                    "other_info": {
+                        "carNumber": "39",
+                        "equipment": "Kosmic / Vortex / Dunlop",
+                        "gap": "16.819"
+                    }
+                },
+                "38": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "49.346",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Jussi_Kuusiniemi"
+                    ],
+                    "other_info": {
+                        "carNumber": "38",
+                        "equipment": "Kosmic / Vortex / Dunlop",
+                        "gap": "18.429"
+                    }
+                },
+                "50": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "49.478",
+                    "team": "Birel",
+                    "drivers": [
+                        "Diego_Bertonelli"
+                    ],
+                    "other_info": {
+                        "carNumber": "50",
+                        "equipment": "Birel / TM / Dunlop",
+                        "gap": "18.817"
+                    }
+                },
+                "29": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "49.400",
+                    "team": "ART_GP",
+                    "drivers": [
+                        "Tuomas_Haapalainen"
+                    ],
+                    "other_info": {
+                        "carNumber": "29",
+                        "equipment": "ART GP / TM / Dunlop",
+                        "gap": "19.156"
+                    }
+                },
+                "40": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "49.347",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Juuso_Puhakka"
+                    ],
+                    "other_info": {
+                        "carNumber": "40",
+                        "equipment": "Kosmic / Vortex / Dunlop",
+                        "gap": "19.415"
+                    }
+                },
+                "41": {
+                    "position": "20",
+                    "points": 0,
+                    "fastest_lap": "49.514",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Juho_Valtanen"
+                    ],
+                    "other_info": {
+                        "carNumber": "41",
+                        "equipment": "Kosmic / Vortex / Dunlop",
+                        "gap": "22.495"
+                    }
+                },
+                "6": {
+                    "position": "21",
+                    "points": 0,
+                    "fastest_lap": "49.363",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Alessio_Lorandi"
+                    ],
+                    "other_info": {
+                        "carNumber": "6",
+                        "equipment": "Tony Kart / Parilla / Dunlop",
+                        "gap": "22.812"
+                    }
+                },
+                "71": {
+                    "position": "22",
+                    "points": 0,
+                    "fastest_lap": "49.558",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Jessica_Backman"
+                    ],
+                    "other_info": {
+                        "carNumber": "71",
+                        "equipment": "Kosmic / Vortex / Dunlop",
+                        "gap": "24.218"
+                    }
+                },
+                "44": {
+                    "position": "23",
+                    "points": 0,
+                    "fastest_lap": "49.656",
+                    "team": "Praga",
+                    "drivers": [
+                        "Jorge Carlos_Pescador"
+                    ],
+                    "other_info": {
+                        "carNumber": "44",
+                        "equipment": "Praga / Parilla / Dunlop",
+                        "gap": "28.906"
+                    }
+                },
+                "64": {
+                    "position": "24",
+                    "points": 0,
+                    "fastest_lap": "49.642",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Harry_Webb"
+                    ],
+                    "other_info": {
+                        "carNumber": "64",
+                        "equipment": "Tony Kart / Vortex / Dunlop",
+                        "gap": "34.648"
+                    }
+                },
+                "22": {
+                    "position": "25",
+                    "points": 0,
+                    "fastest_lap": "49.723",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Daniel_Lundgaard"
+                    ],
+                    "other_info": {
+                        "carNumber": "22",
+                        "equipment": "Tony Kart / Vortex / Dunlop",
+                        "gap": "40.651"
+                    }
+                },
+                "7": {
+                    "position": "26",
+                    "points": 0,
+                    "fastest_lap": "49.356",
+                    "team": "CRG",
+                    "drivers": [
+                        "Pedro_Hiltbrand"
+                    ],
+                    "other_info": {
+                        "carNumber": "7",
+                        "equipment": "CRG / Parilla / Dunlop",
+                        "gap": "2 Laps"
+                    }
+                },
+                "17": {
+                    "position": "27",
+                    "points": 0,
+                    "fastest_lap": "49.473",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Oliver_Hodgson"
+                    ],
+                    "other_info": {
+                        "carNumber": "17",
+                        "equipment": "Kosmic / TM / Dunlop",
+                        "gap": "3 Laps"
+                    }
+                },
+                "46": {
+                    "position": "28",
+                    "points": 0,
+                    "fastest_lap": "49.573",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Philip_Hall"
+                    ],
+                    "other_info": {
+                        "carNumber": "46",
+                        "equipment": "Tony Kart / Vortex / Dunlop",
+                        "gap": "5 Laps"
+                    }
+                },
+                "51": {
+                    "position": "29",
+                    "points": 0,
+                    "fastest_lap": "53.273",
+                    "team": "Birel",
+                    "drivers": [
+                        "Paolo_Ippolito"
+                    ],
+                    "other_info": {
+                        "carNumber": "51",
+                        "equipment": "Birel / TM / Dunlop",
+                        "gap": "18 Laps"
+                    }
+                },
+                "10": {
+                    "position": "30",
+                    "points": 0,
+                    "fastest_lap": "49.821",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Gabriel_Aubry"
+                    ],
+                    "other_info": {
+                        "carNumber": "10",
+                        "equipment": "Tony Kart / Vortex / Dunlop",
+                        "gap": "22 Laps"
+                    }
+                },
+                "48": {
+                    "position": "31",
+                    "points": 0,
+                    "fastest_lap": "54.598",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Emil_Skaras"
+                    ],
+                    "other_info": {
+                        "carNumber": "48",
+                        "equipment": "Tony Kart / Vortex / Dunlop",
+                        "gap": "23 Laps"
+                    }
+                },
+                "49": {
+                    "position": "32",
+                    "points": 0,
+                    "fastest_lap": "58.951",
+                    "team": "Tony_Kart",
+                    "drivers": [
+                        "Nikita_Troickiy"
+                    ],
+                    "other_info": {
+                        "carNumber": "49",
+                        "equipment": "Tony Kart / Vortex / Dunlop",
+                        "gap": "24 Laps"
+                    }
+                },
+                "32": {
+                    "position": "33",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "ART_GP",
+                    "drivers": [
+                        "Tuomas_Tujula"
+                    ],
+                    "other_info": {
+                        "carNumber": "32",
+                        "equipment": "ART GP / TM / Dunlop",
+                        "gap": "25 Laps"
+                    }
+                },
+                "2": {
+                    "position": "DSQ",
+                    "points": 0,
+                    "fastest_lap": "49.053",
+                    "team": "Kosmic",
+                    "drivers": [
+                        "Nicklas_Nielsen"
+                    ],
+                    "other_info": {
+                        "carNumber": "2",
+                        "equipment": "Kosmic / Vortex / Dunlop",
+                        "gap": "Excluded"
                     }
                 }
             }
