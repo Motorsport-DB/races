@@ -244,6 +244,105 @@
                 }
             }
         },
+        "East Germany Grand Prix": {
+            "Race": {
+                "Bill_Ivy": {
+                    "position": "1",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Bill_Ivy"
+                    ],
+                    "other_info": {
+                        "carNumber": "Bill_Ivy",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Yamaha",
+                        "time": "39:38.900"
+                    }
+                },
+                "Phil_Read": {
+                    "position": "2",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Phil_Read"
+                    ],
+                    "other_info": {
+                        "carNumber": "Phil_Read",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Yamaha",
+                        "time": "40:02.000",
+                        "gap": "+23.100"
+                    }
+                },
+                "Stuart_Graham": {
+                    "position": "3",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Stuart_Graham"
+                    ],
+                    "other_info": {
+                        "carNumber": "Stuart_Graham",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Suzuki",
+                        "time": "40:09.100",
+                        "gap": "+30.200"
+                    }
+                },
+                "Klaus_Enderlein": {
+                    "position": "4",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "MZ",
+                    "drivers": [
+                        "Klaus_Enderlein"
+                    ],
+                    "other_info": {
+                        "carNumber": "Klaus_Enderlein",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "MZ"
+                    }
+                },
+                "Thomas_Heuschkel": {
+                    "position": "5",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "MZ",
+                    "drivers": [
+                        "Thomas_Heuschkel"
+                    ],
+                    "other_info": {
+                        "carNumber": "Thomas_Heuschkel",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "MZ"
+                    }
+                },
+                "Lazlo_Szabo": {
+                    "position": "6",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "MZ",
+                    "drivers": [
+                        "Lazlo_Szabo"
+                    ],
+                    "other_info": {
+                        "carNumber": "Lazlo_Szabo",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "MZ"
+                    }
+                }
+            }
+        },
         "French Grand Prix": {
             "Race": {
                 "Bill_Ivy": {
@@ -347,156 +446,6 @@
                 }
             }
         },
-        "Tourist Trophy": {
-            "Race": {
-                "Phil_Read": {
-                    "position": "1",
-                    "points": 8,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "Phil_Read"
-                    ],
-                    "other_info": {
-                        "carNumber": "Phil_Read",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Yamaha",
-                        "time": "09:40.800"
-                    }
-                },
-                "Stuart_Graham": {
-                    "position": "2",
-                    "points": 6,
-                    "fastest_lap": "",
-                    "team": "Suzuki",
-                    "drivers": [
-                        "Stuart_Graham"
-                    ],
-                    "other_info": {
-                        "carNumber": "Stuart_Graham",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Suzuki",
-                        "time": "09:44.200",
-                        "gap": "+3.400"
-                    }
-                },
-                "Akihiko_Motohashi": {
-                    "position": "3",
-                    "points": 4,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "Akihiko_Motohashi"
-                    ],
-                    "other_info": {
-                        "carNumber": "Akihiko_Motohashi",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Yamaha",
-                        "time": "11:49.600",
-                        "gap": "+128.800"
-                    }
-                },
-                "Dave_Simmonds": {
-                    "position": "4",
-                    "points": 3,
-                    "fastest_lap": "",
-                    "team": "Kawasaki",
-                    "drivers": [
-                        "Dave_Simmonds"
-                    ],
-                    "other_info": {
-                        "carNumber": "Dave_Simmonds",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Kawasaki",
-                        "time": "13:46.000",
-                        "gap": "+245.200"
-                    }
-                },
-                "Kel_Carruthers": {
-                    "position": "5",
-                    "points": 2,
-                    "fastest_lap": "",
-                    "team": "Honda",
-                    "drivers": [
-                        "Kel_Carruthers"
-                    ],
-                    "other_info": {
-                        "carNumber": "Kel_Carruthers",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Honda",
-                        "time": "17:43.200",
-                        "gap": "+482.400"
-                    }
-                },
-                "Jim_Curry": {
-                    "position": "6",
-                    "points": 1,
-                    "fastest_lap": "",
-                    "team": "Honda",
-                    "drivers": [
-                        "Jim_Curry"
-                    ],
-                    "other_info": {
-                        "carNumber": "Jim_Curry",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Honda",
-                        "time": "18:06.000",
-                        "gap": "+505.200"
-                    }
-                },
-                "John_Kiddie": {
-                    "position": "11",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Honda",
-                    "drivers": [
-                        "John_Kiddie"
-                    ],
-                    "other_info": {
-                        "carNumber": "John_Kiddie",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Honda"
-                    }
-                },
-                "Roy_Boughey": {
-                    "position": "12",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Honda",
-                    "drivers": [
-                        "Roy_Boughey"
-                    ],
-                    "other_info": {
-                        "carNumber": "Roy_Boughey",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Honda"
-                    }
-                },
-                "R_Dickinson": {
-                    "position": "32",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Honda",
-                    "drivers": [
-                        "R_Dickinson"
-                    ],
-                    "other_info": {
-                        "carNumber": "R_Dickinson",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Honda"
-                    }
-                }
-            }
-        },
         "Dutch TT": {
             "Race": {
                 "Phil_Read": {
@@ -594,247 +543,6 @@
                         "laps": "0",
                         "speed": "0",
                         "constructor": "EMC"
-                    }
-                }
-            }
-        },
-        "East Germany Grand Prix": {
-            "Race": {
-                "Bill_Ivy": {
-                    "position": "1",
-                    "points": 8,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "Bill_Ivy"
-                    ],
-                    "other_info": {
-                        "carNumber": "Bill_Ivy",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Yamaha",
-                        "time": "39:38.900"
-                    }
-                },
-                "Phil_Read": {
-                    "position": "2",
-                    "points": 6,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "Phil_Read"
-                    ],
-                    "other_info": {
-                        "carNumber": "Phil_Read",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Yamaha",
-                        "time": "40:02.000",
-                        "gap": "+23.100"
-                    }
-                },
-                "Stuart_Graham": {
-                    "position": "3",
-                    "points": 4,
-                    "fastest_lap": "",
-                    "team": "Suzuki",
-                    "drivers": [
-                        "Stuart_Graham"
-                    ],
-                    "other_info": {
-                        "carNumber": "Stuart_Graham",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Suzuki",
-                        "time": "40:09.100",
-                        "gap": "+30.200"
-                    }
-                },
-                "Klaus_Enderlein": {
-                    "position": "4",
-                    "points": 3,
-                    "fastest_lap": "",
-                    "team": "MZ",
-                    "drivers": [
-                        "Klaus_Enderlein"
-                    ],
-                    "other_info": {
-                        "carNumber": "Klaus_Enderlein",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "MZ"
-                    }
-                },
-                "Thomas_Heuschkel": {
-                    "position": "5",
-                    "points": 2,
-                    "fastest_lap": "",
-                    "team": "MZ",
-                    "drivers": [
-                        "Thomas_Heuschkel"
-                    ],
-                    "other_info": {
-                        "carNumber": "Thomas_Heuschkel",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "MZ"
-                    }
-                },
-                "Lazlo_Szabo": {
-                    "position": "6",
-                    "points": 1,
-                    "fastest_lap": "",
-                    "team": "MZ",
-                    "drivers": [
-                        "Lazlo_Szabo"
-                    ],
-                    "other_info": {
-                        "carNumber": "Lazlo_Szabo",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "MZ"
-                    }
-                }
-            }
-        },
-        "Finland Grand Prix": {
-            "Race": {
-                "Stuart_Graham": {
-                    "position": "1",
-                    "points": 8,
-                    "fastest_lap": "",
-                    "team": "Suzuki",
-                    "drivers": [
-                        "Stuart_Graham"
-                    ],
-                    "other_info": {
-                        "carNumber": "Stuart_Graham",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Suzuki",
-                        "time": "55:15.900"
-                    }
-                },
-                "Bill_Ivy": {
-                    "position": "2",
-                    "points": 6,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "Bill_Ivy"
-                    ],
-                    "other_info": {
-                        "carNumber": "Bill_Ivy",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Yamaha",
-                        "time": "56:58.900",
-                        "gap": "+103.000"
-                    }
-                },
-                "Dave_Simmonds": {
-                    "position": "3",
-                    "points": 4,
-                    "fastest_lap": "",
-                    "team": "Kawasaki",
-                    "drivers": [
-                        "Dave_Simmonds"
-                    ],
-                    "other_info": {
-                        "carNumber": "Dave_Simmonds",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Kawasaki"
-                    }
-                },
-                "Jurgen_Lenk": {
-                    "position": "4",
-                    "points": 3,
-                    "fastest_lap": "",
-                    "team": "MZ",
-                    "drivers": [
-                        "Jurgen_Lenk"
-                    ],
-                    "other_info": {
-                        "carNumber": "Jurgen_Lenk",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "MZ"
-                    }
-                },
-                "Kel_Carruthers": {
-                    "position": "5",
-                    "points": 2,
-                    "fastest_lap": "",
-                    "team": "Honda",
-                    "drivers": [
-                        "Kel_Carruthers"
-                    ],
-                    "other_info": {
-                        "carNumber": "Kel_Carruthers",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Honda"
-                    }
-                },
-                "Hans_Bischoff": {
-                    "position": "6",
-                    "points": 1,
-                    "fastest_lap": "",
-                    "team": "MZ",
-                    "drivers": [
-                        "Hans_Bischoff"
-                    ],
-                    "other_info": {
-                        "carNumber": "Hans_Bischoff",
-                        "laps": "98",
-                        "speed": "0",
-                        "constructor": "MZ"
-                    }
-                },
-                "Jim_Curry": {
-                    "position": "7",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Honda",
-                    "drivers": [
-                        "Jim_Curry"
-                    ],
-                    "other_info": {
-                        "carNumber": "Jim_Curry",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Honda"
-                    }
-                },
-                "Herbert_Denzler": {
-                    "position": "8",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Honda",
-                    "drivers": [
-                        "Herbert_Denzler"
-                    ],
-                    "other_info": {
-                        "carNumber": "Herbert_Denzler",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Honda"
-                    }
-                },
-                "Seppo_Kangasniemi": {
-                    "position": "9",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Honda",
-                    "drivers": [
-                        "Seppo_Kangasniemi"
-                    ],
-                    "other_info": {
-                        "carNumber": "Seppo_Kangasniemi",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Honda"
                     }
                 }
             }
@@ -1062,6 +770,374 @@
                     ],
                     "other_info": {
                         "carNumber": "Kel_Carruthers",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Honda"
+                    }
+                }
+            }
+        },
+        "Canadian Grand Prix": {
+            "Race": {
+                "Bill_Ivy": {
+                    "position": "1",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Bill_Ivy"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                },
+                "Tim_Coopey": {
+                    "position": "2",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Tim_Coopey"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                },
+                "Robert_Lusk": {
+                    "position": "3",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Robert_Lusk"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                },
+                "Jean-Guy_Duval": {
+                    "position": "4",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Jean-Guy_Duval"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                },
+                "Ralph_Swegan": {
+                    "position": "5",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Ralph_Swegan"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                },
+                "Robert_Messina": {
+                    "position": "6",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Robert_Messina"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                }
+            }
+        },
+        "Tourist Trophy": {
+            "Race": {
+                "Phil_Read": {
+                    "position": "1",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Phil_Read"
+                    ],
+                    "other_info": {
+                        "carNumber": "Phil_Read",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Yamaha",
+                        "time": "09:40.800"
+                    }
+                },
+                "Stuart_Graham": {
+                    "position": "2",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Stuart_Graham"
+                    ],
+                    "other_info": {
+                        "carNumber": "Stuart_Graham",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Suzuki",
+                        "time": "09:44.200",
+                        "gap": "+3.400"
+                    }
+                },
+                "Akihiko_Motohashi": {
+                    "position": "3",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Akihiko_Motohashi"
+                    ],
+                    "other_info": {
+                        "carNumber": "Akihiko_Motohashi",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Yamaha",
+                        "time": "11:49.600",
+                        "gap": "+128.800"
+                    }
+                },
+                "Dave_Simmonds": {
+                    "position": "4",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "Kawasaki",
+                    "drivers": [
+                        "Dave_Simmonds"
+                    ],
+                    "other_info": {
+                        "carNumber": "Dave_Simmonds",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Kawasaki",
+                        "time": "13:46.000",
+                        "gap": "+245.200"
+                    }
+                },
+                "Kel_Carruthers": {
+                    "position": "5",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Kel_Carruthers"
+                    ],
+                    "other_info": {
+                        "carNumber": "Kel_Carruthers",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Honda",
+                        "time": "17:43.200",
+                        "gap": "+482.400"
+                    }
+                },
+                "Jim_Curry": {
+                    "position": "6",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Jim_Curry"
+                    ],
+                    "other_info": {
+                        "carNumber": "Jim_Curry",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Honda",
+                        "time": "18:06.000",
+                        "gap": "+505.200"
+                    }
+                },
+                "John_Kiddie": {
+                    "position": "11",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "John_Kiddie"
+                    ],
+                    "other_info": {
+                        "carNumber": "John_Kiddie",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Honda"
+                    }
+                },
+                "Roy_Boughey": {
+                    "position": "12",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Roy_Boughey"
+                    ],
+                    "other_info": {
+                        "carNumber": "Roy_Boughey",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Honda"
+                    }
+                },
+                "R_Dickinson": {
+                    "position": "32",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "R_Dickinson"
+                    ],
+                    "other_info": {
+                        "carNumber": "R_Dickinson",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Honda"
+                    }
+                }
+            }
+        },
+        "Finland Grand Prix": {
+            "Race": {
+                "Stuart_Graham": {
+                    "position": "1",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Stuart_Graham"
+                    ],
+                    "other_info": {
+                        "carNumber": "Stuart_Graham",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Suzuki",
+                        "time": "55:15.900"
+                    }
+                },
+                "Bill_Ivy": {
+                    "position": "2",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Bill_Ivy"
+                    ],
+                    "other_info": {
+                        "carNumber": "Bill_Ivy",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Yamaha",
+                        "time": "56:58.900",
+                        "gap": "+103.000"
+                    }
+                },
+                "Dave_Simmonds": {
+                    "position": "3",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "Kawasaki",
+                    "drivers": [
+                        "Dave_Simmonds"
+                    ],
+                    "other_info": {
+                        "carNumber": "Dave_Simmonds",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Kawasaki"
+                    }
+                },
+                "Jurgen_Lenk": {
+                    "position": "4",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "MZ",
+                    "drivers": [
+                        "Jurgen_Lenk"
+                    ],
+                    "other_info": {
+                        "carNumber": "Jurgen_Lenk",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "MZ"
+                    }
+                },
+                "Kel_Carruthers": {
+                    "position": "5",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Kel_Carruthers"
+                    ],
+                    "other_info": {
+                        "carNumber": "Kel_Carruthers",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Honda"
+                    }
+                },
+                "Hans_Bischoff": {
+                    "position": "6",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "MZ",
+                    "drivers": [
+                        "Hans_Bischoff"
+                    ],
+                    "other_info": {
+                        "carNumber": "Hans_Bischoff",
+                        "laps": "98",
+                        "speed": "0",
+                        "constructor": "MZ"
+                    }
+                },
+                "Jim_Curry": {
+                    "position": "7",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Jim_Curry"
+                    ],
+                    "other_info": {
+                        "carNumber": "Jim_Curry",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Honda"
+                    }
+                },
+                "Herbert_Denzler": {
+                    "position": "8",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Herbert_Denzler"
+                    ],
+                    "other_info": {
+                        "carNumber": "Herbert_Denzler",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Honda"
+                    }
+                },
+                "Seppo_Kangasniemi": {
+                    "position": "9",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Seppo_Kangasniemi"
+                    ],
+                    "other_info": {
+                        "carNumber": "Seppo_Kangasniemi",
                         "laps": "0",
                         "speed": "0",
                         "constructor": "Honda"

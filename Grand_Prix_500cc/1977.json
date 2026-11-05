@@ -1,6 +1,310 @@
 {
     "name": "Grand_Prix_500cc",
     "events": {
+        "Austrian Grand Prix": {
+            "Race": {
+                "Jack_Findlay": {
+                    "position": "1",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Jack_Findlay"
+                    ],
+                    "other_info": {
+                        "carNumber": "Jack_Findlay",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Suzuki",
+                        "time": "51:19.260"
+                    }
+                },
+                "Max_Wiener": {
+                    "position": "2",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Max_Wiener"
+                    ],
+                    "other_info": {
+                        "carNumber": "Max_Wiener",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Suzuki",
+                        "time": "51:34.660",
+                        "gap": "+15.400"
+                    }
+                },
+                "Alex_George": {
+                    "position": "3",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Alex_George"
+                    ],
+                    "other_info": {
+                        "carNumber": "Alex_George",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Suzuki",
+                        "time": "51:35.170",
+                        "gap": "+15.910"
+                    }
+                },
+                "Helmut_Kassner": {
+                    "position": "4",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Helmut_Kassner"
+                    ],
+                    "other_info": {
+                        "carNumber": "Helmut_Kassner",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Suzuki",
+                        "time": "51:44.620",
+                        "gap": "+25.360"
+                    }
+                },
+                "Franz_Heller": {
+                    "position": "5",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Franz_Heller"
+                    ],
+                    "other_info": {
+                        "carNumber": "Franz_Heller",
+                        "laps": "34",
+                        "speed": "0",
+                        "constructor": "Suzuki"
+                    }
+                },
+                "Michael_Schmid": {
+                    "position": "6",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Michael_Schmid"
+                    ],
+                    "other_info": {
+                        "carNumber": "Michael_Schmid",
+                        "laps": "32",
+                        "speed": "0",
+                        "constructor": "Suzuki"
+                    }
+                },
+                "Giacomo_Agostini": {
+                    "position": "DNS",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Giacomo_Agostini"
+                    ],
+                    "other_info": {
+                        "carNumber": "Giacomo_Agostini",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Yamaha"
+                    }
+                }
+            }
+        },
+        "Dutch TT": {
+            "Race": {
+                "Wil_Hartog": {
+                    "position": "1",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Wil_Hartog"
+                    ],
+                    "other_info": {
+                        "carNumber": "Wil_Hartog",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Suzuki",
+                        "time": "52:35.400"
+                    }
+                },
+                "Barry_Sheene": {
+                    "position": "2",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Barry_Sheene"
+                    ],
+                    "other_info": {
+                        "carNumber": "Barry_Sheene",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Suzuki",
+                        "time": "52:41.300",
+                        "gap": "+5.900"
+                    }
+                },
+                "Pat_Hennen": {
+                    "position": "3",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Pat_Hennen"
+                    ],
+                    "other_info": {
+                        "carNumber": "Pat_Hennen",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Suzuki",
+                        "time": "52:45.900",
+                        "gap": "+10.500"
+                    }
+                },
+                "Philippe_Coulon": {
+                    "position": "4",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Philippe_Coulon"
+                    ],
+                    "other_info": {
+                        "carNumber": "Philippe_Coulon",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Suzuki",
+                        "time": "52:46.300",
+                        "gap": "+10.900"
+                    }
+                },
+                "Steve_Baker": {
+                    "position": "5",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Steve_Baker"
+                    ],
+                    "other_info": {
+                        "carNumber": "Steve_Baker",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Yamaha",
+                        "time": "52:47.000",
+                        "gap": "+11.600"
+                    }
+                },
+                "Marco_Lucchinelli": {
+                    "position": "6",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Marco_Lucchinelli"
+                    ],
+                    "other_info": {
+                        "carNumber": "Marco_Lucchinelli",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Suzuki",
+                        "time": "52:47.500",
+                        "gap": "+12.100"
+                    }
+                },
+                "Teuvo_Lansivuori": {
+                    "position": "7",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Teuvo_Lansivuori"
+                    ],
+                    "other_info": {
+                        "carNumber": "Teuvo_Lansivuori",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Suzuki",
+                        "time": "52:53.600",
+                        "gap": "+18.200"
+                    }
+                },
+                "Michel_Rougerie": {
+                    "position": "8",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Michel_Rougerie"
+                    ],
+                    "other_info": {
+                        "carNumber": "Michel_Rougerie",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Suzuki",
+                        "time": "52:55.700",
+                        "gap": "+20.300"
+                    }
+                },
+                "Armando_Toracca": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Armando_Toracca"
+                    ],
+                    "other_info": {
+                        "carNumber": "Armando_Toracca",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Suzuki",
+                        "time": "52:57.100",
+                        "gap": "+21.700"
+                    }
+                },
+                "Virginio_Ferrari": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Virginio_Ferrari"
+                    ],
+                    "other_info": {
+                        "carNumber": "Virginio_Ferrari",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Suzuki",
+                        "time": "53:11.600",
+                        "gap": "+36.200"
+                    }
+                },
+                "Giacomo_Agostini": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Giacomo_Agostini"
+                    ],
+                    "other_info": {
+                        "carNumber": "Giacomo_Agostini",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Yamaha"
+                    }
+                }
+            }
+        },
         "Venezuela Grand Prix": {
             "Race": {
                 "Barry_Sheene": {
@@ -164,122 +468,6 @@
                         "laps": "28",
                         "speed": "0",
                         "constructor": "Yamaha"
-                    }
-                },
-                "Giacomo_Agostini": {
-                    "position": "DNS",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "Giacomo_Agostini"
-                    ],
-                    "other_info": {
-                        "carNumber": "Giacomo_Agostini",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Yamaha"
-                    }
-                }
-            }
-        },
-        "Austrian Grand Prix": {
-            "Race": {
-                "Jack_Findlay": {
-                    "position": "1",
-                    "points": 15,
-                    "fastest_lap": "",
-                    "team": "Suzuki",
-                    "drivers": [
-                        "Jack_Findlay"
-                    ],
-                    "other_info": {
-                        "carNumber": "Jack_Findlay",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Suzuki",
-                        "time": "51:19.260"
-                    }
-                },
-                "Max_Wiener": {
-                    "position": "2",
-                    "points": 12,
-                    "fastest_lap": "",
-                    "team": "Suzuki",
-                    "drivers": [
-                        "Max_Wiener"
-                    ],
-                    "other_info": {
-                        "carNumber": "Max_Wiener",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Suzuki",
-                        "time": "51:34.660",
-                        "gap": "+15.400"
-                    }
-                },
-                "Alex_George": {
-                    "position": "3",
-                    "points": 10,
-                    "fastest_lap": "",
-                    "team": "Suzuki",
-                    "drivers": [
-                        "Alex_George"
-                    ],
-                    "other_info": {
-                        "carNumber": "Alex_George",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Suzuki",
-                        "time": "51:35.170",
-                        "gap": "+15.910"
-                    }
-                },
-                "Helmut_Kassner": {
-                    "position": "4",
-                    "points": 8,
-                    "fastest_lap": "",
-                    "team": "Suzuki",
-                    "drivers": [
-                        "Helmut_Kassner"
-                    ],
-                    "other_info": {
-                        "carNumber": "Helmut_Kassner",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Suzuki",
-                        "time": "51:44.620",
-                        "gap": "+25.360"
-                    }
-                },
-                "Franz_Heller": {
-                    "position": "5",
-                    "points": 6,
-                    "fastest_lap": "",
-                    "team": "Suzuki",
-                    "drivers": [
-                        "Franz_Heller"
-                    ],
-                    "other_info": {
-                        "carNumber": "Franz_Heller",
-                        "laps": "34",
-                        "speed": "0",
-                        "constructor": "Suzuki"
-                    }
-                },
-                "Michael_Schmid": {
-                    "position": "6",
-                    "points": 5,
-                    "fastest_lap": "",
-                    "team": "Suzuki",
-                    "drivers": [
-                        "Michael_Schmid"
-                    ],
-                    "other_info": {
-                        "carNumber": "Michael_Schmid",
-                        "laps": "32",
-                        "speed": "0",
-                        "constructor": "Suzuki"
                     }
                 },
                 "Giacomo_Agostini": {
@@ -1295,197 +1483,9 @@
                 }
             }
         },
-        "Dutch TT": {
+        "Belgian Grand Prix": {
             "Race": {
-                "Wil_Hartog": {
-                    "position": "1",
-                    "points": 15,
-                    "fastest_lap": "",
-                    "team": "Suzuki",
-                    "drivers": [
-                        "Wil_Hartog"
-                    ],
-                    "other_info": {
-                        "carNumber": "Wil_Hartog",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Suzuki",
-                        "time": "52:35.400"
-                    }
-                },
-                "Barry_Sheene": {
-                    "position": "2",
-                    "points": 12,
-                    "fastest_lap": "",
-                    "team": "Suzuki",
-                    "drivers": [
-                        "Barry_Sheene"
-                    ],
-                    "other_info": {
-                        "carNumber": "Barry_Sheene",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Suzuki",
-                        "time": "52:41.300",
-                        "gap": "+5.900"
-                    }
-                },
-                "Pat_Hennen": {
-                    "position": "3",
-                    "points": 10,
-                    "fastest_lap": "",
-                    "team": "Suzuki",
-                    "drivers": [
-                        "Pat_Hennen"
-                    ],
-                    "other_info": {
-                        "carNumber": "Pat_Hennen",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Suzuki",
-                        "time": "52:45.900",
-                        "gap": "+10.500"
-                    }
-                },
-                "Philippe_Coulon": {
-                    "position": "4",
-                    "points": 8,
-                    "fastest_lap": "",
-                    "team": "Suzuki",
-                    "drivers": [
-                        "Philippe_Coulon"
-                    ],
-                    "other_info": {
-                        "carNumber": "Philippe_Coulon",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Suzuki",
-                        "time": "52:46.300",
-                        "gap": "+10.900"
-                    }
-                },
-                "Steve_Baker": {
-                    "position": "5",
-                    "points": 6,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "Steve_Baker"
-                    ],
-                    "other_info": {
-                        "carNumber": "Steve_Baker",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Yamaha",
-                        "time": "52:47.000",
-                        "gap": "+11.600"
-                    }
-                },
-                "Marco_Lucchinelli": {
-                    "position": "6",
-                    "points": 5,
-                    "fastest_lap": "",
-                    "team": "Suzuki",
-                    "drivers": [
-                        "Marco_Lucchinelli"
-                    ],
-                    "other_info": {
-                        "carNumber": "Marco_Lucchinelli",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Suzuki",
-                        "time": "52:47.500",
-                        "gap": "+12.100"
-                    }
-                },
-                "Teuvo_Lansivuori": {
-                    "position": "7",
-                    "points": 4,
-                    "fastest_lap": "",
-                    "team": "Suzuki",
-                    "drivers": [
-                        "Teuvo_Lansivuori"
-                    ],
-                    "other_info": {
-                        "carNumber": "Teuvo_Lansivuori",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Suzuki",
-                        "time": "52:53.600",
-                        "gap": "+18.200"
-                    }
-                },
-                "Michel_Rougerie": {
-                    "position": "8",
-                    "points": 3,
-                    "fastest_lap": "",
-                    "team": "Suzuki",
-                    "drivers": [
-                        "Michel_Rougerie"
-                    ],
-                    "other_info": {
-                        "carNumber": "Michel_Rougerie",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Suzuki",
-                        "time": "52:55.700",
-                        "gap": "+20.300"
-                    }
-                },
-                "Armando_Toracca": {
-                    "position": "9",
-                    "points": 2,
-                    "fastest_lap": "",
-                    "team": "Suzuki",
-                    "drivers": [
-                        "Armando_Toracca"
-                    ],
-                    "other_info": {
-                        "carNumber": "Armando_Toracca",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Suzuki",
-                        "time": "52:57.100",
-                        "gap": "+21.700"
-                    }
-                },
-                "Virginio_Ferrari": {
-                    "position": "10",
-                    "points": 1,
-                    "fastest_lap": "",
-                    "team": "Suzuki",
-                    "drivers": [
-                        "Virginio_Ferrari"
-                    ],
-                    "other_info": {
-                        "carNumber": "Virginio_Ferrari",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Suzuki",
-                        "time": "53:11.600",
-                        "gap": "+36.200"
-                    }
-                },
-                "Giacomo_Agostini": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "Giacomo_Agostini"
-                    ],
-                    "other_info": {
-                        "carNumber": "Giacomo_Agostini",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Yamaha"
-                    }
-                }
-            }
-        },
-        "Belgium Grand Prix": {
-            "Race": {
-                "Barry_Sheene": {
+                "7": {
                     "position": "1",
                     "points": 15,
                     "fastest_lap": "",
@@ -1494,14 +1494,11 @@
                         "Barry_Sheene"
                     ],
                     "other_info": {
-                        "carNumber": "Barry_Sheene",
-                        "laps": "0",
-                        "speed": "0",
                         "constructor": "Suzuki",
-                        "time": "38:58.500"
+                        "time": "38'58.500"
                     }
                 },
-                "Steve_Baker": {
+                "2": {
                     "position": "2",
                     "points": 12,
                     "fastest_lap": "",
@@ -1510,15 +1507,11 @@
                         "Steve_Baker"
                     ],
                     "other_info": {
-                        "carNumber": "Steve_Baker",
-                        "laps": "0",
-                        "speed": "0",
                         "constructor": "Yamaha",
-                        "time": "39:09.800",
-                        "gap": "+11.300"
+                        "time": "+11.300"
                     }
                 },
-                "Pat_Hennen": {
+                "3": {
                     "position": "3",
                     "points": 10,
                     "fastest_lap": "",
@@ -1527,15 +1520,11 @@
                         "Pat_Hennen"
                     ],
                     "other_info": {
-                        "carNumber": "Pat_Hennen",
-                        "laps": "0",
-                        "speed": "0",
                         "constructor": "Suzuki",
-                        "time": "39:13.100",
-                        "gap": "+14.600"
+                        "time": "+14.600"
                     }
                 },
-                "Teuvo_Lansivuori": {
+                "41": {
                     "position": "4",
                     "points": 8,
                     "fastest_lap": "",
@@ -1544,15 +1533,11 @@
                         "Teuvo_Lansivuori"
                     ],
                     "other_info": {
-                        "carNumber": "Teuvo_Lansivuori",
-                        "laps": "0",
-                        "speed": "0",
                         "constructor": "Suzuki",
-                        "time": "39:14.100",
-                        "gap": "+15.600"
+                        "time": "+15.600"
                     }
                 },
-                "Steve_Parrish": {
+                "11": {
                     "position": "5",
                     "points": 6,
                     "fastest_lap": "",
@@ -1561,15 +1546,11 @@
                         "Steve_Parrish"
                     ],
                     "other_info": {
-                        "carNumber": "Steve_Parrish",
-                        "laps": "0",
-                        "speed": "0",
                         "constructor": "Suzuki",
-                        "time": "39:16.000",
-                        "gap": "+17.500"
+                        "time": "+17.500"
                     }
                 },
-                "Philippe_Coulon": {
+                "27": {
                     "position": "6",
                     "points": 5,
                     "fastest_lap": "",
@@ -1578,15 +1559,11 @@
                         "Philippe_Coulon"
                     ],
                     "other_info": {
-                        "carNumber": "Philippe_Coulon",
-                        "laps": "0",
-                        "speed": "0",
                         "constructor": "Suzuki",
-                        "time": "39:24.300",
-                        "gap": "+25.800"
+                        "time": "+25.800"
                     }
                 },
-                "Wil_Hartog": {
+                "19": {
                     "position": "7",
                     "points": 4,
                     "fastest_lap": "",
@@ -1595,15 +1572,11 @@
                         "Wil_Hartog"
                     ],
                     "other_info": {
-                        "carNumber": "Wil_Hartog",
-                        "laps": "0",
-                        "speed": "0",
                         "constructor": "Suzuki",
-                        "time": "39:31.500",
-                        "gap": "+33.000"
+                        "time": "+33.000"
                     }
                 },
-                "Giacomo_Agostini": {
+                "1": {
                     "position": "8",
                     "points": 3,
                     "fastest_lap": "",
@@ -1612,15 +1585,11 @@
                         "Giacomo_Agostini"
                     ],
                     "other_info": {
-                        "carNumber": "Giacomo_Agostini",
-                        "laps": "0",
-                        "speed": "0",
                         "constructor": "Yamaha",
-                        "time": "39:35.300",
-                        "gap": "+36.800"
+                        "time": "+36.800"
                     }
                 },
-                "Jack_Findlay": {
+                "26": {
                     "position": "9",
                     "points": 2,
                     "fastest_lap": "",
@@ -1629,15 +1598,11 @@
                         "Jack_Findlay"
                     ],
                     "other_info": {
-                        "carNumber": "Jack_Findlay",
-                        "laps": "0",
-                        "speed": "0",
                         "constructor": "Suzuki",
-                        "time": "40:22.000",
-                        "gap": "+83.500"
+                        "time": "+1'23.500"
                     }
                 },
-                "John_Williams": {
+                "14": {
                     "position": "10",
                     "points": 1,
                     "fastest_lap": "",
@@ -1646,12 +1611,346 @@
                         "John_Williams"
                     ],
                     "other_info": {
-                        "carNumber": "John_Williams",
-                        "laps": "0",
-                        "speed": "0",
                         "constructor": "Suzuki",
-                        "time": "40:22.200",
-                        "gap": "+83.700"
+                        "time": "+1'23.700"
+                    }
+                },
+                "24": {
+                    "position": "11",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Armando_Toracca"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki",
+                        "time": "+1'32.000"
+                    }
+                },
+                "17": {
+                    "position": "12",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Max_Wiener"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki",
+                        "time": "+1'44.700"
+                    }
+                },
+                "12": {
+                    "position": "13",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Dave_Potter"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki",
+                        "time": "+2'11.700"
+                    }
+                },
+                "34": {
+                    "position": "14",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Leslie_van Breda"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki",
+                        "time": "+2'24.800"
+                    }
+                },
+                "39": {
+                    "position": "15",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Harald_Merkl"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "time": "+2'27.000"
+                    }
+                },
+                "35": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Hans-Otto_Buteneth"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "time": "+3'06.400"
+                    }
+                },
+                "53": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Børge_Nielsen"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki",
+                        "time": "+3'13.400"
+                    }
+                },
+                "6": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Bo_Granath"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki",
+                        "time": "+3'31.800"
+                    }
+                },
+                "54": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Willem_Zoet"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki",
+                        "time": "+3'32.900"
+                    }
+                },
+                "37": {
+                    "position": "20",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Franz_Heller"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki",
+                        "time": "+3'42.800"
+                    }
+                },
+                "35#2": {
+                    "position": "21",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Markku_Matikainen"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki",
+                        "time": "+1 lap"
+                    }
+                },
+                "77": {
+                    "position": "22",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Jean_Philippe Orban"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki",
+                        "time": "+2 laps"
+                    }
+                },
+                "21": {
+                    "position": "23",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Michel_Rougerie"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki",
+                        "time": "+2 laps"
+                    }
+                },
+                "20": {
+                    "position": "24",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "John_Woodley"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki",
+                        "time": "+3 laps"
+                    }
+                },
+                "23": {
+                    "position": "25",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Alan_North"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki",
+                        "time": "+3 laps"
+                    }
+                },
+                "18": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Virginio_Ferrari"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki",
+                        "time": "Retired"
+                    }
+                },
+                "17#2": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Gianfranco_Bonera"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki",
+                        "time": "Retired"
+                    }
+                },
+                "??": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Giovanni_Rolando"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki",
+                        "time": "Retired"
+                    }
+                },
+                "??#2": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Karl_Auer"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki",
+                        "time": "Retired"
+                    }
+                },
+                "4": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Marco_Lucchinelli"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki",
+                        "time": "Retired"
+                    }
+                },
+                "??#3": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Jean_Francois Baldé"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "time": "Retired"
+                    }
+                },
+                "6#2": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "John_Newbold"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki",
+                        "time": "Retired"
+                    }
+                },
+                "??#4": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Kees_van der Kruijs"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "time": "Retired"
+                    }
+                },
+                "43": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Helmut_Kassner"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki",
+                        "time": "Retired"
+                    }
+                },
+                "??#5": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Takazumi_Katayama"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "time": "Retired"
+                    }
+                },
+                "??#6": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Hervé_Regout"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "time": "Retired"
                     }
                 }
             }
@@ -2067,9 +2366,9 @@
                 }
             }
         },
-        "Finland Grand Prix": {
+        "Finnish Grand Prix": {
             "Race": {
-                "Johnny_Cecotto": {
+                "14": {
                     "position": "1",
                     "points": 15,
                     "fastest_lap": "",
@@ -2078,14 +2377,11 @@
                         "Johnny_Cecotto"
                     ],
                     "other_info": {
-                        "carNumber": "Johnny_Cecotto",
-                        "laps": "0",
-                        "speed": "0",
                         "constructor": "Yamaha",
-                        "time": "46:50.000"
+                        "time": "46'50.000"
                     }
                 },
-                "Marco_Lucchinelli": {
+                "4": {
                     "position": "2",
                     "points": 12,
                     "fastest_lap": "",
@@ -2094,15 +2390,11 @@
                         "Marco_Lucchinelli"
                     ],
                     "other_info": {
-                        "carNumber": "Marco_Lucchinelli",
-                        "laps": "0",
-                        "speed": "0",
                         "constructor": "Suzuki",
-                        "time": "47:33.000",
-                        "gap": "+43.000"
+                        "time": "+43.000"
                     }
                 },
-                "Gianfranco_Bonera": {
+                "22": {
                     "position": "3",
                     "points": 10,
                     "fastest_lap": "",
@@ -2111,15 +2403,11 @@
                         "Gianfranco_Bonera"
                     ],
                     "other_info": {
-                        "carNumber": "Gianfranco_Bonera",
-                        "laps": "0",
-                        "speed": "0",
                         "constructor": "Suzuki",
-                        "time": "47:41.600",
-                        "gap": "+51.600"
+                        "time": "+51.600"
                     }
                 },
-                "Michel_Rougerie": {
+                "12": {
                     "position": "4",
                     "points": 8,
                     "fastest_lap": "",
@@ -2128,15 +2416,11 @@
                         "Michel_Rougerie"
                     ],
                     "other_info": {
-                        "carNumber": "Michel_Rougerie",
-                        "laps": "0",
-                        "speed": "0",
                         "constructor": "Suzuki",
-                        "time": "47:54.700",
-                        "gap": "+64.700"
+                        "time": "+1'04.700"
                     }
                 },
-                "Steve_Parrish": {
+                "21": {
                     "position": "5",
                     "points": 6,
                     "fastest_lap": "",
@@ -2145,15 +2429,11 @@
                         "Steve_Parrish"
                     ],
                     "other_info": {
-                        "carNumber": "Steve_Parrish",
-                        "laps": "0",
-                        "speed": "0",
                         "constructor": "Suzuki",
-                        "time": "48:07.200",
-                        "gap": "+77.200"
+                        "time": "+1'17.200"
                     }
                 },
-                "Barry_Sheene": {
+                "7": {
                     "position": "6",
                     "points": 5,
                     "fastest_lap": "",
@@ -2162,15 +2442,11 @@
                         "Barry_Sheene"
                     ],
                     "other_info": {
-                        "carNumber": "Barry_Sheene",
-                        "laps": "0",
-                        "speed": "0",
                         "constructor": "Suzuki",
-                        "time": "48:08.700",
-                        "gap": "+78.700"
+                        "time": "+1'18.700"
                     }
                 },
-                "Teuvo_Lansivuori": {
+                "2": {
                     "position": "7",
                     "points": 4,
                     "fastest_lap": "",
@@ -2179,15 +2455,11 @@
                         "Teuvo_Lansivuori"
                     ],
                     "other_info": {
-                        "carNumber": "Teuvo_Lansivuori",
-                        "laps": "0",
-                        "speed": "0",
                         "constructor": "Suzuki",
-                        "time": "48:46.500",
-                        "gap": "+116.500"
+                        "time": "+1'56.500"
                     }
                 },
-                "Armando_Toracca": {
+                "26": {
                     "position": "8",
                     "points": 3,
                     "fastest_lap": "",
@@ -2196,13 +2468,11 @@
                         "Armando_Toracca"
                     ],
                     "other_info": {
-                        "carNumber": "Armando_Toracca",
-                        "laps": "21",
-                        "speed": "0",
-                        "constructor": "Suzuki"
+                        "constructor": "Suzuki",
+                        "time": "+1 lap"
                     }
                 },
-                "Jean_Philippe Orban": {
+                "30": {
                     "position": "9",
                     "points": 2,
                     "fastest_lap": "",
@@ -2211,13 +2481,11 @@
                         "Jean_Philippe Orban"
                     ],
                     "other_info": {
-                        "carNumber": "Jean_Philippe Orban",
-                        "laps": "21",
-                        "speed": "0",
-                        "constructor": "Suzuki"
+                        "constructor": "Suzuki",
+                        "time": "+1 lap"
                     }
                 },
-                "Karl_Auer": {
+                "11": {
                     "position": "10",
                     "points": 1,
                     "fastest_lap": "",
@@ -2226,13 +2494,180 @@
                         "Karl_Auer"
                     ],
                     "other_info": {
-                        "carNumber": "Karl_Auer",
-                        "laps": "21",
-                        "speed": "0",
-                        "constructor": "Yamaha"
+                        "constructor": "Yamaha",
+                        "time": "+1 lap"
                     }
                 },
-                "Giacomo_Agostini": {
+                "20": {
+                    "position": "11",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Børge_Nielsen"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki",
+                        "time": "+1 lap"
+                    }
+                },
+                "25": {
+                    "position": "12",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Steve_Baker"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "time": "+1 lap"
+                    }
+                },
+                "17": {
+                    "position": "13",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Alex_George"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki",
+                        "time": "+1 lap"
+                    }
+                },
+                "27": {
+                    "position": "14",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Bo_Granath"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki",
+                        "time": "+1 lap"
+                    }
+                },
+                "34": {
+                    "position": "15",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Markku_Matikainen"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki",
+                        "time": "+2 laps"
+                    }
+                },
+                "23": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Ron_Kirkham"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "time": "+2 laps"
+                    }
+                },
+                "39": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Jean_Marc Toffolo"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "time": "+2 laps"
+                    }
+                },
+                "36": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Ossi_Nikkinen"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "time": "+3 laps"
+                    }
+                },
+                "35": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Pentti_Lehtela"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "time": "Retired"
+                    }
+                },
+                "3": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Pat_Hennen"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki",
+                        "time": "Retired"
+                    }
+                },
+                "42": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Stuart_Avant"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki",
+                        "time": "Retired"
+                    }
+                },
+                "9": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "John_Williams"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki",
+                        "time": "Retired"
+                    }
+                },
+                "37": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Christian_Estrosi"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki",
+                        "time": "Retired"
+                    }
+                },
+                "1": {
                     "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
@@ -2241,10 +2676,125 @@
                         "Giacomo_Agostini"
                     ],
                     "other_info": {
-                        "carNumber": "Giacomo_Agostini",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Yamaha"
+                        "constructor": "Yamaha",
+                        "time": "Retired"
+                    }
+                },
+                "29": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Jean_Claude Hogrel"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "time": "Retired"
+                    }
+                },
+                "10": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Kimmo_Kopra"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki",
+                        "time": "Retired"
+                    }
+                },
+                "8": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Jack_Findlay"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki",
+                        "time": "Retired"
+                    }
+                },
+                "16": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Virginio_Ferrari"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki",
+                        "time": "Accident"
+                    }
+                },
+                "24": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Giovanni_Rolando"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki",
+                        "time": "Accident"
+                    }
+                },
+                "15": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Wil_Hartog"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki",
+                        "time": "Retired"
+                    }
+                },
+                "??": {
+                    "position": "DNS",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Teuvo_Laakso"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki",
+                        "time": "Did not start"
+                    }
+                },
+                "??#2": {
+                    "position": "DNS",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Bernard_Regoni"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki",
+                        "time": "Did not start"
+                    }
+                },
+                "??#3": {
+                    "position": "DNS",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Kenny_Roberts"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "time": "Did not start"
                     }
                 }
             }

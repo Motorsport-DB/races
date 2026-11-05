@@ -347,8 +347,41 @@
                 }
             }
         },
-        "Monza": {
+        "Nations Grand Prix": {
             "Race": {
+                "Eric_Saul": {
+                    "position": "1",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Eric_Saul"
+                    ],
+                    "other_info": {
+                        "carNumber": "Eric_Saul",
+                        "laps": "20",
+                        "speed": "0",
+                        "constructor": "Yamaha",
+                        "time": "46:12.230"
+                    }
+                },
+                "Maurizio_Massimiani": {
+                    "position": "2",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Ad_Majora",
+                    "drivers": [
+                        "Maurizio_Massimiani"
+                    ],
+                    "other_info": {
+                        "carNumber": "Maurizio_Massimiani",
+                        "laps": "20",
+                        "speed": "0",
+                        "constructor": "Ad Majora",
+                        "time": "46:22.180",
+                        "gap": "+9.950"
+                    }
+                },
                 "Anton_Mang": {
                     "position": "3",
                     "points": 10,
@@ -358,7 +391,46 @@
                         "Anton_Mang"
                     ],
                     "other_info": {
-                        "constructor": "Kawasaki"
+                        "carNumber": "Anton_Mang",
+                        "laps": "20",
+                        "speed": "0",
+                        "constructor": "Kawasaki",
+                        "time": "46:22.960",
+                        "gap": "+10.730"
+                    }
+                },
+                "Martin_Wimmer": {
+                    "position": "4",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Martin_Wimmer"
+                    ],
+                    "other_info": {
+                        "carNumber": "Martin_Wimmer",
+                        "laps": "20",
+                        "speed": "0",
+                        "constructor": "Yamaha",
+                        "time": "46:56.640",
+                        "gap": "+44.410"
+                    }
+                },
+                "Patrick_Fernandez": {
+                    "position": "5",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Patrick_Fernandez"
+                    ],
+                    "other_info": {
+                        "carNumber": "Patrick_Fernandez",
+                        "laps": "20",
+                        "speed": "0",
+                        "constructor": "Yamaha",
+                        "time": "46:58.070",
+                        "gap": "+45.840"
                     }
                 },
                 "Jean_Francois Baldé": {
@@ -370,6 +442,77 @@
                         "Jean_Francois Baldé"
                     ],
                     "other_info": {
+                        "carNumber": "Jean_Francois Baldé",
+                        "laps": "20",
+                        "speed": "0",
+                        "constructor": "Kawasaki",
+                        "time": "47:08.040",
+                        "gap": "+55.810"
+                    }
+                },
+                "Thierry_Espié": {
+                    "position": "7",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Thierry_Espié"
+                    ],
+                    "other_info": {
+                        "carNumber": "Thierry_Espié",
+                        "laps": "20",
+                        "speed": "0",
+                        "constructor": "Yamaha",
+                        "time": "47:08.280",
+                        "gap": "+56.050"
+                    }
+                },
+                "Edi_Stoellinger": {
+                    "position": "8",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "Kawasaki",
+                    "drivers": [
+                        "Edi_Stoellinger"
+                    ],
+                    "other_info": {
+                        "carNumber": "Edi_Stoellinger",
+                        "laps": "20",
+                        "speed": "0",
+                        "constructor": "Kawasaki",
+                        "time": "47:58.120",
+                        "gap": "+105.890"
+                    }
+                },
+                "Christian_Estrosi": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Christian_Estrosi"
+                    ],
+                    "other_info": {
+                        "carNumber": "Christian_Estrosi",
+                        "laps": "20",
+                        "speed": "0",
+                        "constructor": "Yamaha",
+                        "time": "48:05.890",
+                        "gap": "+113.660"
+                    }
+                },
+                "Jean_Louis Guignabodet": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "Kawasaki",
+                    "drivers": [
+                        "Jean_Louis Guignabodet"
+                    ],
+                    "other_info": {
+                        "carNumber": "Jean_Louis Guignabodet",
+                        "laps": "19",
+                        "speed": "0",
                         "constructor": "Kawasaki"
                     }
                 },
@@ -397,42 +540,6 @@
                         "constructor": "Yamaha"
                     }
                 },
-                "Patrick_Fernandez": {
-                    "position": "5",
-                    "points": 6,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "Patrick_Fernandez"
-                    ],
-                    "other_info": {
-                        "constructor": "Yamaha"
-                    }
-                },
-                "Jean_Louis Guignabodet": {
-                    "position": "10",
-                    "points": 1,
-                    "fastest_lap": "",
-                    "team": "Kawasaki",
-                    "drivers": [
-                        "Jean_Louis Guignabodet"
-                    ],
-                    "other_info": {
-                        "constructor": "Kawasaki"
-                    }
-                },
-                "Martin_Wimmer": {
-                    "position": "4",
-                    "points": 8,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "Martin_Wimmer"
-                    ],
-                    "other_info": {
-                        "constructor": "Yamaha"
-                    }
-                },
                 "Didier_de Radiguès": {
                     "position": "13",
                     "points": 0,
@@ -455,42 +562,6 @@
                     ],
                     "other_info": {
                         "constructor": "Yamaha"
-                    }
-                },
-                "Thierry_Espié": {
-                    "position": "7",
-                    "points": 4,
-                    "fastest_lap": "",
-                    "team": "Chevallier-Yamaha",
-                    "drivers": [
-                        "Thierry_Espié"
-                    ],
-                    "other_info": {
-                        "constructor": "Chevallier-Yamaha"
-                    }
-                },
-                "Maurizio_Massimiani": {
-                    "position": "2",
-                    "points": 12,
-                    "fastest_lap": "",
-                    "team": "Ad_Majora",
-                    "drivers": [
-                        "Maurizio_Massimiani"
-                    ],
-                    "other_info": {
-                        "constructor": "Ad Majora"
-                    }
-                },
-                "Eric_Saul": {
-                    "position": "1",
-                    "points": 15,
-                    "fastest_lap": "",
-                    "team": "Chevallier-Yamaha",
-                    "drivers": [
-                        "Eric_Saul"
-                    ],
-                    "other_info": {
-                        "constructor": "Chevallier-Yamaha"
                     }
                 },
                 "Paolo_Ferretti": {
@@ -529,18 +600,6 @@
                         "constructor": "Armstrong"
                     }
                 },
-                "Christian_Estrosi": {
-                    "position": "9",
-                    "points": 2,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "Christian_Estrosi"
-                    ],
-                    "other_info": {
-                        "constructor": "Yamaha"
-                    }
-                },
                 "Graeme_Mcgregor": {
                     "position": "DNF",
                     "points": 0,
@@ -572,18 +631,6 @@
                     "team": "Kawasaki",
                     "drivers": [
                         "Pier_Luigi Conforti"
-                    ],
-                    "other_info": {
-                        "constructor": "Kawasaki"
-                    }
-                },
-                "Edi_Stoellinger": {
-                    "position": "8",
-                    "points": 3,
-                    "fastest_lap": "",
-                    "team": "Kawasaki",
-                    "drivers": [
-                        "Edi_Stoellinger"
                     ],
                     "other_info": {
                         "constructor": "Kawasaki"
@@ -940,6 +987,1023 @@
                         "constructor": "Yamaha",
                         "time": "40:34.920",
                         "gap": "+37.060"
+                    }
+                }
+            }
+        },
+        "Dutch TT": {
+            "Race": {
+                "Anton_Mang": {
+                    "position": "1",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Kawasaki",
+                    "drivers": [
+                        "Anton_Mang"
+                    ],
+                    "other_info": {
+                        "carNumber": "Anton_Mang",
+                        "laps": "15",
+                        "speed": "0",
+                        "constructor": "Kawasaki",
+                        "time": "45:37.130"
+                    }
+                },
+                "Carlos_Lavado": {
+                    "position": "2",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Carlos_Lavado"
+                    ],
+                    "other_info": {
+                        "carNumber": "Carlos_Lavado",
+                        "laps": "15",
+                        "speed": "0",
+                        "constructor": "Yamaha",
+                        "time": "45:37.340",
+                        "gap": "+0.210"
+                    }
+                },
+                "Patrick_Fernandez": {
+                    "position": "3",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Patrick_Fernandez"
+                    ],
+                    "other_info": {
+                        "carNumber": "Patrick_Fernandez",
+                        "laps": "15",
+                        "speed": "0",
+                        "constructor": "Yamaha",
+                        "time": "46:06.970",
+                        "gap": "+29.840"
+                    }
+                },
+                "Roland_Freymond": {
+                    "position": "4",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Ad_Majora",
+                    "drivers": [
+                        "Roland_Freymond"
+                    ],
+                    "other_info": {
+                        "carNumber": "Roland_Freymond",
+                        "laps": "15",
+                        "speed": "0",
+                        "constructor": "Ad Majora",
+                        "time": "46:07.430",
+                        "gap": "+30.300"
+                    }
+                },
+                "Jeffrey_Sayle": {
+                    "position": "5",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Jeffrey_Sayle"
+                    ],
+                    "other_info": {
+                        "carNumber": "Jeffrey_Sayle",
+                        "laps": "15",
+                        "speed": "0",
+                        "constructor": "Yamaha",
+                        "time": "46:07.430",
+                        "gap": "+30.300"
+                    }
+                },
+                "Jean_Francois Baldé": {
+                    "position": "6",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "Kawasaki",
+                    "drivers": [
+                        "Jean_Francois Baldé"
+                    ],
+                    "other_info": {
+                        "carNumber": "Jean_Francois Baldé",
+                        "laps": "15",
+                        "speed": "0",
+                        "constructor": "Kawasaki",
+                        "time": "46:07.890",
+                        "gap": "+30.760"
+                    }
+                },
+                "Jean_Louis Guignabodet": {
+                    "position": "7",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "Kawasaki",
+                    "drivers": [
+                        "Jean_Louis Guignabodet"
+                    ],
+                    "other_info": {
+                        "carNumber": "Jean_Louis Guignabodet",
+                        "laps": "15",
+                        "speed": "0",
+                        "constructor": "Kawasaki",
+                        "time": "46:31.750",
+                        "gap": "+54.620"
+                    }
+                },
+                "Martin_Wimmer": {
+                    "position": "8",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Martin_Wimmer"
+                    ],
+                    "other_info": {
+                        "carNumber": "Martin_Wimmer",
+                        "laps": "15",
+                        "speed": "0",
+                        "constructor": "Yamaha",
+                        "time": "46:34.440",
+                        "gap": "+57.310"
+                    }
+                },
+                "R_Schlachter": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "R_Schlachter"
+                    ],
+                    "other_info": {
+                        "carNumber": "R_Schlachter",
+                        "laps": "15",
+                        "speed": "0",
+                        "constructor": "Yamaha",
+                        "time": "46:34.810",
+                        "gap": "+57.680"
+                    }
+                },
+                "Didier_de Radiguès": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Didier_de Radiguès"
+                    ],
+                    "other_info": {
+                        "carNumber": "Didier_de Radiguès",
+                        "laps": "15",
+                        "speed": "0",
+                        "constructor": "Yamaha",
+                        "time": "46:43.030",
+                        "gap": "+65.900"
+                    }
+                }
+            }
+        },
+        "San Marino Grand Prix": {
+            "Race": {
+                "Anton_Mang": {
+                    "position": "1",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Kawasaki",
+                    "drivers": [
+                        "Anton_Mang"
+                    ],
+                    "other_info": {
+                        "carNumber": "Anton_Mang",
+                        "laps": "22",
+                        "speed": "0",
+                        "constructor": "Kawasaki",
+                        "time": "45:43.810"
+                    }
+                },
+                "Roland_Freymond": {
+                    "position": "2",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Ad_Majora",
+                    "drivers": [
+                        "Roland_Freymond"
+                    ],
+                    "other_info": {
+                        "carNumber": "Roland_Freymond",
+                        "laps": "22",
+                        "speed": "0",
+                        "constructor": "Ad Majora",
+                        "time": "46:03.720",
+                        "gap": "+19.910"
+                    }
+                },
+                "Jean_Francois Baldé": {
+                    "position": "3",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Kawasaki",
+                    "drivers": [
+                        "Jean_Francois Baldé"
+                    ],
+                    "other_info": {
+                        "carNumber": "Jean_Francois Baldé",
+                        "laps": "22",
+                        "speed": "0",
+                        "constructor": "Kawasaki",
+                        "time": "46:06.830",
+                        "gap": "+23.020"
+                    }
+                },
+                "Pier_Luigi Conforti": {
+                    "position": "4",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Kawasaki",
+                    "drivers": [
+                        "Pier_Luigi Conforti"
+                    ],
+                    "other_info": {
+                        "carNumber": "Pier_Luigi Conforti",
+                        "laps": "22",
+                        "speed": "0",
+                        "constructor": "Kawasaki",
+                        "time": "46:17.010",
+                        "gap": "+33.200"
+                    }
+                },
+                "Thierry_Espié": {
+                    "position": "5",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Pernod",
+                    "drivers": [
+                        "Thierry_Espié"
+                    ],
+                    "other_info": {
+                        "carNumber": "Thierry_Espié",
+                        "laps": "22",
+                        "speed": "0",
+                        "constructor": "Pernod",
+                        "time": "46:24.130",
+                        "gap": "+40.320"
+                    }
+                },
+                "Jean_Louis Tournadre": {
+                    "position": "6",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Jean_Louis Tournadre"
+                    ],
+                    "other_info": {
+                        "carNumber": "Jean_Louis Tournadre",
+                        "laps": "22",
+                        "speed": "0",
+                        "constructor": "Yamaha",
+                        "time": "46:29.960",
+                        "gap": "+46.150"
+                    }
+                },
+                "Christian_Estrosi": {
+                    "position": "7",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Christian_Estrosi"
+                    ],
+                    "other_info": {
+                        "carNumber": "Christian_Estrosi",
+                        "laps": "22",
+                        "speed": "0",
+                        "constructor": "Yamaha",
+                        "time": "46:30.880",
+                        "gap": "+47.070"
+                    }
+                },
+                "Patrick_Fernandez": {
+                    "position": "8",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Patrick_Fernandez"
+                    ],
+                    "other_info": {
+                        "carNumber": "Patrick_Fernandez",
+                        "laps": "22",
+                        "speed": "0",
+                        "constructor": "Yamaha",
+                        "time": "46:33.380",
+                        "gap": "+49.570"
+                    }
+                },
+                "Jacques_Bolle": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Jacques_Bolle"
+                    ],
+                    "other_info": {
+                        "carNumber": "Jacques_Bolle",
+                        "laps": "22",
+                        "speed": "0",
+                        "constructor": "Yamaha",
+                        "time": "46:36.360",
+                        "gap": "+52.550"
+                    }
+                },
+                "Didier_de Radiguès": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Didier_de Radiguès"
+                    ],
+                    "other_info": {
+                        "carNumber": "Didier_de Radiguès",
+                        "laps": "22",
+                        "speed": "0",
+                        "constructor": "Yamaha",
+                        "time": "46:42.970",
+                        "gap": "+59.160"
+                    }
+                }
+            }
+        },
+        "Swedish Grand Prix": {
+            "Race": {
+                "Anton_Mang": {
+                    "position": "1",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Kawasaki",
+                    "drivers": [
+                        "Anton_Mang"
+                    ],
+                    "other_info": {
+                        "carNumber": "Anton_Mang",
+                        "laps": "25",
+                        "speed": "0",
+                        "constructor": "Kawasaki",
+                        "time": "43:59.230"
+                    }
+                },
+                "Roland_Freymond": {
+                    "position": "2",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Ad_Majora",
+                    "drivers": [
+                        "Roland_Freymond"
+                    ],
+                    "other_info": {
+                        "carNumber": "Roland_Freymond",
+                        "laps": "25",
+                        "speed": "0",
+                        "constructor": "Ad Majora",
+                        "time": "44:15.270",
+                        "gap": "+16.040"
+                    }
+                },
+                "Jean_Francois Baldé": {
+                    "position": "3",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Kawasaki",
+                    "drivers": [
+                        "Jean_Francois Baldé"
+                    ],
+                    "other_info": {
+                        "carNumber": "Jean_Francois Baldé",
+                        "laps": "25",
+                        "speed": "0",
+                        "constructor": "Kawasaki",
+                        "time": "44:17.910",
+                        "gap": "+18.680"
+                    }
+                },
+                "Jean_Louis Guignabodet": {
+                    "position": "4",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Kawasaki",
+                    "drivers": [
+                        "Jean_Louis Guignabodet"
+                    ],
+                    "other_info": {
+                        "carNumber": "Jean_Louis Guignabodet",
+                        "laps": "25",
+                        "speed": "0",
+                        "constructor": "Kawasaki",
+                        "time": "44:28.780",
+                        "gap": "+29.550"
+                    }
+                },
+                "Jean_Louis Tournadre": {
+                    "position": "5",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Jean_Louis Tournadre"
+                    ],
+                    "other_info": {
+                        "carNumber": "Jean_Louis Tournadre",
+                        "laps": "25",
+                        "speed": "0",
+                        "constructor": "Yamaha",
+                        "time": "44:32.400",
+                        "gap": "+33.170"
+                    }
+                },
+                "Christian_Estrosi": {
+                    "position": "6",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "Pernod",
+                    "drivers": [
+                        "Christian_Estrosi"
+                    ],
+                    "other_info": {
+                        "carNumber": "Christian_Estrosi",
+                        "laps": "25",
+                        "speed": "0",
+                        "constructor": "Pernod",
+                        "time": "44:32.730",
+                        "gap": "+33.500"
+                    }
+                },
+                "Martin_Wimmer": {
+                    "position": "7",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Martin_Wimmer"
+                    ],
+                    "other_info": {
+                        "carNumber": "Martin_Wimmer",
+                        "laps": "25",
+                        "speed": "0",
+                        "constructor": "Yamaha",
+                        "time": "44:32.970",
+                        "gap": "+33.740"
+                    }
+                },
+                "Didier_de Radiguès": {
+                    "position": "8",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Didier_de Radiguès"
+                    ],
+                    "other_info": {
+                        "carNumber": "Didier_de Radiguès",
+                        "laps": "25",
+                        "speed": "0",
+                        "constructor": "Yamaha",
+                        "time": "44:39.260",
+                        "gap": "+40.030"
+                    }
+                },
+                "R_Schlachter": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "R_Schlachter"
+                    ],
+                    "other_info": {
+                        "carNumber": "R_Schlachter",
+                        "laps": "25",
+                        "speed": "0",
+                        "constructor": "Yamaha",
+                        "time": "44:54.640",
+                        "gap": "+55.410"
+                    }
+                },
+                "B_Elgh": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "B_Elgh"
+                    ],
+                    "other_info": {
+                        "carNumber": "B_Elgh",
+                        "laps": "25",
+                        "speed": "0",
+                        "constructor": "Yamaha",
+                        "time": "45:05.020",
+                        "gap": "+65.790"
+                    }
+                }
+            }
+        },
+        "Czechoslovak Grand Prix": {
+            "Race": {
+                "Anton_Mang": {
+                    "position": "1",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Kawasaki",
+                    "drivers": [
+                        "Anton_Mang"
+                    ],
+                    "other_info": {
+                        "constructor": "Kawasaki",
+                        "time": "42'43.250"
+                    }
+                },
+                "Roland_Freymond": {
+                    "position": "2",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Roland_Freymond"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "time": "43'09.490"
+                    }
+                },
+                "Jean_Louis Tournadre": {
+                    "position": "3",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Jean_Louis Tournadre"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "time": "43'12.600"
+                    }
+                },
+                "Didier_de Radiguès": {
+                    "position": "4",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Didier_de Radiguès"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "time": "43'13.150"
+                    }
+                },
+                "Roger_Sibille": {
+                    "position": "5",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Roger_Sibille"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "time": "43'23.450"
+                    }
+                },
+                "Paolo_Ferretti": {
+                    "position": "6",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "Ad_Majora",
+                    "drivers": [
+                        "Paolo_Ferretti"
+                    ],
+                    "other_info": {
+                        "constructor": "Ad Majora",
+                        "time": "43'23.900"
+                    }
+                },
+                "Jean_Louis Guignabodet": {
+                    "position": "7",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "Kawasaki",
+                    "drivers": [
+                        "Jean_Louis Guignabodet"
+                    ],
+                    "other_info": {
+                        "constructor": "Kawasaki",
+                        "time": "43'24.210"
+                    }
+                },
+                "Martin_Wimmer": {
+                    "position": "8",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Martin_Wimmer"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "time": "43'32.770"
+                    }
+                },
+                "Jean_Francois Baldé": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Jean_Francois Baldé"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "time": "43'33.160"
+                    }
+                },
+                "Siegfried_Minich": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Siegfried_Minich"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "time": "43'55.430"
+                    }
+                },
+                "Bruno_Kneubühler": {
+                    "position": "11",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Rotax",
+                    "drivers": [
+                        "Bruno_Kneubühler"
+                    ],
+                    "other_info": {
+                        "constructor": "Rotax",
+                        "time": "43'57.100"
+                    }
+                },
+                "Franco_Merchegiani": {
+                    "position": "12",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Franco_Merchegiani"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "time": "43'57.500"
+                    }
+                },
+                "Jacques_Cornu": {
+                    "position": "13",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Jacques_Cornu"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "time": "44'12.560"
+                    }
+                },
+                "Guy_Batesti": {
+                    "position": "14",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Guy_Batesti"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "time": "44'15.160"
+                    }
+                },
+                "André_Gouin": {
+                    "position": "15",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "André_Gouin"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "time": "44'21.110"
+                    }
+                },
+                "Manfred_Obinger": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Manfred_Obinger"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "time": "44'21.500"
+                    }
+                },
+                "Karl-Thomas_Grassel": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Karl-Thomas_Grassel"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "time": "44'22.190"
+                    }
+                },
+                "Pierre_Tocco": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Pierre_Tocco"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "time": "44'22.400"
+                    }
+                },
+                "Walter_Villa": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Walter_Villa"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "time": "44'43.740"
+                    }
+                },
+                "Pierpaolo_Bianchi": {
+                    "position": "20",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Morbidelli",
+                    "drivers": [
+                        "Pierpaolo_Bianchi"
+                    ],
+                    "other_info": {
+                        "constructor": "Morbidelli",
+                        "time": "44'44.000"
+                    }
+                },
+                "Jean-Jacques_Peyre": {
+                    "position": "21",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Jean-Jacques_Peyre"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "time": "44'55.490"
+                    }
+                },
+                "August_Auinger": {
+                    "position": "22",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Rotax",
+                    "drivers": [
+                        "August_Auinger"
+                    ],
+                    "other_info": {
+                        "constructor": "Rotax",
+                        "time": "44'56.820"
+                    }
+                },
+                "Gerhard_Singer": {
+                    "position": "23",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Gerhard_Singer"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "time": "45'23.810"
+                    }
+                },
+                "Eero_Hyvarinen": {
+                    "position": "24",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Eero_Hyvarinen"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "time": "45'24.530"
+                    }
+                },
+                "Graeme_Geddes": {
+                    "position": "25",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Graeme_Geddes"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "time": "45'40.090"
+                    }
+                },
+                "Bohumil_Stasa": {
+                    "position": "26",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Bohumil_Stasa"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "time": "45'40.090"
+                    }
+                },
+                "Steve_Williams": {
+                    "position": "27",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Steve_Williams"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "time": "46'07.900"
+                    }
+                },
+                "Peter_Baláž": {
+                    "position": "28",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Peter_Baláž"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "time": "46'10.120"
+                    }
+                },
+                "Frédérigue_Duval": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Frédérigue_Duval"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "time": "Retired"
+                    }
+                },
+                "Richard_Schlachter": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Richard_Schlachter"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "time": "Retired"
+                    }
+                },
+                "Herve_Guilleux": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Siroco",
+                    "drivers": [
+                        "Herve_Guilleux"
+                    ],
+                    "other_info": {
+                        "constructor": "Siroco",
+                        "time": "Retired"
+                    }
+                },
+                "Jean_Marc Toffolo": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Armstrong",
+                    "drivers": [
+                        "Jean_Marc Toffolo"
+                    ],
+                    "other_info": {
+                        "constructor": "Armstrong",
+                        "time": "Retired"
+                    }
+                },
+                "Patrick_Fernandez": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Patrick_Fernandez"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "time": "Retired"
+                    }
+                },
+                "Pekka_Nurmi": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Pekka_Nurmi"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "time": "Retired"
+                    }
+                },
+                "Alain_Beraud": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Alain_Beraud"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "time": "Fatal accident"
+                    }
+                },
+                "Jacques_Bolle": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Jacques_Bolle"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "time": "Retired"
+                    }
+                },
+                "Loris_Reggiani": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Loris_Reggiani"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "time": "Retired"
+                    }
+                },
+                "Herbert_Hauf": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "FKN",
+                    "drivers": [
+                        "Herbert_Hauf"
+                    ],
+                    "other_info": {
+                        "constructor": "FKN",
+                        "time": "Retired"
                     }
                 }
             }
@@ -1304,179 +2368,6 @@
                     ],
                     "other_info": {
                         "constructor": "Yamaha"
-                    }
-                }
-            }
-        },
-        "Dutch TT": {
-            "Race": {
-                "Anton_Mang": {
-                    "position": "1",
-                    "points": 15,
-                    "fastest_lap": "",
-                    "team": "Kawasaki",
-                    "drivers": [
-                        "Anton_Mang"
-                    ],
-                    "other_info": {
-                        "carNumber": "Anton_Mang",
-                        "laps": "15",
-                        "speed": "0",
-                        "constructor": "Kawasaki",
-                        "time": "45:37.130"
-                    }
-                },
-                "Carlos_Lavado": {
-                    "position": "2",
-                    "points": 12,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "Carlos_Lavado"
-                    ],
-                    "other_info": {
-                        "carNumber": "Carlos_Lavado",
-                        "laps": "15",
-                        "speed": "0",
-                        "constructor": "Yamaha",
-                        "time": "45:37.340",
-                        "gap": "+0.210"
-                    }
-                },
-                "Patrick_Fernandez": {
-                    "position": "3",
-                    "points": 10,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "Patrick_Fernandez"
-                    ],
-                    "other_info": {
-                        "carNumber": "Patrick_Fernandez",
-                        "laps": "15",
-                        "speed": "0",
-                        "constructor": "Yamaha",
-                        "time": "46:06.970",
-                        "gap": "+29.840"
-                    }
-                },
-                "Roland_Freymond": {
-                    "position": "4",
-                    "points": 8,
-                    "fastest_lap": "",
-                    "team": "Ad_Majora",
-                    "drivers": [
-                        "Roland_Freymond"
-                    ],
-                    "other_info": {
-                        "carNumber": "Roland_Freymond",
-                        "laps": "15",
-                        "speed": "0",
-                        "constructor": "Ad Majora",
-                        "time": "46:07.430",
-                        "gap": "+30.300"
-                    }
-                },
-                "Jeffrey_Sayle": {
-                    "position": "5",
-                    "points": 6,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "Jeffrey_Sayle"
-                    ],
-                    "other_info": {
-                        "carNumber": "Jeffrey_Sayle",
-                        "laps": "15",
-                        "speed": "0",
-                        "constructor": "Yamaha",
-                        "time": "46:07.430",
-                        "gap": "+30.300"
-                    }
-                },
-                "Jean_Francois Baldé": {
-                    "position": "6",
-                    "points": 5,
-                    "fastest_lap": "",
-                    "team": "Kawasaki",
-                    "drivers": [
-                        "Jean_Francois Baldé"
-                    ],
-                    "other_info": {
-                        "carNumber": "Jean_Francois Baldé",
-                        "laps": "15",
-                        "speed": "0",
-                        "constructor": "Kawasaki",
-                        "time": "46:07.890",
-                        "gap": "+30.760"
-                    }
-                },
-                "Jean_Louis Guignabodet": {
-                    "position": "7",
-                    "points": 4,
-                    "fastest_lap": "",
-                    "team": "Kawasaki",
-                    "drivers": [
-                        "Jean_Louis Guignabodet"
-                    ],
-                    "other_info": {
-                        "carNumber": "Jean_Louis Guignabodet",
-                        "laps": "15",
-                        "speed": "0",
-                        "constructor": "Kawasaki",
-                        "time": "46:31.750",
-                        "gap": "+54.620"
-                    }
-                },
-                "Martin_Wimmer": {
-                    "position": "8",
-                    "points": 3,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "Martin_Wimmer"
-                    ],
-                    "other_info": {
-                        "carNumber": "Martin_Wimmer",
-                        "laps": "15",
-                        "speed": "0",
-                        "constructor": "Yamaha",
-                        "time": "46:34.440",
-                        "gap": "+57.310"
-                    }
-                },
-                "R_Schlachter": {
-                    "position": "9",
-                    "points": 2,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "R_Schlachter"
-                    ],
-                    "other_info": {
-                        "carNumber": "R_Schlachter",
-                        "laps": "15",
-                        "speed": "0",
-                        "constructor": "Yamaha",
-                        "time": "46:34.810",
-                        "gap": "+57.680"
-                    }
-                },
-                "Didier_de Radiguès": {
-                    "position": "10",
-                    "points": 1,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "Didier_de Radiguès"
-                    ],
-                    "other_info": {
-                        "carNumber": "Didier_de Radiguès",
-                        "laps": "15",
-                        "speed": "0",
-                        "constructor": "Yamaha",
-                        "time": "46:43.030",
-                        "gap": "+65.900"
                     }
                 }
             }
@@ -2013,350 +2904,6 @@
                 }
             }
         },
-        "Nations Grand Prix": {
-            "Race": {
-                "Eric_Saul": {
-                    "position": "1",
-                    "points": 15,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "Eric_Saul"
-                    ],
-                    "other_info": {
-                        "carNumber": "Eric_Saul",
-                        "laps": "20",
-                        "speed": "0",
-                        "constructor": "Yamaha",
-                        "time": "46:12.230"
-                    }
-                },
-                "Maurizio_Massimiani": {
-                    "position": "2",
-                    "points": 12,
-                    "fastest_lap": "",
-                    "team": "Ad_Majora",
-                    "drivers": [
-                        "Maurizio_Massimiani"
-                    ],
-                    "other_info": {
-                        "carNumber": "Maurizio_Massimiani",
-                        "laps": "20",
-                        "speed": "0",
-                        "constructor": "Ad Majora",
-                        "time": "46:22.180",
-                        "gap": "+9.950"
-                    }
-                },
-                "Anton_Mang": {
-                    "position": "3",
-                    "points": 10,
-                    "fastest_lap": "",
-                    "team": "Kawasaki",
-                    "drivers": [
-                        "Anton_Mang"
-                    ],
-                    "other_info": {
-                        "carNumber": "Anton_Mang",
-                        "laps": "20",
-                        "speed": "0",
-                        "constructor": "Kawasaki",
-                        "time": "46:22.960",
-                        "gap": "+10.730"
-                    }
-                },
-                "Martin_Wimmer": {
-                    "position": "4",
-                    "points": 8,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "Martin_Wimmer"
-                    ],
-                    "other_info": {
-                        "carNumber": "Martin_Wimmer",
-                        "laps": "20",
-                        "speed": "0",
-                        "constructor": "Yamaha",
-                        "time": "46:56.640",
-                        "gap": "+44.410"
-                    }
-                },
-                "Patrick_Fernandez": {
-                    "position": "5",
-                    "points": 6,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "Patrick_Fernandez"
-                    ],
-                    "other_info": {
-                        "carNumber": "Patrick_Fernandez",
-                        "laps": "20",
-                        "speed": "0",
-                        "constructor": "Yamaha",
-                        "time": "46:58.070",
-                        "gap": "+45.840"
-                    }
-                },
-                "Jean_Francois Baldé": {
-                    "position": "6",
-                    "points": 5,
-                    "fastest_lap": "",
-                    "team": "Kawasaki",
-                    "drivers": [
-                        "Jean_Francois Baldé"
-                    ],
-                    "other_info": {
-                        "carNumber": "Jean_Francois Baldé",
-                        "laps": "20",
-                        "speed": "0",
-                        "constructor": "Kawasaki",
-                        "time": "47:08.040",
-                        "gap": "+55.810"
-                    }
-                },
-                "Thierry_Espié": {
-                    "position": "7",
-                    "points": 4,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "Thierry_Espié"
-                    ],
-                    "other_info": {
-                        "carNumber": "Thierry_Espié",
-                        "laps": "20",
-                        "speed": "0",
-                        "constructor": "Yamaha",
-                        "time": "47:08.280",
-                        "gap": "+56.050"
-                    }
-                },
-                "Edi_Stoellinger": {
-                    "position": "8",
-                    "points": 3,
-                    "fastest_lap": "",
-                    "team": "Kawasaki",
-                    "drivers": [
-                        "Edi_Stoellinger"
-                    ],
-                    "other_info": {
-                        "carNumber": "Edi_Stoellinger",
-                        "laps": "20",
-                        "speed": "0",
-                        "constructor": "Kawasaki",
-                        "time": "47:58.120",
-                        "gap": "+105.890"
-                    }
-                },
-                "Christian_Estrosi": {
-                    "position": "9",
-                    "points": 2,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "Christian_Estrosi"
-                    ],
-                    "other_info": {
-                        "carNumber": "Christian_Estrosi",
-                        "laps": "20",
-                        "speed": "0",
-                        "constructor": "Yamaha",
-                        "time": "48:05.890",
-                        "gap": "+113.660"
-                    }
-                },
-                "Jean_Louis Guignabodet": {
-                    "position": "10",
-                    "points": 1,
-                    "fastest_lap": "",
-                    "team": "Kawasaki",
-                    "drivers": [
-                        "Jean_Louis Guignabodet"
-                    ],
-                    "other_info": {
-                        "carNumber": "Jean_Louis Guignabodet",
-                        "laps": "19",
-                        "speed": "0",
-                        "constructor": "Kawasaki"
-                    }
-                }
-            }
-        },
-        "San Marino Grand Prix": {
-            "Race": {
-                "Anton_Mang": {
-                    "position": "1",
-                    "points": 15,
-                    "fastest_lap": "",
-                    "team": "Kawasaki",
-                    "drivers": [
-                        "Anton_Mang"
-                    ],
-                    "other_info": {
-                        "carNumber": "Anton_Mang",
-                        "laps": "22",
-                        "speed": "0",
-                        "constructor": "Kawasaki",
-                        "time": "45:43.810"
-                    }
-                },
-                "Roland_Freymond": {
-                    "position": "2",
-                    "points": 12,
-                    "fastest_lap": "",
-                    "team": "Ad_Majora",
-                    "drivers": [
-                        "Roland_Freymond"
-                    ],
-                    "other_info": {
-                        "carNumber": "Roland_Freymond",
-                        "laps": "22",
-                        "speed": "0",
-                        "constructor": "Ad Majora",
-                        "time": "46:03.720",
-                        "gap": "+19.910"
-                    }
-                },
-                "Jean_Francois Baldé": {
-                    "position": "3",
-                    "points": 10,
-                    "fastest_lap": "",
-                    "team": "Kawasaki",
-                    "drivers": [
-                        "Jean_Francois Baldé"
-                    ],
-                    "other_info": {
-                        "carNumber": "Jean_Francois Baldé",
-                        "laps": "22",
-                        "speed": "0",
-                        "constructor": "Kawasaki",
-                        "time": "46:06.830",
-                        "gap": "+23.020"
-                    }
-                },
-                "Pier_Luigi Conforti": {
-                    "position": "4",
-                    "points": 8,
-                    "fastest_lap": "",
-                    "team": "Kawasaki",
-                    "drivers": [
-                        "Pier_Luigi Conforti"
-                    ],
-                    "other_info": {
-                        "carNumber": "Pier_Luigi Conforti",
-                        "laps": "22",
-                        "speed": "0",
-                        "constructor": "Kawasaki",
-                        "time": "46:17.010",
-                        "gap": "+33.200"
-                    }
-                },
-                "Thierry_Espié": {
-                    "position": "5",
-                    "points": 6,
-                    "fastest_lap": "",
-                    "team": "Pernod",
-                    "drivers": [
-                        "Thierry_Espié"
-                    ],
-                    "other_info": {
-                        "carNumber": "Thierry_Espié",
-                        "laps": "22",
-                        "speed": "0",
-                        "constructor": "Pernod",
-                        "time": "46:24.130",
-                        "gap": "+40.320"
-                    }
-                },
-                "Jean_Louis Tournadre": {
-                    "position": "6",
-                    "points": 5,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "Jean_Louis Tournadre"
-                    ],
-                    "other_info": {
-                        "carNumber": "Jean_Louis Tournadre",
-                        "laps": "22",
-                        "speed": "0",
-                        "constructor": "Yamaha",
-                        "time": "46:29.960",
-                        "gap": "+46.150"
-                    }
-                },
-                "Christian_Estrosi": {
-                    "position": "7",
-                    "points": 4,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "Christian_Estrosi"
-                    ],
-                    "other_info": {
-                        "carNumber": "Christian_Estrosi",
-                        "laps": "22",
-                        "speed": "0",
-                        "constructor": "Yamaha",
-                        "time": "46:30.880",
-                        "gap": "+47.070"
-                    }
-                },
-                "Patrick_Fernandez": {
-                    "position": "8",
-                    "points": 3,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "Patrick_Fernandez"
-                    ],
-                    "other_info": {
-                        "carNumber": "Patrick_Fernandez",
-                        "laps": "22",
-                        "speed": "0",
-                        "constructor": "Yamaha",
-                        "time": "46:33.380",
-                        "gap": "+49.570"
-                    }
-                },
-                "Jacques_Bolle": {
-                    "position": "9",
-                    "points": 2,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "Jacques_Bolle"
-                    ],
-                    "other_info": {
-                        "carNumber": "Jacques_Bolle",
-                        "laps": "22",
-                        "speed": "0",
-                        "constructor": "Yamaha",
-                        "time": "46:36.360",
-                        "gap": "+52.550"
-                    }
-                },
-                "Didier_de Radiguès": {
-                    "position": "10",
-                    "points": 1,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "Didier_de Radiguès"
-                    ],
-                    "other_info": {
-                        "carNumber": "Didier_de Radiguès",
-                        "laps": "22",
-                        "speed": "0",
-                        "constructor": "Yamaha",
-                        "time": "46:42.970",
-                        "gap": "+59.160"
-                    }
-                }
-            }
-        },
         "Finland Grand Prix": {
             "Race": {
                 "Anton_Mang": {
@@ -2526,179 +3073,6 @@
                         "constructor": "Yamaha",
                         "time": "49:15.900",
                         "gap": "+104.500"
-                    }
-                }
-            }
-        },
-        "Swedish Grand Prix": {
-            "Race": {
-                "Anton_Mang": {
-                    "position": "1",
-                    "points": 15,
-                    "fastest_lap": "",
-                    "team": "Kawasaki",
-                    "drivers": [
-                        "Anton_Mang"
-                    ],
-                    "other_info": {
-                        "carNumber": "Anton_Mang",
-                        "laps": "25",
-                        "speed": "0",
-                        "constructor": "Kawasaki",
-                        "time": "43:59.230"
-                    }
-                },
-                "Roland_Freymond": {
-                    "position": "2",
-                    "points": 12,
-                    "fastest_lap": "",
-                    "team": "Ad_Majora",
-                    "drivers": [
-                        "Roland_Freymond"
-                    ],
-                    "other_info": {
-                        "carNumber": "Roland_Freymond",
-                        "laps": "25",
-                        "speed": "0",
-                        "constructor": "Ad Majora",
-                        "time": "44:15.270",
-                        "gap": "+16.040"
-                    }
-                },
-                "Jean_Francois Baldé": {
-                    "position": "3",
-                    "points": 10,
-                    "fastest_lap": "",
-                    "team": "Kawasaki",
-                    "drivers": [
-                        "Jean_Francois Baldé"
-                    ],
-                    "other_info": {
-                        "carNumber": "Jean_Francois Baldé",
-                        "laps": "25",
-                        "speed": "0",
-                        "constructor": "Kawasaki",
-                        "time": "44:17.910",
-                        "gap": "+18.680"
-                    }
-                },
-                "Jean_Louis Guignabodet": {
-                    "position": "4",
-                    "points": 8,
-                    "fastest_lap": "",
-                    "team": "Kawasaki",
-                    "drivers": [
-                        "Jean_Louis Guignabodet"
-                    ],
-                    "other_info": {
-                        "carNumber": "Jean_Louis Guignabodet",
-                        "laps": "25",
-                        "speed": "0",
-                        "constructor": "Kawasaki",
-                        "time": "44:28.780",
-                        "gap": "+29.550"
-                    }
-                },
-                "Jean_Louis Tournadre": {
-                    "position": "5",
-                    "points": 6,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "Jean_Louis Tournadre"
-                    ],
-                    "other_info": {
-                        "carNumber": "Jean_Louis Tournadre",
-                        "laps": "25",
-                        "speed": "0",
-                        "constructor": "Yamaha",
-                        "time": "44:32.400",
-                        "gap": "+33.170"
-                    }
-                },
-                "Christian_Estrosi": {
-                    "position": "6",
-                    "points": 5,
-                    "fastest_lap": "",
-                    "team": "Pernod",
-                    "drivers": [
-                        "Christian_Estrosi"
-                    ],
-                    "other_info": {
-                        "carNumber": "Christian_Estrosi",
-                        "laps": "25",
-                        "speed": "0",
-                        "constructor": "Pernod",
-                        "time": "44:32.730",
-                        "gap": "+33.500"
-                    }
-                },
-                "Martin_Wimmer": {
-                    "position": "7",
-                    "points": 4,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "Martin_Wimmer"
-                    ],
-                    "other_info": {
-                        "carNumber": "Martin_Wimmer",
-                        "laps": "25",
-                        "speed": "0",
-                        "constructor": "Yamaha",
-                        "time": "44:32.970",
-                        "gap": "+33.740"
-                    }
-                },
-                "Didier_de Radiguès": {
-                    "position": "8",
-                    "points": 3,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "Didier_de Radiguès"
-                    ],
-                    "other_info": {
-                        "carNumber": "Didier_de Radiguès",
-                        "laps": "25",
-                        "speed": "0",
-                        "constructor": "Yamaha",
-                        "time": "44:39.260",
-                        "gap": "+40.030"
-                    }
-                },
-                "R_Schlachter": {
-                    "position": "9",
-                    "points": 2,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "R_Schlachter"
-                    ],
-                    "other_info": {
-                        "carNumber": "R_Schlachter",
-                        "laps": "25",
-                        "speed": "0",
-                        "constructor": "Yamaha",
-                        "time": "44:54.640",
-                        "gap": "+55.410"
-                    }
-                },
-                "B_Elgh": {
-                    "position": "10",
-                    "points": 1,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "B_Elgh"
-                    ],
-                    "other_info": {
-                        "carNumber": "B_Elgh",
-                        "laps": "25",
-                        "speed": "0",
-                        "constructor": "Yamaha",
-                        "time": "45:05.020",
-                        "gap": "+65.790"
                     }
                 }
             }
