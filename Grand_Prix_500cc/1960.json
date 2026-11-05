@@ -100,6 +100,18 @@
         },
         "Dutch TT": {
             "Race": {
+                "John_Surtees": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MV_Agusta",
+                    "drivers": [
+                        "John_Surtees"
+                    ],
+                    "other_info": {
+                        "constructor": "MV Agusta"
+                    }
+                },
                 "Remo_Venturi": {
                     "position": "1",
                     "points": 8,
@@ -109,11 +121,19 @@
                         "Remo_Venturi"
                     ],
                     "other_info": {
-                        "carNumber": "Remo_Venturi",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "MV Agusta",
-                        "time": "31:41.200"
+                        "constructor": "MV Agusta"
+                    }
+                },
+                "John_Hartle": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MV_Agusta_Norton",
+                    "drivers": [
+                        "John_Hartle"
+                    ],
+                    "other_info": {
+                        "constructor": "MV Agusta / Norton"
                     }
                 },
                 "Bob_Brown": {
@@ -125,12 +145,7 @@
                         "Bob_Brown"
                     ],
                     "other_info": {
-                        "carNumber": "Bob_Brown",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Norton",
-                        "time": "33:11.700",
-                        "gap": "+90.500"
+                        "constructor": "Norton"
                     }
                 },
                 "Emilio_Mendogni": {
@@ -142,29 +157,7 @@
                         "Emilio_Mendogni"
                     ],
                     "other_info": {
-                        "carNumber": "Emilio_Mendogni",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "MV Agusta",
-                        "time": "33:13.800",
-                        "gap": "+92.600"
-                    }
-                },
-                "Paddy_Driver": {
-                    "position": "4",
-                    "points": 3,
-                    "fastest_lap": "",
-                    "team": "Norton",
-                    "drivers": [
-                        "Paddy_Driver"
-                    ],
-                    "other_info": {
-                        "carNumber": "Paddy_Driver",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Norton",
-                        "time": "33:46.200",
-                        "gap": "+125.000"
+                        "constructor": "MV Agusta"
                     }
                 },
                 "Mike_Hailwood": {
@@ -176,12 +169,19 @@
                         "Mike_Hailwood"
                     ],
                     "other_info": {
-                        "carNumber": "Mike_Hailwood",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Norton",
-                        "time": "34:12.300",
-                        "gap": "+151.100"
+                        "constructor": "Norton"
+                    }
+                },
+                "Paddy_Driver": {
+                    "position": "4",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "Norton",
+                    "drivers": [
+                        "Paddy_Driver"
+                    ],
+                    "other_info": {
+                        "constructor": "Norton"
                     }
                 },
                 "Dickie_Dale": {
@@ -193,12 +193,43 @@
                         "Dickie_Dale"
                     ],
                     "other_info": {
-                        "carNumber": "Dickie_Dale",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Norton",
-                        "time": "35:21.200",
-                        "gap": "+220.000"
+                        "constructor": "Norton"
+                    }
+                },
+                "Fumio_Ito": {
+                    "position": "10",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "BMW",
+                    "drivers": [
+                        "Fumio_Ito"
+                    ],
+                    "other_info": {
+                        "constructor": "BMW"
+                    }
+                },
+                "Rudolf_Gläser": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Norton",
+                    "drivers": [
+                        "Rudolf_Gläser"
+                    ],
+                    "other_info": {
+                        "constructor": "Norton"
+                    }
+                },
+                "Frank_Perris": {
+                    "position": "7",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Norton",
+                    "drivers": [
+                        "Frank_Perris"
+                    ],
+                    "other_info": {
+                        "constructor": "Norton"
                     }
                 },
                 "Jack_Findlay": {
@@ -210,9 +241,114 @@
                         "Jack_Findlay"
                     ],
                     "other_info": {
-                        "carNumber": "Jack_Findlay",
-                        "laps": "0",
-                        "speed": "0",
+                        "constructor": "Norton"
+                    }
+                },
+                "Hans-Günter_Jäger": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "BMW",
+                    "drivers": [
+                        "Hans-Günter_Jäger"
+                    ],
+                    "other_info": {
+                        "constructor": "BMW"
+                    }
+                },
+                "Robert_Weston": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Norton",
+                    "drivers": [
+                        "Robert_Weston"
+                    ],
+                    "other_info": {
+                        "constructor": "Norton"
+                    }
+                },
+                "Bob_Anderson": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Norton",
+                    "drivers": [
+                        "Bob_Anderson"
+                    ],
+                    "other_info": {
+                        "constructor": "Norton"
+                    }
+                },
+                "Ron_Miles": {
+                    "position": "8",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Norton",
+                    "drivers": [
+                        "Ron_Miles"
+                    ],
+                    "other_info": {
+                        "constructor": "Norton"
+                    }
+                },
+                "Bert_Schneider": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Norton",
+                    "drivers": [
+                        "Bert_Schneider"
+                    ],
+                    "other_info": {
+                        "constructor": "Norton"
+                    }
+                },
+                "Ernst_Hiller": {
+                    "position": "9",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "BMW",
+                    "drivers": [
+                        "Ernst_Hiller"
+                    ],
+                    "other_info": {
+                        "constructor": "BMW"
+                    }
+                },
+                "Anton_Elbersen": {
+                    "position": "12",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "BMW",
+                    "drivers": [
+                        "Anton_Elbersen"
+                    ],
+                    "other_info": {
+                        "constructor": "BMW"
+                    }
+                },
+                "Raymond_Bogaerdt": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Norton",
+                    "drivers": [
+                        "Raymond_Bogaerdt"
+                    ],
+                    "other_info": {
+                        "constructor": "Norton"
+                    }
+                },
+                "William_van Leeuwen": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Norton",
+                    "drivers": [
+                        "William_van Leeuwen"
+                    ],
+                    "other_info": {
                         "constructor": "Norton"
                     }
                 }
@@ -319,6 +455,382 @@
                         "constructor": "MV Agusta",
                         "time": "09:11.700",
                         "gap": "+226.600"
+                    }
+                }
+            }
+        },
+        "German Grand Prix": {
+            "Race": {
+                "John_Surtees": {
+                    "position": "1",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "MV_Agusta",
+                    "drivers": [
+                        "John_Surtees"
+                    ],
+                    "other_info": {
+                        "constructor": "MV Agusta"
+                    }
+                },
+                "Remo_Venturi": {
+                    "position": "2",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "MV_Agusta",
+                    "drivers": [
+                        "Remo_Venturi"
+                    ],
+                    "other_info": {
+                        "constructor": "MV Agusta"
+                    }
+                },
+                "Emilio_Mendogni": {
+                    "position": "3",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "MV_Agusta",
+                    "drivers": [
+                        "Emilio_Mendogni"
+                    ],
+                    "other_info": {
+                        "constructor": "MV Agusta"
+                    }
+                },
+                "Paddy_Driver": {
+                    "position": "7",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Norton",
+                    "drivers": [
+                        "Paddy_Driver"
+                    ],
+                    "other_info": {
+                        "constructor": "Norton"
+                    }
+                },
+                "Dickie_Dale": {
+                    "position": "4",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "Norton",
+                    "drivers": [
+                        "Dickie_Dale"
+                    ],
+                    "other_info": {
+                        "constructor": "Norton"
+                    }
+                },
+                "Jim_Redman": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Norton",
+                    "drivers": [
+                        "Jim_Redman"
+                    ],
+                    "other_info": {
+                        "constructor": "Norton"
+                    }
+                },
+                "John_Hempleman": {
+                    "position": "5",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "Norton",
+                    "drivers": [
+                        "John_Hempleman"
+                    ],
+                    "other_info": {
+                        "constructor": "Norton"
+                    }
+                },
+                "Ladislaus_Richter": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Norton",
+                    "drivers": [
+                        "Ladislaus_Richter"
+                    ],
+                    "other_info": {
+                        "constructor": "Norton"
+                    }
+                },
+                "Rudolf_Gläser": {
+                    "position": "6",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "Norton",
+                    "drivers": [
+                        "Rudolf_Gläser"
+                    ],
+                    "other_info": {
+                        "constructor": "Norton"
+                    }
+                },
+                "Jack_Findlay": {
+                    "position": "12",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Norton",
+                    "drivers": [
+                        "Jack_Findlay"
+                    ],
+                    "other_info": {
+                        "constructor": "Norton"
+                    }
+                },
+                "Hans-Günter_Jäger": {
+                    "position": "8",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "BMW",
+                    "drivers": [
+                        "Hans-Günter_Jäger"
+                    ],
+                    "other_info": {
+                        "constructor": "BMW"
+                    }
+                },
+                "Bert_Schneider": {
+                    "position": "9",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Norton",
+                    "drivers": [
+                        "Bert_Schneider"
+                    ],
+                    "other_info": {
+                        "constructor": "Norton"
+                    }
+                },
+                "Jacques_Insermini": {
+                    "position": "10",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Norton",
+                    "drivers": [
+                        "Jacques_Insermini"
+                    ],
+                    "other_info": {
+                        "constructor": "Norton"
+                    }
+                },
+                "Lothar_John": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "BMW",
+                    "drivers": [
+                        "Lothar_John"
+                    ],
+                    "other_info": {
+                        "constructor": "BMW"
+                    }
+                },
+                "Alois_Huber": {
+                    "position": "11",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "BMW",
+                    "drivers": [
+                        "Alois_Huber"
+                    ],
+                    "other_info": {
+                        "constructor": "BMW"
+                    }
+                },
+                "Heinz_Kauert": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Matchless",
+                    "drivers": [
+                        "Heinz_Kauert"
+                    ],
+                    "other_info": {
+                        "constructor": "Matchless"
+                    }
+                },
+                "Allen_Krupa": {
+                    "position": "13",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Norton",
+                    "drivers": [
+                        "Allen_Krupa"
+                    ],
+                    "other_info": {
+                        "constructor": "Norton"
+                    }
+                },
+                "Raymond_Bogaerdt": {
+                    "position": "14",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Norton",
+                    "drivers": [
+                        "Raymond_Bogaerdt"
+                    ],
+                    "other_info": {
+                        "constructor": "Norton"
+                    }
+                },
+                "Jean-Pierre_Bayle": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Norton",
+                    "drivers": [
+                        "Jean-Pierre_Bayle"
+                    ],
+                    "other_info": {
+                        "constructor": "Norton"
+                    }
+                },
+                "Raymond_Hanset": {
+                    "position": "15",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Norton",
+                    "drivers": [
+                        "Raymond_Hanset"
+                    ],
+                    "other_info": {
+                        "constructor": "Norton"
+                    }
+                },
+                "Fritz_Kläger": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Horex",
+                    "drivers": [
+                        "Fritz_Kläger"
+                    ],
+                    "other_info": {
+                        "constructor": "Horex"
+                    }
+                },
+                "Walter_Scheimann": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Norton",
+                    "drivers": [
+                        "Walter_Scheimann"
+                    ],
+                    "other_info": {
+                        "constructor": "Norton"
+                    }
+                },
+                "Fritz_Meyer": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "BMW",
+                    "drivers": [
+                        "Fritz_Meyer"
+                    ],
+                    "other_info": {
+                        "constructor": "BMW"
+                    }
+                },
+                "Karl_Recktenwald": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Norton",
+                    "drivers": [
+                        "Karl_Recktenwald"
+                    ],
+                    "other_info": {
+                        "constructor": "Norton"
+                    }
+                },
+                "Martinus_van Son": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Norton",
+                    "drivers": [
+                        "Martinus_van Son"
+                    ],
+                    "other_info": {
+                        "constructor": "Norton"
+                    }
+                },
+                "Evert_Carlsson": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "BMW",
+                    "drivers": [
+                        "Evert_Carlsson"
+                    ],
+                    "other_info": {
+                        "constructor": "BMW"
+                    }
+                },
+                "Hans-Siegfried_Gläser": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Norton",
+                    "drivers": [
+                        "Hans-Siegfried_Gläser"
+                    ],
+                    "other_info": {
+                        "constructor": "Norton"
+                    }
+                },
+                "Klaus_Hamelmann": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Münch",
+                    "drivers": [
+                        "Klaus_Hamelmann"
+                    ],
+                    "other_info": {
+                        "constructor": "Münch"
+                    }
+                },
+                "Andreas_Klaus": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Norton",
+                    "drivers": [
+                        "Andreas_Klaus"
+                    ],
+                    "other_info": {
+                        "constructor": "Norton"
+                    }
+                },
+                "Gijs_Oosterbaan": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Norton",
+                    "drivers": [
+                        "Gijs_Oosterbaan"
+                    ],
+                    "other_info": {
+                        "constructor": "Norton"
+                    }
+                },
+                "Tommy_Robinson": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Norton",
+                    "drivers": [
+                        "Tommy_Robinson"
+                    ],
+                    "other_info": {
+                        "constructor": "Norton"
                     }
                 }
             }
@@ -439,6 +951,322 @@
                         "laps": "0",
                         "speed": "0",
                         "constructor": "Norton"
+                    }
+                }
+            }
+        },
+        "Nations Grand Prix": {
+            "Race": {
+                "John_Surtees": {
+                    "position": "1",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "MV_Agusta",
+                    "drivers": [
+                        "John_Surtees"
+                    ],
+                    "other_info": {
+                        "constructor": "MV Agusta"
+                    }
+                },
+                "Remo_Venturi": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MV_Agusta",
+                    "drivers": [
+                        "Remo_Venturi"
+                    ],
+                    "other_info": {
+                        "constructor": "MV Agusta"
+                    }
+                },
+                "John_Hartle": {
+                    "position": "5",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "MV_Agusta_Norton",
+                    "drivers": [
+                        "John_Hartle"
+                    ],
+                    "other_info": {
+                        "constructor": "MV Agusta / Norton"
+                    }
+                },
+                "Emilio_Mendogni": {
+                    "position": "2",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "MV_Agusta",
+                    "drivers": [
+                        "Emilio_Mendogni"
+                    ],
+                    "other_info": {
+                        "constructor": "MV Agusta"
+                    }
+                },
+                "Mike_Hailwood": {
+                    "position": "3",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "Norton",
+                    "drivers": [
+                        "Mike_Hailwood"
+                    ],
+                    "other_info": {
+                        "constructor": "Norton"
+                    }
+                },
+                "Paddy_Driver": {
+                    "position": "4",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "Norton",
+                    "drivers": [
+                        "Paddy_Driver"
+                    ],
+                    "other_info": {
+                        "constructor": "Norton"
+                    }
+                },
+                "Dickie_Dale": {
+                    "position": "9",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Norton",
+                    "drivers": [
+                        "Dickie_Dale"
+                    ],
+                    "other_info": {
+                        "constructor": "Norton"
+                    }
+                },
+                "Jim_Redman": {
+                    "position": "6",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "Norton",
+                    "drivers": [
+                        "Jim_Redman"
+                    ],
+                    "other_info": {
+                        "constructor": "Norton"
+                    }
+                },
+                "Rudolf_Gläser": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Norton",
+                    "drivers": [
+                        "Rudolf_Gläser"
+                    ],
+                    "other_info": {
+                        "constructor": "Norton"
+                    }
+                },
+                "Hugh_Anderson": {
+                    "position": "7",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Norton",
+                    "drivers": [
+                        "Hugh_Anderson"
+                    ],
+                    "other_info": {
+                        "constructor": "Norton"
+                    }
+                },
+                "Jack_Findlay": {
+                    "position": "8",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Norton",
+                    "drivers": [
+                        "Jack_Findlay"
+                    ],
+                    "other_info": {
+                        "constructor": "Norton"
+                    }
+                },
+                "Hans-Günter_Jäger": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "BMW",
+                    "drivers": [
+                        "Hans-Günter_Jäger"
+                    ],
+                    "other_info": {
+                        "constructor": "BMW"
+                    }
+                },
+                "Bob_Anderson": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Norton",
+                    "drivers": [
+                        "Bob_Anderson"
+                    ],
+                    "other_info": {
+                        "constructor": "Norton"
+                    }
+                },
+                "Jacques_Insermini": {
+                    "position": "10",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Norton",
+                    "drivers": [
+                        "Jacques_Insermini"
+                    ],
+                    "other_info": {
+                        "constructor": "Norton"
+                    }
+                },
+                "Lothar_John": {
+                    "position": "11",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "BMW",
+                    "drivers": [
+                        "Lothar_John"
+                    ],
+                    "other_info": {
+                        "constructor": "BMW"
+                    }
+                },
+                "Heinz_Kauert": {
+                    "position": "12",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Matchless",
+                    "drivers": [
+                        "Heinz_Kauert"
+                    ],
+                    "other_info": {
+                        "constructor": "Matchless"
+                    }
+                },
+                "Vasco_Loro": {
+                    "position": "13",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Norton",
+                    "drivers": [
+                        "Vasco_Loro"
+                    ],
+                    "other_info": {
+                        "constructor": "Norton"
+                    }
+                },
+                "Martinus_van Son": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Norton",
+                    "drivers": [
+                        "Martinus_van Son"
+                    ],
+                    "other_info": {
+                        "constructor": "Norton"
+                    }
+                },
+                "Paolo_Campanelli": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Norton",
+                    "drivers": [
+                        "Paolo_Campanelli"
+                    ],
+                    "other_info": {
+                        "constructor": "Norton"
+                    }
+                },
+                "Artemio_Cirelli": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Gilera",
+                    "drivers": [
+                        "Artemio_Cirelli"
+                    ],
+                    "other_info": {
+                        "constructor": "Gilera"
+                    }
+                },
+                "Giuseppe_Dardanello": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Norton",
+                    "drivers": [
+                        "Giuseppe_Dardanello"
+                    ],
+                    "other_info": {
+                        "constructor": "Norton"
+                    }
+                },
+                "Giuseppe_Mantelli": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Gilera",
+                    "drivers": [
+                        "Giuseppe_Mantelli"
+                    ],
+                    "other_info": {
+                        "constructor": "Gilera"
+                    }
+                },
+                "Emanuele_Maugliani": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Gilera",
+                    "drivers": [
+                        "Emanuele_Maugliani"
+                    ],
+                    "other_info": {
+                        "constructor": "Gilera"
+                    }
+                },
+                "Alfredo_Milani": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Gilera",
+                    "drivers": [
+                        "Alfredo_Milani"
+                    ],
+                    "other_info": {
+                        "constructor": "Gilera"
+                    }
+                },
+                "Renzo_Rossi": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Gilera",
+                    "drivers": [
+                        "Renzo_Rossi"
+                    ],
+                    "other_info": {
+                        "constructor": "Gilera"
+                    }
+                },
+                "Benedetto_Zambotti": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Gilera",
+                    "drivers": [
+                        "Benedetto_Zambotti"
+                    ],
+                    "other_info": {
+                        "constructor": "Gilera"
                     }
                 }
             }

@@ -1,6 +1,502 @@
 {
     "name": "Grand_Prix_250cc",
     "events": {
+        "Australian Grand Prix": {
+            "Race": {
+                "31": {
+                    "position": "1",
+                    "points": 25,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Tetsuya_Harada"
+                    ],
+                    "other_info": {
+                        "carNumber": "31",
+                        "constructor": "Yamaha",
+                        "time": "43:57.049"
+                    }
+                },
+                "19": {
+                    "position": "2",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "John_Kocinski"
+                    ],
+                    "other_info": {
+                        "carNumber": "19",
+                        "constructor": "Suzuki",
+                        "gap": "++0.030"
+                    }
+                },
+                "5": {
+                    "position": "3",
+                    "points": 16,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Max_Biaggi"
+                    ],
+                    "other_info": {
+                        "carNumber": "5",
+                        "constructor": "Honda",
+                        "gap": "++6.160"
+                    }
+                },
+                "18": {
+                    "position": "4",
+                    "points": 13,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Tadayuki_Okada"
+                    ],
+                    "other_info": {
+                        "carNumber": "18",
+                        "constructor": "Honda",
+                        "gap": "++9.597"
+                    }
+                },
+                "14": {
+                    "position": "5",
+                    "points": 11,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Nobuatsu_Aoki"
+                    ],
+                    "other_info": {
+                        "carNumber": "14",
+                        "constructor": "Honda",
+                        "gap": "++9.599"
+                    }
+                },
+                "8": {
+                    "position": "6",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Carlos_Cardús"
+                    ],
+                    "other_info": {
+                        "carNumber": "8",
+                        "constructor": "Honda",
+                        "gap": "++9.946"
+                    }
+                },
+                "10": {
+                    "position": "7",
+                    "points": 9,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Doriano_Romboni"
+                    ],
+                    "other_info": {
+                        "carNumber": "10",
+                        "constructor": "Honda",
+                        "gap": "++10.569"
+                    }
+                },
+                "4": {
+                    "position": "8",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Helmut_Bradl"
+                    ],
+                    "other_info": {
+                        "carNumber": "4",
+                        "constructor": "Honda",
+                        "gap": "++13.571"
+                    }
+                },
+                "17": {
+                    "position": "9",
+                    "points": 7,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Jean_Philippe Ruggia"
+                    ],
+                    "other_info": {
+                        "carNumber": "17",
+                        "constructor": "Aprilia",
+                        "gap": "++19.507"
+                    }
+                },
+                "3": {
+                    "position": "10",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Pierfrancesco_Chili"
+                    ],
+                    "other_info": {
+                        "carNumber": "3",
+                        "constructor": "Yamaha",
+                        "gap": "++19.949"
+                    }
+                },
+                "11": {
+                    "position": "11",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Wilco_Zeelenberg"
+                    ],
+                    "other_info": {
+                        "carNumber": "11",
+                        "constructor": "Aprilia",
+                        "gap": "++32.632"
+                    }
+                },
+                "7": {
+                    "position": "12",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Jochen_Schmid"
+                    ],
+                    "other_info": {
+                        "carNumber": "7",
+                        "constructor": "Yamaha",
+                        "gap": "++56.034"
+                    }
+                },
+                "6": {
+                    "position": "13",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Alberto_Puig"
+                    ],
+                    "other_info": {
+                        "carNumber": "6",
+                        "constructor": "Honda",
+                        "gap": "++57.581"
+                    }
+                },
+                "13": {
+                    "position": "14",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Loris_Reggiani"
+                    ],
+                    "other_info": {
+                        "carNumber": "13",
+                        "constructor": "Aprilia",
+                        "gap": "++57.996"
+                    }
+                },
+                "28": {
+                    "position": "15",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Adrian_Bosshard"
+                    ],
+                    "other_info": {
+                        "carNumber": "28",
+                        "constructor": "Honda",
+                        "gap": "++1:06.575"
+                    }
+                },
+                "21": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Gilera",
+                    "drivers": [
+                        "Paolo_Casoli"
+                    ],
+                    "other_info": {
+                        "carNumber": "21",
+                        "constructor": "Gilera",
+                        "gap": "++1:08.841"
+                    }
+                },
+                "25": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Jurgen_Vd Goorbergh"
+                    ],
+                    "other_info": {
+                        "carNumber": "25",
+                        "constructor": "Aprilia",
+                        "gap": "++1:19.138"
+                    }
+                },
+                "51": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Jean_Pierre Jeandat"
+                    ],
+                    "other_info": {
+                        "carNumber": "51",
+                        "constructor": "Aprilia",
+                        "gap": "++1:21.333"
+                    }
+                },
+                "44": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Jean_Michel Bayle"
+                    ],
+                    "other_info": {
+                        "carNumber": "44",
+                        "constructor": "Aprilia",
+                        "gap": "++1:27.160"
+                    }
+                },
+                "26": {
+                    "position": "20",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Bernd_Kassner"
+                    ],
+                    "other_info": {
+                        "carNumber": "26",
+                        "constructor": "Aprilia",
+                        "gap": "++1:27.625"
+                    }
+                },
+                "15": {
+                    "position": "21",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Noboyuki_Wakai"
+                    ],
+                    "other_info": {
+                        "carNumber": "15",
+                        "constructor": "Suzuki",
+                        "gap": "++1:31.277"
+                    }
+                },
+                "47": {
+                    "position": "22",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Rene_Bongers"
+                    ],
+                    "other_info": {
+                        "carNumber": "47",
+                        "constructor": "Honda",
+                        "gap": "+1 lap"
+                    }
+                },
+                "12": {
+                    "position": "23",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Gabriele_Debbia"
+                    ],
+                    "other_info": {
+                        "carNumber": "12",
+                        "constructor": "Honda",
+                        "gap": "+1 lap"
+                    }
+                },
+                "43": {
+                    "position": "24",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Massimo_Pennacchioli"
+                    ],
+                    "other_info": {
+                        "carNumber": "43",
+                        "constructor": "Honda",
+                        "gap": "+2 laps"
+                    }
+                },
+                "27": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Frederic_Protat"
+                    ],
+                    "other_info": {
+                        "carNumber": "27",
+                        "constructor": "Aprilia"
+                    }
+                },
+                "16": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Andy_Preining"
+                    ],
+                    "other_info": {
+                        "carNumber": "16",
+                        "constructor": "Aprilia"
+                    }
+                },
+                "22": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Luis_Maurel"
+                    ],
+                    "other_info": {
+                        "carNumber": "22",
+                        "constructor": "Aprilia"
+                    }
+                },
+                "65": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Loris_Capirossi"
+                    ],
+                    "other_info": {
+                        "carNumber": "65",
+                        "constructor": "Honda"
+                    }
+                },
+                "23": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Bernard_Haenggeli"
+                    ],
+                    "other_info": {
+                        "carNumber": "23",
+                        "constructor": "Aprilia"
+                    }
+                },
+                "30": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Juan_Borja"
+                    ],
+                    "other_info": {
+                        "carNumber": "30",
+                        "constructor": "Honda"
+                    }
+                },
+                "24": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Patrick_van den Goorbergh"
+                    ],
+                    "other_info": {
+                        "carNumber": "24",
+                        "constructor": "Aprilia"
+                    }
+                },
+                "39": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Gilera",
+                    "drivers": [
+                        "Alessandro_Gramigni"
+                    ],
+                    "other_info": {
+                        "carNumber": "39",
+                        "constructor": "Gilera"
+                    }
+                },
+                "34": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Luis_D'antin"
+                    ],
+                    "other_info": {
+                        "carNumber": "34",
+                        "constructor": "Honda"
+                    }
+                },
+                "20": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Eskil_Suter"
+                    ],
+                    "other_info": {
+                        "carNumber": "20",
+                        "constructor": "Aprilia"
+                    }
+                },
+                "32": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Volker_Bahr"
+                    ],
+                    "other_info": {
+                        "carNumber": "32",
+                        "constructor": "Honda"
+                    }
+                },
+                "46": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Steven_Whitehouse"
+                    ],
+                    "other_info": {
+                        "carNumber": "46",
+                        "constructor": "Yamaha"
+                    }
+                }
+            }
+        },
         "Malaysian Grand Prix": {
             "Race": {
                 "Nobuatsu_Aoki": {
@@ -2776,6 +3272,830 @@
                 }
             }
         },
+        "Dutch TT": {
+            "Race": {
+                "Tetsuya_Harada": {
+                    "position": "2",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Tetsuya_Harada"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                },
+                "Loris_Capirossi": {
+                    "position": "1",
+                    "points": 25,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Loris_Capirossi"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "Loris_Reggiani": {
+                    "position": "6",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Loris_Reggiani"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia"
+                    }
+                },
+                "Max_Biaggi": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Max_Biaggi"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "Doriano_Romboni": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Doriano_Romboni"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "Jean_Philippe Ruggia": {
+                    "position": "4",
+                    "points": 13,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Jean_Philippe Ruggia"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia"
+                    }
+                },
+                "Helmut_Bradl": {
+                    "position": "5",
+                    "points": 11,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Helmut_Bradl"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "Tadayuki_Okada": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Tadayuki_Okada"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "Alberto_Puig": {
+                    "position": "9",
+                    "points": 7,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Alberto_Puig"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "Pierfrancesco_Chili": {
+                    "position": "8",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Pierfrancesco_Chili"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                },
+                "Nobuatsu_Aoki": {
+                    "position": "10",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Nobuatsu_Aoki"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "John_Kocinski": {
+                    "position": "3",
+                    "points": 16,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "John_Kocinski"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki"
+                    }
+                },
+                "Wilco_Zeelenberg": {
+                    "position": "7",
+                    "points": 9,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Wilco_Zeelenberg"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia"
+                    }
+                },
+                "Jochen_Schmid": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Jochen_Schmid"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                },
+                "Luis_D'antin": {
+                    "position": "11",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Luis_D'antin"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "Patrick_van den Goorbergh": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Patrick_van den Goorbergh"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia"
+                    }
+                },
+                "Andy_Preining": {
+                    "position": "13",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Andy_Preining"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia"
+                    }
+                },
+                "Carlos_Cardús": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Carlos_Cardús"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "Eskil_Suter": {
+                    "position": "14",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Eskil_Suter"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia"
+                    }
+                },
+                "Adrian_Bosshard": {
+                    "position": "12",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Adrian_Bosshard"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "Jean_Michel Bayle": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Jean_Michel Bayle"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia"
+                    }
+                },
+                "Frederic_Protat": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Frederic_Protat"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia"
+                    }
+                },
+                "Paolo_Casoli": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Gilera",
+                    "drivers": [
+                        "Paolo_Casoli"
+                    ],
+                    "other_info": {
+                        "constructor": "Gilera"
+                    }
+                },
+                "Juan_Borja": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Juan_Borja"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "Alessandro_Gramigni": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Gilera",
+                    "drivers": [
+                        "Alessandro_Gramigni"
+                    ],
+                    "other_info": {
+                        "constructor": "Gilera"
+                    }
+                },
+                "Bernd_Kassner": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Bernd_Kassner"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia"
+                    }
+                },
+                "Jurgen_Vd Goorbergh": {
+                    "position": "15",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Jurgen_Vd Goorbergh"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia"
+                    }
+                },
+                "Jean_Pierre Jeandat": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Jean_Pierre Jeandat"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia"
+                    }
+                },
+                "Bernard_Haenggeli": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Bernard_Haenggeli"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia"
+                    }
+                },
+                "Luis_Maurel": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Luis_Maurel"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia"
+                    }
+                },
+                "Volker_Bahr": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Volker_Bahr"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "Massimo_Pennacchioli": {
+                    "position": "20",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Massimo_Pennacchioli"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "Rudie_Markink": {
+                    "position": "21",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Rudie_Markink"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                },
+                "Loek_Bodelier": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Loek_Bodelier"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "Mattieu_van Gaalen": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Mattieu_van Gaalen"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia"
+                    }
+                }
+            }
+        },
+        "European Grand Prix": {
+            "Race": {
+                "Tetsuya_Harada": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Tetsuya_Harada"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                },
+                "Loris_Capirossi": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Loris_Capirossi"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "Loris_Reggiani": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Loris_Reggiani"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia"
+                    }
+                },
+                "Max_Biaggi": {
+                    "position": "1",
+                    "points": 25,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Max_Biaggi"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "Jean_Philippe Ruggia": {
+                    "position": "5",
+                    "points": 11,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Jean_Philippe Ruggia"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia"
+                    }
+                },
+                "Helmut_Bradl": {
+                    "position": "11",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Helmut_Bradl"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "Tadayuki_Okada": {
+                    "position": "2",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Tadayuki_Okada"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "Alberto_Puig": {
+                    "position": "3",
+                    "points": 16,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Alberto_Puig"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "Pierfrancesco_Chili": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Pierfrancesco_Chili"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                },
+                "Nobuatsu_Aoki": {
+                    "position": "4",
+                    "points": 13,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Nobuatsu_Aoki"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "Wilco_Zeelenberg": {
+                    "position": "8",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Wilco_Zeelenberg"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia"
+                    }
+                },
+                "Jochen_Schmid": {
+                    "position": "12",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Jochen_Schmid"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                },
+                "Luis_D'antin": {
+                    "position": "7",
+                    "points": 9,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Luis_D'antin"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "Patrick_van den Goorbergh": {
+                    "position": "13",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Patrick_van den Goorbergh"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia"
+                    }
+                },
+                "Andy_Preining": {
+                    "position": "9",
+                    "points": 7,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Andy_Preining"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia"
+                    }
+                },
+                "Carlos_Cardús": {
+                    "position": "6",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Carlos_Cardús"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "Eskil_Suter": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Eskil_Suter"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia"
+                    }
+                },
+                "Adrian_Bosshard": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Adrian_Bosshard"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "Simon_Crafar": {
+                    "position": "10",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Simon_Crafar"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki"
+                    }
+                },
+                "Jean_Michel Bayle": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Jean_Michel Bayle"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia"
+                    }
+                },
+                "Frederic_Protat": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Frederic_Protat"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia"
+                    }
+                },
+                "Alessandro_Gramigni": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Gilera",
+                    "drivers": [
+                        "Alessandro_Gramigni"
+                    ],
+                    "other_info": {
+                        "constructor": "Gilera"
+                    }
+                },
+                "Bernd_Kassner": {
+                    "position": "14",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Bernd_Kassner"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia"
+                    }
+                },
+                "Jurgen_Vd Goorbergh": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Jurgen_Vd Goorbergh"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia"
+                    }
+                },
+                "Jean_Pierre Jeandat": {
+                    "position": "15",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Jean_Pierre Jeandat"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia"
+                    }
+                },
+                "Bernard_Haenggeli": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Bernard_Haenggeli"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia"
+                    }
+                },
+                "Luis_Maurel": {
+                    "position": "21",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Luis_Maurel"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia"
+                    }
+                },
+                "Pere_Riba": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Pere_Riba"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "Volker_Bahr": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Volker_Bahr"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "Massimo_Pennacchioli": {
+                    "position": "22",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Massimo_Pennacchioli"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "Oscar_Sainz": {
+                    "position": "20",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Oscar_Sainz"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                },
+                "Loek_Bodelier": {
+                    "position": "23",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Loek_Bodelier"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "Alex_Sirera": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Alex_Sirera"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                }
+            }
+        },
         "San Marino Grand Prix": {
             "Race": {
                 "Loris_Capirossi": {
@@ -3835,6 +5155,394 @@
                 }
             }
         },
+        "Czech Republic Grand Prix": {
+            "Race": {
+                "Tetsuya_Harada": {
+                    "position": "6",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Tetsuya_Harada"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                },
+                "Loris_Capirossi": {
+                    "position": "5",
+                    "points": 11,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Loris_Capirossi"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "Loris_Reggiani": {
+                    "position": "1",
+                    "points": 25,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Loris_Reggiani"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia"
+                    }
+                },
+                "Max_Biaggi": {
+                    "position": "2",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Max_Biaggi"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "Doriano_Romboni": {
+                    "position": "4",
+                    "points": 13,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Doriano_Romboni"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "Jean_Philippe Ruggia": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Jean_Philippe Ruggia"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia"
+                    }
+                },
+                "Helmut_Bradl": {
+                    "position": "7",
+                    "points": 9,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Helmut_Bradl"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "Tadayuki_Okada": {
+                    "position": "11",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Tadayuki_Okada"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "Alberto_Puig": {
+                    "position": "3",
+                    "points": 16,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Alberto_Puig"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "Pierfrancesco_Chili": {
+                    "position": "8",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Pierfrancesco_Chili"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                },
+                "Nobuatsu_Aoki": {
+                    "position": "10",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Nobuatsu_Aoki"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "Wilco_Zeelenberg": {
+                    "position": "12",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Wilco_Zeelenberg"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia"
+                    }
+                },
+                "Jochen_Schmid": {
+                    "position": "9",
+                    "points": 7,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Jochen_Schmid"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                },
+                "Luis_D'antin": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Luis_D'antin"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "Patrick_van den Goorbergh": {
+                    "position": "14",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Patrick_van den Goorbergh"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia"
+                    }
+                },
+                "Andy_Preining": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Andy_Preining"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia"
+                    }
+                },
+                "Eskil_Suter": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Eskil_Suter"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia"
+                    }
+                },
+                "Adrian_Bosshard": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Adrian_Bosshard"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "Simon_Crafar": {
+                    "position": "13",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Simon_Crafar"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki"
+                    }
+                },
+                "Jean_Michel Bayle": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Jean_Michel Bayle"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia"
+                    }
+                },
+                "Carlos_Checa": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Carlos_Checa"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "Frederic_Protat": {
+                    "position": "15",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Frederic_Protat"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia"
+                    }
+                },
+                "Juan_Borja": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Juan_Borja"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "Bernd_Kassner": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Bernd_Kassner"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia"
+                    }
+                },
+                "Jurgen_Vd Goorbergh": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Jurgen_Vd Goorbergh"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia"
+                    }
+                },
+                "Bernard_Haenggeli": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Bernard_Haenggeli"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia"
+                    }
+                },
+                "Luis_Maurel": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Luis_Maurel"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia"
+                    }
+                },
+                "Pere_Riba": {
+                    "position": "20",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Pere_Riba"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "Volker_Bahr": {
+                    "position": "21",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Volker_Bahr"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "Massimo_Pennacchioli": {
+                    "position": "22",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Massimo_Pennacchioli"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "Bohumil_Stasa Jr.": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Bohumil_Stasa Jr."
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia"
+                    }
+                },
+                "Marek_Moravek": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Marek_Moravek"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                }
+            }
+        },
         "Italian Grand Prix": {
             "Race": {
                 "Jean_Philippe Ruggia": {
@@ -4401,6 +6109,404 @@
                         "laps": "6",
                         "speed": "0",
                         "constructor": "Gilera"
+                    }
+                }
+            }
+        },
+        "United States Grand Prix": {
+            "Race": {
+                "": {
+                    "position": "1",
+                    "points": 25,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Loris_Capirossi"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda",
+                        "time": "46:04.505"
+                    }
+                },
+                "#2": {
+                    "position": "2",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Doriano_Romboni"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda",
+                        "gap": "++1.381"
+                    }
+                },
+                "#3": {
+                    "position": "3",
+                    "points": 16,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Loris_Reggiani"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia",
+                        "gap": "++3.803"
+                    }
+                },
+                "#4": {
+                    "position": "4",
+                    "points": 13,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Alberto_Puig"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda",
+                        "gap": "++3.881"
+                    }
+                },
+                "#5": {
+                    "position": "5",
+                    "points": 11,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Tetsuya_Harada"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "gap": "++4.619"
+                    }
+                },
+                "#6": {
+                    "position": "6",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Pierfrancesco_Chili"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "gap": "++12.279"
+                    }
+                },
+                "#7": {
+                    "position": "7",
+                    "points": 9,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Nobuatsu_Aoki"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda",
+                        "gap": "++18.166"
+                    }
+                },
+                "#8": {
+                    "position": "8",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Helmut_Bradl"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda",
+                        "gap": "++19.861"
+                    }
+                },
+                "#9": {
+                    "position": "9",
+                    "points": 7,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Tadayuki_Okada"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda",
+                        "gap": "++28.044"
+                    }
+                },
+                "#10": {
+                    "position": "10",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Kenny_Roberts Jr"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "gap": "++44.751"
+                    }
+                },
+                "#11": {
+                    "position": "11",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Luis_D'antin"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda",
+                        "gap": "++45.113"
+                    }
+                },
+                "#12": {
+                    "position": "12",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Juan_Borja"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda",
+                        "gap": "++55.484"
+                    }
+                },
+                "#13": {
+                    "position": "13",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Frederic_Protat"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia",
+                        "gap": "++56.529"
+                    }
+                },
+                "#14": {
+                    "position": "14",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Carlos_Checa"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda",
+                        "gap": "++57.555"
+                    }
+                },
+                "#15": {
+                    "position": "15",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Adrian_Bosshard"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda",
+                        "gap": "++1:02.409"
+                    }
+                },
+                "#16": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Patrick_van den Goorbergh"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia",
+                        "gap": "++1:02.565"
+                    }
+                },
+                "#17": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Pere_Riba"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda",
+                        "gap": "++1:04.795"
+                    }
+                },
+                "#18": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Bernard_Haenggeli"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia",
+                        "gap": "++1:15.641"
+                    }
+                },
+                "#19": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Luis_Maurel"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia",
+                        "gap": "++1 Lap"
+                    }
+                },
+                "#20": {
+                    "position": "20",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Bernd_Kassner"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia",
+                        "gap": "++1 Lap"
+                    }
+                },
+                "#21": {
+                    "position": "21",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Jean_Pierre Jeandat"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia",
+                        "gap": "++1 Lap"
+                    }
+                },
+                "#22": {
+                    "position": "22",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Massimo_Pennachioli"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda",
+                        "gap": "++1 Lap"
+                    }
+                },
+                "#23": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Max_Biaggi"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "#24": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Andy_Preining"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia"
+                    }
+                },
+                "#25": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Eskil_Suter"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia"
+                    }
+                },
+                "#26": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Simon_Crafar"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki"
+                    }
+                },
+                "#27": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Wilco_Zeelenberg"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia"
+                    }
+                },
+                "#28": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Jochen_Schmid"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                },
+                "#29": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Jean_Philippe Ruggia"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia"
+                    }
+                },
+                "#30": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Jean_Michel Bayle"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia"
+                    }
+                },
+                "#31": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Volker_Bahr"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
                     }
                 }
             }

@@ -1,490 +1,1502 @@
 {
     "name": "Grand_Prix_250cc",
     "events": {
-        "Nations Grand Prix": {
+        "Kyalami": {
             "Race": {
-                "Fausto_Ricci": {
-                    "position": "1",
-                    "points": 15,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "Fausto_Ricci"
-                    ],
-                    "other_info": {
-                        "carNumber": "Fausto_Ricci",
-                        "laps": "33",
-                        "speed": "0",
-                        "constructor": "Yamaha",
-                        "time": "47:05.590"
-                    }
-                },
-                "Martin_Wimmer": {
+                "Christian_Sarron": {
                     "position": "2",
                     "points": 12,
                     "fastest_lap": "",
-                    "team": "Yamaha",
+                    "team": "TZ250",
                     "drivers": [
-                        "Martin_Wimmer"
+                        "Christian_Sarron"
                     ],
                     "other_info": {
-                        "carNumber": "Martin_Wimmer",
-                        "laps": "33",
-                        "speed": "0",
-                        "constructor": "Yamaha",
-                        "time": "47:14.540",
-                        "gap": "+8.950"
-                    }
-                },
-                "Wayne_Rainey": {
-                    "position": "3",
-                    "points": 10,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "Wayne_Rainey"
-                    ],
-                    "other_info": {
-                        "carNumber": "Wayne_Rainey",
-                        "laps": "33",
-                        "speed": "0",
-                        "constructor": "Yamaha",
-                        "time": "47:19.820",
-                        "gap": "+14.230"
-                    }
-                },
-                "Jean_Michel Mattioli": {
-                    "position": "4",
-                    "points": 8,
-                    "fastest_lap": "",
-                    "team": "Chevallier",
-                    "drivers": [
-                        "Jean_Michel Mattioli"
-                    ],
-                    "other_info": {
-                        "carNumber": "Jean_Michel Mattioli",
-                        "laps": "33",
-                        "speed": "0",
-                        "constructor": "Chevallier",
-                        "time": "47:20.390",
-                        "gap": "+14.800"
-                    }
-                },
-                "Donnie_Mcleod": {
-                    "position": "5",
-                    "points": 6,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "Donnie_Mcleod"
-                    ],
-                    "other_info": {
-                        "carNumber": "Donnie_Mcleod",
-                        "laps": "33",
-                        "speed": "0",
-                        "constructor": "Yamaha",
-                        "time": "47:20.570",
-                        "gap": "+14.980"
-                    }
-                },
-                "Jacques_Cornu": {
-                    "position": "6",
-                    "points": 5,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "Jacques_Cornu"
-                    ],
-                    "other_info": {
-                        "carNumber": "Jacques_Cornu",
-                        "laps": "33",
-                        "speed": "0",
-                        "constructor": "Yamaha",
-                        "time": "47:43.440",
-                        "gap": "+37.850"
-                    }
-                },
-                "Jacques_Bolle": {
-                    "position": "7",
-                    "points": 4,
-                    "fastest_lap": "",
-                    "team": "Pernod",
-                    "drivers": [
-                        "Jacques_Bolle"
-                    ],
-                    "other_info": {
-                        "carNumber": "Jacques_Bolle",
-                        "laps": "33",
-                        "speed": "0",
-                        "constructor": "Pernod",
-                        "time": "47:47.930",
-                        "gap": "+42.340"
-                    }
-                },
-                "Mario_Rademeyer": {
-                    "position": "8",
-                    "points": 3,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Mario_Rademeyer"
-                    ],
-                    "other_info": {
-                        "carNumber": "Mario_Rademeyer",
-                        "laps": "33",
-                        "speed": "0",
-                        "constructor": "MBA",
-                        "time": "47:51.330",
-                        "gap": "+45.740"
+                        "constructor": "TZ250"
                     }
                 },
                 "Manfred_Herweh": {
-                    "position": "9",
-                    "points": 2,
+                    "position": "4",
+                    "points": 8,
                     "fastest_lap": "",
-                    "team": "Real",
+                    "team": "Real-Rotax",
                     "drivers": [
                         "Manfred_Herweh"
                     ],
                     "other_info": {
-                        "carNumber": "Manfred_Herweh",
-                        "laps": "33",
-                        "speed": "0",
-                        "constructor": "Real",
-                        "time": "47:55.530",
-                        "gap": "+49.940"
-                    }
-                },
-                "Anton_Mang": {
-                    "position": "10",
-                    "points": 1,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "Anton_Mang"
-                    ],
-                    "other_info": {
-                        "carNumber": "Anton_Mang",
-                        "laps": "33",
-                        "speed": "0",
-                        "constructor": "Yamaha",
-                        "time": "47:55.930",
-                        "gap": "+50.340"
-                    }
-                },
-                "Jean_Louis Guignabodet": {
-                    "position": "11",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "Jean_Louis Guignabodet"
-                    ],
-                    "other_info": {
-                        "carNumber": "Jean_Louis Guignabodet",
-                        "laps": "33",
-                        "speed": "0",
-                        "constructor": "Yamaha"
-                    }
-                },
-                "Karl_Grässel": {
-                    "position": "13",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "Karl_Grässel"
-                    ],
-                    "other_info": {
-                        "carNumber": "Karl_Grässel",
-                        "laps": "33",
-                        "speed": "0",
-                        "constructor": "Yamaha"
+                        "constructor": "Real-Rotax"
                     }
                 },
                 "Carlos_Lavado": {
-                    "position": "15",
-                    "points": 0,
+                    "position": "9",
+                    "points": 2,
                     "fastest_lap": "",
-                    "team": "Yamaha",
+                    "team": "TZ250",
                     "drivers": [
                         "Carlos_Lavado"
                     ],
                     "other_info": {
-                        "carNumber": "Carlos_Lavado",
-                        "laps": "33",
-                        "speed": "0",
-                        "constructor": "Yamaha"
+                        "constructor": "TZ250"
                     }
                 },
-                "Stephane_Mertens": {
+                "Sito_Pons": {
+                    "position": "3",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Kobas-Rotax",
+                    "drivers": [
+                        "Sito_Pons"
+                    ],
+                    "other_info": {
+                        "constructor": "Kobas-Rotax"
+                    }
+                },
+                "Anton_Mang": {
+                    "position": "5",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Anton_Mang"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Jacques_Cornu": {
                     "position": "16",
                     "points": 0,
                     "fastest_lap": "",
-                    "team": "Yamaha",
+                    "team": "TZ250",
                     "drivers": [
-                        "Stephane_Mertens"
+                        "Jacques_Cornu"
                     ],
                     "other_info": {
-                        "carNumber": "Stephane_Mertens",
-                        "laps": "33",
-                        "speed": "0",
-                        "constructor": "Yamaha"
+                        "constructor": "TZ250"
                     }
                 },
-                "Teruo_Fukuda": {
-                    "position": "17",
+                "Martin_Wimmer": {
+                    "position": "12",
                     "points": 0,
                     "fastest_lap": "",
-                    "team": "Yamaha",
+                    "team": "TZ250",
                     "drivers": [
-                        "Teruo_Fukuda"
+                        "Martin_Wimmer"
                     ],
                     "other_info": {
-                        "carNumber": "Teruo_Fukuda",
-                        "laps": "33",
-                        "speed": "0",
-                        "constructor": "Yamaha"
+                        "constructor": "TZ250"
                     }
                 },
-                "Marcellino_Lucchi": {
-                    "position": "18",
+                "Wayne_Rainey": {
+                    "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
-                    "team": "Rotax",
+                    "team": "TZ250",
                     "drivers": [
-                        "Marcellino_Lucchi"
+                        "Wayne_Rainey"
                     ],
                     "other_info": {
-                        "carNumber": "Marcellino_Lucchi",
-                        "laps": "33",
-                        "speed": "0",
-                        "constructor": "Rotax"
+                        "constructor": "TZ250"
+                    }
+                },
+                "Alan_Carter": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Alan_Carter"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
                     }
                 },
                 "Jean_Francois Baldé": {
-                    "position": "20",
-                    "points": 0,
+                    "position": "7",
+                    "points": 4,
                     "fastest_lap": "",
-                    "team": "Pernod",
+                    "team": "YZR250",
                     "drivers": [
                         "Jean_Francois Baldé"
                     ],
                     "other_info": {
-                        "carNumber": "Jean_Francois Baldé",
-                        "laps": "33",
-                        "speed": "0",
-                        "constructor": "Pernod"
-                    }
-                },
-                "Rene_Deláby": {
-                    "position": "21",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "Rene_Deláby"
-                    ],
-                    "other_info": {
-                        "carNumber": "Rene_Deláby",
-                        "laps": "33",
-                        "speed": "0",
-                        "constructor": "Yamaha"
-                    }
-                },
-                "Massimo_Matteoni": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "Massimo_Matteoni"
-                    ],
-                    "other_info": {
-                        "carNumber": "Massimo_Matteoni",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Yamaha"
+                        "constructor": "YZR250"
                     }
                 },
                 "Thierry_Espié": {
-                    "position": "DNF",
+                    "position": "15",
                     "points": 0,
                     "fastest_lap": "",
-                    "team": "Chevallier",
+                    "team": "Chevallier_TZ250",
                     "drivers": [
                         "Thierry_Espié"
                     ],
                     "other_info": {
-                        "carNumber": "Thierry_Espié",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Chevallier"
+                        "constructor": "Chevallier TZ250"
                     }
                 },
-                "Carlos_Cardús": {
-                    "position": "DNF",
+                "Jean_Michel Mattioli": {
+                    "position": "13",
                     "points": 0,
                     "fastest_lap": "",
-                    "team": "JJ_Cobas",
+                    "team": "Chevallier_TZ250",
                     "drivers": [
-                        "Carlos_Cardús"
+                        "Jean_Michel Mattioli"
                     ],
                     "other_info": {
-                        "carNumber": "Carlos_Cardús",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "JJ Cobas"
+                        "constructor": "Chevallier TZ250"
                     }
                 },
-                "Roland_Freymond": {
-                    "position": "DNF",
-                    "points": 0,
+                "Patrick_Fernandez": {
+                    "position": "1",
+                    "points": 15,
                     "fastest_lap": "",
-                    "team": "Yamaha",
+                    "team": "TZ250",
                     "drivers": [
-                        "Roland_Freymond"
+                        "Patrick_Fernandez"
                     ],
                     "other_info": {
-                        "carNumber": "Roland_Freymond",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Yamaha"
+                        "constructor": "TZ250"
+                    }
+                },
+                "Ivan_Palazzese": {
+                    "position": "8",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Ivan_Palazzese"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
                     }
                 },
                 "Harald_Eckl": {
                     "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
-                    "team": "Yamaha",
+                    "team": "Rotax",
                     "drivers": [
                         "Harald_Eckl"
                     ],
                     "other_info": {
-                        "carNumber": "Harald_Eckl",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Yamaha"
+                        "constructor": "Rotax"
                     }
                 },
-                "Patrick_Fernandez": {
+                "Jacques_Bolle": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Jacques_Bolle"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Karl_Grässel": {
+                    "position": "6",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Karl_Grässel"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Loris_Reggiani": {
                     "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
-                    "team": "Yamaha",
+                    "team": "KR250",
                     "drivers": [
-                        "Patrick_Fernandez"
+                        "Loris_Reggiani"
                     ],
                     "other_info": {
-                        "carNumber": "Patrick_Fernandez",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Yamaha"
+                        "constructor": "KR250"
                     }
                 },
-                "Christian_Sarron": {
-                    "position": "DNF",
+                "Stephane_Mertens": {
+                    "position": "14",
                     "points": 0,
                     "fastest_lap": "",
-                    "team": "Yamaha",
+                    "team": "TZ250",
                     "drivers": [
-                        "Christian_Sarron"
+                        "Stephane_Mertens"
                     ],
                     "other_info": {
-                        "carNumber": "Christian_Sarron",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Yamaha"
+                        "constructor": "TZ250"
                     }
                 },
-                "Herve_Guilleux": {
-                    "position": "DNF",
+                "Mario_Rademeyer": {
+                    "position": "11",
                     "points": 0,
                     "fastest_lap": "",
-                    "team": "Chevallier",
+                    "team": "TZ250",
                     "drivers": [
-                        "Herve_Guilleux"
+                        "Mario_Rademeyer"
                     ],
                     "other_info": {
-                        "carNumber": "Herve_Guilleux",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Chevallier"
-                    }
-                },
-                "Sito_Pons": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "JJ_Cobas",
-                    "drivers": [
-                        "Sito_Pons"
-                    ],
-                    "other_info": {
-                        "carNumber": "Sito_Pons",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "JJ Cobas"
-                    }
-                },
-                "Ivan_Palazzese": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "Ivan_Palazzese"
-                    ],
-                    "other_info": {
-                        "carNumber": "Ivan_Palazzese",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Yamaha"
-                    }
-                },
-                "Angel_Nieto": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "JJ_Cobas",
-                    "drivers": [
-                        "Angel_Nieto"
-                    ],
-                    "other_info": {
-                        "carNumber": "Angel_Nieto",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "JJ Cobas"
-                    }
-                },
-                "Maurizio_Vitali": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Maurizio_Vitali"
-                    ],
-                    "other_info": {
-                        "carNumber": "Maurizio_Vitali",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "MBA"
+                        "constructor": "TZ250"
                     }
                 },
                 "Thierry_Rapicault": {
                     "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
-                    "team": "Yamaha",
+                    "team": "YZR250",
                     "drivers": [
                         "Thierry_Rapicault"
                     ],
                     "other_info": {
-                        "carNumber": "Thierry_Rapicault",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Yamaha"
+                        "constructor": "YZR250"
+                    }
+                },
+                "Richard_Hubin": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Richard_Hubin"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Jean_Louis Guignabodet": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Jean_Louis Guignabodet"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Herve_Guilleux": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Chevallier_YZR250",
+                    "drivers": [
+                        "Herve_Guilleux"
+                    ],
+                    "other_info": {
+                        "constructor": "Chevallier YZR250"
+                    }
+                },
+                "Roland_Freymond": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Roland_Freymond"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Jimmy_Rodger": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Jimmy_Rodger"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Bruno_Luscher": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Bruno_Luscher"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Dave_Emond": {
+                    "position": "20",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Dave_Emond"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Klaus-Peter_Baller": {
+                    "position": "21",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Klaus-Peter_Baller"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Danny_Bristol": {
+                    "position": "22",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Danny_Bristol"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Chas_Mortimer": {
+                    "position": "23",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "CF250",
+                    "drivers": [
+                        "Chas_Mortimer"
+                    ],
+                    "other_info": {
+                        "constructor": "CF250"
+                    }
+                },
+                "Barry_Kerr": {
+                    "position": "24",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Barry_Kerr"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Vincenzo_Cascino": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Vincenzo_Cascino"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Kevin_Hellyer": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Kevin_Hellyer"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Warren_Bristol": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Warren_Bristol"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Leonard_Dibon": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Leonard_Dibon"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Russell_Wood": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Russell_Wood"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Ronan_Schulz": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Ronan_Schulz"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Dave_Estment": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Dave_Estment"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "Donald_Shaw": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Rotax",
+                    "drivers": [
+                        "Donald_Shaw"
+                    ],
+                    "other_info": {
+                        "constructor": "Rotax"
+                    }
+                },
+                "Alan_Stroud": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Alan_Stroud"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                }
+            }
+        },
+        "Jarama": {
+            "Race": {
+                "Christian_Sarron": {
+                    "position": "2",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Christian_Sarron"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Manfred_Herweh": {
+                    "position": "12",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Real-Rotax",
+                    "drivers": [
+                        "Manfred_Herweh"
+                    ],
+                    "other_info": {
+                        "constructor": "Real-Rotax"
+                    }
+                },
+                "Carlos_Lavado": {
+                    "position": "3",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Carlos_Lavado"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Sito_Pons": {
+                    "position": "1",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Kobas-Rotax",
+                    "drivers": [
+                        "Sito_Pons"
+                    ],
+                    "other_info": {
+                        "constructor": "Kobas-Rotax"
+                    }
+                },
+                "Anton_Mang": {
+                    "position": "7",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Anton_Mang"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Jacques_Cornu": {
+                    "position": "6",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Jacques_Cornu"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Martin_Wimmer": {
+                    "position": "13",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Martin_Wimmer"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Wayne_Rainey": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Wayne_Rainey"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Alan_Carter": {
+                    "position": "4",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Alan_Carter"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Jean_Francois Baldé": {
+                    "position": "5",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Jean_Francois Baldé"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Thierry_Espié": {
+                    "position": "20",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Chevallier_TZ250",
+                    "drivers": [
+                        "Thierry_Espié"
+                    ],
+                    "other_info": {
+                        "constructor": "Chevallier TZ250"
+                    }
+                },
+                "Jean_Michel Mattioli": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "Chevallier_TZ250",
+                    "drivers": [
+                        "Jean_Michel Mattioli"
+                    ],
+                    "other_info": {
+                        "constructor": "Chevallier TZ250"
+                    }
+                },
+                "Patrick_Fernandez": {
+                    "position": "24",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Patrick_Fernandez"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Ivan_Palazzese": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Ivan_Palazzese"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Fausto_Ricci": {
+                    "position": "14",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Fausto_Ricci"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Donnie_Mcleod": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Donnie_Mcleod"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Jacques_Bolle": {
+                    "position": "8",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Jacques_Bolle"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Teruo_Fukuda": {
+                    "position": "11",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Teruo_Fukuda"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Karl_Grässel": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Karl_Grässel"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Loris_Reggiani": {
+                    "position": "15",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "KR250",
+                    "drivers": [
+                        "Loris_Reggiani"
+                    ],
+                    "other_info": {
+                        "constructor": "KR250"
+                    }
+                },
+                "Carlos_Cardús": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kobas-Rotax",
+                    "drivers": [
+                        "Carlos_Cardús"
+                    ],
+                    "other_info": {
+                        "constructor": "Kobas-Rotax"
+                    }
+                },
+                "Stephane_Mertens": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Stephane_Mertens"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Mario_Rademeyer": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Mario_Rademeyer"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Richard_Hubin": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Richard_Hubin"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Jean_Louis Guignabodet": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Jean_Louis Guignabodet"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Massimo_Matteoni": {
+                    "position": "21",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Massimo_Matteoni"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Neil_Robinson": {
+                    "position": "22",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Neil_Robinson"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Juan_Garriga": {
+                    "position": "25",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Juan_Garriga"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Herve_Guilleux": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Chevallier_YZR250",
+                    "drivers": [
+                        "Herve_Guilleux"
+                    ],
+                    "other_info": {
+                        "constructor": "Chevallier YZR250"
+                    }
+                },
+                "Roland_Freymond": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Roland_Freymond"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Gabriel_Grabia": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Gabriel_Grabia"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Rene_Deláby": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Rene_Deláby"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Luis_Miguel Reyes": {
+                    "position": "23",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kobas-Rotax",
+                    "drivers": [
+                        "Luis_Miguel Reyes"
+                    ],
+                    "other_info": {
+                        "constructor": "Kobas-Rotax"
+                    }
+                },
+                "David_Floyd Busby": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Rotax",
+                    "drivers": [
+                        "David_Floyd Busby"
+                    ],
+                    "other_info": {
+                        "constructor": "Rotax"
+                    }
+                },
+                "Angel_Nieto": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kobas-Rotax",
+                    "drivers": [
+                        "Angel_Nieto"
+                    ],
+                    "other_info": {
+                        "constructor": "Kobas-Rotax"
+                    }
+                },
+                "Antonio_García": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kobas-Rotax",
+                    "drivers": [
+                        "Antonio_García (1982)"
+                    ],
+                    "other_info": {
+                        "constructor": "Kobas-Rotax"
+                    }
+                }
+            }
+        },
+        "Salzburgring": {
+            "Race": {
+                "Christian_Sarron": {
+                    "position": "1",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Christian_Sarron"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Manfred_Herweh": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Real-Rotax",
+                    "drivers": [
+                        "Manfred_Herweh"
+                    ],
+                    "other_info": {
+                        "constructor": "Real-Rotax"
+                    }
+                },
+                "Carlos_Lavado": {
+                    "position": "5",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Carlos_Lavado"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Sito_Pons": {
+                    "position": "3",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Kobas-Rotax",
+                    "drivers": [
+                        "Sito_Pons"
+                    ],
+                    "other_info": {
+                        "constructor": "Kobas-Rotax"
+                    }
+                },
+                "Anton_Mang": {
+                    "position": "2",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Anton_Mang"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Jacques_Cornu": {
+                    "position": "8",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Jacques_Cornu"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Martin_Wimmer": {
+                    "position": "7",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Martin_Wimmer"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Wayne_Rainey": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Wayne_Rainey"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Alan_Carter": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Alan_Carter"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Jean_Francois Baldé": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Jean_Francois Baldé"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Guy_Bertin": {
+                    "position": "4",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Guy_Bertin"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Thierry_Espié": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Chevallier_TZ250",
+                    "drivers": [
+                        "Thierry_Espié"
+                    ],
+                    "other_info": {
+                        "constructor": "Chevallier TZ250"
+                    }
+                },
+                "Jean_Michel Mattioli": {
+                    "position": "13",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Chevallier_TZ250",
+                    "drivers": [
+                        "Jean_Michel Mattioli"
+                    ],
+                    "other_info": {
+                        "constructor": "Chevallier TZ250"
+                    }
+                },
+                "Patrick_Fernandez": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Patrick_Fernandez"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Fausto_Ricci": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Fausto_Ricci"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Donnie_Mcleod": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Donnie_Mcleod"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Harald_Eckl": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Rotax",
+                    "drivers": [
+                        "Harald_Eckl"
+                    ],
+                    "other_info": {
+                        "constructor": "Rotax"
+                    }
+                },
+                "Jacques_Bolle": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Jacques_Bolle"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Teruo_Fukuda": {
+                    "position": "12",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Teruo_Fukuda"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Karl_Grässel": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Karl_Grässel"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Loris_Reggiani": {
+                    "position": "6",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "KR250",
+                    "drivers": [
+                        "Loris_Reggiani"
+                    ],
+                    "other_info": {
+                        "constructor": "KR250"
+                    }
+                },
+                "Siegfried_Minich": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Siegfried_Minich"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Carlos_Cardús": {
+                    "position": "DNS",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kobas-Rotax",
+                    "drivers": [
+                        "Carlos_Cardús"
+                    ],
+                    "other_info": {
+                        "constructor": "Kobas-Rotax"
+                    }
+                },
+                "Stephane_Mertens": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Stephane_Mertens"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Mario_Rademeyer": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Mario_Rademeyer"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Thierry_Rapicault": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Thierry_Rapicault"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Richard_Hubin": {
+                    "position": "11",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Richard_Hubin"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Jean_Louis Guignabodet": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Jean_Louis Guignabodet"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Herbert_Besendörfer": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Herbert_Besendörfer"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Massimo_Matteoni": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Massimo_Matteoni"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Herve_Guilleux": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Chevallier_YZR250",
+                    "drivers": [
+                        "Herve_Guilleux"
+                    ],
+                    "other_info": {
+                        "constructor": "Chevallier YZR250"
+                    }
+                },
+                "Thomas_Bacher": {
+                    "position": "14",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Thomas_Bacher"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Erich_Klein": {
+                    "position": "15",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Rotax",
+                    "drivers": [
+                        "Erich_Klein"
+                    ],
+                    "other_info": {
+                        "constructor": "Rotax"
+                    }
+                },
+                "Roland_Freymond": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Roland_Freymond"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Manfred_Obinger": {
+                    "position": "20",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Manfred_Obinger"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Rene_Deláby": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Rene_Deláby"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Eilert_Lundstedt": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Eilert_Lundstedt"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Bruno_Luscher": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Bruno_Luscher"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Josef_Hutter": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Josef_Hutter"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Luis_Miguel Reyes": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kobas-Rotax",
+                    "drivers": [
+                        "Luis_Miguel Reyes"
+                    ],
+                    "other_info": {
+                        "constructor": "Kobas-Rotax"
+                    }
+                },
+                "David_Floyd Busby": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Rotax",
+                    "drivers": [
+                        "David_Floyd Busby"
+                    ],
+                    "other_info": {
+                        "constructor": "Rotax"
+                    }
+                },
+                "Hans_Becker": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Hans_Becker"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Stefan_Klabacher": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Rotax",
+                    "drivers": [
+                        "Stefan_Klabacher"
+                    ],
+                    "other_info": {
+                        "constructor": "Rotax"
+                    }
+                },
+                "Michael_Lederer": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Michael_Lederer"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "August_Weissner": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "August_Weissner"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Karl-Heinz_Riegl": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Moam",
+                    "drivers": [
+                        "Karl-Heinz_Riegl"
+                    ],
+                    "other_info": {
+                        "constructor": "Moam"
+                    }
+                },
+                "Englebert_Neumair": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Englebert_Neumair"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
                     }
                 }
             }
@@ -1018,6 +2030,694 @@
                         "laps": "0",
                         "speed": "0",
                         "constructor": "Yamaha"
+                    }
+                }
+            }
+        },
+        "Paul Ricard": {
+            "Race": {
+                "Christian_Sarron": {
+                    "position": "5",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Christian_Sarron"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Manfred_Herweh": {
+                    "position": "3",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Real-Rotax",
+                    "drivers": [
+                        "Manfred_Herweh"
+                    ],
+                    "other_info": {
+                        "constructor": "Real-Rotax"
+                    }
+                },
+                "Carlos_Lavado": {
+                    "position": "2",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Carlos_Lavado"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Sito_Pons": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kobas-Rotax",
+                    "drivers": [
+                        "Sito_Pons"
+                    ],
+                    "other_info": {
+                        "constructor": "Kobas-Rotax"
+                    }
+                },
+                "Anton_Mang": {
+                    "position": "1",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Anton_Mang"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Jacques_Cornu": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Jacques_Cornu"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Martin_Wimmer": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Martin_Wimmer"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Wayne_Rainey": {
+                    "position": "6",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Wayne_Rainey"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Alan_Carter": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Alan_Carter"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Jean_Francois Baldé": {
+                    "position": "14",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Jean_Francois Baldé"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Guy_Bertin": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Guy_Bertin"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Thierry_Espié": {
+                    "position": "4",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Chevallier_TZ250",
+                    "drivers": [
+                        "Thierry_Espié"
+                    ],
+                    "other_info": {
+                        "constructor": "Chevallier TZ250"
+                    }
+                },
+                "Jean_Michel Mattioli": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "Chevallier_TZ250",
+                    "drivers": [
+                        "Jean_Michel Mattioli"
+                    ],
+                    "other_info": {
+                        "constructor": "Chevallier TZ250"
+                    }
+                },
+                "Patrick_Fernandez": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Patrick_Fernandez"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Ivan_Palazzese": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Ivan_Palazzese"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Fausto_Ricci": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Fausto_Ricci"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Donnie_Mcleod": {
+                    "position": "8",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Donnie_Mcleod"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Harald_Eckl": {
+                    "position": "20",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Rotax",
+                    "drivers": [
+                        "Harald_Eckl"
+                    ],
+                    "other_info": {
+                        "constructor": "Rotax"
+                    }
+                },
+                "Jacques_Bolle": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Jacques_Bolle"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Teruo_Fukuda": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Teruo_Fukuda"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Karl_Grässel": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Karl_Grässel"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Loris_Reggiani": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "KR250",
+                    "drivers": [
+                        "Loris_Reggiani"
+                    ],
+                    "other_info": {
+                        "constructor": "KR250"
+                    }
+                },
+                "Siegfried_Minich": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Siegfried_Minich"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Maurizio_Vitali": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Maurizio_Vitali"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Carlos_Cardús": {
+                    "position": "7",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "Kobas-Rotax",
+                    "drivers": [
+                        "Carlos_Cardús"
+                    ],
+                    "other_info": {
+                        "constructor": "Kobas-Rotax"
+                    }
+                },
+                "Stephane_Mertens": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Stephane_Mertens"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Mario_Rademeyer": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Mario_Rademeyer"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Thierry_Rapicault": {
+                    "position": "12",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Thierry_Rapicault"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Richard_Hubin": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Richard_Hubin"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Jean_Louis Guignabodet": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Jean_Louis Guignabodet"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Jean-Luc_Guillemet": {
+                    "position": "11",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Jean-Luc_Guillemet"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Herbert_Besendörfer": {
+                    "position": "21",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Herbert_Besendörfer"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Massimo_Matteoni": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Massimo_Matteoni"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Davide_Tardozzi": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Davide_Tardozzi"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "August_Auinger": {
+                    "position": "22",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Monnet",
+                    "drivers": [
+                        "August_Auinger"
+                    ],
+                    "other_info": {
+                        "constructor": "Monnet"
+                    }
+                },
+                "Neil_Robinson": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Neil_Robinson"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Jacques_Bolle#2": {
+                    "position": "13",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Jacques_Bolle"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Juan_Garriga": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Juan_Garriga"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Herve_Guilleux": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Chevallier_YZR250",
+                    "drivers": [
+                        "Herve_Guilleux"
+                    ],
+                    "other_info": {
+                        "constructor": "Chevallier YZR250"
+                    }
+                },
+                "Roland_Freymond": {
+                    "position": "15",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Roland_Freymond"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Gabriel_Grabia": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Gabriel_Grabia"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Antoine_Longo": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Ducombs",
+                    "drivers": [
+                        "Antoine_Longo"
+                    ],
+                    "other_info": {
+                        "constructor": "Ducombs"
+                    }
+                },
+                "Manfred_Obinger": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Manfred_Obinger"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Rene_Deláby": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Rene_Deláby"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Eilert_Lundstedt": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Eilert_Lundstedt"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Bruno_Luscher": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Bruno_Luscher"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Luis_Miguel Reyes": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kobas-Rotax",
+                    "drivers": [
+                        "Luis_Miguel Reyes"
+                    ],
+                    "other_info": {
+                        "constructor": "Kobas-Rotax"
+                    }
+                },
+                "Jacky_Onda": {
+                    "position": "23",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Jacky_Onda"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Philippe_Pagano": {
+                    "position": "24",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Philippe_Pagano"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Patrick_Schmalz": {
+                    "position": "25",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Patrick_Schmalz"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Donnie_Robinson": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Donnie_Robinson"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Marino_Neri": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Marino_Neri"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Antonio_García": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kobas-Rotax",
+                    "drivers": [
+                        "Antonio_García (1982)"
+                    ],
+                    "other_info": {
+                        "constructor": "Kobas-Rotax"
+                    }
+                },
+                "Michel_Galbit": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Michel_Galbit"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Jean_Foray": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Jean_Foray"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Philippe_Robles": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Philippe_Robles"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Michel_Augizeau": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Michel_Augizeau"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
                     }
                 }
             }
@@ -2546,6 +4246,652 @@
                 }
             }
         },
+        "Silverstone": {
+            "Race": {
+                "Christian_Sarron": {
+                    "position": "1",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Christian_Sarron"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Manfred_Herweh": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Real-Rotax",
+                    "drivers": [
+                        "Manfred_Herweh"
+                    ],
+                    "other_info": {
+                        "constructor": "Real-Rotax"
+                    }
+                },
+                "Carlos_Lavado": {
+                    "position": "3",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Carlos_Lavado"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Sito_Pons": {
+                    "position": "6",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "Kobas-Rotax",
+                    "drivers": [
+                        "Sito_Pons"
+                    ],
+                    "other_info": {
+                        "constructor": "Kobas-Rotax"
+                    }
+                },
+                "Anton_Mang": {
+                    "position": "11",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Anton_Mang"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Jacques_Cornu": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Jacques_Cornu"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Martin_Wimmer": {
+                    "position": "5",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Martin_Wimmer"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Wayne_Rainey": {
+                    "position": "14",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Wayne_Rainey"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Alan_Carter": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Alan_Carter"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Jean_Francois Baldé": {
+                    "position": "4",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Jean_Francois Baldé"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Guy_Bertin": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Guy_Bertin"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Thierry_Espié": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Chevallier_TZ250",
+                    "drivers": [
+                        "Thierry_Espié"
+                    ],
+                    "other_info": {
+                        "constructor": "Chevallier TZ250"
+                    }
+                },
+                "Jean_Michel Mattioli": {
+                    "position": "8",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "Chevallier_TZ250",
+                    "drivers": [
+                        "Jean_Michel Mattioli"
+                    ],
+                    "other_info": {
+                        "constructor": "Chevallier TZ250"
+                    }
+                },
+                "Patrick_Fernandez": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Patrick_Fernandez"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Ivan_Palazzese": {
+                    "position": "DNS",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Ivan_Palazzese"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Fausto_Ricci": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Fausto_Ricci"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Andy_Watts": {
+                    "position": "2",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Andy_Watts"
+                    ],
+                    "other_info": {}
+                },
+                "Donnie_Mcleod": {
+                    "position": "15",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Donnie_Mcleod"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Harald_Eckl": {
+                    "position": "7",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "Rotax",
+                    "drivers": [
+                        "Harald_Eckl"
+                    ],
+                    "other_info": {
+                        "constructor": "Rotax"
+                    }
+                },
+                "Jacques_Bolle": {
+                    "position": "13",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Jacques_Bolle"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Teruo_Fukuda": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Teruo_Fukuda"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Karl_Grässel": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Karl_Grässel"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Loris_Reggiani": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "KR250",
+                    "drivers": [
+                        "Loris_Reggiani"
+                    ],
+                    "other_info": {
+                        "constructor": "KR250"
+                    }
+                },
+                "Siegfried_Minich": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Siegfried_Minich"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Carlos_Cardús": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kobas-Rotax",
+                    "drivers": [
+                        "Carlos_Cardús"
+                    ],
+                    "other_info": {
+                        "constructor": "Kobas-Rotax"
+                    }
+                },
+                "Stephane_Mertens": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Stephane_Mertens"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Mario_Rademeyer": {
+                    "position": "DNS",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "TZ250",
+                    "drivers": [
+                        "Mario_Rademeyer"
+                    ],
+                    "other_info": {
+                        "constructor": "TZ250"
+                    }
+                },
+                "Thierry_Rapicault": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Thierry_Rapicault"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Richard_Hubin": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Richard_Hubin"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Jean_Louis Guignabodet": {
+                    "position": "24",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Jean_Louis Guignabodet"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Herbert_Besendörfer": {
+                    "position": "12",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Herbert_Besendörfer"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "August_Auinger": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Monnet",
+                    "drivers": [
+                        "August_Auinger"
+                    ],
+                    "other_info": {
+                        "constructor": "Monnet"
+                    }
+                },
+                "Neil_Robinson": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Neil_Robinson"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Herve_Guilleux": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Chevallier_YZR250",
+                    "drivers": [
+                        "Herve_Guilleux"
+                    ],
+                    "other_info": {
+                        "constructor": "Chevallier YZR250"
+                    }
+                },
+                "Roland_Freymond": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Roland_Freymond"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Gabriel_Grabia": {
+                    "position": "DNS",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Gabriel_Grabia"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Tony_Head": {
+                    "position": "DNS",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Rotax",
+                    "drivers": [
+                        "Tony_Head"
+                    ],
+                    "other_info": {
+                        "constructor": "Rotax"
+                    }
+                },
+                "Manfred_Obinger": {
+                    "position": "27",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Manfred_Obinger"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Rene_Deláby": {
+                    "position": "21",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Rene_Deláby"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Bruno_Luscher": {
+                    "position": "23",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Bruno_Luscher"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Paul_Tinkler": {
+                    "position": "20",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Paul_Tinkler"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Marc_Schouten": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Marc_Schouten"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Graeme_Mcgregor": {
+                    "position": "22",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Graeme_Mcgregor"
+                    ],
+                    "other_info": {}
+                },
+                "Luis_Miguel Reyes": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kobas-Rotax",
+                    "drivers": [
+                        "Luis_Miguel Reyes"
+                    ],
+                    "other_info": {
+                        "constructor": "Kobas-Rotax"
+                    }
+                },
+                "Michel_Simeon": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RS250",
+                    "drivers": [
+                        "Michel_Simeon"
+                    ],
+                    "other_info": {
+                        "constructor": "RS250"
+                    }
+                },
+                "Graham_Young": {
+                    "position": "25",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Rotax",
+                    "drivers": [
+                        "Graham_Young"
+                    ],
+                    "other_info": {
+                        "constructor": "Rotax"
+                    }
+                },
+                "Vincenzo_Cascino": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Vincenzo_Cascino"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Gary_Noel": {
+                    "position": "26",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Gary_Noel"
+                    ],
+                    "other_info": {}
+                },
+                "Niall_Mackenzie": {
+                    "position": "28",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "CF250",
+                    "drivers": [
+                        "Niall_Mackenzie"
+                    ],
+                    "other_info": {
+                        "constructor": "CF250"
+                    }
+                },
+                "Angel_Nieto": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kobas-Rotax",
+                    "drivers": [
+                        "Angel_Nieto"
+                    ],
+                    "other_info": {
+                        "constructor": "Kobas-Rotax"
+                    }
+                },
+                "Donnie_Robinson": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Donnie_Robinson"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Peter_Hubbard": {
+                    "position": "DNS",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Rotax",
+                    "drivers": [
+                        "Peter_Hubbard"
+                    ],
+                    "other_info": {
+                        "constructor": "Rotax"
+                    }
+                },
+                "Joey_Dunlop": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Joey_Dunlop"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "Steve_Williams": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Steve_Williams"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                }
+            }
+        },
         "Swedish Grand Prix": {
             "Race": {
                 "Manfred_Herweh": {
@@ -3473,6 +5819,554 @@
                         "laps": "0",
                         "speed": "0",
                         "constructor": "Pernod"
+                    }
+                }
+            }
+        },
+        "Nations Grand Prix": {
+            "Race": {
+                "Fausto_Ricci": {
+                    "position": "1",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Fausto_Ricci"
+                    ],
+                    "other_info": {
+                        "carNumber": "Fausto_Ricci",
+                        "laps": "33",
+                        "speed": "0",
+                        "constructor": "Yamaha",
+                        "time": "47:05.590"
+                    }
+                },
+                "Martin_Wimmer": {
+                    "position": "2",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Martin_Wimmer"
+                    ],
+                    "other_info": {
+                        "carNumber": "Martin_Wimmer",
+                        "laps": "33",
+                        "speed": "0",
+                        "constructor": "Yamaha",
+                        "time": "47:14.540",
+                        "gap": "+8.950"
+                    }
+                },
+                "Wayne_Rainey": {
+                    "position": "3",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Wayne_Rainey"
+                    ],
+                    "other_info": {
+                        "carNumber": "Wayne_Rainey",
+                        "laps": "33",
+                        "speed": "0",
+                        "constructor": "Yamaha",
+                        "time": "47:19.820",
+                        "gap": "+14.230"
+                    }
+                },
+                "Jean_Michel Mattioli": {
+                    "position": "4",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Chevallier",
+                    "drivers": [
+                        "Jean_Michel Mattioli"
+                    ],
+                    "other_info": {
+                        "carNumber": "Jean_Michel Mattioli",
+                        "laps": "33",
+                        "speed": "0",
+                        "constructor": "Chevallier",
+                        "time": "47:20.390",
+                        "gap": "+14.800"
+                    }
+                },
+                "Donnie_Mcleod": {
+                    "position": "5",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Donnie_Mcleod"
+                    ],
+                    "other_info": {
+                        "carNumber": "Donnie_Mcleod",
+                        "laps": "33",
+                        "speed": "0",
+                        "constructor": "Yamaha",
+                        "time": "47:20.570",
+                        "gap": "+14.980"
+                    }
+                },
+                "Jacques_Cornu": {
+                    "position": "6",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Jacques_Cornu"
+                    ],
+                    "other_info": {
+                        "carNumber": "Jacques_Cornu",
+                        "laps": "33",
+                        "speed": "0",
+                        "constructor": "Yamaha",
+                        "time": "47:43.440",
+                        "gap": "+37.850"
+                    }
+                },
+                "Jacques_Bolle": {
+                    "position": "7",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "Pernod",
+                    "drivers": [
+                        "Jacques_Bolle"
+                    ],
+                    "other_info": {
+                        "carNumber": "Jacques_Bolle",
+                        "laps": "33",
+                        "speed": "0",
+                        "constructor": "Pernod",
+                        "time": "47:47.930",
+                        "gap": "+42.340"
+                    }
+                },
+                "Mario_Rademeyer": {
+                    "position": "8",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Mario_Rademeyer"
+                    ],
+                    "other_info": {
+                        "carNumber": "Mario_Rademeyer",
+                        "laps": "33",
+                        "speed": "0",
+                        "constructor": "MBA",
+                        "time": "47:51.330",
+                        "gap": "+45.740"
+                    }
+                },
+                "Manfred_Herweh": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "Real",
+                    "drivers": [
+                        "Manfred_Herweh"
+                    ],
+                    "other_info": {
+                        "carNumber": "Manfred_Herweh",
+                        "laps": "33",
+                        "speed": "0",
+                        "constructor": "Real",
+                        "time": "47:55.530",
+                        "gap": "+49.940"
+                    }
+                },
+                "Anton_Mang": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Anton_Mang"
+                    ],
+                    "other_info": {
+                        "carNumber": "Anton_Mang",
+                        "laps": "33",
+                        "speed": "0",
+                        "constructor": "Yamaha",
+                        "time": "47:55.930",
+                        "gap": "+50.340"
+                    }
+                },
+                "Jean_Louis Guignabodet": {
+                    "position": "11",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Jean_Louis Guignabodet"
+                    ],
+                    "other_info": {
+                        "carNumber": "Jean_Louis Guignabodet",
+                        "laps": "33",
+                        "speed": "0",
+                        "constructor": "Yamaha"
+                    }
+                },
+                "Karl_Grässel": {
+                    "position": "13",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Karl_Grässel"
+                    ],
+                    "other_info": {
+                        "carNumber": "Karl_Grässel",
+                        "laps": "33",
+                        "speed": "0",
+                        "constructor": "Yamaha"
+                    }
+                },
+                "Carlos_Lavado": {
+                    "position": "15",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Carlos_Lavado"
+                    ],
+                    "other_info": {
+                        "carNumber": "Carlos_Lavado",
+                        "laps": "33",
+                        "speed": "0",
+                        "constructor": "Yamaha"
+                    }
+                },
+                "Stephane_Mertens": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Stephane_Mertens"
+                    ],
+                    "other_info": {
+                        "carNumber": "Stephane_Mertens",
+                        "laps": "33",
+                        "speed": "0",
+                        "constructor": "Yamaha"
+                    }
+                },
+                "Teruo_Fukuda": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Teruo_Fukuda"
+                    ],
+                    "other_info": {
+                        "carNumber": "Teruo_Fukuda",
+                        "laps": "33",
+                        "speed": "0",
+                        "constructor": "Yamaha"
+                    }
+                },
+                "Marcellino_Lucchi": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Rotax",
+                    "drivers": [
+                        "Marcellino_Lucchi"
+                    ],
+                    "other_info": {
+                        "carNumber": "Marcellino_Lucchi",
+                        "laps": "33",
+                        "speed": "0",
+                        "constructor": "Rotax"
+                    }
+                },
+                "Jean_Francois Baldé": {
+                    "position": "20",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Pernod",
+                    "drivers": [
+                        "Jean_Francois Baldé"
+                    ],
+                    "other_info": {
+                        "carNumber": "Jean_Francois Baldé",
+                        "laps": "33",
+                        "speed": "0",
+                        "constructor": "Pernod"
+                    }
+                },
+                "Rene_Deláby": {
+                    "position": "21",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Rene_Deláby"
+                    ],
+                    "other_info": {
+                        "carNumber": "Rene_Deláby",
+                        "laps": "33",
+                        "speed": "0",
+                        "constructor": "Yamaha"
+                    }
+                },
+                "Massimo_Matteoni": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Massimo_Matteoni"
+                    ],
+                    "other_info": {
+                        "carNumber": "Massimo_Matteoni",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Yamaha"
+                    }
+                },
+                "Thierry_Espié": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Chevallier",
+                    "drivers": [
+                        "Thierry_Espié"
+                    ],
+                    "other_info": {
+                        "carNumber": "Thierry_Espié",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Chevallier"
+                    }
+                },
+                "Carlos_Cardús": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "JJ_Cobas",
+                    "drivers": [
+                        "Carlos_Cardús"
+                    ],
+                    "other_info": {
+                        "carNumber": "Carlos_Cardús",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "JJ Cobas"
+                    }
+                },
+                "Roland_Freymond": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Roland_Freymond"
+                    ],
+                    "other_info": {
+                        "carNumber": "Roland_Freymond",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Yamaha"
+                    }
+                },
+                "Harald_Eckl": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Harald_Eckl"
+                    ],
+                    "other_info": {
+                        "carNumber": "Harald_Eckl",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Yamaha"
+                    }
+                },
+                "Patrick_Fernandez": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Patrick_Fernandez"
+                    ],
+                    "other_info": {
+                        "carNumber": "Patrick_Fernandez",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Yamaha"
+                    }
+                },
+                "Christian_Sarron": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Christian_Sarron"
+                    ],
+                    "other_info": {
+                        "carNumber": "Christian_Sarron",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Yamaha"
+                    }
+                },
+                "Herve_Guilleux": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Chevallier",
+                    "drivers": [
+                        "Herve_Guilleux"
+                    ],
+                    "other_info": {
+                        "carNumber": "Herve_Guilleux",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Chevallier"
+                    }
+                },
+                "Sito_Pons": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "JJ_Cobas",
+                    "drivers": [
+                        "Sito_Pons"
+                    ],
+                    "other_info": {
+                        "carNumber": "Sito_Pons",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "JJ Cobas"
+                    }
+                },
+                "Ivan_Palazzese": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Ivan_Palazzese"
+                    ],
+                    "other_info": {
+                        "carNumber": "Ivan_Palazzese",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Yamaha"
+                    }
+                },
+                "Angel_Nieto": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "JJ_Cobas",
+                    "drivers": [
+                        "Angel_Nieto"
+                    ],
+                    "other_info": {
+                        "carNumber": "Angel_Nieto",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "JJ Cobas"
+                    }
+                },
+                "Maurizio_Vitali": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Maurizio_Vitali"
+                    ],
+                    "other_info": {
+                        "carNumber": "Maurizio_Vitali",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "MBA"
+                    }
+                },
+                "Thierry_Rapicault": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Thierry_Rapicault"
+                    ],
+                    "other_info": {
+                        "carNumber": "Thierry_Rapicault",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Yamaha"
+                    }
+                },
+                "Richard_Hubin": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Richard_Hubin"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Davide_Tardozzi": {
+                    "position": "12",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Davide_Tardozzi"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Ivan-Carlo_Villini": {
+                    "position": "14",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Ivan-Carlo_Villini"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Eilert_Lundstedt": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Eilert_Lundstedt"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
+                    }
+                },
+                "Marino_Neri": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR250",
+                    "drivers": [
+                        "Marino_Neri"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR250"
                     }
                 }
             }

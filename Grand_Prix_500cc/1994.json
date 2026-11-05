@@ -1,6 +1,419 @@
 {
     "name": "Grand_Prix_500cc",
     "events": {
+        "Australian Grand Prix": {
+            "Race": {
+                "": {
+                    "position": "1",
+                    "points": 25,
+                    "fastest_lap": "",
+                    "team": "Cagiva",
+                    "drivers": [
+                        "John_Kocinski"
+                    ],
+                    "other_info": {
+                        "constructor": "Cagiva",
+                        "time": "44:37.026"
+                    }
+                },
+                "#2": {
+                    "position": "2",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Luca_Cadalora"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "gap": "++6.480"
+                    }
+                },
+                "#3": {
+                    "position": "3",
+                    "points": 16,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Mick_Doohan"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda",
+                        "gap": "++8.246"
+                    }
+                },
+                "#4": {
+                    "position": "4",
+                    "points": 13,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Kevin_Schwantz"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki",
+                        "gap": "++26.854"
+                    }
+                },
+                "#5": {
+                    "position": "5",
+                    "points": 11,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Shinichi_Ito"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda",
+                        "gap": "++30.829"
+                    }
+                },
+                "#6": {
+                    "position": "6",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Alex_Criville"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda",
+                        "gap": "++33.455"
+                    }
+                },
+                "#7": {
+                    "position": "7",
+                    "points": 9,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Alberto_Puig"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda",
+                        "gap": "++33.730"
+                    }
+                },
+                "#8": {
+                    "position": "8",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Alex_Barros"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki",
+                        "gap": "++33.736"
+                    }
+                },
+                "#9": {
+                    "position": "9",
+                    "points": 7,
+                    "fastest_lap": "",
+                    "team": "Cagiva",
+                    "drivers": [
+                        "Doug_Chandler"
+                    ],
+                    "other_info": {
+                        "constructor": "Cagiva",
+                        "gap": "++45.804"
+                    }
+                },
+                "#10": {
+                    "position": "10",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Harris_Yamaha",
+                    "drivers": [
+                        "John_Reynolds"
+                    ],
+                    "other_info": {
+                        "constructor": "Harris Yamaha",
+                        "gap": "++1:22.062"
+                    }
+                },
+                "#11": {
+                    "position": "11",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Bernard_Garcia"
+                    ],
+                    "other_info": {
+                        "constructor": "Roc Yamaha",
+                        "gap": "++1:27.745"
+                    }
+                },
+                "#12": {
+                    "position": "12",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "Harris_Yamaha",
+                    "drivers": [
+                        "Scott_Doohan"
+                    ],
+                    "other_info": {
+                        "constructor": "Harris Yamaha",
+                        "gap": "++1:32.542"
+                    }
+                },
+                "#13": {
+                    "position": "13",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Juan_Lopez Mella"
+                    ],
+                    "other_info": {
+                        "constructor": "Roc Yamaha",
+                        "gap": "++1:32.788"
+                    }
+                },
+                "#14": {
+                    "position": "14",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "Harris_Yamaha",
+                    "drivers": [
+                        "Sean_Emmett"
+                    ],
+                    "other_info": {
+                        "constructor": "Harris Yamaha",
+                        "gap": "++1:33.338"
+                    }
+                },
+                "#15": {
+                    "position": "15",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Cristiano_Migliorati"
+                    ],
+                    "other_info": {
+                        "constructor": "Roc Yamaha",
+                        "gap": "++1 Lap"
+                    }
+                },
+                "#16": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Laurent_Naveau"
+                    ],
+                    "other_info": {
+                        "constructor": "Roc Yamaha",
+                        "gap": "++1 Lap"
+                    }
+                },
+                "#17": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Jeremy_Mcwilliams"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "gap": "++1 Lap"
+                    }
+                },
+                "#18": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Jean_Pierre Jeandat"
+                    ],
+                    "other_info": {
+                        "constructor": "Roc Yamaha",
+                        "gap": "++1 Lap"
+                    }
+                },
+                "#19": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Bernard_Haenggeli"
+                    ],
+                    "other_info": {
+                        "constructor": "Roc Yamaha",
+                        "gap": "++1 Lap"
+                    }
+                },
+                "#20": {
+                    "position": "20",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Marc_Garcia"
+                    ],
+                    "other_info": {
+                        "constructor": "Roc Yamaha",
+                        "gap": "++1 Lap"
+                    }
+                },
+                "#21": {
+                    "position": "21",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Julian_Miralles"
+                    ],
+                    "other_info": {
+                        "constructor": "Roc Yamaha",
+                        "gap": "++1 Lap"
+                    }
+                },
+                "#22": {
+                    "position": "22",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Bruno_Bonhuil"
+                    ],
+                    "other_info": {
+                        "constructor": "Roc Yamaha",
+                        "gap": "++1 Lap"
+                    }
+                },
+                "#23": {
+                    "position": "23",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Andreas_Leuthe"
+                    ],
+                    "other_info": {
+                        "constructor": "Roc Yamaha",
+                        "gap": "++1 Lap"
+                    }
+                },
+                "#24": {
+                    "position": "24",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Paton",
+                    "drivers": [
+                        "Vittorio_Scatola"
+                    ],
+                    "other_info": {
+                        "constructor": "Paton",
+                        "gap": "++2 Laps"
+                    }
+                },
+                "#25": {
+                    "position": "25",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Harris_Yamaha",
+                    "drivers": [
+                        "Cees_Doorakkers"
+                    ],
+                    "other_info": {
+                        "constructor": "Harris Yamaha",
+                        "gap": "++2 Laps"
+                    }
+                },
+                "#26": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Lucio_Pedercini"
+                    ],
+                    "other_info": {
+                        "constructor": "Roc Yamaha"
+                    }
+                },
+                "#27": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Jean_Foray"
+                    ],
+                    "other_info": {
+                        "constructor": "Roc Yamaha"
+                    }
+                },
+                "#28": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Daryl_Beattie"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                },
+                "#29": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Marco_Papa"
+                    ],
+                    "other_info": {
+                        "constructor": "Roc Yamaha"
+                    }
+                },
+                "#30": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Harris_Yamaha",
+                    "drivers": [
+                        "Kevin_Mitchell"
+                    ],
+                    "other_info": {
+                        "constructor": "Harris Yamaha"
+                    }
+                },
+                "#31": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Niall_Mackenzie"
+                    ],
+                    "other_info": {
+                        "constructor": "Roc Yamaha"
+                    }
+                },
+                "#32": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Harris_Yamaha",
+                    "drivers": [
+                        "Lothar_Neukirchner"
+                    ],
+                    "other_info": {
+                        "constructor": "Harris Yamaha"
+                    }
+                }
+            }
+        },
         "Malaysian Grand Prix": {
             "Race": {
                 "Mick_Doohan": {
@@ -1881,6 +2294,813 @@
                         "laps": "5",
                         "speed": "0",
                         "constructor": "ROC Yamaha"
+                    }
+                }
+            }
+        },
+        "German Grand Prix": {
+            "Race": {
+                "": {
+                    "position": "1",
+                    "points": 25,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Mick_Doohan"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda",
+                        "time": "35:58.994"
+                    }
+                },
+                "#2": {
+                    "position": "2",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Kevin_Schwantz"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki",
+                        "gap": "++13.982"
+                    }
+                },
+                "#3": {
+                    "position": "3",
+                    "points": 16,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Alberto_Puig"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda",
+                        "gap": "++15.764"
+                    }
+                },
+                "#4": {
+                    "position": "4",
+                    "points": 13,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Alex_Criville"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda",
+                        "gap": "++19.536"
+                    }
+                },
+                "#5": {
+                    "position": "5",
+                    "points": 11,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Alex_Barros"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki",
+                        "gap": "++33.120"
+                    }
+                },
+                "#6": {
+                    "position": "6",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Shinichi_Ito"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda",
+                        "gap": "++33.293"
+                    }
+                },
+                "#7": {
+                    "position": "7",
+                    "points": 9,
+                    "fastest_lap": "",
+                    "team": "Cagiva",
+                    "drivers": [
+                        "Doug_Chandler"
+                    ],
+                    "other_info": {
+                        "constructor": "Cagiva",
+                        "gap": "++47.202"
+                    }
+                },
+                "#8": {
+                    "position": "8",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Niall_Mackenzie"
+                    ],
+                    "other_info": {
+                        "constructor": "Roc Yamaha",
+                        "gap": "++1:06.290"
+                    }
+                },
+                "#9": {
+                    "position": "9",
+                    "points": 7,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Bernard_Garcia"
+                    ],
+                    "other_info": {
+                        "constructor": "Roc Yamaha",
+                        "gap": "++1:12.980"
+                    }
+                },
+                "#10": {
+                    "position": "10",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Harris_Yamaha",
+                    "drivers": [
+                        "John_Reynolds"
+                    ],
+                    "other_info": {
+                        "constructor": "Harris Yamaha",
+                        "gap": "++1:36.643"
+                    }
+                },
+                "#11": {
+                    "position": "11",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "Harris_Yamaha",
+                    "drivers": [
+                        "Sean_Emmett"
+                    ],
+                    "other_info": {
+                        "constructor": "Harris Yamaha",
+                        "gap": "++1:37.566"
+                    }
+                },
+                "#12": {
+                    "position": "12",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Juan_Lopez Mella"
+                    ],
+                    "other_info": {
+                        "constructor": "Roc Yamaha",
+                        "gap": "++1:54.308"
+                    }
+                },
+                "#13": {
+                    "position": "13",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Julian_Miralles"
+                    ],
+                    "other_info": {
+                        "constructor": "Roc Yamaha",
+                        "gap": "++1:54.555"
+                    }
+                },
+                "#14": {
+                    "position": "14",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Laurent_Naveau"
+                    ],
+                    "other_info": {
+                        "constructor": "Roc Yamaha",
+                        "gap": "++1:54.726"
+                    }
+                },
+                "#15": {
+                    "position": "15",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Bruno_Bonhuil"
+                    ],
+                    "other_info": {
+                        "constructor": "Roc Yamaha",
+                        "gap": "++1 Lap"
+                    }
+                },
+                "#16": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Harris_Yamaha",
+                    "drivers": [
+                        "Kevin_Mitchell"
+                    ],
+                    "other_info": {
+                        "constructor": "Harris Yamaha",
+                        "gap": "++1 Lap"
+                    }
+                },
+                "#17": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Andreas_Leuthe"
+                    ],
+                    "other_info": {
+                        "constructor": "Roc Yamaha",
+                        "gap": "++1 Lap"
+                    }
+                },
+                "#18": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Harris_Yamaha",
+                    "drivers": [
+                        "Cees_Doorakkers"
+                    ],
+                    "other_info": {
+                        "constructor": "Harris Yamaha",
+                        "gap": "++1 Lap"
+                    }
+                },
+                "#19": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Harris_Yamaha",
+                    "drivers": [
+                        "Lothar_Neukirchen"
+                    ],
+                    "other_info": {
+                        "constructor": "Harris Yamaha",
+                        "gap": "++1 Lap"
+                    }
+                },
+                "#20": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Daryl_Beattie"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                },
+                "#21": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Bernard_Haenggeli"
+                    ],
+                    "other_info": {
+                        "constructor": "Roc Yamaha"
+                    }
+                },
+                "#22": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Harris_Yamaha",
+                    "drivers": [
+                        "Udo_Mark"
+                    ],
+                    "other_info": {
+                        "constructor": "Harris Yamaha"
+                    }
+                },
+                "#23": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Jean_Pierre Jeandat"
+                    ],
+                    "other_info": {
+                        "constructor": "Roc Yamaha"
+                    }
+                },
+                "#24": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Jeremy_Mcwilliams"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                },
+                "#25": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Cristiano_Migliorati"
+                    ],
+                    "other_info": {
+                        "constructor": "Roc Yamaha"
+                    }
+                },
+                "#26": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Jean_Foray"
+                    ],
+                    "other_info": {
+                        "constructor": "Roc Yamaha"
+                    }
+                },
+                "#27": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Lucio_Pedercini"
+                    ],
+                    "other_info": {
+                        "constructor": "Roc Yamaha"
+                    }
+                },
+                "#28": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Marco_Papa"
+                    ],
+                    "other_info": {
+                        "constructor": "Roc Yamaha"
+                    }
+                },
+                "#29": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Aprilia",
+                    "drivers": [
+                        "Loris_Reggiani"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia"
+                    }
+                },
+                "#30": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Marc_Garcia"
+                    ],
+                    "other_info": {
+                        "constructor": "Roc Yamaha"
+                    }
+                },
+                "#31": {
+                    "position": "DNS",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Cagiva",
+                    "drivers": [
+                        "John_Kocinski"
+                    ],
+                    "other_info": {
+                        "constructor": "Cagiva"
+                    }
+                },
+                "#32": {
+                    "position": "DNS",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Luca_Cadalora"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                },
+                "#33": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Paton",
+                    "drivers": [
+                        "Vittorio_Scatola"
+                    ],
+                    "other_info": {
+                        "constructor": "Paton"
+                    }
+                },
+                "#34": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Harris_Yamaha",
+                    "drivers": [
+                        "Manfred_Erhardt"
+                    ],
+                    "other_info": {
+                        "constructor": "Harris Yamaha"
+                    }
+                }
+            }
+        },
+        "Dutch TT": {
+            "Race": {
+                "Mick_Doohan": {
+                    "position": "1",
+                    "points": 25,
+                    "fastest_lap": "",
+                    "team": "Honda_NSR500",
+                    "drivers": [
+                        "Mick_Doohan"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda NSR500"
+                    }
+                },
+                "Luca_Cadalora": {
+                    "position": "9",
+                    "points": 7,
+                    "fastest_lap": "",
+                    "team": "Yamaha_YZR500",
+                    "drivers": [
+                        "Luca_Cadalora"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha YZR500"
+                    }
+                },
+                "John_Kocinski": {
+                    "position": "8",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Cagiva_GP500",
+                    "drivers": [
+                        "John_Kocinski"
+                    ],
+                    "other_info": {
+                        "constructor": "Cagiva GP500"
+                    }
+                },
+                "Kevin_Schwantz": {
+                    "position": "5",
+                    "points": 11,
+                    "fastest_lap": "",
+                    "team": "Suzuki_RGV500",
+                    "drivers": [
+                        "Kevin_Schwantz"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki RGV500"
+                    }
+                },
+                "Alberto_Puig": {
+                    "position": "4",
+                    "points": 13,
+                    "fastest_lap": "",
+                    "team": "Honda_NSR500",
+                    "drivers": [
+                        "Alberto_Puig"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda NSR500"
+                    }
+                },
+                "Alex_Criville": {
+                    "position": "3",
+                    "points": 16,
+                    "fastest_lap": "",
+                    "team": "Honda_NSR500",
+                    "drivers": [
+                        "Alex_Criville"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda NSR500"
+                    }
+                },
+                "Shinichi_Ito": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda_NSR500",
+                    "drivers": [
+                        "Shinichi_Ito"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda NSR500"
+                    }
+                },
+                "Alex_Barros": {
+                    "position": "2",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Suzuki_RGV500",
+                    "drivers": [
+                        "Alex_Barros"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki RGV500"
+                    }
+                },
+                "Doug_Chandler": {
+                    "position": "6",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Cagiva_GP500",
+                    "drivers": [
+                        "Doug_Chandler"
+                    ],
+                    "other_info": {
+                        "constructor": "Cagiva GP500"
+                    }
+                },
+                "Niall_Mackenzie": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha_YZR500",
+                    "drivers": [
+                        "Niall_Mackenzie"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha YZR500"
+                    }
+                },
+                "Bernard_Garcia": {
+                    "position": "10",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Bernard_Garcia"
+                    ],
+                    "other_info": {
+                        "constructor": "ROC-Yamaha"
+                    }
+                },
+                "Jeremy_Mcwilliams": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha_YZR500",
+                    "drivers": [
+                        "Jeremy_Mcwilliams"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha YZR500"
+                    }
+                },
+                "Daryl_Beattie": {
+                    "position": "7",
+                    "points": 9,
+                    "fastest_lap": "",
+                    "team": "Yamaha_YZR500",
+                    "drivers": [
+                        "Daryl_Beattie"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha YZR500"
+                    }
+                },
+                "John_Reynolds": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha_YZR500",
+                    "drivers": [
+                        "John_Reynolds"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha YZR500"
+                    }
+                },
+                "Sean_Emmett": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Harris_Yamaha",
+                    "drivers": [
+                        "Sean_Emmett"
+                    ],
+                    "other_info": {
+                        "constructor": "Harris-Yamaha"
+                    }
+                },
+                "Juan_Lopez Mella": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Juan_Lopez Mella"
+                    ],
+                    "other_info": {
+                        "constructor": "ROC-Yamaha"
+                    }
+                },
+                "Laurent_Naveau": {
+                    "position": "12",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Laurent_Naveau"
+                    ],
+                    "other_info": {
+                        "constructor": "ROC-Yamaha"
+                    }
+                },
+                "Jean_Pierre Jeandat": {
+                    "position": "11",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Jean_Pierre Jeandat"
+                    ],
+                    "other_info": {
+                        "constructor": "ROC-Yamaha"
+                    }
+                },
+                "Cristiano_Migliorati": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Cristiano_Migliorati"
+                    ],
+                    "other_info": {
+                        "constructor": "ROC-Yamaha"
+                    }
+                },
+                "Marc_Garcia": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Marc_Garcia"
+                    ],
+                    "other_info": {
+                        "constructor": "ROC-Yamaha"
+                    }
+                },
+                "Jean_Foray": {
+                    "position": "15",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Jean_Foray"
+                    ],
+                    "other_info": {
+                        "constructor": "ROC-Yamaha"
+                    }
+                },
+                "Loris_Reggiani": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Aprilia_RSW500",
+                    "drivers": [
+                        "Loris_Reggiani"
+                    ],
+                    "other_info": {
+                        "constructor": "Aprilia RSW500"
+                    }
+                },
+                "Bernard_Haenggeli": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Bernard_Haenggeli"
+                    ],
+                    "other_info": {
+                        "constructor": "ROC-Yamaha"
+                    }
+                },
+                "Julian_Miralles": {
+                    "position": "13",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Julian_Miralles"
+                    ],
+                    "other_info": {
+                        "constructor": "ROC-Yamaha"
+                    }
+                },
+                "Bruno_Bonhuil": {
+                    "position": "14",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Bruno_Bonhuil"
+                    ],
+                    "other_info": {
+                        "constructor": "ROC-Yamaha"
+                    }
+                },
+                "Lucio_Pedercini": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Lucio_Pedercini"
+                    ],
+                    "other_info": {
+                        "constructor": "ROC-Yamaha"
+                    }
+                },
+                "Kevin_Mitchell": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Harris_Yamaha",
+                    "drivers": [
+                        "Kevin_Mitchell"
+                    ],
+                    "other_info": {
+                        "constructor": "Harris-Yamaha"
+                    }
+                },
+                "Andreas_Leuthe": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Andreas_Leuthe"
+                    ],
+                    "other_info": {
+                        "constructor": "ROC-Yamaha"
+                    }
+                },
+                "Cees_Doorakkers": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Harris_Yamaha",
+                    "drivers": [
+                        "Cees_Doorakkers"
+                    ],
+                    "other_info": {
+                        "constructor": "Harris-Yamaha"
+                    }
+                },
+                "Lothar_Neukirchner": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Harris_Yamaha",
+                    "drivers": [
+                        "Lothar_Neukirchner"
+                    ],
+                    "other_info": {
+                        "constructor": "Harris-Yamaha"
+                    }
+                },
+                "Vittorio_Scatola": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Paton",
+                    "drivers": [
+                        "Vittorio_Scatola"
+                    ],
+                    "other_info": {
+                        "constructor": "Paton"
                     }
                 }
             }
@@ -4081,6 +5301,370 @@
                         "laps": "7",
                         "speed": "0",
                         "constructor": "Harris Yamaha"
+                    }
+                }
+            }
+        },
+        "Argentine Grand Prix": {
+            "Race": {
+                "Mick_Doohan": {
+                    "position": "1",
+                    "points": 25,
+                    "fastest_lap": "",
+                    "team": "Honda_NSR500",
+                    "drivers": [
+                        "Mick_Doohan"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda NSR500"
+                    }
+                },
+                "Luca_Cadalora": {
+                    "position": "6",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Yamaha_YZR500",
+                    "drivers": [
+                        "Luca_Cadalora"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha YZR500"
+                    }
+                },
+                "John_Kocinski": {
+                    "position": "3",
+                    "points": 16,
+                    "fastest_lap": "",
+                    "team": "Cagiva_GP500",
+                    "drivers": [
+                        "John_Kocinski"
+                    ],
+                    "other_info": {
+                        "constructor": "Cagiva GP500"
+                    }
+                },
+                "Alberto_Puig": {
+                    "position": "5",
+                    "points": 11,
+                    "fastest_lap": "",
+                    "team": "Honda_NSR500",
+                    "drivers": [
+                        "Alberto_Puig"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda NSR500"
+                    }
+                },
+                "Alex_Criville": {
+                    "position": "7",
+                    "points": 9,
+                    "fastest_lap": "",
+                    "team": "Honda_NSR500",
+                    "drivers": [
+                        "Alex_Criville"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda NSR500"
+                    }
+                },
+                "Shinichi_Ito": {
+                    "position": "4",
+                    "points": 13,
+                    "fastest_lap": "",
+                    "team": "Honda_NSR500",
+                    "drivers": [
+                        "Shinichi_Ito"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda NSR500"
+                    }
+                },
+                "Alex_Barros": {
+                    "position": "8",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Suzuki_RGV500",
+                    "drivers": [
+                        "Alex_Barros"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki RGV500"
+                    }
+                },
+                "Doug_Chandler": {
+                    "position": "2",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Cagiva_GP500",
+                    "drivers": [
+                        "Doug_Chandler"
+                    ],
+                    "other_info": {
+                        "constructor": "Cagiva GP500"
+                    }
+                },
+                "Niall_Mackenzie": {
+                    "position": "11",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "Yamaha_YZR500",
+                    "drivers": [
+                        "Niall_Mackenzie"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha YZR500"
+                    }
+                },
+                "Bernard_Garcia": {
+                    "position": "12",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Bernard_Garcia"
+                    ],
+                    "other_info": {
+                        "constructor": "ROC-Yamaha"
+                    }
+                },
+                "Jeremy_Mcwilliams": {
+                    "position": "9",
+                    "points": 7,
+                    "fastest_lap": "",
+                    "team": "Yamaha_YZR500",
+                    "drivers": [
+                        "Jeremy_Mcwilliams"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha YZR500"
+                    }
+                },
+                "Daryl_Beattie": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha_YZR500",
+                    "drivers": [
+                        "Daryl_Beattie"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha YZR500"
+                    }
+                },
+                "John_Reynolds": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha_YZR500",
+                    "drivers": [
+                        "John_Reynolds"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha YZR500"
+                    }
+                },
+                "Sean_Emmett": {
+                    "position": "10",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Harris_Yamaha",
+                    "drivers": [
+                        "Sean_Emmett"
+                    ],
+                    "other_info": {
+                        "constructor": "Harris-Yamaha"
+                    }
+                },
+                "Juan_Lopez Mella": {
+                    "position": "DNS",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Juan_Lopez Mella"
+                    ],
+                    "other_info": {
+                        "constructor": "ROC-Yamaha"
+                    }
+                },
+                "Laurent_Naveau": {
+                    "position": "14",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Laurent_Naveau"
+                    ],
+                    "other_info": {
+                        "constructor": "ROC-Yamaha"
+                    }
+                },
+                "Jean_Pierre Jeandat": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Jean_Pierre Jeandat"
+                    ],
+                    "other_info": {
+                        "constructor": "ROC-Yamaha"
+                    }
+                },
+                "Cristiano_Migliorati": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Cristiano_Migliorati"
+                    ],
+                    "other_info": {
+                        "constructor": "ROC-Yamaha"
+                    }
+                },
+                "Marc_Garcia": {
+                    "position": "13",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Marc_Garcia"
+                    ],
+                    "other_info": {
+                        "constructor": "ROC-Yamaha"
+                    }
+                },
+                "Jean_Foray": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Jean_Foray"
+                    ],
+                    "other_info": {
+                        "constructor": "ROC-Yamaha"
+                    }
+                },
+                "Bernard_Haenggeli": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Bernard_Haenggeli"
+                    ],
+                    "other_info": {
+                        "constructor": "ROC-Yamaha"
+                    }
+                },
+                "Bruno_Bonhuil": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Bruno_Bonhuil"
+                    ],
+                    "other_info": {
+                        "constructor": "ROC-Yamaha"
+                    }
+                },
+                "Lucio_Pedercini": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Lucio_Pedercini"
+                    ],
+                    "other_info": {
+                        "constructor": "ROC-Yamaha"
+                    }
+                },
+                "Neil_Hodgson": {
+                    "position": "15",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "Harris_Yamaha",
+                    "drivers": [
+                        "Neil_Hodgson"
+                    ],
+                    "other_info": {
+                        "constructor": "Harris-Yamaha"
+                    }
+                },
+                "Kevin_Mitchell": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Harris_Yamaha",
+                    "drivers": [
+                        "Kevin_Mitchell"
+                    ],
+                    "other_info": {
+                        "constructor": "Harris-Yamaha"
+                    }
+                },
+                "Cees_Doorakkers": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Harris_Yamaha",
+                    "drivers": [
+                        "Cees_Doorakkers"
+                    ],
+                    "other_info": {
+                        "constructor": "Harris-Yamaha"
+                    }
+                },
+                "Vittorio_Scatola": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Paton",
+                    "drivers": [
+                        "Vittorio_Scatola"
+                    ],
+                    "other_info": {
+                        "constructor": "Paton"
+                    }
+                },
+                "Marco_Papa": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "ROC_Yamaha",
+                    "drivers": [
+                        "Marco_Papa"
+                    ],
+                    "other_info": {
+                        "constructor": "ROC-Yamaha"
+                    }
+                },
+                "Néstor_Amoroso": {
+                    "position": "20",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Harris_Yamaha",
+                    "drivers": [
+                        "Néstor_Amoroso"
+                    ],
+                    "other_info": {
+                        "constructor": "Harris-Yamaha"
+                    }
+                },
+                "Felipe_Horta": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Harris_Yamaha",
+                    "drivers": [
+                        "Felipe_Horta"
+                    ],
+                    "other_info": {
+                        "constructor": "Harris-Yamaha"
                     }
                 }
             }

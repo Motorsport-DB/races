@@ -1,6 +1,70 @@
 {
     "name": "Grand_Prix_125cc",
     "events": {
+        "Swiss Grand Prix": {
+            "Race": {
+                "Nello_Pagani": {
+                    "position": "1",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Mondial",
+                    "drivers": [
+                        "Nello_Pagani"
+                    ],
+                    "other_info": {
+                        "constructor": "Mondial"
+                    }
+                },
+                "Renato_Magi": {
+                    "position": "2",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Morini",
+                    "drivers": [
+                        "Renato_Magi"
+                    ],
+                    "other_info": {
+                        "constructor": "Morini"
+                    }
+                },
+                "Umberto_Masetti": {
+                    "position": "5",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "Morini",
+                    "drivers": [
+                        "Umberto_Masetti"
+                    ],
+                    "other_info": {
+                        "constructor": "Morini"
+                    }
+                },
+                "Carlo_Ubbiali": {
+                    "position": "4",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "MV_Agusta",
+                    "drivers": [
+                        "Carlo_Ubbiali"
+                    ],
+                    "other_info": {
+                        "constructor": "MV Agusta"
+                    }
+                },
+                "Celeste_Cavaciuti": {
+                    "position": "3",
+                    "points": 7,
+                    "fastest_lap": "",
+                    "team": "Mondial",
+                    "drivers": [
+                        "Celeste_Cavaciuti"
+                    ],
+                    "other_info": {
+                        "constructor": "Mondial"
+                    }
+                }
+            }
+        },
         "Dutch TT": {
             "Race": {
                 "Nello_Pagani": {
@@ -77,6 +141,70 @@
                         "laps": "0",
                         "speed": "0",
                         "constructor": "MV Agusta"
+                    }
+                }
+            }
+        },
+        "Nations Grand Prix": {
+            "Race": {
+                "Nello_Pagani": {
+                    "position": "5",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "Mondial",
+                    "drivers": [
+                        "Nello_Pagani"
+                    ],
+                    "other_info": {
+                        "constructor": "Mondial"
+                    }
+                },
+                "Renato_Magi": {
+                    "position": "4",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Morini",
+                    "drivers": [
+                        "Renato_Magi"
+                    ],
+                    "other_info": {
+                        "constructor": "Morini"
+                    }
+                },
+                "Umberto_Masetti": {
+                    "position": "2",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Morini",
+                    "drivers": [
+                        "Umberto_Masetti"
+                    ],
+                    "other_info": {
+                        "constructor": "Morini"
+                    }
+                },
+                "Gianni_Leoni": {
+                    "position": "1",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Mondial",
+                    "drivers": [
+                        "Gianni_Leoni"
+                    ],
+                    "other_info": {
+                        "constructor": "Mondial"
+                    }
+                },
+                "Umberto_Braga": {
+                    "position": "3",
+                    "points": 7,
+                    "fastest_lap": "",
+                    "team": "Mondial",
+                    "drivers": [
+                        "Umberto_Braga"
+                    ],
+                    "other_info": {
+                        "constructor": "Mondial"
                     }
                 }
             }

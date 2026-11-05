@@ -1,6 +1,212 @@
 {
     "name": "Grand_Prix_125cc",
     "events": {
+        "Spanish Grand Prix": {
+            "Race": {
+                "": {
+                    "position": "1",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "MV_Agusta",
+                    "drivers": [
+                        "Luigi_Taveri"
+                    ],
+                    "other_info": {
+                        "constructor": "Mv Agusta",
+                        "time": "58:59.9"
+                    }
+                },
+                "#2": {
+                    "position": "2",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Mondial",
+                    "drivers": [
+                        "Romolo_Ferri"
+                    ],
+                    "other_info": {
+                        "constructor": "Mondial",
+                        "gap": "++34.7"
+                    }
+                },
+                "#3": {
+                    "position": "3",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "MV_Agusta",
+                    "drivers": [
+                        "Carlo_Ubbiali"
+                    ],
+                    "other_info": {
+                        "constructor": "Mv Agusta",
+                        "gap": "++34.9"
+                    }
+                },
+                "#4": {
+                    "position": "4",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "Mondial",
+                    "drivers": [
+                        "Giuseppe_Lattanzi"
+                    ],
+                    "other_info": {
+                        "constructor": "Mondial",
+                        "gap": "++1:03.9"
+                    }
+                },
+                "#5": {
+                    "position": "5",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "MV_Agusta",
+                    "drivers": [
+                        "Angelo_Copeta"
+                    ],
+                    "other_info": {
+                        "constructor": "Mv Agusta",
+                        "gap": "++2:05.7"
+                    }
+                },
+                "#6": {
+                    "position": "6",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "Montesa",
+                    "drivers": [
+                        "Marcelo_Cama"
+                    ],
+                    "other_info": {
+                        "constructor": "Montesa",
+                        "gap": "++2:06.6"
+                    }
+                },
+                "#7": {
+                    "position": "7",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MV_Agusta",
+                    "drivers": [
+                        "Juan_Atorrasagasti"
+                    ],
+                    "other_info": {
+                        "constructor": "Mv Agusta"
+                    }
+                },
+                "#8": {
+                    "position": "8",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Montesa",
+                    "drivers": [
+                        "Francisco_González"
+                    ],
+                    "other_info": {
+                        "constructor": "Montesa"
+                    }
+                },
+                "#9": {
+                    "position": "9",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Mondial",
+                    "drivers": [
+                        "Carlos_del Val"
+                    ],
+                    "other_info": {
+                        "constructor": "Mondial"
+                    }
+                },
+                "#10": {
+                    "position": "10",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Montesa",
+                    "drivers": [
+                        "Enrico_Sirera"
+                    ],
+                    "other_info": {
+                        "constructor": "Montesa"
+                    }
+                }
+            }
+        },
+        "French Grand Prix": {
+            "Race": {
+                "Carlo_Ubbiali": {
+                    "position": "1",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "MV_Agusta",
+                    "drivers": [
+                        "Carlo_Ubbiali"
+                    ],
+                    "other_info": {
+                        "constructor": "MV Agusta"
+                    }
+                },
+                "Luigi_Taveri": {
+                    "position": "2",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "MV_Agusta",
+                    "drivers": [
+                        "Luigi_Taveri"
+                    ],
+                    "other_info": {
+                        "constructor": "MV Agusta"
+                    }
+                },
+                "Giuseppe_Lattanzi": {
+                    "position": "3",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "Mondial",
+                    "drivers": [
+                        "Giuseppe_Lattanzi"
+                    ],
+                    "other_info": {
+                        "constructor": "Mondial"
+                    }
+                },
+                "Angelo_Copeta": {
+                    "position": "5",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "MV_Agusta",
+                    "drivers": [
+                        "Angelo_Copeta"
+                    ],
+                    "other_info": {
+                        "constructor": "MV Agusta"
+                    }
+                },
+                "Romolo_Ferri": {
+                    "position": "6",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "Mondial",
+                    "drivers": [
+                        "Romolo_Ferri"
+                    ],
+                    "other_info": {
+                        "constructor": "Mondial"
+                    }
+                },
+                "Tarquinio_Provini": {
+                    "position": "4",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "Mondial",
+                    "drivers": [
+                        "Tarquinio_Provini"
+                    ],
+                    "other_info": {
+                        "constructor": "Mondial"
+                    }
+                }
+            }
+        },
         "Tourist Trophy": {
             "Race": {
                 "Carlo_Ubbiali": {
@@ -96,6 +302,82 @@
                 }
             }
         },
+        "German Grand Prix": {
+            "Race": {
+                "Carlo_Ubbiali": {
+                    "position": "1",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "MV_Agusta",
+                    "drivers": [
+                        "Carlo_Ubbiali"
+                    ],
+                    "other_info": {
+                        "constructor": "MV Agusta"
+                    }
+                },
+                "Luigi_Taveri": {
+                    "position": "2",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "MV_Agusta",
+                    "drivers": [
+                        "Luigi_Taveri"
+                    ],
+                    "other_info": {
+                        "constructor": "MV Agusta"
+                    }
+                },
+                "Remo_Venturi": {
+                    "position": "3",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "MV_Agusta",
+                    "drivers": [
+                        "Remo_Venturi"
+                    ],
+                    "other_info": {
+                        "constructor": "MV Agusta"
+                    }
+                },
+                "Karl_Lottes": {
+                    "position": "4",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "MV_Agusta",
+                    "drivers": [
+                        "Karl_Lottes"
+                    ],
+                    "other_info": {
+                        "constructor": "MV Agusta"
+                    }
+                },
+                "Bernhard_Petruschke": {
+                    "position": "5",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "IFA",
+                    "drivers": [
+                        "Bernhard_Petruschke"
+                    ],
+                    "other_info": {
+                        "constructor": "IFA"
+                    }
+                },
+                "Erhard_Krumpholz": {
+                    "position": "6",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "IFA",
+                    "drivers": [
+                        "Erhard_Krumpholz"
+                    ],
+                    "other_info": {
+                        "constructor": "IFA"
+                    }
+                }
+            }
+        },
         "Dutch TT": {
             "Race": {
                 "Carlo_Ubbiali": {
@@ -187,6 +469,82 @@
                         "laps": "0",
                         "speed": "0",
                         "constructor": "MV Agusta"
+                    }
+                }
+            }
+        },
+        "Nations Grand Prix": {
+            "Race": {
+                "Carlo_Ubbiali": {
+                    "position": "1",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "MV_Agusta",
+                    "drivers": [
+                        "Carlo_Ubbiali"
+                    ],
+                    "other_info": {
+                        "constructor": "MV Agusta"
+                    }
+                },
+                "Remo_Venturi": {
+                    "position": "2",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "MV_Agusta",
+                    "drivers": [
+                        "Remo_Venturi"
+                    ],
+                    "other_info": {
+                        "constructor": "MV Agusta"
+                    }
+                },
+                "Angelo_Copeta": {
+                    "position": "3",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "MV_Agusta",
+                    "drivers": [
+                        "Angelo_Copeta"
+                    ],
+                    "other_info": {
+                        "constructor": "MV Agusta"
+                    }
+                },
+                "August_Hobl": {
+                    "position": "4",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "DKW",
+                    "drivers": [
+                        "August_Hobl"
+                    ],
+                    "other_info": {
+                        "constructor": "DKW"
+                    }
+                },
+                "Sigfried_Wünsche": {
+                    "position": "5",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "DKW",
+                    "drivers": [
+                        "Sigfried_Wünsche"
+                    ],
+                    "other_info": {
+                        "constructor": "DKW"
+                    }
+                },
+                "Paolo_Campanelli": {
+                    "position": "6",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "Mondial",
+                    "drivers": [
+                        "Paolo_Campanelli"
+                    ],
+                    "other_info": {
+                        "constructor": "Mondial"
                     }
                 }
             }

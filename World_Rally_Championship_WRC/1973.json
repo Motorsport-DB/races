@@ -1,41 +1,564 @@
 {
     "name": "World_Rally_Championship_WRC",
     "events": {
-        "Monte Carlo Rally": {
-            "Rally": {}
+        "Rallye Monte-Carlo": {
+            "Rally": {
+                "Jean-Claude_Andruet": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Alpine",
+                    "drivers": [
+                        "Jean-Claude_Andruet"
+                    ],
+                    "other_info": {
+                        "car": "Alpine Renault A110 1800",
+                        "time": "5:42:04"
+                    }
+                },
+                "Ove_Andersson": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Alpine",
+                    "drivers": [
+                        "Ove_Andersson"
+                    ],
+                    "other_info": {
+                        "car": "Alpine Renault A110 1800",
+                        "time": "5:42:30"
+                    }
+                },
+                "Jean-Pierre_Nicolas": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Alpine",
+                    "drivers": [
+                        "Jean-Pierre_Nicolas"
+                    ],
+                    "other_info": {
+                        "car": "Alpine Renault A110 1800",
+                        "time": "5:43:39"
+                    }
+                }
+            }
         },
         "Swedish Rally": {
-            "Rally": {}
+            "Rally": {
+                "Stig_Blomqvist": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Saab",
+                    "drivers": [
+                        "Stig_Blomqvist"
+                    ],
+                    "other_info": {
+                        "car": "Saab 96 V4",
+                        "time": "9:18:31"
+                    }
+                },
+                "Per_Eklund": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Saab",
+                    "drivers": [
+                        "Per_Eklund"
+                    ],
+                    "other_info": {
+                        "car": "Saab 96 V4",
+                        "time": "9:20:53"
+                    }
+                },
+                "Jean-Luc_Thérier": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Alpine",
+                    "drivers": [
+                        "Jean-Luc_Thérier"
+                    ],
+                    "other_info": {
+                        "car": "Alpine Renault A110 1800",
+                        "time": "9:34:12"
+                    }
+                }
+            }
         },
         "Rallye de Portugal": {
-            "Rally": {}
+            "Rally": {
+                "Jean-Luc_Thérier": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Alpine",
+                    "drivers": [
+                        "Jean-Luc_Thérier"
+                    ],
+                    "other_info": {
+                        "car": "Alpine Renault A110 1800",
+                        "time": "5:42:16"
+                    }
+                },
+                "Jean-Pierre_Nicolas": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Alpine",
+                    "drivers": [
+                        "Jean-Pierre_Nicolas"
+                    ],
+                    "other_info": {
+                        "car": "Alpine Renault A110 1800",
+                        "time": "5:48:57"
+                    }
+                },
+                "Francisco_Romãozinho": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Citroën",
+                    "drivers": [
+                        "Francisco_Romãozinho"
+                    ],
+                    "other_info": {
+                        "car": "Citroën DS21",
+                        "time": "6:07:48"
+                    }
+                }
+            }
         },
         "Safari Rally": {
-            "Rally": {}
+            "Rally": {
+                "Shekhar_Mehta": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Datsun",
+                    "drivers": [
+                        "Shekhar_Mehta"
+                    ],
+                    "other_info": {
+                        "car": "Datsun 240Z",
+                        "time": "+ 6:46 pen"
+                    }
+                },
+                "Harry_Källström": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Datsun",
+                    "drivers": [
+                        "Harry_Källström"
+                    ],
+                    "other_info": {
+                        "car": "Datsun 1800 SSS",
+                        "time": "+ 6:46 pen"
+                    }
+                },
+                "Ove_Andersson": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Peugeot",
+                    "drivers": [
+                        "Ove_Andersson"
+                    ],
+                    "other_info": {
+                        "car": "Peugeot 504",
+                        "time": "+ 8:47 pen"
+                    }
+                }
+            }
         },
-        "Rally of Morocco": {
-            "Rally": {}
+        "Rallye du Maroc": {
+            "Rally": {
+                "Bernard_Darniche": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Alpine",
+                    "drivers": [
+                        "Bernard_Darniche"
+                    ],
+                    "other_info": {
+                        "car": "Alpine Renault A110",
+                        "time": "15:01:22"
+                    }
+                },
+                "Bob_Neyret": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Citroën",
+                    "drivers": [
+                        "Bob_Neyret"
+                    ],
+                    "other_info": {
+                        "car": "Citroën DS23",
+                        "time": "15:20:04"
+                    }
+                },
+                "Richard_Bochnicek": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Citroën",
+                    "drivers": [
+                        "Richard_Bochnicek"
+                    ],
+                    "other_info": {
+                        "car": "Citroën DS23",
+                        "time": "15:34:37"
+                    }
+                }
+            }
         },
         "Acropolis Rally": {
-            "Rally": {}
+            "Rally": {
+                "Jean-Luc_Thérier": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Alpine",
+                    "drivers": [
+                        "Jean-Luc_Thérier"
+                    ],
+                    "other_info": {
+                        "car": "Alpine Renault A110",
+                        "time": "7:37:58"
+                    }
+                },
+                "Rauno_Aaltonen": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Fiat",
+                    "drivers": [
+                        "Rauno_Aaltonen"
+                    ],
+                    "other_info": {
+                        "car": "Fiat Abarth 124",
+                        "time": "7:44:59"
+                    }
+                },
+                "Jean-Pierre_Nicolas": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Alpine",
+                    "drivers": [
+                        "Jean-Pierre_Nicolas"
+                    ],
+                    "other_info": {
+                        "car": "Alpine Renault A110",
+                        "time": "7:45:56"
+                    }
+                }
+            }
         },
-        "Polish Rally": {
-            "Rally": {}
+        "Rajd Polski": {
+            "Rally": {
+                "Achim_Warmbold": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Fiat",
+                    "drivers": [
+                        "Achim_Warmbold"
+                    ],
+                    "other_info": {
+                        "car": "Fiat Abarth 124 Rallye",
+                        "time": "8:28:14"
+                    }
+                },
+                "Egon_Culmbacher": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Wartburg",
+                    "drivers": [
+                        "Egon_Culmbacher"
+                    ],
+                    "other_info": {
+                        "car": "Wartburg 353",
+                        "time": "11:15:16"
+                    }
+                },
+                "Maciej_Stawowiak": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Polski",
+                    "drivers": [
+                        "Maciej_Stawowiak"
+                    ],
+                    "other_info": {
+                        "car": "Polski Fiat 125p",
+                        "time": "12:08:31"
+                    }
+                }
+            }
         },
-        "Lakes Rally": {
-            "Rally": {}
+        "1000 Lakes Rally": {
+            "Rally": {
+                "Timo_Mäkinen": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Ford",
+                    "drivers": [
+                        "Timo_Mäkinen"
+                    ],
+                    "other_info": {
+                        "car": "Ford Escort RS1600",
+                        "time": "4:53:50"
+                    }
+                },
+                "Markku_Alén": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Volvo",
+                    "drivers": [
+                        "Markku_Alén"
+                    ],
+                    "other_info": {
+                        "car": "Volvo 142",
+                        "time": "4:55:59"
+                    }
+                },
+                "Leo_Kinnunen": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "PORSCHE",
+                    "drivers": [
+                        "Leo_Kinnunen"
+                    ],
+                    "other_info": {
+                        "car": "Porsche 911",
+                        "time": "4:57:12"
+                    }
+                }
+            }
         },
-        "Austrian Alpine Rally": {
-            "Rally": {}
+        "Österreichische Alpenfahrt": {
+            "Rally": {
+                "Achim_Warmbold": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "BMW",
+                    "drivers": [
+                        "Achim_Warmbold"
+                    ],
+                    "other_info": {
+                        "car": "BMW 2002Tii",
+                        "time": "3:58:55"
+                    }
+                },
+                "Bernard_Darniche": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Alpine",
+                    "drivers": [
+                        "Bernard_Darniche"
+                    ],
+                    "other_info": {
+                        "car": "Alpine Renault A110",
+                        "time": "4:00:10"
+                    }
+                },
+                "Per_Eklund": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Saab",
+                    "drivers": [
+                        "Per_Eklund"
+                    ],
+                    "other_info": {
+                        "car": "Saab 96 V4",
+                        "time": "4:00:11"
+                    }
+                }
+            }
         },
         "Rallye Sanremo": {
-            "Rally": {}
+            "Rally": {
+                "Jean-Luc_Thérier": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Alpine",
+                    "drivers": [
+                        "Jean-Luc_Thérier"
+                    ],
+                    "other_info": {
+                        "car": "Alpine Renault A110",
+                        "time": "8:01:32"
+                    }
+                },
+                "Maurizio_Verini": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Fiat",
+                    "drivers": [
+                        "Maurizio_Verini"
+                    ],
+                    "other_info": {
+                        "car": "Fiat Abarth 124 Rally",
+                        "time": "8:07:34"
+                    }
+                },
+                "Jean-Pierre_Nicolas": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Alpine",
+                    "drivers": [
+                        "Jean-Pierre_Nicolas"
+                    ],
+                    "other_info": {
+                        "car": "Alpine Renault A110",
+                        "time": "8:21:37"
+                    }
+                }
+            }
         },
         "Press-on-Regardless Rally": {
-            "Rally": {}
+            "Rally": {
+                "Walter_Boyce": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Toyota",
+                    "drivers": [
+                        "Walter_Boyce"
+                    ],
+                    "other_info": {
+                        "car": "Toyota Corolla",
+                        "time": "6:58:28"
+                    }
+                },
+                "Jim_Walker": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Volvo",
+                    "drivers": [
+                        "Jim_Walker"
+                    ],
+                    "other_info": {
+                        "car": "Volvo 142S",
+                        "time": "7:22:43"
+                    }
+                },
+                "John_Smiskol": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Datsun",
+                    "drivers": [
+                        "John_Smiskol"
+                    ],
+                    "other_info": {
+                        "car": "Datsun 240Z",
+                        "time": "7:33:36"
+                    }
+                }
+            }
+        },
+        "RAC Rally": {
+            "Rally": {
+                "Timo_Mäkinen": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Ford",
+                    "drivers": [
+                        "Timo_Mäkinen"
+                    ],
+                    "other_info": {
+                        "car": "Ford Escort RS1600",
+                        "time": "6:47:08"
+                    }
+                },
+                "Roger_Clark": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Ford",
+                    "drivers": [
+                        "Roger_Clark"
+                    ],
+                    "other_info": {
+                        "car": "Ford Escort RS1600",
+                        "time": "6:52:23"
+                    }
+                },
+                "Markku_Alén": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Ford",
+                    "drivers": [
+                        "Markku_Alén"
+                    ],
+                    "other_info": {
+                        "car": "Ford Escort RS1600",
+                        "time": "6:55:26"
+                    }
+                }
+            }
         },
         "Tour de Corse": {
-            "Rally": {}
+            "Rally": {
+                "Jean-Pierre_Nicolas": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Alpine",
+                    "drivers": [
+                        "Jean-Pierre_Nicolas"
+                    ],
+                    "other_info": {
+                        "car": "Alpine Renault A110",
+                        "time": "5:06:31"
+                    }
+                },
+                "Jean-François_Piot": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Alpine",
+                    "drivers": [
+                        "Jean-François_Piot"
+                    ],
+                    "other_info": {
+                        "car": "Alpine Renault A110",
+                        "time": "5:14:37"
+                    }
+                },
+                "Jean-Luc_Thérier": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Alpine",
+                    "drivers": [
+                        "Jean-Luc_Thérier"
+                    ],
+                    "other_info": {
+                        "car": "Alpine Renault A110",
+                        "time": "5:18:46"
+                    }
+                }
+            }
         }
     }
 }

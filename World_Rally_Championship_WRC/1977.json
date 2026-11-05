@@ -1,7 +1,722 @@
 {
     "name": "World_Rally_Championship_WRC",
     "events": {
+        "Rallye Automobile Monte Carlo": {
+            "Rally": {
+                "Sandro_Munari": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Lancia",
+                    "drivers": [
+                        "Sandro_Munari"
+                    ],
+                    "other_info": {
+                        "car": "Lancia Stratos HF"
+                    }
+                },
+                "Jean-Claude_Andruet": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Fiat",
+                    "drivers": [
+                        "Jean-Claude_Andruet"
+                    ],
+                    "other_info": {
+                        "car": "Fiat 131 Abarth"
+                    }
+                },
+                "Antonio_Zanini": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Seat",
+                    "drivers": [
+                        "Antonio_Zanini"
+                    ],
+                    "other_info": {
+                        "car": "Seat 124D Especial 1800"
+                    }
+                }
+            }
+        },
+        "Arctic Rally": {
+            "Rally": {}
+        },
+        "Swedish Rally": {
+            "Rally": {
+                "Stig_Blomqvist": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Saab",
+                    "drivers": [
+                        "Stig_Blomqvist"
+                    ],
+                    "other_info": {
+                        "car": "Saab 99 EMS"
+                    }
+                },
+                "Bror_Danielsson": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Opel",
+                    "drivers": [
+                        "Bror_Danielsson"
+                    ],
+                    "other_info": {
+                        "car": "Opel Kadett GT/E"
+                    }
+                },
+                "Anders_Kulläng": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Opel",
+                    "drivers": [
+                        "Anders_Kulläng"
+                    ],
+                    "other_info": {
+                        "car": "Opel Kadett GT/E"
+                    }
+                }
+            }
+        },
+        "Rallye de Portugal": {
+            "Rally": {
+                "Markku_Alén": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Fiat",
+                    "drivers": [
+                        "Markku_Alén"
+                    ],
+                    "other_info": {
+                        "car": "Fiat 131 Abarth"
+                    }
+                },
+                "Björn_Waldegård": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Ford",
+                    "drivers": [
+                        "Björn_Waldegård"
+                    ],
+                    "other_info": {
+                        "car": "Ford Escort RS1800"
+                    }
+                },
+                "Ove_Andersson": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Toyota",
+                    "drivers": [
+                        "Ove_Andersson"
+                    ],
+                    "other_info": {
+                        "car": "Toyota Celica 2000GT"
+                    }
+                }
+            }
+        },
+        "Safari Rally": {
+            "Rally": {
+                "Björn_Waldegård": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Ford",
+                    "drivers": [
+                        "Björn_Waldegård"
+                    ],
+                    "other_info": {
+                        "car": "Ford Escort RS1800"
+                    }
+                },
+                "Rauno_Aaltonen": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Datsun",
+                    "drivers": [
+                        "Rauno_Aaltonen"
+                    ],
+                    "other_info": {
+                        "car": "Datsun 160J"
+                    }
+                },
+                "Sandro_Munari": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Lancia",
+                    "drivers": [
+                        "Sandro_Munari"
+                    ],
+                    "other_info": {
+                        "car": "Lancia Stratos HF"
+                    }
+                }
+            }
+        },
         "Rally New Zealand": {
+            "Rally": {
+                "Fulvio_Bacchelli": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Fiat",
+                    "drivers": [
+                        "Fulvio_Bacchelli"
+                    ],
+                    "other_info": {
+                        "car": "Fiat 131 Abarth"
+                    }
+                },
+                "Ari_Vatanen": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Ford",
+                    "drivers": [
+                        "Ari_Vatanen"
+                    ],
+                    "other_info": {
+                        "car": "Ford Escort RS1800"
+                    }
+                },
+                "Markku_Alén": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Fiat",
+                    "drivers": [
+                        "Markku_Alén"
+                    ],
+                    "other_info": {
+                        "car": "Fiat 131 Abarth"
+                    }
+                }
+            }
+        },
+        "Acropolis Rally Greece": {
+            "Rally": {
+                "Björn_Waldegård": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Ford",
+                    "drivers": [
+                        "Björn_Waldegård"
+                    ],
+                    "other_info": {
+                        "car": "Ford Escort RS1800"
+                    }
+                },
+                "Roger_Clark": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Ford",
+                    "drivers": [
+                        "Roger_Clark"
+                    ],
+                    "other_info": {
+                        "car": "Ford Escort RS1800"
+                    }
+                },
+                "Harry_Källström": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Datsun",
+                    "drivers": [
+                        "Harry_Källström"
+                    ],
+                    "other_info": {
+                        "car": "Datsun 160J"
+                    }
+                }
+            }
+        },
+        "Giro Automobilistico d'Italia": {
+            "Rally": {}
+        },
+        "Total Rally South Africa": {
+            "Rally": {}
+        },
+        "Rally Poland": {
+            "Rally": {}
+        },
+        "Rally Finland": {
+            "Rally": {
+                "Kyösti_Hämäläinen": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Ford",
+                    "drivers": [
+                        "Kyösti_Hämäläinen"
+                    ],
+                    "other_info": {
+                        "car": "Ford Escort RS1800"
+                    }
+                },
+                "Timo_Salonen": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Fiat",
+                    "drivers": [
+                        "Timo_Salonen"
+                    ],
+                    "other_info": {
+                        "car": "Fiat 131 Abarth"
+                    }
+                },
+                "Björn_Waldegård": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Ford",
+                    "drivers": [
+                        "Björn_Waldegård"
+                    ],
+                    "other_info": {
+                        "car": "Ford Escort RS1800"
+                    }
+                }
+            }
+        },
+        "Rally San Martino di Castrozza": {
+            "Rally": {}
+        },
+        "Critérium Molson du Québec": {
+            "Rally": {
+                "Timo_Salonen": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Fiat",
+                    "drivers": [
+                        "Timo_Salonen"
+                    ],
+                    "other_info": {
+                        "car": "Fiat 131 Abarth"
+                    }
+                },
+                "Simo_Lampinen": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Fiat",
+                    "drivers": [
+                        "Simo_Lampinen"
+                    ],
+                    "other_info": {
+                        "car": "Fiat 131 Abarth"
+                    }
+                },
+                "Roger_Clark": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Ford",
+                    "drivers": [
+                        "Roger_Clark"
+                    ],
+                    "other_info": {
+                        "car": "Ford Escort RS1800"
+                    }
+                }
+            }
+        },
+        "Tour de France Automobile": {
+            "Rally": {}
+        },
+        "Rallye Sanremo": {
+            "Rally": {
+                "Jean-Claude_Andruet": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Fiat",
+                    "drivers": [
+                        "Jean-Claude_Andruet"
+                    ],
+                    "other_info": {
+                        "car": "Fiat 131 Abarth"
+                    }
+                },
+                "Maurizio_Verini": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Fiat",
+                    "drivers": [
+                        "Maurizio_Verini"
+                    ],
+                    "other_info": {
+                        "car": "Fiat 131 Abarth"
+                    }
+                },
+                "Antonio_Fassina": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Fiat",
+                    "drivers": [
+                        "Antonio_Fassina"
+                    ],
+                    "other_info": {
+                        "car": "Fiat 131 Abarth"
+                    }
+                },
+                "Björn_Waldegård": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Björn_Waldegård"
+                    ],
+                    "other_info": {}
+                }
+            }
+        },
+        "Southern Cross Rally": {
+            "Rally": {
+                "Rauno_Aaltonen": {
+                    "position": "1",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Nissan_Motor_Australia",
+                    "drivers": [
+                        "Rauno_Aaltonen"
+                    ],
+                    "other_info": {
+                        "car": "Datsun 710 SSS"
+                    }
+                },
+                "Harry_Källström": {
+                    "position": "2",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Nissan_Motor_Australia",
+                    "drivers": [
+                        "Harry_Källström"
+                    ],
+                    "other_info": {
+                        "car": "Datsun 710 SSS"
+                    }
+                },
+                "Bob_Watson Peter Godden": {
+                    "position": "3",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Gerry_Ball_Tuning_Service",
+                    "drivers": [
+                        "Bob_Watson Peter Godden"
+                    ],
+                    "other_info": {
+                        "car": "Datsun 710 SSS"
+                    }
+                },
+                "Kenjiro_Shinozuka": {
+                    "position": "4",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Colt_Motor_Sports_Club",
+                    "drivers": [
+                        "Kenjiro_Shinozuka"
+                    ],
+                    "other_info": {
+                        "car": "Mitsubishi Lancer GSR"
+                    }
+                },
+                "Greg_Carr": {
+                    "position": "5",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Ford_Motor_Company_of_Australia",
+                    "drivers": [
+                        "Greg_Carr"
+                    ],
+                    "other_info": {
+                        "car": "Ford Escort RS 1800 Mark II"
+                    }
+                },
+                "Shekhar_Mehta": {
+                    "position": "6",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Nissan_Motor_Australia",
+                    "drivers": [
+                        "Shekhar_Mehta"
+                    ],
+                    "other_info": {
+                        "car": "Datsun PB210"
+                    }
+                },
+                "Ian_Hill Graham Roser": {
+                    "position": "7",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Gosford_Dyno-Tune_Centre",
+                    "drivers": [
+                        "Ian_Hill Graham Roser"
+                    ],
+                    "other_info": {
+                        "car": "Mitsubishi Lancer GSR"
+                    }
+                },
+                "Ross_Jackson Peter Berriman": {
+                    "position": "8",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Gosford_Dyno-Tune_Centre",
+                    "drivers": [
+                        "Ross_Jackson Peter Berriman"
+                    ],
+                    "other_info": {
+                        "car": "Mitsubishi Lancer GSR"
+                    }
+                },
+                "Singeru_Kanno Kiyoshi Kawamura": {
+                    "position": "9",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Rallyequip",
+                    "drivers": [
+                        "Singeru_Kanno Kiyoshi Kawamura"
+                    ],
+                    "other_info": {
+                        "car": "Mitsubishi Lancer GSR"
+                    }
+                },
+                "Blair_Robson Chris Porter": {
+                    "position": "10",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Masport_NZ_Limited",
+                    "drivers": [
+                        "Blair_Robson Chris Porter"
+                    ],
+                    "other_info": {
+                        "car": "Ford Escort RS 1800 Mark II"
+                    }
+                },
+                "Hisao_Kunimasa Mikihiko Kawai": {
+                    "position": "11",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "H._Yoshimoto",
+                    "drivers": [
+                        "Hisao_Kunimasa Mikihiko Kawai"
+                    ],
+                    "other_info": {
+                        "car": "Subaru Leone"
+                    }
+                },
+                "Brian_Hilton Barry Lake": {
+                    "position": "12",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Brian_Hilton",
+                    "drivers": [
+                        "Brian_Hilton Barry Lake"
+                    ],
+                    "other_info": {
+                        "car": "Peugeot 504 TI"
+                    }
+                },
+                "Stephen_Taylor Gregory Pepper": {
+                    "position": "13",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Stephen_Taylor",
+                    "drivers": [
+                        "Stephen_Taylor Gregory Pepper"
+                    ],
+                    "other_info": {
+                        "car": "Mitsubishi Galant"
+                    }
+                },
+                "Gordon_Leven Phil Bonsar": {
+                    "position": "14",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Cascade_Motors",
+                    "drivers": [
+                        "Gordon_Leven Phil Bonsar"
+                    ],
+                    "other_info": {
+                        "car": "Datsun 180B SSS"
+                    }
+                },
+                "Hideya_Satoh Barry Jarman": {
+                    "position": "15",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Hideya_Satoh",
+                    "drivers": [
+                        "Hideya_Satoh Barry Jarman"
+                    ],
+                    "other_info": {
+                        "car": "Isuzu Gemini PF50"
+                    }
+                },
+                "Graeme_Taylor Kevin Pearson": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "New_England_Sporting_Car_Club",
+                    "drivers": [
+                        "Graeme_Taylor Kevin Pearson"
+                    ],
+                    "other_info": {
+                        "car": "Ford Escort 1600 Mark II"
+                    }
+                },
+                "Kenji_Sato Yasunobu Ninomiya": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Rallyequip",
+                    "drivers": [
+                        "Kenji_Sato Yasunobu Ninomiya"
+                    ],
+                    "other_info": {
+                        "car": "Toyota Corolla Coupe TE30"
+                    }
+                },
+                "Eiji_Bessho Shiro Kawabe": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Eiji_Bessho",
+                    "drivers": [
+                        "Eiji_Bessho Shiro Kawabe"
+                    ],
+                    "other_info": {
+                        "car": "Isuzu Gemini PF50"
+                    }
+                },
+                "Rex_Fowler Patrick Roberts": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "I.R._Fowler",
+                    "drivers": [
+                        "Rex_Fowler Patrick Roberts"
+                    ],
+                    "other_info": {
+                        "car": "Datsun 1600"
+                    }
+                },
+                "Tony_Jewels David Kortland": {
+                    "position": "20",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Subaru_Queensland_Dealer_Group",
+                    "drivers": [
+                        "Tony_Jewels David Kortland"
+                    ],
+                    "other_info": {
+                        "car": "Subaru Leone"
+                    }
+                }
+            }
+        },
+        "Rally of Spain": {
+            "Rally": {}
+        },
+        "Tour de Corse": {
+            "Rally": {
+                "Bernard_Darniche": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Fiat",
+                    "drivers": [
+                        "Bernard_Darniche"
+                    ],
+                    "other_info": {
+                        "car": "Fiat 131 Abarth"
+                    }
+                },
+                "Raffaele_Pinto": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Lancia",
+                    "drivers": [
+                        "Raffaele_Pinto"
+                    ],
+                    "other_info": {
+                        "car": "Lancia Stratos HF"
+                    }
+                },
+                "Fulvio_Bacchelli": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Fiat",
+                    "drivers": [
+                        "Fulvio_Bacchelli"
+                    ],
+                    "other_info": {
+                        "car": "Fiat 131 Abarth"
+                    }
+                }
+            }
+        },
+        "Rally GB": {
+            "Rally": {
+                "Björn_Waldegård": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Ford",
+                    "drivers": [
+                        "Björn_Waldegård"
+                    ],
+                    "other_info": {
+                        "car": "Ford Escort RS1800"
+                    }
+                },
+                "Hannu_Mikkola": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Toyota",
+                    "drivers": [
+                        "Hannu_Mikkola"
+                    ],
+                    "other_info": {
+                        "car": "Toyota Celica 2000GT"
+                    }
+                },
+                "Russell_Brookes": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Ford",
+                    "drivers": [
+                        "Russell_Brookes"
+                    ],
+                    "other_info": {
+                        "car": "Ford Escort RS1800"
+                    }
+                }
+            }
+        },
+        "Rallye Côte d'Ivoire": {
             "Rally": {}
         }
     }
