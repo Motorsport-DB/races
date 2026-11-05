@@ -1,0 +1,814 @@
+{
+    "name": "WRC3",
+    "events": {
+        "Monte Carlo Rally": {
+            "Rally": {
+                "Eric_Camilli": {
+                    "position": "1",
+                    "points": 25,
+                    "fastest_lap": "",
+                    "team": "Saintéloc_Junior_Team",
+                    "drivers": [
+                        "Eric_Camilli",
+                        "François-Xavier_Buresi"
+                    ],
+                    "other_info": {
+                        "time": "3:24:39.8"
+                    }
+                },
+                "Nicolas_Ciamin": {
+                    "position": "2",
+                    "points": 18,
+                    "fastest_lap": "",
+                    "team": "DG_Sport_Compétition",
+                    "drivers": [
+                        "Nicolas_Ciamin"
+                    ],
+                    "other_info": {}
+                },
+                "Yoann_Bonato": {
+                    "position": "3",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "CHL_Sport_Auto",
+                    "drivers": [
+                        "Yoann_Bonato"
+                    ],
+                    "other_info": {}
+                },
+                "Yohan_Rossel": {
+                    "position": "4",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "PH_Sport",
+                    "drivers": [
+                        "Yohan_Rossel"
+                    ],
+                    "other_info": {}
+                },
+                "Grégoire_Munster": {
+                    "position": "5",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Grégoire_Munster"
+                    ],
+                    "other_info": {}
+                },
+                "Enrico_Brazzoli": {
+                    "position": "6",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "PA_Racing",
+                    "drivers": [
+                        "Enrico_Brazzoli"
+                    ],
+                    "other_info": {}
+                },
+                "Miguel_Díaz-Aboitiz": {
+                    "position": "7",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Calm_Compéticio",
+                    "drivers": [
+                        "Miguel_Díaz-Aboitiz"
+                    ],
+                    "other_info": {}
+                },
+                "Umberto_Scandola": {
+                    "position": "8",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "Hyundai_Rally_Team_Italia",
+                    "drivers": [
+                        "Umberto_Scandola"
+                    ],
+                    "other_info": {}
+                },
+                "Paulo_Nobre": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "Motorsport_Italia",
+                    "drivers": [
+                        "Paulo_Nobre"
+                    ],
+                    "other_info": {}
+                }
+            }
+        },
+        "Rally Sweden": {
+            "Rally": {
+                "Jari_Huttunen": {
+                    "position": "1",
+                    "points": 25,
+                    "fastest_lap": "",
+                    "team": "Hyundai_Motorsport_N",
+                    "drivers": [
+                        "Jari_Huttunen",
+                        "Mikko_Lukka"
+                    ],
+                    "other_info": {
+                        "time": "1:15:46.1"
+                    }
+                },
+                "Emil_Lindholm": {
+                    "position": "2",
+                    "points": 18,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Emil_Lindholm"
+                    ],
+                    "other_info": {}
+                },
+                "Johan_Kristoffersson": {
+                    "position": "3",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Kristoffersson_Motorsport",
+                    "drivers": [
+                        "Johan_Kristoffersson"
+                    ],
+                    "other_info": {}
+                },
+                "Eerik_Pietarinen": {
+                    "position": "4",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "TGS_Worldwide",
+                    "drivers": [
+                        "Eerik_Pietarinen"
+                    ],
+                    "other_info": {}
+                },
+                "Oliver_Solberg": {
+                    "position": "5",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Oliver_Solberg"
+                    ],
+                    "other_info": {}
+                },
+                "Filip_Mareš": {
+                    "position": "6",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Kresta_Racing",
+                    "drivers": [
+                        "Filip_Mareš"
+                    ],
+                    "other_info": {}
+                },
+                "Raul_Jeets": {
+                    "position": "7",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Sports_Racing_Technologies",
+                    "drivers": [
+                        "Raul_Jeets"
+                    ],
+                    "other_info": {}
+                },
+                "Michał_Sołowow": {
+                    "position": "8",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "Barlinek_Synthos_Rally_Team",
+                    "drivers": [
+                        "Michał_Sołowow"
+                    ],
+                    "other_info": {}
+                },
+                "Joakim_Roman": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "SXM_Compétition",
+                    "drivers": [
+                        "Joakim_Roman"
+                    ],
+                    "other_info": {}
+                }
+            }
+        },
+        "Rally Mexico": {
+            "Rally": {
+                "Marco_Bulacia Wilkinson": {
+                    "position": "1",
+                    "points": 25,
+                    "fastest_lap": "",
+                    "team": "Citroën_Rally_Team_Hungary",
+                    "drivers": [
+                        "Marco_Bulacia",
+                        "Giovanni_Bernacchini"
+                    ],
+                    "other_info": {
+                        "time": "3:01:25.1"
+                    }
+                },
+                "Emilio_Fernández": {
+                    "position": "2",
+                    "points": 18,
+                    "fastest_lap": "",
+                    "team": "Toksport_World_Rally_Team",
+                    "drivers": [
+                        "Emilio_Fernández"
+                    ],
+                    "other_info": {}
+                },
+                "Ricardo_Triviño": {
+                    "position": "3",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Triviño_Rally_Team",
+                    "drivers": [
+                        "Ricardo_Triviño"
+                    ],
+                    "other_info": {}
+                },
+                "Kajetan_Kajetanowicz": {
+                    "position": "4",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Lotos_Rally_Team",
+                    "drivers": [
+                        "Kajetan_Kajetanowicz"
+                    ],
+                    "other_info": {}
+                },
+                "Benito_Guerra, Jr.": {
+                    "position": "5",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Race_Seven",
+                    "drivers": [
+                        "Benito_Guerra"
+                    ],
+                    "other_info": {}
+                },
+                "Oliver_Solberg": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Oliver_Solberg"
+                    ],
+                    "other_info": {}
+                },
+                "Alberto_Heller": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "M-Sport_Ford_World_Rally_Team",
+                    "drivers": [
+                        "Alberto_Heller"
+                    ],
+                    "other_info": {}
+                }
+            }
+        },
+        "Rally Estonia": {
+            "Rally": {
+                "Oliver_Solberg": {
+                    "position": "1",
+                    "points": 25,
+                    "fastest_lap": "",
+                    "team": "PSRX",
+                    "drivers": [
+                        "Oliver_Solberg",
+                        "Aaron_Johnston"
+                    ],
+                    "other_info": {
+                        "time": "2:07:32.2"
+                    }
+                },
+                "Jari_Huttunen": {
+                    "position": "2",
+                    "points": 18,
+                    "fastest_lap": "",
+                    "team": "Hyundai_Motorsport_N",
+                    "drivers": [
+                        "Jari_Huttunen"
+                    ],
+                    "other_info": {}
+                },
+                "Egon_Kaur": {
+                    "position": "3",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Kaur_Motorsport",
+                    "drivers": [
+                        "Egon_Kaur"
+                    ],
+                    "other_info": {}
+                },
+                "Marco_Bulacia Wilkinson": {
+                    "position": "4",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Citroën_Rally_Team_Hungary",
+                    "drivers": [
+                        "Marco_Bulacia"
+                    ],
+                    "other_info": {}
+                },
+                "Karl_Kruuda": {
+                    "position": "5",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Printsport",
+                    "drivers": [
+                        "Karl_Kruuda"
+                    ],
+                    "other_info": {}
+                },
+                "Nicolas_Ciamin": {
+                    "position": "6",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "DG_Sport_Compétition",
+                    "drivers": [
+                        "Nicolas_Ciamin"
+                    ],
+                    "other_info": {}
+                },
+                "Rainer_Aus": {
+                    "position": "7",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "TGS_Worldwide",
+                    "drivers": [
+                        "Rainer_Aus"
+                    ],
+                    "other_info": {}
+                },
+                "Sean_Johnston": {
+                    "position": "8",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "Saintéloc_Junior_Team",
+                    "drivers": [
+                        "Sean_Johnston"
+                    ],
+                    "other_info": {}
+                },
+                "Yohan_Rossel": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "PH_Sport",
+                    "drivers": [
+                        "Yohan_Rossel"
+                    ],
+                    "other_info": {}
+                },
+                "Priit_Koik": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "OT_Racing",
+                    "drivers": [
+                        "Priit_Koik"
+                    ],
+                    "other_info": {}
+                },
+                "Grégoire_Munster": {
+                    "position": "11",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Grégoire_Munster"
+                    ],
+                    "other_info": {}
+                },
+                "Jan_Solans": {
+                    "position": "12",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "M-Sport_Ford_World_Rally_Team",
+                    "drivers": [
+                        "Jan_Solans"
+                    ],
+                    "other_info": {}
+                },
+                "Eerik_Pietarinen": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "TGS_Worldwide",
+                    "drivers": [
+                        "Eerik_Pietarinen"
+                    ],
+                    "other_info": {}
+                },
+                "Kajetan_Kajetanowicz": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Lotos_Rally_Team",
+                    "drivers": [
+                        "Kajetan_Kajetanowicz"
+                    ],
+                    "other_info": {}
+                },
+                "Emilio_Fernández": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Toksport_World_Rally_Team",
+                    "drivers": [
+                        "Emilio_Fernández"
+                    ],
+                    "other_info": {}
+                },
+                "Raul_Jeets": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Sports_Racing_Technologies",
+                    "drivers": [
+                        "Raul_Jeets"
+                    ],
+                    "other_info": {}
+                }
+            }
+        },
+        "Rally Turkey": {
+            "Rally": {
+                "Kajetan_Kajetanowicz": {
+                    "position": "1",
+                    "points": 25,
+                    "fastest_lap": "",
+                    "team": "Lotos_Rally_Team",
+                    "drivers": [
+                        "Kajetan_Kajetanowicz",
+                        "Maciej_Szczepaniak"
+                    ],
+                    "other_info": {
+                        "time": "2:55:38.2"
+                    }
+                },
+                "Marco_Bulacia Wilkinson": {
+                    "position": "2",
+                    "points": 18,
+                    "fastest_lap": "",
+                    "team": "Citroën_Rally_Team_Hungary",
+                    "drivers": [
+                        "Marco_Bulacia"
+                    ],
+                    "other_info": {}
+                },
+                "Yağiz_Avci": {
+                    "position": "3",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Citroën_Rally_Team_Hungary",
+                    "drivers": [
+                        "Yağiz_Avci"
+                    ],
+                    "other_info": {}
+                },
+                "Alberto_Heller": {
+                    "position": "4",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "M-Sport_Ford_World_Rally_Team",
+                    "drivers": [
+                        "Alberto_Heller"
+                    ],
+                    "other_info": {}
+                },
+                "Burak_Cukurova": {
+                    "position": "5",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "BC_Vision_Motorsport",
+                    "drivers": [
+                        "Burak_Cukurova"
+                    ],
+                    "other_info": {}
+                },
+                "Jan_Solans": {
+                    "position": "6",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "M-Sport_Ford_World_Rally_Team",
+                    "drivers": [
+                        "Jan_Solans"
+                    ],
+                    "other_info": {}
+                },
+                "Emilio_Fernández": {
+                    "position": "7",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Toksport_World_Rally_Team",
+                    "drivers": [
+                        "Emilio_Fernández"
+                    ],
+                    "other_info": {}
+                },
+                "Sean_Johnston": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Saintéloc_Junior_Team",
+                    "drivers": [
+                        "Sean_Johnston"
+                    ],
+                    "other_info": {}
+                }
+            }
+        },
+        "Rally Italia Sardegna": {
+            "Rally": {
+                "Jari_Huttunen": {
+                    "position": "1",
+                    "points": 25,
+                    "fastest_lap": "",
+                    "team": "Hyundai_Motorsport_N",
+                    "drivers": [
+                        "Jari_Huttunen",
+                        "Mikko_Lukka"
+                    ],
+                    "other_info": {
+                        "time": "2:50:19.2"
+                    }
+                },
+                "Kajetan_Kajetanowicz": {
+                    "position": "2",
+                    "points": 18,
+                    "fastest_lap": "",
+                    "team": "Lotos_Rally_Team",
+                    "drivers": [
+                        "Kajetan_Kajetanowicz"
+                    ],
+                    "other_info": {}
+                },
+                "Marco_Bulacia Wilkinson": {
+                    "position": "3",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Citroën_Rally_Team_Hungary",
+                    "drivers": [
+                        "Marco_Bulacia"
+                    ],
+                    "other_info": {}
+                },
+                "Umberto_Scandola": {
+                    "position": "4",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Hyundai_Rally_Team_Italia",
+                    "drivers": [
+                        "Umberto_Scandola"
+                    ],
+                    "other_info": {}
+                },
+                "Alberto_Heller": {
+                    "position": "5",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "M-Sport_Ford_World_Rally_Team",
+                    "drivers": [
+                        "Alberto_Heller"
+                    ],
+                    "other_info": {}
+                },
+                "Oliver_Solberg": {
+                    "position": "6",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Oliver_Solberg"
+                    ],
+                    "other_info": {}
+                },
+                "Alberto_Battistolli": {
+                    "position": "7",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Delta_Rally",
+                    "drivers": [
+                        "Alberto_Battistolli"
+                    ],
+                    "other_info": {}
+                },
+                "Luciano_Cobbe": {
+                    "position": "8",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "Free_Rally_Service",
+                    "drivers": [
+                        "Luciano_Cobbe"
+                    ],
+                    "other_info": {}
+                },
+                "Nicolas_Ciamin": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "DG_Sport_Compétition",
+                    "drivers": [
+                        "Nicolas_Ciamin"
+                    ],
+                    "other_info": {}
+                },
+                "Emilio_Fernández": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "Toksport_World_Rally_Team",
+                    "drivers": [
+                        "Emilio_Fernández"
+                    ],
+                    "other_info": {}
+                },
+                "Yohan_Rossel": {
+                    "position": "11",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "PH_Sport",
+                    "drivers": [
+                        "Yohan_Rossel"
+                    ],
+                    "other_info": {}
+                },
+                "Eric_Camilli": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Saintéloc_Junior_Team",
+                    "drivers": [
+                        "Eric_Camilli"
+                    ],
+                    "other_info": {}
+                },
+                "Jan_Solans": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "M-Sport_Ford_World_Rally_Team",
+                    "drivers": [
+                        "Jan_Solans"
+                    ],
+                    "other_info": {}
+                },
+                "Sean_Johnston": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Saintéloc_Junior_Team",
+                    "drivers": [
+                        "Sean_Johnston"
+                    ],
+                    "other_info": {}
+                }
+            }
+        },
+        "Rally Monza": {
+            "Rally": {
+                "Andreas_Mikkelsen": {
+                    "position": "1",
+                    "points": 25,
+                    "fastest_lap": "",
+                    "team": "Eurosol_Racing_Team_Hungary",
+                    "drivers": [
+                        "Andreas_Mikkelsen",
+                        "Anders_Jæger"
+                    ],
+                    "other_info": {
+                        "time": "2:19:47.2"
+                    }
+                },
+                "Oliver_Solberg": {
+                    "position": "2",
+                    "points": 18,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Oliver_Solberg"
+                    ],
+                    "other_info": {}
+                },
+                "Jari_Huttunen": {
+                    "position": "3",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Hyundai_Motorsport_N",
+                    "drivers": [
+                        "Jari_Huttunen"
+                    ],
+                    "other_info": {}
+                },
+                "Emil_Lindholm": {
+                    "position": "4",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Emil_Lindholm"
+                    ],
+                    "other_info": {}
+                },
+                "Kajetan_Kajetanowicz": {
+                    "position": "5",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Lotos_Rally_Team",
+                    "drivers": [
+                        "Kajetan_Kajetanowicz"
+                    ],
+                    "other_info": {}
+                },
+                "Marco_Bulacia Wilkinson": {
+                    "position": "6",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Citroën_Rally_Team_Hungary",
+                    "drivers": [
+                        "Marco_Bulacia"
+                    ],
+                    "other_info": {}
+                },
+                "Josh_McErlean": {
+                    "position": "7",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Motorsport_Ireland_Rally_Academy",
+                    "drivers": [
+                        "Josh_McErlean"
+                    ],
+                    "other_info": {}
+                },
+                "Cédric_De Cecco": {
+                    "position": "8",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "Metior_Sport",
+                    "drivers": [
+                        "Cédric_De Cecco"
+                    ],
+                    "other_info": {}
+                },
+                "Giacomo_Ogliari": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "G._Car_Sport_Racing",
+                    "drivers": [
+                        "Giacomo_Ogliari"
+                    ],
+                    "other_info": {}
+                },
+                "Yohan_Rossel": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "PH_Sport",
+                    "drivers": [
+                        "Yohan_Rossel"
+                    ],
+                    "other_info": {}
+                },
+                "Enrico_Brazzoli": {
+                    "position": "11",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "PA_Racing",
+                    "drivers": [
+                        "Enrico_Brazzoli"
+                    ],
+                    "other_info": {}
+                },
+                "Umberto_Scandola": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Hyundai_Rally_Team_Italia",
+                    "drivers": [
+                        "Umberto_Scandola"
+                    ],
+                    "other_info": {}
+                },
+                "Grégoire_Munster": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Grégoire_Munster"
+                    ],
+                    "other_info": {}
+                }
+            }
+        }
+    }
+}
