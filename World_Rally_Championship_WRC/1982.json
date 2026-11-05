@@ -1,157 +1,1273 @@
 {
     "name": "World_Rally_Championship_WRC",
     "events": {
+        "Rallye Automobile Monte Carlo": {
+            "Rally": {
+                "Walter_Röhrl": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Opel",
+                    "drivers": [
+                        "Walter_Röhrl",
+                        "Christian_Geistdörfer"
+                    ],
+                    "other_info": {
+                        "car": "Opel Ascona 400",
+                        "time": "8:20:33"
+                    }
+                },
+                "Hannu_Mikkola": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Audi",
+                    "drivers": [
+                        "Hannu_Mikkola",
+                        "Arne_Hertz"
+                    ],
+                    "other_info": {
+                        "car": "Audi Quattro",
+                        "time": "8:24:22"
+                    }
+                },
+                "Jean-Luc_Thérier": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "PORSCHE",
+                    "drivers": [
+                        "Jean-Luc_Thérier",
+                        "Michel_Vial"
+                    ],
+                    "other_info": {
+                        "car": "Porsche 911 SC",
+                        "time": "8:32:38"
+                    }
+                },
+                "Guy_Fréquelin": {
+                    "position": "4",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Guy_Fréquelin"
+                    ],
+                    "other_info": {}
+                },
+                "Bruno_Saby": {
+                    "position": "5",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Renault_Sport",
+                    "drivers": [
+                        "Bruno_Saby"
+                    ],
+                    "other_info": {}
+                },
+                "Dany_Snobeck": {
+                    "position": "6",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Renault_Sport",
+                    "drivers": [
+                        "Dany_Snobeck"
+                    ],
+                    "other_info": {}
+                },
+                "Jochi_Kleint": {
+                    "position": "7",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "Rothmans_Opel_Rally_Team",
+                    "drivers": [
+                        "Jochi_Kleint"
+                    ],
+                    "other_info": {}
+                },
+                "Philippe_Touren": {
+                    "position": "8",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Philippe_Touren"
+                    ],
+                    "other_info": {}
+                },
+                "Jean-Pierre_Ballet": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Jean-Pierre_Ballet"
+                    ],
+                    "other_info": {}
+                },
+                "Jürgen_Barth": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Jürgen_Barth"
+                    ],
+                    "other_info": {}
+                }
+            }
+        },
+        "Swedish Rally": {
+            "Rally": {
+                "Stig_Blomqvist": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Audi",
+                    "drivers": [
+                        "Stig_Blomqvist",
+                        "Björn_Cederberg"
+                    ],
+                    "other_info": {
+                        "car": "Audi Quattro",
+                        "time": "3:40:15"
+                    }
+                },
+                "Ari_Vatanen": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Ford",
+                    "drivers": [
+                        "Ari_Vatanen",
+                        "Terry_Harryman"
+                    ],
+                    "other_info": {
+                        "car": "Ford Escort RS1800",
+                        "time": "3:42:51"
+                    }
+                },
+                "Walter_Röhrl": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Opel",
+                    "drivers": [
+                        "Walter_Röhrl",
+                        "Christian_Geistdörfer"
+                    ],
+                    "other_info": {
+                        "car": "Opel Ascona 400",
+                        "time": "3:44:29"
+                    }
+                },
+                "Per_Eklund": {
+                    "position": "4",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Per_Eklund"
+                    ],
+                    "other_info": {}
+                },
+                "Michèle_Mouton": {
+                    "position": "5",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Audi_Sport",
+                    "drivers": [
+                        "Michèle_Mouton"
+                    ],
+                    "other_info": {}
+                },
+                "Lasse_Lampi": {
+                    "position": "6",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "David_Sutton_Motorsport",
+                    "drivers": [
+                        "Lasse_Lampi"
+                    ],
+                    "other_info": {}
+                },
+                "Sören_Nilsson": {
+                    "position": "7",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "Team_Nissan_Europe",
+                    "drivers": [
+                        "Sören_Nilsson"
+                    ],
+                    "other_info": {}
+                },
+                "Kalle_Grundel": {
+                    "position": "8",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Kalle_Grundel"
+                    ],
+                    "other_info": {}
+                },
+                "Bengt_Thorsell": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Bengt_Thorsell"
+                    ],
+                    "other_info": {}
+                },
+                "Mikael_Ericsson": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Mikael_Ericsson"
+                    ],
+                    "other_info": {}
+                }
+            }
+        },
         "Rallye de Portugal": {
             "Rally": {
                 "Michèle_Mouton": {
                     "position": "1",
                     "points": 20,
                     "fastest_lap": "",
-                    "team": "Audi_Revolut_F1_Team",
+                    "team": "Audi",
                     "drivers": [
                         "Michèle_Mouton",
                         "Fabrizia_Pons"
                     ],
                     "other_info": {
                         "car": "Audi Quattro",
-                        "time": "7:39:36",
-                        "gap": "0.0"
+                        "time": "7:39:36"
                     }
                 },
                 "Per_Eklund": {
                     "position": "2",
                     "points": 15,
                     "fastest_lap": "",
-                    "team": "panasonic_toyota_racing",
+                    "team": "Toyota",
                     "drivers": [
                         "Per_Eklund",
                         "Ragnar_Spjuth"
                     ],
                     "other_info": {
-                        "car": "Toyota Celica 2000GT (RA45)",
-                        "time": "7:52:43",
-                        "gap": "13:07"
+                        "car": "Toyota Celica 2000GT",
+                        "time": "7:52:43"
                     }
                 },
                 "Franz_Wittmann Sr.": {
                     "position": "3",
                     "points": 12,
                     "fastest_lap": "",
-                    "team": "Audi_Revolut_F1_Team",
+                    "team": "Audi",
                     "drivers": [
                         "Franz_Wittmann Sr.",
                         "Peter_Diekmann"
                     ],
                     "other_info": {
                         "car": "Audi Quattro",
-                        "time": "8:07:25",
-                        "gap": "27:49"
+                        "time": "8:07:25"
                     }
                 },
                 "Carlos_Torres": {
                     "position": "4",
                     "points": 10,
                     "fastest_lap": "",
-                    "team": "Ford",
+                    "team": "",
                     "drivers": [
-                        "Carlos_Torres",
-                        "Filipe_Lopes"
+                        "Carlos_Torres"
                     ],
-                    "other_info": {
-                        "car": "Ford Escort RS 1800 MkII",
-                        "time": "8:30:58",
-                        "gap": "51:22"
-                    }
+                    "other_info": {}
                 },
                 "Alain_Coppier": {
                     "position": "5",
                     "points": 8,
                     "fastest_lap": "",
-                    "team": "Citroën",
+                    "team": "Citroën_Compétitions",
                     "drivers": [
-                        "Alain_Coppier",
-                        "Josépha_Laloz"
+                        "Alain_Coppier"
                     ],
-                    "other_info": {
-                        "car": "Citroën Visa Trophée",
-                        "time": "8:54:11",
-                        "gap": "1:14:35"
-                    }
+                    "other_info": {}
                 },
                 "Mário_Silva": {
                     "position": "6",
                     "points": 6,
                     "fastest_lap": "",
-                    "team": "Ford",
+                    "team": "",
                     "drivers": [
-                        "Mário_Silva",
-                        "Bevilacqua_Rui"
+                        "Mário_Silva"
                     ],
-                    "other_info": {
-                        "car": "Ford Escort RS 1800 MkII",
-                        "time": "9:01:12",
-                        "gap": "1:21:36"
-                    }
+                    "other_info": {}
                 },
                 "António_Ferreira da Cunha": {
                     "position": "7",
                     "points": 4,
                     "fastest_lap": "",
-                    "team": "Opel",
+                    "team": "",
                     "drivers": [
-                        "António_Ferreira da Cunha",
-                        "Resende_Carlos"
+                        "António_Ferreira da Cunha"
                     ],
-                    "other_info": {
-                        "car": "Opel Ascona 2000i",
-                        "time": "9:29:09",
-                        "gap": "1:49:33"
-                    }
+                    "other_info": {}
                 },
                 "Christian_Dorche": {
                     "position": "8",
                     "points": 3,
                     "fastest_lap": "",
-                    "team": "Citroën",
+                    "team": "Citroën_Compétitions",
                     "drivers": [
-                        "Christian_Dorche",
-                        "Patricia_Trivero"
+                        "Christian_Dorche"
                     ],
-                    "other_info": {
-                        "car": "Citroën Visa Trophée",
-                        "time": "9:35:39",
-                        "gap": "1:56:03"
-                    }
+                    "other_info": {}
                 },
                 "Olivier_Tabatoni": {
                     "position": "9",
                     "points": 2,
                     "fastest_lap": "",
-                    "team": "Citroën",
+                    "team": "Citroën_Compétitions",
                     "drivers": [
-                        "Olivier_Tabatoni",
-                        "Michel_Cadier"
+                        "Olivier_Tabatoni"
                     ],
-                    "other_info": {
-                        "car": "Citroën Visa Trophée",
-                        "time": "9:40:36",
-                        "gap": "2:01:00"
-                    }
+                    "other_info": {}
                 },
                 "Jorge_Fleck": {
                     "position": "10",
                     "points": 1,
                     "fastest_lap": "",
-                    "team": "Opel",
+                    "team": "",
                     "drivers": [
-                        "Jorge_Fleck",
-                        "Silvio_Klein"
+                        "Jorge_Fleck"
+                    ],
+                    "other_info": {}
+                }
+            }
+        },
+        "Safari Rally": {
+            "Rally": {
+                "Shekhar_Mehta": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Datsun",
+                    "drivers": [
+                        "Shekhar_Mehta",
+                        "Mike_Doughty"
                     ],
                     "other_info": {
-                        "car": "Opel Kadett GT/E",
-                        "time": "9:40:55",
-                        "gap": "2:01:19"
+                        "car": "Datsun Violet GT",
+                        "time": "+4:26 pen"
                     }
+                },
+                "Walter_Röhrl": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Opel",
+                    "drivers": [
+                        "Walter_Röhrl",
+                        "Christian_Geistdörfer"
+                    ],
+                    "other_info": {
+                        "car": "Opel Ascona 400",
+                        "time": "+5:07 pen"
+                    }
+                },
+                "Mike_Kirkland": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Datsun",
+                    "drivers": [
+                        "Mike_Kirkland",
+                        "Anton_Levitan"
+                    ],
+                    "other_info": {
+                        "car": "Datsun Violet GT",
+                        "time": "+6:16 pen"
+                    }
+                },
+                "Tony_Pond": {
+                    "position": "4",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Tony_Pond"
+                    ],
+                    "other_info": {}
+                },
+                "Jayant_Shah": {
+                    "position": "5",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Team_Nissan_Europe",
+                    "drivers": [
+                        "Jayant_Shah"
+                    ],
+                    "other_info": {}
+                },
+                "Rob_Collinge": {
+                    "position": "6",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Rob_Collinge"
+                    ],
+                    "other_info": {}
+                },
+                "Yoshinobu_Takahashi": {
+                    "position": "7",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Yoshinobu_Takahashi"
+                    ],
+                    "other_info": {}
+                },
+                "Frank_Tundo": {
+                    "position": "8",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Frank_Tundo"
+                    ],
+                    "other_info": {}
+                },
+                "Javaid_Alam": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Javaid_Alam"
+                    ],
+                    "other_info": {}
+                },
+                "Ramesh_Khoda": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Ramesh_Khoda"
+                    ],
+                    "other_info": {}
+                }
+            }
+        },
+        "Rallye de France": {
+            "Rally": {
+                "Jean_Ragnotti": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Renault",
+                    "drivers": [
+                        "Jean_Ragnotti",
+                        "Jean-Marc_Andrié"
+                    ],
+                    "other_info": {
+                        "car": "Renault 5 Turbo",
+                        "time": "14:11:19"
+                    }
+                },
+                "Jean-Claude_Andruet": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Ferrari",
+                    "drivers": [
+                        "Jean-Claude_Andruet",
+                        "Michèle_Espinosi-Petit"
+                    ],
+                    "other_info": {
+                        "car": "Ferrari 308 GTB",
+                        "time": "14:16:57"
+                    }
+                },
+                "Bernard_Béguin": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "PORSCHE",
+                    "drivers": [
+                        "Bernard_Béguin",
+                        "Jean-Jacques_Lenne"
+                    ],
+                    "other_info": {
+                        "car": "Porsche 911 SC",
+                        "time": "14:20:11"
+                    }
+                },
+                "Walter_Röhrl": {
+                    "position": "4",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Rothmans_Opel_Rally_Team",
+                    "drivers": [
+                        "Walter_Röhrl"
+                    ],
+                    "other_info": {}
+                },
+                "Bruno_Saby": {
+                    "position": "5",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Renault_Sport",
+                    "drivers": [
+                        "Bruno_Saby"
+                    ],
+                    "other_info": {}
+                },
+                "Iórgos_Moschous": {
+                    "position": "5",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Iórgos_Moschous"
+                    ],
+                    "other_info": {}
+                },
+                "Guy_Fréquelin": {
+                    "position": "6",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Guy_Fréquelin"
+                    ],
+                    "other_info": {}
+                },
+                "Michèle_Mouton": {
+                    "position": "7",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "Audi_Sport",
+                    "drivers": [
+                        "Michèle_Mouton"
+                    ],
+                    "other_info": {}
+                },
+                "Francis_Vincent": {
+                    "position": "8",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "Porsche_Alméras",
+                    "drivers": [
+                        "Francis_Vincent"
+                    ],
+                    "other_info": {}
+                },
+                "Markku_Alén": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "Martini_Lancia",
+                    "drivers": [
+                        "Markku_Alén"
+                    ],
+                    "other_info": {}
+                },
+                "Robert_Simonetti": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Robert_Simonetti"
+                    ],
+                    "other_info": {}
+                }
+            }
+        },
+        "Acropolis Rally Greece": {
+            "Rally": {
+                "Michèle_Mouton": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Audi",
+                    "drivers": [
+                        "Michèle_Mouton",
+                        "Fabrizia_Pons"
+                    ],
+                    "other_info": {
+                        "car": "Audi Quattro",
+                        "time": "12:54:44"
+                    }
+                },
+                "Walter_Röhrl": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Opel",
+                    "drivers": [
+                        "Walter_Röhrl",
+                        "Christian_Geistdörfer"
+                    ],
+                    "other_info": {
+                        "car": "Opel Ascona 400",
+                        "time": "13:08:23"
+                    }
+                },
+                "Henri_Toivonen": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Opel",
+                    "drivers": [
+                        "Henri_Toivonen",
+                        "Fred_Gallagher"
+                    ],
+                    "other_info": {
+                        "car": "Opel Ascona 400",
+                        "time": "13:17:21"
+                    }
+                },
+                "Shekhar_Mehta": {
+                    "position": "4",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Team_Nissan_Europe",
+                    "drivers": [
+                        "Shekhar_Mehta"
+                    ],
+                    "other_info": {}
+                },
+                "Jimmy_McRae": {
+                    "position": "6",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Rothmans_Opel_Rally_Team",
+                    "drivers": [
+                        "Jimmy_McRae"
+                    ],
+                    "other_info": {}
+                },
+                "Pavlos_Moschoutis": {
+                    "position": "7",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Pavlos_Moschoutis"
+                    ],
+                    "other_info": {}
+                },
+                "Anastasios_Gemenis": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Anastasios_Gemenis"
+                    ],
+                    "other_info": {}
+                },
+                "Fritz_Heisler": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Fritz_Heisler"
+                    ],
+                    "other_info": {}
+                }
+            }
+        },
+        "Rally New Zealand": {
+            "Rally": {
+                "Björn_Waldegård": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Toyota",
+                    "drivers": [
+                        "Björn_Waldegård",
+                        "Hans_Thorszelius"
+                    ],
+                    "other_info": {
+                        "car": "Toyota Celica 2000GT",
+                        "time": "10:28:08"
+                    }
+                },
+                "Per_Eklund": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Toyota",
+                    "drivers": [
+                        "Per_Eklund",
+                        "Ragnar_Spjuth"
+                    ],
+                    "other_info": {
+                        "car": "Toyota Celica 2000GT",
+                        "time": "10:31:21"
+                    }
+                },
+                "Walter_Röhrl": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Opel",
+                    "drivers": [
+                        "Walter_Röhrl",
+                        "Christian_Geistdörfer"
+                    ],
+                    "other_info": {
+                        "car": "Opel Ascona 400",
+                        "time": "10:33:37"
+                    }
+                },
+                "Timo_Salonen": {
+                    "position": "4",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Team_Nissan_Europe",
+                    "drivers": [
+                        "Timo_Salonen"
+                    ],
+                    "other_info": {}
+                },
+                "Rod_Millen": {
+                    "position": "5",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Rod_Millen"
+                    ],
+                    "other_info": {}
+                },
+                "Tony_Teesdale": {
+                    "position": "6",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Tony_Teesdale"
+                    ],
+                    "other_info": {}
+                },
+                "Jean-Louis_Leyraud": {
+                    "position": "7",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Jean-Louis_Leyraud"
+                    ],
+                    "other_info": {}
+                },
+                "Malcolm_Stewart": {
+                    "position": "8",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Malcolm_Stewart"
+                    ],
+                    "other_info": {}
+                },
+                "Paul_Adams": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Paul_Adams"
+                    ],
+                    "other_info": {}
+                },
+                "Reg_Cook": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Reg_Cook"
+                    ],
+                    "other_info": {}
+                }
+            }
+        },
+        "Rallye do Brasil": {
+            "Rally": {
+                "Michèle_Mouton": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Audi",
+                    "drivers": [
+                        "Michèle_Mouton",
+                        "Fabrizia_Pons"
+                    ],
+                    "other_info": {
+                        "car": "Audi Quattro",
+                        "time": "8:16:24"
+                    }
+                },
+                "Walter_Röhrl": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Opel",
+                    "drivers": [
+                        "Walter_Röhrl",
+                        "Christian_Geistdörfer"
+                    ],
+                    "other_info": {
+                        "car": "Opel Ascona 400",
+                        "time": "8:51:49"
+                    }
+                },
+                "Domingo_De Vitta": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Ford",
+                    "drivers": [
+                        "Domingo_De Vitta",
+                        "Daniel_Muzio"
+                    ],
+                    "other_info": {
+                        "car": "Ford Escort 1.6",
+                        "time": "10:15:30"
+                    }
+                },
+                "Aparecido_Rodrigues": {
+                    "position": "4",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Aparecido_Rodrigues"
+                    ],
+                    "other_info": {}
+                }
+            }
+        },
+        "Rally Finland": {
+            "Rally": {
+                "Hannu_Mikkola": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Audi",
+                    "drivers": [
+                        "Hannu_Mikkola",
+                        "Arne_Hertz"
+                    ],
+                    "other_info": {
+                        "car": "Audi Quattro",
+                        "time": "4:19:05"
+                    }
+                },
+                "Stig_Blomqvist": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Audi",
+                    "drivers": [
+                        "Stig_Blomqvist",
+                        "Björn_Cederberg"
+                    ],
+                    "other_info": {
+                        "car": "Audi Quattro",
+                        "time": "4:19:33"
+                    }
+                },
+                "Pentti_Airikkala": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Mitsubishi",
+                    "drivers": [
+                        "Pentti_Airikkala",
+                        "Juha_Piironen"
+                    ],
+                    "other_info": {
+                        "car": "Mitsubishi Lancer Turbo",
+                        "time": "4:23:22"
+                    }
+                },
+                "Timo_Salonen": {
+                    "position": "4",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Team_Nissan_Europe",
+                    "drivers": [
+                        "Timo_Salonen"
+                    ],
+                    "other_info": {}
+                },
+                "Antero_Laine": {
+                    "position": "5",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Peugeot_Talbot_Sport",
+                    "drivers": [
+                        "Antero_Laine"
+                    ],
+                    "other_info": {}
+                },
+                "Russell_Brookes": {
+                    "position": "6",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Blydenstein_Racing",
+                    "drivers": [
+                        "Russell_Brookes"
+                    ],
+                    "other_info": {}
+                },
+                "Harri_Uotila": {
+                    "position": "7",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Harri_Uotila"
+                    ],
+                    "other_info": {}
+                },
+                "Jouni_Kinnunen": {
+                    "position": "8",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Jouni_Kinnunen"
+                    ],
+                    "other_info": {}
+                },
+                "Seppo_Mustonen": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Seppo_Mustonen"
+                    ],
+                    "other_info": {}
+                },
+                "Henri_Palmroos": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Henri_Palmroos"
+                    ],
+                    "other_info": {}
+                }
+            }
+        },
+        "Rallye Sanremo": {
+            "Rally": {
+                "Stig_Blomqvist": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Audi",
+                    "drivers": [
+                        "Stig_Blomqvist",
+                        "Björn_Cederberg"
+                    ],
+                    "other_info": {
+                        "car": "Audi Quattro",
+                        "time": "8:37:47"
+                    }
+                },
+                "Hannu_Mikkola": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Audi",
+                    "drivers": [
+                        "Hannu_Mikkola",
+                        "Arne_Hertz"
+                    ],
+                    "other_info": {
+                        "car": "Audi Quattro",
+                        "time": "8:40:03"
+                    }
+                },
+                "Walter_Röhrl": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Opel",
+                    "drivers": [
+                        "Walter_Röhrl",
+                        "Christian_Geistdörfer"
+                    ],
+                    "other_info": {
+                        "car": "Opel Ascona 400",
+                        "time": "8:40:14"
+                    }
+                },
+                "Michèle_Mouton": {
+                    "position": "4",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Audi_Sport",
+                    "drivers": [
+                        "Michèle_Mouton"
+                    ],
+                    "other_info": {}
+                },
+                "Henri_Toivonen": {
+                    "position": "5",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Rothmans_Opel_Rally_Team",
+                    "drivers": [
+                        "Henri_Toivonen"
+                    ],
+                    "other_info": {}
+                },
+                "Michele_Cinotto": {
+                    "position": "6",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Audi_Sport",
+                    "drivers": [
+                        "Michele_Cinotto"
+                    ],
+                    "other_info": {}
+                },
+                "Anders_Kulläng": {
+                    "position": "7",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "Team_Ralliart",
+                    "drivers": [
+                        "Anders_Kulläng"
+                    ],
+                    "other_info": {}
+                },
+                "Miki_Biasion": {
+                    "position": "8",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Miki_Biasion"
+                    ],
+                    "other_info": {}
+                },
+                "Livio_Lupidi": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Livio_Lupidi"
+                    ],
+                    "other_info": {}
+                },
+                "Vittorio_Caneva": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Vittorio_Caneva"
+                    ],
+                    "other_info": {}
+                }
+            }
+        },
+        "Rallye Côte d'Ivoire": {
+            "Rally": {
+                "Walter_Röhrl": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Opel",
+                    "drivers": [
+                        "Walter_Röhrl",
+                        "Christian_Geistdörfer"
+                    ],
+                    "other_info": {
+                        "car": "Opel Ascona 400",
+                        "time": "+8:43 pen"
+                    }
+                },
+                "Per_Eklund": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Toyota",
+                    "drivers": [
+                        "Per_Eklund",
+                        "Ragnar_Spjuth"
+                    ],
+                    "other_info": {
+                        "car": "Toyota Celica 2000GT",
+                        "time": "+10:17 pen"
+                    }
+                },
+                "Björn_Waldegård": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Toyota",
+                    "drivers": [
+                        "Björn_Waldegård",
+                        "Hans_Thorszelius"
+                    ],
+                    "other_info": {
+                        "car": "Toyota Celica 2000GT",
+                        "time": "+11:00 pen"
+                    }
+                },
+                "Bruno_Saby": {
+                    "position": "4",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Renault_Sport",
+                    "drivers": [
+                        "Bruno_Saby"
+                    ],
+                    "other_info": {}
+                },
+                "Alain_Ambrosino": {
+                    "position": "5",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Peugeot_France",
+                    "drivers": [
+                        "Alain_Ambrosino"
+                    ],
+                    "other_info": {}
+                },
+                "Eugène_Salim": {
+                    "position": "6",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Eugène_Salim"
+                    ],
+                    "other_info": {}
+                }
+            }
+        },
+        "Rally GB": {
+            "Rally": {
+                "Hannu_Mikkola": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Audi_Sport",
+                    "drivers": [
+                        "Hannu_Mikkola"
+                    ],
+                    "other_info": {}
+                },
+                "Michèle_Mouton": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Audi_Sport",
+                    "drivers": [
+                        "Michèle_Mouton"
+                    ],
+                    "other_info": {}
+                },
+                "Henri_Toivonen": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Rothmans_Opel_Rally_Team",
+                    "drivers": [
+                        "Henri_Toivonen"
+                    ],
+                    "other_info": {}
+                },
+                "Markku_Alén": {
+                    "position": "4",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Martini_Lancia",
+                    "drivers": [
+                        "Markku_Alén"
+                    ],
+                    "other_info": {}
+                },
+                "Harald_Demuth": {
+                    "position": "5",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Audi_Sport",
+                    "drivers": [
+                        "Harald_Demuth"
+                    ],
+                    "other_info": {}
+                },
+                "Russell_Brookes": {
+                    "position": "6",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Blydenstein_Racing",
+                    "drivers": [
+                        "Russell_Brookes"
+                    ],
+                    "other_info": {}
+                },
+                "Björn_Waldegård": {
+                    "position": "7",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Björn_Waldegård"
+                    ],
+                    "other_info": {}
+                },
+                "Stig_Blomqvist": {
+                    "position": "8",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Stig_Blomqvist"
+                    ],
+                    "other_info": {}
+                },
+                "Per_Eklund": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "",
+                    "drivers": [
+                        "Per_Eklund"
+                    ],
+                    "other_info": {}
+                },
+                "Malcolm_Wilson": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "Audi_Sport",
+                    "drivers": [
+                        "Malcolm_Wilson"
+                    ],
+                    "other_info": {}
                 }
             }
         }
