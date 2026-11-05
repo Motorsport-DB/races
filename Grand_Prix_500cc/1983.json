@@ -1,6 +1,466 @@
 {
     "name": "Grand_Prix_500cc",
     "events": {
+        "South African Grand Prix": {
+            "Race": {
+                "Freddie_Spencer": {
+                    "position": "1",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "NS500",
+                    "drivers": [
+                        "Freddie_Spencer"
+                    ],
+                    "other_info": {
+                        "constructor": "NS500"
+                    }
+                },
+                "Kenny_Roberts": {
+                    "position": "2",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "YZR500",
+                    "drivers": [
+                        "Kenny_Roberts"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR500"
+                    }
+                },
+                "Randy_Mamola": {
+                    "position": "5",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Randy_Mamola"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Eddie_Lawson": {
+                    "position": "8",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "YZR500",
+                    "drivers": [
+                        "Eddie_Lawson"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR500"
+                    }
+                },
+                "Takazumi_Katayama": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "NS500",
+                    "drivers": [
+                        "Takazumi_Katayama"
+                    ],
+                    "other_info": {
+                        "constructor": "NS500"
+                    }
+                },
+                "Marc_Fontan": {
+                    "position": "4",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "YZR500",
+                    "drivers": [
+                        "Marc_Fontan"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR500"
+                    }
+                },
+                "Marco_Lucchinelli": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "NS500",
+                    "drivers": [
+                        "Marco_Lucchinelli"
+                    ],
+                    "other_info": {
+                        "constructor": "NS500"
+                    }
+                },
+                "Ron_Haslam": {
+                    "position": "3",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "NS500",
+                    "drivers": [
+                        "Ron_Haslam"
+                    ],
+                    "other_info": {
+                        "constructor": "NS500"
+                    }
+                },
+                "Franco_Uncini": {
+                    "position": "6",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Franco_Uncini"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Raymond_Roche": {
+                    "position": "7",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "NS500",
+                    "drivers": [
+                        "Raymond_Roche"
+                    ],
+                    "other_info": {
+                        "constructor": "NS500"
+                    }
+                },
+                "Boet_Van Dulmen": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Boet_Van Dulmen"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Sergio_Pellandini": {
+                    "position": "12",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Sergio_Pellandini"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Barry_Sheene": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Barry_Sheene"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Guido_Paci": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RS500",
+                    "drivers": [
+                        "Guido_Paci"
+                    ],
+                    "other_info": {
+                        "constructor": "RS500"
+                    }
+                },
+                "Wolfgang_Von Muralt": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Wolfgang_Von Muralt"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Leandro_Beccheroni": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Leandro_Beccheroni"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Virginio_Ferrari": {
+                    "position": "15",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "GP500",
+                    "drivers": [
+                        "Virginio_Ferrari"
+                    ],
+                    "other_info": {
+                        "constructor": "GP500"
+                    }
+                },
+                "Loris_Reggiani": {
+                    "position": "11",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Loris_Reggiani"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Walter_Magliorati": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Walter_Magliorati"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Philippe_Coulon": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Philippe_Coulon"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Chris_Guy": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Chris_Guy"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Maurizio_Massimiani": {
+                    "position": "13",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RS500",
+                    "drivers": [
+                        "Maurizio_Massimiani"
+                    ],
+                    "other_info": {
+                        "constructor": "RS500"
+                    }
+                },
+                "Gustav_Reiner": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Gustav_Reiner"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Steve_Parrish": {
+                    "position": "20",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR500",
+                    "drivers": [
+                        "Steve_Parrish"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR500"
+                    }
+                },
+                "Fabio_Biliotti": {
+                    "position": "14",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RS500",
+                    "drivers": [
+                        "Fabio_Biliotti"
+                    ],
+                    "other_info": {
+                        "constructor": "RS500"
+                    }
+                },
+                "Marco_Greco": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Marco_Greco"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Jonnie_Ekerold": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "GP500",
+                    "drivers": [
+                        "Jonnie_Ekerold"
+                    ],
+                    "other_info": {
+                        "constructor": "GP500"
+                    }
+                },
+                "Corrado_Tuzii": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RS500",
+                    "drivers": [
+                        "Corrado_Tuzii"
+                    ],
+                    "other_info": {
+                        "constructor": "RS500"
+                    }
+                },
+                "Gary_Lingham": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Gary_Lingham"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Lorenzo_Ghiselli": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Lorenzo_Ghiselli"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Børge_Nielsen": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Børge_Nielsen"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Bent_Slydal": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Bent_Slydal"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Alfons_Ammerschlager": {
+                    "position": "21",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Alfons_Ammerschlager"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Franz_Kaserer": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Franz_Kaserer"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Andreas_Hofmann": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Andreas_Hofmann"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Wolfgang_Schwarz": {
+                    "position": "22",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Wolfgang_Schwarz"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Michel_Frutschi": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RS500",
+                    "drivers": [
+                        "Michel_Frutschi"
+                    ],
+                    "other_info": {
+                        "constructor": "RS500"
+                    }
+                },
+                "Jean_Francois Baldé": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "NS500",
+                    "drivers": [
+                        "Jean_Francois Baldé"
+                    ],
+                    "other_info": {
+                        "constructor": "NS500"
+                    }
+                }
+            }
+        },
         "French Grand Prix": {
             "Race": {
                 "Freddie_Spencer": {
@@ -4263,6 +4723,454 @@
                         "laps": "0",
                         "speed": "0",
                         "constructor": "Cagiva"
+                    }
+                }
+            }
+        },
+        "Swedish Grand Prix": {
+            "Race": {
+                "Freddie_Spencer": {
+                    "position": "1",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "NS500",
+                    "drivers": [
+                        "Freddie_Spencer"
+                    ],
+                    "other_info": {
+                        "constructor": "NS500"
+                    }
+                },
+                "Kenny_Roberts": {
+                    "position": "2",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "YZR500",
+                    "drivers": [
+                        "Kenny_Roberts"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR500"
+                    }
+                },
+                "Randy_Mamola": {
+                    "position": "7",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Randy_Mamola"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Eddie_Lawson": {
+                    "position": "5",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "YZR500",
+                    "drivers": [
+                        "Eddie_Lawson"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR500"
+                    }
+                },
+                "Takazumi_Katayama": {
+                    "position": "3",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "NS500",
+                    "drivers": [
+                        "Takazumi_Katayama"
+                    ],
+                    "other_info": {
+                        "constructor": "NS500"
+                    }
+                },
+                "Marc_Fontan": {
+                    "position": "4",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "YZR500",
+                    "drivers": [
+                        "Marc_Fontan"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR500"
+                    }
+                },
+                "Marco_Lucchinelli": {
+                    "position": "6",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "NS500",
+                    "drivers": [
+                        "Marco_Lucchinelli"
+                    ],
+                    "other_info": {
+                        "constructor": "NS500"
+                    }
+                },
+                "Ron_Haslam": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "NS500",
+                    "drivers": [
+                        "Ron_Haslam"
+                    ],
+                    "other_info": {
+                        "constructor": "NS500"
+                    }
+                },
+                "Raymond_Roche": {
+                    "position": "8",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "NS500",
+                    "drivers": [
+                        "Raymond_Roche"
+                    ],
+                    "other_info": {
+                        "constructor": "NS500"
+                    }
+                },
+                "Boet_Van Dulmen": {
+                    "position": "12",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Boet_Van Dulmen"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Jack_Middelburg": {
+                    "position": "DNS",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "NS500",
+                    "drivers": [
+                        "Jack_Middelburg"
+                    ],
+                    "other_info": {
+                        "constructor": "NS500"
+                    }
+                },
+                "Barry_Sheene": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Barry_Sheene"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Keith_Huewen": {
+                    "position": "11",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Keith_Huewen"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Anton_Mang": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Anton_Mang"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Wolfgang_Von Muralt": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Wolfgang_Von Muralt"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Leandro_Beccheroni": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Leandro_Beccheroni"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Loris_Reggiani": {
+                    "position": "15",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Loris_Reggiani"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Philippe_Coulon": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Philippe_Coulon"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Chris_Guy": {
+                    "position": "14",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Chris_Guy"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Peter_Sjostrom": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Peter_Sjostrom"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Steve_Parrish": {
+                    "position": "13",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR500",
+                    "drivers": [
+                        "Steve_Parrish"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR500"
+                    }
+                },
+                "Didier_de Radiguès": {
+                    "position": "20",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RS500",
+                    "drivers": [
+                        "Didier_de Radiguès"
+                    ],
+                    "other_info": {
+                        "constructor": "RS500"
+                    }
+                },
+                "Børge_Nielsen": {
+                    "position": "29",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Børge_Nielsen"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Bent_Slydal": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Bent_Slydal"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Peter_Sköld": {
+                    "position": "21",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Peter_Sköld"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Lars_Johansson": {
+                    "position": "22",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Lars_Johansson"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Åke_Grahn": {
+                    "position": "23",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR500",
+                    "drivers": [
+                        "Åke_Grahn"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR500"
+                    }
+                },
+                "Steve_Williams": {
+                    "position": "24",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR500",
+                    "drivers": [
+                        "Steve_Williams"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR500"
+                    }
+                },
+                "Esko_Kuparinen": {
+                    "position": "25",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Esko_Kuparinen"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Timo_Pohjola": {
+                    "position": "26",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR500",
+                    "drivers": [
+                        "Timo_Pohjola"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR500"
+                    }
+                },
+                "Kjeld_Sorensen": {
+                    "position": "27",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Kjeld_Sorensen"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Alf_Graarud": {
+                    "position": "28",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR500",
+                    "drivers": [
+                        "Alf_Graarud"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR500"
+                    }
+                },
+                "Jan_Olof Odeholm": {
+                    "position": "30",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Jan_Olof Odeholm"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Chris_Fisker": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Chris_Fisker"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Peter_Linden": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Peter_Linden"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Risto_Korhonen": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Risto_Korhonen"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Peter_Karlsson": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR500",
+                    "drivers": [
+                        "Peter_Karlsson"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR500"
                     }
                 }
             }

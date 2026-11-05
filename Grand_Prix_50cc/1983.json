@@ -1,6 +1,878 @@
 {
     "name": "Grand_Prix_50cc",
     "events": {
+        "Le Mans": {
+            "Race": {
+                "Stefan_Dörflinger": {
+                    "position": "1",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Krauser",
+                    "drivers": [
+                        "Stefan_Dörflinger"
+                    ],
+                    "other_info": {
+                        "constructor": "Krauser"
+                    }
+                },
+                "Eugenio_Lazzarini": {
+                    "position": "2",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Garelli",
+                    "drivers": [
+                        "Eugenio_Lazzarini"
+                    ],
+                    "other_info": {
+                        "constructor": "Garelli"
+                    }
+                },
+                "Claudio_Lusuardi": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Villa",
+                    "drivers": [
+                        "Claudio_Lusuardi"
+                    ],
+                    "other_info": {
+                        "constructor": "Villa"
+                    }
+                },
+                "Hans_Spaan": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Hans_Spaan"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "George_Looijestyn": {
+                    "position": "6",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "George_Looijestyn"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Rainer_Kunz": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "FKN-Kreidler",
+                    "drivers": [
+                        "Rainer_Kunz"
+                    ],
+                    "other_info": {
+                        "constructor": "FKN-Kreidler"
+                    }
+                },
+                "Gerhard_Bauer": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Ziegler",
+                    "drivers": [
+                        "Gerhard_Bauer"
+                    ],
+                    "other_info": {
+                        "constructor": "Ziegler"
+                    }
+                },
+                "Rainer_Scheidhauer": {
+                    "position": "11",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Rainer_Scheidhauer"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Theo_Timmer": {
+                    "position": "8",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "Casal",
+                    "drivers": [
+                        "Theo_Timmer"
+                    ],
+                    "other_info": {
+                        "constructor": "Casal"
+                    }
+                },
+                "Ingo_Emmerich": {
+                    "position": "4",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Ingo_Emmerich"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Zdravko_Matulja": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Tomos",
+                    "drivers": [
+                        "Zdravko_Matulja"
+                    ],
+                    "other_info": {
+                        "constructor": "Tomos"
+                    }
+                },
+                "Paul_Rimmelzwaan": {
+                    "position": "5",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Paul_Rimmelzwaan"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Gerhard_Singer": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Gerhard_Singer"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Paul_Bordes": {
+                    "position": "7",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "Moto_2L",
+                    "drivers": [
+                        "Paul_Bordes"
+                    ],
+                    "other_info": {
+                        "constructor": "Moto 2L"
+                    }
+                },
+                "Jos_Van Dongen": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Jos_Van Dongen"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Paolo_Priori": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Paolucci",
+                    "drivers": [
+                        "Paolo_Priori"
+                    ],
+                    "other_info": {
+                        "constructor": "Paolucci"
+                    }
+                },
+                "Hans_Koopman": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Hans_Koopman"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Massimo_De Lorenzi": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "Minarelli",
+                    "drivers": [
+                        "Massimo_De Lorenzi"
+                    ],
+                    "other_info": {
+                        "constructor": "Minarelli"
+                    }
+                },
+                "Ramon_Gali": {
+                    "position": "12",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Bultaco",
+                    "drivers": [
+                        "Ramon_Gali"
+                    ],
+                    "other_info": {
+                        "constructor": "Bultaco"
+                    }
+                },
+                "Chris_Baert": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Chris_Baert"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Yves_le Toumelin": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "TYL_motorcycle",
+                    "drivers": [
+                        "Yves_le Toumelin"
+                    ],
+                    "other_info": {
+                        "constructor": "TYL (motorcycle)"
+                    }
+                },
+                "Reiner_Koster": {
+                    "position": "13",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "M1",
+                    "drivers": [
+                        "Reiner_Koster"
+                    ],
+                    "other_info": {
+                        "constructor": "M1"
+                    }
+                },
+                "Kasimir_Rapczynski": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Kasimir_Rapczynski"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Klaus_Kull": {
+                    "position": "14",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kawadrom",
+                    "drivers": [
+                        "Klaus_Kull"
+                    ],
+                    "other_info": {
+                        "constructor": "Kawadrom"
+                    }
+                },
+                "Joaquin_Gali": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Bultaco",
+                    "drivers": [
+                        "Joaquin_Gali"
+                    ],
+                    "other_info": {
+                        "constructor": "Bultaco"
+                    }
+                },
+                "Hans-Joachim_Ritter": {
+                    "position": "15",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Hans-Joachim_Ritter"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Mika-Sakari_Komu": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Mika-Sakari_Komu"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Hans_Hummel": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Sachs",
+                    "drivers": [
+                        "Hans_Hummel"
+                    ],
+                    "other_info": {
+                        "constructor": "Sachs"
+                    }
+                },
+                "Gerard_Velay": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Gerard_Velay"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Jean-Marc_Velay": {
+                    "position": "20",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Jean-Marc_Velay"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Stefan_Danielsson": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Stefan_Danielsson"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Joe_Genoud": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Joe_Genoud"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Henri_Laporte": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Moto",
+                    "drivers": [
+                        "Henri_Laporte"
+                    ],
+                    "other_info": {
+                        "constructor": "Moto"
+                    }
+                },
+                "Philippe_Linares": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "SBM",
+                    "drivers": [
+                        "Philippe_Linares"
+                    ],
+                    "other_info": {
+                        "constructor": "SBM"
+                    }
+                },
+                "Claude_Delarbre": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "A.B.F.",
+                    "drivers": [
+                        "Claude_Delarbre"
+                    ],
+                    "other_info": {
+                        "constructor": "ABF"
+                    }
+                }
+            }
+        },
+        "Monza": {
+            "Race": {
+                "Stefan_Dörflinger": {
+                    "position": "11",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Krauser",
+                    "drivers": [
+                        "Stefan_Dörflinger"
+                    ],
+                    "other_info": {
+                        "constructor": "Krauser"
+                    }
+                },
+                "Eugenio_Lazzarini": {
+                    "position": "1",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Garelli",
+                    "drivers": [
+                        "Eugenio_Lazzarini"
+                    ],
+                    "other_info": {
+                        "constructor": "Garelli"
+                    }
+                },
+                "Claudio_Lusuardi": {
+                    "position": "2",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Villa",
+                    "drivers": [
+                        "Claudio_Lusuardi"
+                    ],
+                    "other_info": {
+                        "constructor": "Villa"
+                    }
+                },
+                "Hans_Spaan": {
+                    "position": "5",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Hans_Spaan"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "George_Looijestyn": {
+                    "position": "3",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "George_Looijestyn"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Rainer_Kunz": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "FKN-Kreidler",
+                    "drivers": [
+                        "Rainer_Kunz"
+                    ],
+                    "other_info": {
+                        "constructor": "FKN-Kreidler"
+                    }
+                },
+                "Gerhard_Bauer": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Ziegler",
+                    "drivers": [
+                        "Gerhard_Bauer"
+                    ],
+                    "other_info": {
+                        "constructor": "Ziegler"
+                    }
+                },
+                "Rainer_Scheidhauer": {
+                    "position": "4",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Rainer_Scheidhauer"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Theo_Timmer": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Casal",
+                    "drivers": [
+                        "Theo_Timmer"
+                    ],
+                    "other_info": {
+                        "constructor": "Casal"
+                    }
+                },
+                "Ingo_Emmerich": {
+                    "position": "8",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Ingo_Emmerich"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Zdravko_Matulja": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Tomos",
+                    "drivers": [
+                        "Zdravko_Matulja"
+                    ],
+                    "other_info": {
+                        "constructor": "Tomos"
+                    }
+                },
+                "Paul_Rimmelzwaan": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Paul_Rimmelzwaan"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Gerhard_Singer": {
+                    "position": "7",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Gerhard_Singer"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Otto_Machinek": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Otto_Machinek"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Paul_Bordes": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "Moto_2L",
+                    "drivers": [
+                        "Paul_Bordes"
+                    ],
+                    "other_info": {
+                        "constructor": "Moto 2L"
+                    }
+                },
+                "Jos_Van Dongen": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Jos_Van Dongen"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Paolo_Priori": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Paolucci",
+                    "drivers": [
+                        "Paolo_Priori"
+                    ],
+                    "other_info": {
+                        "constructor": "Paolucci"
+                    }
+                },
+                "Hans_Koopman": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Hans_Koopman"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Maurizio_Stocco": {
+                    "position": "14",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Maurizio_Stocco"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Massimo_De Lorenzi": {
+                    "position": "12",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Minarelli",
+                    "drivers": [
+                        "Massimo_De Lorenzi"
+                    ],
+                    "other_info": {
+                        "constructor": "Minarelli"
+                    }
+                },
+                "Claudio_Granata": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Claudio_Granata"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Ramon_Gali": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Bultaco",
+                    "drivers": [
+                        "Ramon_Gali"
+                    ],
+                    "other_info": {
+                        "constructor": "Bultaco"
+                    }
+                },
+                "Thomas_Engl": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "M1",
+                    "drivers": [
+                        "Thomas_Engl"
+                    ],
+                    "other_info": {
+                        "constructor": "M1"
+                    }
+                },
+                "Chris_Baert": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Chris_Baert"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Reiner_Koster": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "M1",
+                    "drivers": [
+                        "Reiner_Koster"
+                    ],
+                    "other_info": {
+                        "constructor": "M1"
+                    }
+                },
+                "Ian_Mcconnachie": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Rudge",
+                    "drivers": [
+                        "Ian_Mcconnachie"
+                    ],
+                    "other_info": {
+                        "constructor": "Rudge"
+                    }
+                },
+                "Sandro_de Rosa": {
+                    "position": "13",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Villa",
+                    "drivers": [
+                        "Sandro_de Rosa"
+                    ],
+                    "other_info": {
+                        "constructor": "Villa"
+                    }
+                },
+                "Joaquin_Gali": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Bultaco",
+                    "drivers": [
+                        "Joaquin_Gali"
+                    ],
+                    "other_info": {
+                        "constructor": "Bultaco"
+                    }
+                },
+                "Guido_Sala": {
+                    "position": "15",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MTK",
+                    "drivers": [
+                        "Guido_Sala (1983)"
+                    ],
+                    "other_info": {
+                        "constructor": "MTK"
+                    }
+                },
+                "Giuliano_Tabanelli": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Giuliano_Tabanelli"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Hans_Hummel": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Sachs",
+                    "drivers": [
+                        "Hans_Hummel"
+                    ],
+                    "other_info": {
+                        "constructor": "Sachs"
+                    }
+                },
+                "Roberto_Rosso": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Minarelli",
+                    "drivers": [
+                        "Roberto_Rosso"
+                    ],
+                    "other_info": {
+                        "constructor": "Minarelli"
+                    }
+                },
+                "Peter_Verbic": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Peter_Verbic"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Nicola_Casadei": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Minarelli",
+                    "drivers": [
+                        "Nicola_Casadei"
+                    ],
+                    "other_info": {
+                        "constructor": "Minarelli"
+                    }
+                },
+                "Mauro_Mordenti": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Rossi",
+                    "drivers": [
+                        "Mauro_Mordenti"
+                    ],
+                    "other_info": {
+                        "constructor": "Rossi"
+                    }
+                },
+                "Enrico_Cereda": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Enrico_Cereda"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Ezio_Saffiotti": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "UFO",
+                    "drivers": [
+                        "Ezio_Saffiotti"
+                    ],
+                    "other_info": {
+                        "constructor": "UFO"
+                    }
+                }
+            }
+        },
         "West Germany Grand Prix": {
             "Race": {
                 "Stefan_Dörflinger": {
@@ -346,6 +1218,1582 @@
                         "laps": "0",
                         "speed": "0",
                         "constructor": "MBA"
+                    }
+                }
+            }
+        },
+        "Jarama": {
+            "Race": {
+                "Stefan_Dörflinger": {
+                    "position": "2",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Krauser",
+                    "drivers": [
+                        "Stefan_Dörflinger"
+                    ],
+                    "other_info": {
+                        "constructor": "Krauser"
+                    }
+                },
+                "Eugenio_Lazzarini": {
+                    "position": "1",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Garelli",
+                    "drivers": [
+                        "Eugenio_Lazzarini"
+                    ],
+                    "other_info": {
+                        "constructor": "Garelli"
+                    }
+                },
+                "Claudio_Lusuardi": {
+                    "position": "4",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Villa",
+                    "drivers": [
+                        "Claudio_Lusuardi"
+                    ],
+                    "other_info": {
+                        "constructor": "Villa"
+                    }
+                },
+                "Hans_Spaan": {
+                    "position": "7",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Hans_Spaan"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "George_Looijestyn": {
+                    "position": "6",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "George_Looijestyn"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Rainer_Kunz": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "FKN-Kreidler",
+                    "drivers": [
+                        "Rainer_Kunz"
+                    ],
+                    "other_info": {
+                        "constructor": "FKN-Kreidler"
+                    }
+                },
+                "Gerhard_Bauer": {
+                    "position": "5",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Ziegler",
+                    "drivers": [
+                        "Gerhard_Bauer"
+                    ],
+                    "other_info": {
+                        "constructor": "Ziegler"
+                    }
+                },
+                "Theo_Timmer": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Casal",
+                    "drivers": [
+                        "Theo_Timmer"
+                    ],
+                    "other_info": {
+                        "constructor": "Casal"
+                    }
+                },
+                "Jorge_Martínez": {
+                    "position": "3",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Bultaco",
+                    "drivers": [
+                        "Jorge_Martínez"
+                    ],
+                    "other_info": {
+                        "constructor": "Bultaco"
+                    }
+                },
+                "Paul_Rimmelzwaan": {
+                    "position": "11",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Paul_Rimmelzwaan"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Gerhard_Singer": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Gerhard_Singer"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Paul_Bordes": {
+                    "position": "13",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Moto_2L",
+                    "drivers": [
+                        "Paul_Bordes"
+                    ],
+                    "other_info": {
+                        "constructor": "Moto 2L"
+                    }
+                },
+                "Daniel_Mateos": {
+                    "position": "8",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "Bultaco",
+                    "drivers": [
+                        "Daniel_Mateos"
+                    ],
+                    "other_info": {
+                        "constructor": "Bultaco"
+                    }
+                },
+                "Paolo_Priori": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Paolucci",
+                    "drivers": [
+                        "Paolo_Priori"
+                    ],
+                    "other_info": {
+                        "constructor": "Paolucci"
+                    }
+                },
+                "Massimo_De Lorenzi": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Minarelli",
+                    "drivers": [
+                        "Massimo_De Lorenzi"
+                    ],
+                    "other_info": {
+                        "constructor": "Minarelli"
+                    }
+                },
+                "Ramon_Gali": {
+                    "position": "15",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Bultaco",
+                    "drivers": [
+                        "Ramon_Gali"
+                    ],
+                    "other_info": {
+                        "constructor": "Bultaco"
+                    }
+                },
+                "Thomas_Engl": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "M1",
+                    "drivers": [
+                        "Thomas_Engl"
+                    ],
+                    "other_info": {
+                        "constructor": "M1"
+                    }
+                },
+                "Chris_Baert": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Chris_Baert"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Yves_le Toumelin": {
+                    "position": "12",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "TYL_motorcycle",
+                    "drivers": [
+                        "Yves_le Toumelin"
+                    ],
+                    "other_info": {
+                        "constructor": "TYL (motorcycle)"
+                    }
+                },
+                "Reiner_Koster": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "M1",
+                    "drivers": [
+                        "Reiner_Koster"
+                    ],
+                    "other_info": {
+                        "constructor": "M1"
+                    }
+                },
+                "Ian_Mcconnachie": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Rudge",
+                    "drivers": [
+                        "Ian_Mcconnachie"
+                    ],
+                    "other_info": {
+                        "constructor": "Rudge"
+                    }
+                },
+                "Joaquin_Gali": {
+                    "position": "14",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Bultaco",
+                    "drivers": [
+                        "Joaquin_Gali"
+                    ],
+                    "other_info": {
+                        "constructor": "Bultaco"
+                    }
+                },
+                "Henrique_Sande": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Moda",
+                    "drivers": [
+                        "Henrique_Sande"
+                    ],
+                    "other_info": {
+                        "constructor": "Moda"
+                    }
+                },
+                "Jean-Francois_Verdier": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Derbi",
+                    "drivers": [
+                        "Jean-Francois_Verdier"
+                    ],
+                    "other_info": {
+                        "constructor": "Derbi"
+                    }
+                },
+                "Stefan_Danielsson": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Stefan_Danielsson"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                }
+            }
+        },
+        "Rijeka": {
+            "Race": {
+                "Stefan_Dörflinger": {
+                    "position": "1",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Krauser",
+                    "drivers": [
+                        "Stefan_Dörflinger"
+                    ],
+                    "other_info": {
+                        "constructor": "Krauser"
+                    }
+                },
+                "Eugenio_Lazzarini": {
+                    "position": "DNS",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Garelli",
+                    "drivers": [
+                        "Eugenio_Lazzarini"
+                    ],
+                    "other_info": {
+                        "constructor": "Garelli"
+                    }
+                },
+                "Claudio_Lusuardi": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Villa",
+                    "drivers": [
+                        "Claudio_Lusuardi"
+                    ],
+                    "other_info": {
+                        "constructor": "Villa"
+                    }
+                },
+                "Hans_Spaan": {
+                    "position": "2",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Hans_Spaan"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "George_Looijestyn": {
+                    "position": "5",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "George_Looijestyn"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Ricardo_Tormo": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Garelli",
+                    "drivers": [
+                        "Ricardo_Tormo"
+                    ],
+                    "other_info": {
+                        "constructor": "Garelli"
+                    }
+                },
+                "Rainer_Kunz": {
+                    "position": "3",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "FKN-Kreidler",
+                    "drivers": [
+                        "Rainer_Kunz"
+                    ],
+                    "other_info": {
+                        "constructor": "FKN-Kreidler"
+                    }
+                },
+                "Gerhard_Bauer": {
+                    "position": "7",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "Ziegler",
+                    "drivers": [
+                        "Gerhard_Bauer"
+                    ],
+                    "other_info": {
+                        "constructor": "Ziegler"
+                    }
+                },
+                "Rainer_Scheidhauer": {
+                    "position": "6",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Rainer_Scheidhauer"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Theo_Timmer": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Casal",
+                    "drivers": [
+                        "Theo_Timmer"
+                    ],
+                    "other_info": {
+                        "constructor": "Casal"
+                    }
+                },
+                "Ingo_Emmerich": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Ingo_Emmerich"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Zdravko_Matulja": {
+                    "position": "4",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Tomos",
+                    "drivers": [
+                        "Zdravko_Matulja"
+                    ],
+                    "other_info": {
+                        "constructor": "Tomos"
+                    }
+                },
+                "Paul_Rimmelzwaan": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Paul_Rimmelzwaan"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Gerhard_Singer": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Gerhard_Singer"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Otto_Machinek": {
+                    "position": "8",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Otto_Machinek"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Paul_Bordes": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Moto_2L",
+                    "drivers": [
+                        "Paul_Bordes"
+                    ],
+                    "other_info": {
+                        "constructor": "Moto 2L"
+                    }
+                },
+                "Jos_Van Dongen": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Jos_Van Dongen"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Maurizio_Stocco": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Maurizio_Stocco"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Massimo_De Lorenzi": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Minarelli",
+                    "drivers": [
+                        "Massimo_De Lorenzi"
+                    ],
+                    "other_info": {
+                        "constructor": "Minarelli"
+                    }
+                },
+                "Claudio_Granata": {
+                    "position": "11",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Claudio_Granata"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Thomas_Engl": {
+                    "position": "12",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "M1",
+                    "drivers": [
+                        "Thomas_Engl"
+                    ],
+                    "other_info": {
+                        "constructor": "M1"
+                    }
+                },
+                "Reiner_Koster": {
+                    "position": "20",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "M1",
+                    "drivers": [
+                        "Reiner_Koster"
+                    ],
+                    "other_info": {
+                        "constructor": "M1"
+                    }
+                },
+                "Ian_Mcconnachie": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Rudge",
+                    "drivers": [
+                        "Ian_Mcconnachie"
+                    ],
+                    "other_info": {
+                        "constructor": "Rudge"
+                    }
+                },
+                "Kasimir_Rapczynski": {
+                    "position": "13",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Kasimir_Rapczynski"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Klaus_Kull": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kawadrom",
+                    "drivers": [
+                        "Klaus_Kull"
+                    ],
+                    "other_info": {
+                        "constructor": "Kawadrom"
+                    }
+                },
+                "Mijo_Lijsak": {
+                    "position": "14",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Mijo_Lijsak"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Stefan_Kurfiss": {
+                    "position": "15",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Stefan_Kurfiss"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Mika-Sakari_Komu": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Mika-Sakari_Komu"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Miklos_Bojan": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Miklos_Bojan"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "T_Persic": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Sever",
+                    "drivers": [
+                        "T_Persic"
+                    ],
+                    "other_info": {
+                        "constructor": "Sever"
+                    }
+                },
+                "Peter_Verbic": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Peter_Verbic"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Mauro_Mordenti": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Rossi",
+                    "drivers": [
+                        "Mauro_Mordenti"
+                    ],
+                    "other_info": {
+                        "constructor": "Rossi"
+                    }
+                },
+                "Lajos_Horti": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Lajos_Horti"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Uros_Tomanovic": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Uros_Tomanovic"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Radovan_Stanojevic": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Sever",
+                    "drivers": [
+                        "Radovan_Stanojevic"
+                    ],
+                    "other_info": {
+                        "constructor": "Sever"
+                    }
+                },
+                "Rajko_Mitrovic": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Sever",
+                    "drivers": [
+                        "Rajko_Mitrovic"
+                    ],
+                    "other_info": {
+                        "constructor": "Sever"
+                    }
+                }
+            }
+        },
+        "Assen": {
+            "Race": {
+                "Stefan_Dörflinger": {
+                    "position": "2",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Krauser",
+                    "drivers": [
+                        "Stefan_Dörflinger"
+                    ],
+                    "other_info": {
+                        "constructor": "Krauser"
+                    }
+                },
+                "Eugenio_Lazzarini": {
+                    "position": "1",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Garelli",
+                    "drivers": [
+                        "Eugenio_Lazzarini"
+                    ],
+                    "other_info": {
+                        "constructor": "Garelli"
+                    }
+                },
+                "Claudio_Lusuardi": {
+                    "position": "4",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Villa",
+                    "drivers": [
+                        "Claudio_Lusuardi"
+                    ],
+                    "other_info": {
+                        "constructor": "Villa"
+                    }
+                },
+                "Hans_Spaan": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Hans_Spaan"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "George_Looijestyn": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "George_Looijestyn"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Ricardo_Tormo": {
+                    "position": "3",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Garelli",
+                    "drivers": [
+                        "Ricardo_Tormo"
+                    ],
+                    "other_info": {
+                        "constructor": "Garelli"
+                    }
+                },
+                "Rainer_Kunz": {
+                    "position": "7",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "FKN-Kreidler",
+                    "drivers": [
+                        "Rainer_Kunz"
+                    ],
+                    "other_info": {
+                        "constructor": "FKN-Kreidler"
+                    }
+                },
+                "Gerhard_Bauer": {
+                    "position": "21",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Ziegler",
+                    "drivers": [
+                        "Gerhard_Bauer"
+                    ],
+                    "other_info": {
+                        "constructor": "Ziegler"
+                    }
+                },
+                "Rainer_Scheidhauer": {
+                    "position": "8",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Rainer_Scheidhauer"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Theo_Timmer": {
+                    "position": "6",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "Casal",
+                    "drivers": [
+                        "Theo_Timmer"
+                    ],
+                    "other_info": {
+                        "constructor": "Casal"
+                    }
+                },
+                "Ingo_Emmerich": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Ingo_Emmerich"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Zdravko_Matulja": {
+                    "position": "12",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Tomos",
+                    "drivers": [
+                        "Zdravko_Matulja"
+                    ],
+                    "other_info": {
+                        "constructor": "Tomos"
+                    }
+                },
+                "Paul_Rimmelzwaan": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Paul_Rimmelzwaan"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Gerhard_Singer": {
+                    "position": "11",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Gerhard_Singer"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Otto_Machinek": {
+                    "position": "14",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Otto_Machinek"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Paul_Bordes": {
+                    "position": "13",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Moto_2L",
+                    "drivers": [
+                        "Paul_Bordes"
+                    ],
+                    "other_info": {
+                        "constructor": "Moto 2L"
+                    }
+                },
+                "Jos_Van Dongen": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Jos_Van Dongen"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Hans_Koopman": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Hans_Koopman"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Thomas_Engl": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "M1",
+                    "drivers": [
+                        "Thomas_Engl"
+                    ],
+                    "other_info": {
+                        "constructor": "M1"
+                    }
+                },
+                "Chris_Baert": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Chris_Baert"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Reiner_Koster": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "M1",
+                    "drivers": [
+                        "Reiner_Koster"
+                    ],
+                    "other_info": {
+                        "constructor": "M1"
+                    }
+                },
+                "Ian_Mcconnachie": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Rudge",
+                    "drivers": [
+                        "Ian_Mcconnachie"
+                    ],
+                    "other_info": {
+                        "constructor": "Rudge"
+                    }
+                },
+                "Kasimir_Rapczynski": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Kasimir_Rapczynski"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Joaquin_Gali": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Bultaco",
+                    "drivers": [
+                        "Joaquin_Gali"
+                    ],
+                    "other_info": {
+                        "constructor": "Bultaco"
+                    }
+                },
+                "Hans-Joachim_Ritter": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Hans-Joachim_Ritter"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Bert_Smit": {
+                    "position": "15",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "PRS",
+                    "drivers": [
+                        "Bert_Smit"
+                    ],
+                    "other_info": {
+                        "constructor": "PRS"
+                    }
+                },
+                "Mika-Sakari_Komu": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Mika-Sakari_Komu"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Rini_Vrijdag": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Rini_Vrijdag"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Günter_Schirnhofer": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Günter_Schirnhofer"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Hans_Hummel": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Sachs",
+                    "drivers": [
+                        "Hans_Hummel"
+                    ],
+                    "other_info": {
+                        "constructor": "Sachs"
+                    }
+                },
+                "Wim_de Jong": {
+                    "position": "20",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Wim_de Jong"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Inge_Arends": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Schuster",
+                    "drivers": [
+                        "Inge_Arends"
+                    ],
+                    "other_info": {
+                        "constructor": "Schuster"
+                    }
+                },
+                "Bertus_Grinwis": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Bertus_Grinwis"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Antoon_Gevers": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Antoon_Gevers"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                }
+            }
+        },
+        "Imola": {
+            "Race": {
+                "Stefan_Dörflinger": {
+                    "position": "2",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Krauser",
+                    "drivers": [
+                        "Stefan_Dörflinger"
+                    ],
+                    "other_info": {
+                        "constructor": "Krauser"
+                    }
+                },
+                "Eugenio_Lazzarini": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Garelli",
+                    "drivers": [
+                        "Eugenio_Lazzarini"
+                    ],
+                    "other_info": {
+                        "constructor": "Garelli"
+                    }
+                },
+                "Claudio_Lusuardi": {
+                    "position": "3",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Villa",
+                    "drivers": [
+                        "Claudio_Lusuardi"
+                    ],
+                    "other_info": {
+                        "constructor": "Villa"
+                    }
+                },
+                "Hans_Spaan": {
+                    "position": "6",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Hans_Spaan"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "George_Looijestyn": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "George_Looijestyn"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Ricardo_Tormo": {
+                    "position": "1",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Garelli",
+                    "drivers": [
+                        "Ricardo_Tormo"
+                    ],
+                    "other_info": {
+                        "constructor": "Garelli"
+                    }
+                },
+                "Rainer_Kunz": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "FKN-Kreidler",
+                    "drivers": [
+                        "Rainer_Kunz"
+                    ],
+                    "other_info": {
+                        "constructor": "FKN-Kreidler"
+                    }
+                },
+                "Rainer_Scheidhauer": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Rainer_Scheidhauer"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Theo_Timmer": {
+                    "position": "4",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Casal",
+                    "drivers": [
+                        "Theo_Timmer"
+                    ],
+                    "other_info": {
+                        "constructor": "Casal"
+                    }
+                },
+                "Zdravko_Matulja": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Tomos",
+                    "drivers": [
+                        "Zdravko_Matulja"
+                    ],
+                    "other_info": {
+                        "constructor": "Tomos"
+                    }
+                },
+                "Paul_Rimmelzwaan": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Paul_Rimmelzwaan"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Gerhard_Singer": {
+                    "position": "11",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Gerhard_Singer"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Otto_Machinek": {
+                    "position": "8",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Otto_Machinek"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Paul_Bordes": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Moto_2L",
+                    "drivers": [
+                        "Paul_Bordes"
+                    ],
+                    "other_info": {
+                        "constructor": "Moto 2L"
+                    }
+                },
+                "Giuseppe_Ascareggi": {
+                    "position": "7",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "Minarelli",
+                    "drivers": [
+                        "Giuseppe_Ascareggi"
+                    ],
+                    "other_info": {
+                        "constructor": "Minarelli"
+                    }
+                },
+                "Jos_Van Dongen": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Jos_Van Dongen"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Paolo_Priori": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "Paolucci",
+                    "drivers": [
+                        "Paolo_Priori"
+                    ],
+                    "other_info": {
+                        "constructor": "Paolucci"
+                    }
+                },
+                "Hans_Koopman": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Hans_Koopman"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Maurizio_Stocco": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Maurizio_Stocco"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Massimo_De Lorenzi": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Minarelli",
+                    "drivers": [
+                        "Massimo_De Lorenzi"
+                    ],
+                    "other_info": {
+                        "constructor": "Minarelli"
+                    }
+                },
+                "Claudio_Granata": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Claudio_Granata"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Ramon_Gali": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Bultaco",
+                    "drivers": [
+                        "Ramon_Gali"
+                    ],
+                    "other_info": {
+                        "constructor": "Bultaco"
+                    }
+                },
+                "Thomas_Engl": {
+                    "position": "15",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "M1",
+                    "drivers": [
+                        "Thomas_Engl"
+                    ],
+                    "other_info": {
+                        "constructor": "M1"
+                    }
+                },
+                "Chris_Baert": {
+                    "position": "12",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Chris_Baert"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Reiner_Koster": {
+                    "position": "14",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "M1",
+                    "drivers": [
+                        "Reiner_Koster"
+                    ],
+                    "other_info": {
+                        "constructor": "M1"
+                    }
+                },
+                "Ian_Mcconnachie": {
+                    "position": "13",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Rudge",
+                    "drivers": [
+                        "Ian_Mcconnachie"
+                    ],
+                    "other_info": {
+                        "constructor": "Rudge"
+                    }
+                },
+                "Joaquin_Gali": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Bultaco",
+                    "drivers": [
+                        "Joaquin_Gali"
+                    ],
+                    "other_info": {
+                        "constructor": "Bultaco"
+                    }
+                },
+                "Mika-Sakari_Komu": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Mika-Sakari_Komu"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Giuliano_Tabanelli": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Giuliano_Tabanelli"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Hans_Hummel": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Sachs",
+                    "drivers": [
+                        "Hans_Hummel"
+                    ],
+                    "other_info": {
+                        "constructor": "Sachs"
+                    }
+                },
+                "Peter_Verbic": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Peter_Verbic"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Nicola_Casadei": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Minarelli",
+                    "drivers": [
+                        "Nicola_Casadei"
+                    ],
+                    "other_info": {
+                        "constructor": "Minarelli"
+                    }
+                },
+                "Massimo_Fargeri": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Massimo_Fargeri"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
+                    }
+                },
+                "Inge_Arends": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Schuster",
+                    "drivers": [
+                        "Inge_Arends"
+                    ],
+                    "other_info": {
+                        "constructor": "Schuster"
+                    }
+                },
+                "Enrico_Cereda": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kreidler",
+                    "drivers": [
+                        "Enrico_Cereda"
+                    ],
+                    "other_info": {
+                        "constructor": "Kreidler"
                     }
                 }
             }

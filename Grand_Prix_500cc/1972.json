@@ -1,6 +1,550 @@
 {
     "name": "Grand_Prix_500cc",
     "events": {
+        "West German Grand Prix": {
+            "Race": {
+                "Giacomo_Agostini": {
+                    "position": "1",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "MV_Agusta",
+                    "drivers": [
+                        "Giacomo_Agostini"
+                    ],
+                    "other_info": {
+                        "constructor": "MV Agusta"
+                    }
+                },
+                "Alberto_Pagani": {
+                    "position": "2",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "MV_Agusta",
+                    "drivers": [
+                        "Alberto_Pagani"
+                    ],
+                    "other_info": {
+                        "constructor": "MV Agusta"
+                    }
+                },
+                "Bruno_Kneubühler": {
+                    "position": "11",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Bruno_Kneubühler"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                },
+                "Bo_Granath": {
+                    "position": "6",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "Husqvarna",
+                    "drivers": [
+                        "Bo_Granath"
+                    ],
+                    "other_info": {
+                        "constructor": "Husqvarna"
+                    }
+                },
+                "Dave_Simmonds": {
+                    "position": "4",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Kawasaki",
+                    "drivers": [
+                        "Dave_Simmonds"
+                    ],
+                    "other_info": {
+                        "constructor": "Kawasaki"
+                    }
+                },
+                "Jack_Findlay": {
+                    "position": "7",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "Jada-Suzuki",
+                    "drivers": [
+                        "Jack_Findlay"
+                    ],
+                    "other_info": {
+                        "constructor": "Jada-Suzuki"
+                    }
+                },
+                "Billie_Nelson": {
+                    "position": "8",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "Honda_Yamaha_Paton",
+                    "drivers": [
+                        "Billie_Nelson"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda / Yamaha / Paton"
+                    }
+                },
+                "Kim_Newcombe": {
+                    "position": "3",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "König",
+                    "drivers": [
+                        "Kim_Newcombe"
+                    ],
+                    "other_info": {
+                        "constructor": "König"
+                    }
+                },
+                "Christian_Bourgeois": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Christian_Bourgeois"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                },
+                "Rob_Bron": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Rob_Bron"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki"
+                    }
+                },
+                "Sven-Olof_Gunnarsson": {
+                    "position": "12",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kawasaki",
+                    "drivers": [
+                        "Sven-Olof_Gunnarsson"
+                    ],
+                    "other_info": {
+                        "constructor": "Kawasaki"
+                    }
+                },
+                "Jerry_Lancaster": {
+                    "position": "15",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha_Suzuki",
+                    "drivers": [
+                        "Jerry_Lancaster"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha / Suzuki"
+                    }
+                },
+                "Paul_Eickleberg": {
+                    "position": "30",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "König",
+                    "drivers": [
+                        "Paul_Eickleberg"
+                    ],
+                    "other_info": {
+                        "constructor": "König"
+                    }
+                },
+                "Lothar_John": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "Yamaha_Suzuki",
+                    "drivers": [
+                        "Lothar_John"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha / Suzuki"
+                    }
+                },
+                "Ernst_Hiller": {
+                    "position": "5",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "König_Kawasaki",
+                    "drivers": [
+                        "Ernst_Hiller"
+                    ],
+                    "other_info": {
+                        "constructor": "König / Kawasaki"
+                    }
+                },
+                "Erick_Offenstadt": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kawasaki_Yamaha",
+                    "drivers": [
+                        "Erick_Offenstadt"
+                    ],
+                    "other_info": {
+                        "constructor": "Kawasaki / Yamaha"
+                    }
+                },
+                "Charlie_Dobson": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kawasaki",
+                    "drivers": [
+                        "Charlie_Dobson"
+                    ],
+                    "other_info": {
+                        "constructor": "Kawasaki"
+                    }
+                },
+                "Klaus_Huber": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kawasaki",
+                    "drivers": [
+                        "Klaus_Huber"
+                    ],
+                    "other_info": {
+                        "constructor": "Kawasaki"
+                    }
+                },
+                "Kurt-Ivan_Carlsson": {
+                    "position": "14",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Kurt-Ivan_Carlsson"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                },
+                "Derek_Lee": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Derek_Lee"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki"
+                    }
+                },
+                "Ken_Araoka": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "Kawasaki",
+                    "drivers": [
+                        "Ken_Araoka"
+                    ],
+                    "other_info": {
+                        "constructor": "Kawasaki"
+                    }
+                },
+                "Maurice_Hawthorne": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kawasaki",
+                    "drivers": [
+                        "Maurice_Hawthorne"
+                    ],
+                    "other_info": {
+                        "constructor": "Kawasaki"
+                    }
+                },
+                "Ted_Janssen": {
+                    "position": "27",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Ted_Janssen"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki"
+                    }
+                },
+                "Michael_Schmid": {
+                    "position": "28",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Michael_Schmid"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                },
+                "Gyula_Marsovszky": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Linto",
+                    "drivers": [
+                        "Gyula_Marsovszky"
+                    ],
+                    "other_info": {
+                        "constructor": "Linto"
+                    }
+                },
+                "Steve_Ellis": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Steve_Ellis"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                },
+                "Heinz_Schmid": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Heinz_Schmid"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki"
+                    }
+                },
+                "Keith_Turner": {
+                    "position": "13",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Keith_Turner"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki"
+                    }
+                },
+                "Jean_Campiche": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Linto",
+                    "drivers": [
+                        "Jean_Campiche"
+                    ],
+                    "other_info": {
+                        "constructor": "Linto"
+                    }
+                },
+                "Kaarlo_Koivuniemi": {
+                    "position": "20",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kawasaki",
+                    "drivers": [
+                        "Kaarlo_Koivuniemi"
+                    ],
+                    "other_info": {
+                        "constructor": "Kawasaki"
+                    }
+                },
+                "Börge_Andersson": {
+                    "position": "23",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Börge_Andersson"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "Hans_Otto Butenuth": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "BMW",
+                    "drivers": [
+                        "Hans_Otto Butenuth"
+                    ],
+                    "other_info": {
+                        "constructor": "BMW"
+                    }
+                },
+                "Walter_Rüngg": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Aermacchi",
+                    "drivers": [
+                        "Walter_Rüngg"
+                    ],
+                    "other_info": {
+                        "constructor": "Aermacchi"
+                    }
+                },
+                "Hans-Jürgen_Rothbrust": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Hans-Jürgen_Rothbrust"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                },
+                "Horst_Dzierzawa": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Horst_Dzierzawa"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                },
+                "Kurt-Harald_Florin": {
+                    "position": "21",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "König",
+                    "drivers": [
+                        "Kurt-Harald_Florin"
+                    ],
+                    "other_info": {
+                        "constructor": "König"
+                    }
+                },
+                "Werner_Giger": {
+                    "position": "22",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kawasaki",
+                    "drivers": [
+                        "Werner_Giger"
+                    ],
+                    "other_info": {
+                        "constructor": "Kawasaki"
+                    }
+                },
+                "Udo_Kochanski": {
+                    "position": "24",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "BMW",
+                    "drivers": [
+                        "Udo_Kochanski"
+                    ],
+                    "other_info": {
+                        "constructor": "BMW"
+                    }
+                },
+                "Willi_Bertsch": {
+                    "position": "25",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kawasaki",
+                    "drivers": [
+                        "Willi_Bertsch"
+                    ],
+                    "other_info": {
+                        "constructor": "Kawasaki"
+                    }
+                },
+                "Sten-Gunnar_Jansson": {
+                    "position": "26",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kawasaki",
+                    "drivers": [
+                        "Sten-Gunnar_Jansson"
+                    ],
+                    "other_info": {
+                        "constructor": "Kawasaki"
+                    }
+                },
+                "Otto_Labitzke": {
+                    "position": "29",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Otto_Labitzke"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "Karl_Auer": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kawasaki",
+                    "drivers": [
+                        "Karl_Auer"
+                    ],
+                    "other_info": {
+                        "constructor": "Kawasaki"
+                    }
+                },
+                "Cliff_Carr": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kawasaki",
+                    "drivers": [
+                        "Cliff_Carr"
+                    ],
+                    "other_info": {
+                        "constructor": "Kawasaki"
+                    }
+                },
+                "Godfrey_Nash": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Godfrey_Nash"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "Wil_Hartog": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Riemanoc-Yamaha",
+                    "drivers": [
+                        "Wil_Hartog"
+                    ],
+                    "other_info": {
+                        "constructor": "Riemanoc-Yamaha"
+                    }
+                }
+            }
+        },
         "French Grand Prix": {
             "Race": {
                 "Giacomo_Agostini": {
@@ -488,6 +1032,334 @@
                 }
             }
         },
+        "Dutch TT": {
+            "Race": {
+                "Giacomo_Agostini": {
+                    "position": "1",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "MV_Agusta",
+                    "drivers": [
+                        "Giacomo_Agostini"
+                    ],
+                    "other_info": {
+                        "constructor": "MV Agusta"
+                    }
+                },
+                "Alberto_Pagani": {
+                    "position": "2",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "MV_Agusta",
+                    "drivers": [
+                        "Alberto_Pagani"
+                    ],
+                    "other_info": {
+                        "constructor": "MV Agusta"
+                    }
+                },
+                "Bruno_Kneubühler": {
+                    "position": "3",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Bruno_Kneubühler"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                },
+                "Bo_Granath": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Husqvarna",
+                    "drivers": [
+                        "Bo_Granath"
+                    ],
+                    "other_info": {
+                        "constructor": "Husqvarna"
+                    }
+                },
+                "Chas_Mortimer": {
+                    "position": "5",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Chas_Mortimer"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                },
+                "Dave_Simmonds": {
+                    "position": "4",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Kawasaki",
+                    "drivers": [
+                        "Dave_Simmonds"
+                    ],
+                    "other_info": {
+                        "constructor": "Kawasaki"
+                    }
+                },
+                "Jack_Findlay": {
+                    "position": "6",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "Jada-Suzuki",
+                    "drivers": [
+                        "Jack_Findlay"
+                    ],
+                    "other_info": {
+                        "constructor": "Jada-Suzuki"
+                    }
+                },
+                "Billie_Nelson": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "Honda_Yamaha_Paton",
+                    "drivers": [
+                        "Billie_Nelson"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda / Yamaha / Paton"
+                    }
+                },
+                "Kim_Newcombe": {
+                    "position": "12",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "König",
+                    "drivers": [
+                        "Kim_Newcombe"
+                    ],
+                    "other_info": {
+                        "constructor": "König"
+                    }
+                },
+                "Guido_Mandracci": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Guido_Mandracci"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki"
+                    }
+                },
+                "Christian_Bourgeois": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Christian_Bourgeois"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                },
+                "Jerry_Lancaster": {
+                    "position": "7",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "Yamaha_Suzuki",
+                    "drivers": [
+                        "Jerry_Lancaster"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha / Suzuki"
+                    }
+                },
+                "Paul_Eickleberg": {
+                    "position": "8",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "König",
+                    "drivers": [
+                        "Paul_Eickleberg"
+                    ],
+                    "other_info": {
+                        "constructor": "König"
+                    }
+                },
+                "Lothar_John": {
+                    "position": "11",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha_Suzuki",
+                    "drivers": [
+                        "Lothar_John"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha / Suzuki"
+                    }
+                },
+                "Piet_Van der Wal": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kawasaki",
+                    "drivers": [
+                        "Piet_Van der Wal"
+                    ],
+                    "other_info": {
+                        "constructor": "Kawasaki"
+                    }
+                },
+                "Ernst_Hiller": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "König_Kawasaki",
+                    "drivers": [
+                        "Ernst_Hiller"
+                    ],
+                    "other_info": {
+                        "constructor": "König / Kawasaki"
+                    }
+                },
+                "Erick_Offenstadt": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kawasaki_Yamaha",
+                    "drivers": [
+                        "Erick_Offenstadt"
+                    ],
+                    "other_info": {
+                        "constructor": "Kawasaki / Yamaha"
+                    }
+                },
+                "Kurt-Ivan_Carlsson": {
+                    "position": "13",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Kurt-Ivan_Carlsson"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                },
+                "Ron_Chandler": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kawasaki",
+                    "drivers": [
+                        "Ron_Chandler"
+                    ],
+                    "other_info": {
+                        "constructor": "Kawasaki"
+                    }
+                },
+                "Kai_Kuparinen": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki_Kawasaki",
+                    "drivers": [
+                        "Kai_Kuparinen"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki / Kawasaki"
+                    }
+                },
+                "Gyula_Marsovszky": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Linto",
+                    "drivers": [
+                        "Gyula_Marsovszky"
+                    ],
+                    "other_info": {
+                        "constructor": "Linto"
+                    }
+                },
+                "Steve_Ellis": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Steve_Ellis"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                },
+                "Keith_Turner": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Keith_Turner"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki"
+                    }
+                },
+                "Kurt-Harald_Florin": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "König",
+                    "drivers": [
+                        "Kurt-Harald_Florin"
+                    ],
+                    "other_info": {
+                        "constructor": "König"
+                    }
+                },
+                "Willi_Bertsch": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kawasaki",
+                    "drivers": [
+                        "Willi_Bertsch"
+                    ],
+                    "other_info": {
+                        "constructor": "Kawasaki"
+                    }
+                },
+                "Godfrey_Nash": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Godfrey_Nash"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "Wil_Hartog": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Riemanoc-Yamaha",
+                    "drivers": [
+                        "Wil_Hartog"
+                    ],
+                    "other_info": {
+                        "constructor": "Riemanoc-Yamaha"
+                    }
+                }
+            }
+        },
         "Yugoslavian Grand Prix": {
             "Race": {
                 "Alberto_Pagani": {
@@ -643,165 +1515,6 @@
                         "laps": "0",
                         "speed": "0",
                         "constructor": "Paton"
-                    }
-                }
-            }
-        },
-        "Dutch TT": {
-            "Race": {
-                "Giacomo_Agostini": {
-                    "position": "1",
-                    "points": 15,
-                    "fastest_lap": "",
-                    "team": "MV_Agusta",
-                    "drivers": [
-                        "Giacomo_Agostini"
-                    ],
-                    "other_info": {
-                        "carNumber": "Giacomo_Agostini",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "MV Agusta",
-                        "time": "03:33.300"
-                    }
-                },
-                "Alberto_Pagani": {
-                    "position": "2",
-                    "points": 12,
-                    "fastest_lap": "",
-                    "team": "MV_Agusta",
-                    "drivers": [
-                        "Alberto_Pagani"
-                    ],
-                    "other_info": {
-                        "carNumber": "Alberto_Pagani",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "MV Agusta",
-                        "time": "05:30.900",
-                        "gap": "+117.600"
-                    }
-                },
-                "Bruno_Kneubühler": {
-                    "position": "3",
-                    "points": 10,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "Bruno_Kneubühler"
-                    ],
-                    "other_info": {
-                        "carNumber": "Bruno_Kneubühler",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Yamaha",
-                        "time": "05:40.800",
-                        "gap": "+127.500"
-                    }
-                },
-                "Dave_Simmonds": {
-                    "position": "4",
-                    "points": 8,
-                    "fastest_lap": "",
-                    "team": "Kawasaki",
-                    "drivers": [
-                        "Dave_Simmonds"
-                    ],
-                    "other_info": {
-                        "carNumber": "Dave_Simmonds",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Kawasaki"
-                    }
-                },
-                "Chas_Mortimer": {
-                    "position": "5",
-                    "points": 6,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "Chas_Mortimer"
-                    ],
-                    "other_info": {
-                        "carNumber": "Chas_Mortimer",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Yamaha"
-                    }
-                },
-                "Jack_Findlay": {
-                    "position": "6",
-                    "points": 5,
-                    "fastest_lap": "",
-                    "team": "Jada",
-                    "drivers": [
-                        "Jack_Findlay"
-                    ],
-                    "other_info": {
-                        "carNumber": "Jack_Findlay",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Jada"
-                    }
-                },
-                "Jerry_Lancaster": {
-                    "position": "7",
-                    "points": 4,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "Jerry_Lancaster"
-                    ],
-                    "other_info": {
-                        "carNumber": "Jerry_Lancaster",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Yamaha"
-                    }
-                },
-                "Paul_Eickelberg": {
-                    "position": "8",
-                    "points": 3,
-                    "fastest_lap": "",
-                    "team": "Koenig",
-                    "drivers": [
-                        "Paul_Eickelberg"
-                    ],
-                    "other_info": {
-                        "carNumber": "Paul_Eickelberg",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Koenig"
-                    }
-                },
-                "Billie_Nelson": {
-                    "position": "9",
-                    "points": 2,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "Billie_Nelson"
-                    ],
-                    "other_info": {
-                        "carNumber": "Billie_Nelson",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Yamaha"
-                    }
-                },
-                "Guido_Mandracci": {
-                    "position": "10",
-                    "points": 1,
-                    "fastest_lap": "",
-                    "team": "Suzuki",
-                    "drivers": [
-                        "Guido_Mandracci"
-                    ],
-                    "other_info": {
-                        "carNumber": "Guido_Mandracci",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Suzuki"
                     }
                 }
             }
@@ -986,6 +1699,238 @@
                         "laps": "0",
                         "speed": "0",
                         "constructor": "Jada"
+                    }
+                }
+            }
+        },
+        "East German Grand Prix": {
+            "Race": {
+                "Giacomo_Agostini": {
+                    "position": "1",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "MV_Agusta",
+                    "drivers": [
+                        "Giacomo_Agostini"
+                    ],
+                    "other_info": {
+                        "constructor": "MV Agusta"
+                    }
+                },
+                "Bruno_Kneubühler": {
+                    "position": "4",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Bruno_Kneubühler"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                },
+                "Rodney_Gould": {
+                    "position": "2",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Rodney_Gould"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                },
+                "Bo_Granath": {
+                    "position": "6",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "Husqvarna",
+                    "drivers": [
+                        "Bo_Granath"
+                    ],
+                    "other_info": {
+                        "constructor": "Husqvarna"
+                    }
+                },
+                "Chas_Mortimer": {
+                    "position": "5",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Chas_Mortimer"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                },
+                "Jack_Findlay": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Jada-Suzuki",
+                    "drivers": [
+                        "Jack_Findlay"
+                    ],
+                    "other_info": {
+                        "constructor": "Jada-Suzuki"
+                    }
+                },
+                "Kim_Newcombe": {
+                    "position": "3",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "König",
+                    "drivers": [
+                        "Kim_Newcombe"
+                    ],
+                    "other_info": {
+                        "constructor": "König"
+                    }
+                },
+                "Sven-Olof_Gunnarsson": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kawasaki",
+                    "drivers": [
+                        "Sven-Olof_Gunnarsson"
+                    ],
+                    "other_info": {
+                        "constructor": "Kawasaki"
+                    }
+                },
+                "Piet_Van der Wal": {
+                    "position": "8",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "Kawasaki",
+                    "drivers": [
+                        "Piet_Van der Wal"
+                    ],
+                    "other_info": {
+                        "constructor": "Kawasaki"
+                    }
+                },
+                "Erick_Offenstadt": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kawasaki_Yamaha",
+                    "drivers": [
+                        "Erick_Offenstadt"
+                    ],
+                    "other_info": {
+                        "constructor": "Kawasaki / Yamaha"
+                    }
+                },
+                "Kurt-Ivan_Carlsson": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Kurt-Ivan_Carlsson"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                },
+                "Alois_Maxwald": {
+                    "position": "7",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "Rotax",
+                    "drivers": [
+                        "Alois_Maxwald"
+                    ],
+                    "other_info": {
+                        "constructor": "Rotax"
+                    }
+                },
+                "Arpad_Juhos": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "Metisse-Matchless_Aermacchi",
+                    "drivers": [
+                        "Arpad_Juhos"
+                    ],
+                    "other_info": {
+                        "constructor": "Metisse-Matchless / Aermacchi"
+                    }
+                },
+                "Josef_Özelt": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "Matchless",
+                    "drivers": [
+                        "Josef_Özelt"
+                    ],
+                    "other_info": {
+                        "constructor": "Matchless"
+                    }
+                },
+                "Kai_Kuparinen": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki_Kawasaki",
+                    "drivers": [
+                        "Kai_Kuparinen"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki / Kawasaki"
+                    }
+                },
+                "Michael_Schmid": {
+                    "position": "11",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Michael_Schmid"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                },
+                "Gyula_Marsovszky": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Linto",
+                    "drivers": [
+                        "Gyula_Marsovszky"
+                    ],
+                    "other_info": {
+                        "constructor": "Linto"
+                    }
+                },
+                "Keith_Turner": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Keith_Turner"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki"
+                    }
+                },
+                "Karl_Auer": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kawasaki",
+                    "drivers": [
+                        "Karl_Auer"
+                    ],
+                    "other_info": {
+                        "constructor": "Kawasaki"
                     }
                 }
             }

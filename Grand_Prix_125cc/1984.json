@@ -1,6 +1,3569 @@
 {
     "name": "Grand_Prix_125cc",
     "events": {
+        "Misano World Circuit": {
+            "Race": {
+                "Angel_Nieto": {
+                    "position": "1",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Garelli",
+                    "drivers": [
+                        "Angel_Nieto"
+                    ],
+                    "other_info": {
+                        "constructor": "Garelli"
+                    }
+                },
+                "Eugenio_Lazzarini": {
+                    "position": "3",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Garelli",
+                    "drivers": [
+                        "Eugenio_Lazzarini"
+                    ],
+                    "other_info": {
+                        "constructor": "Garelli"
+                    }
+                },
+                "Fausto_Gresini": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Fausto_Gresini"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Maurizio_Vitali": {
+                    "position": "2",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Maurizio_Vitali"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "August_Auinger": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "August_Auinger"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Jean_Claude Selini": {
+                    "position": "8",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Jean_Claude Selini"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Stefano_Caracchi": {
+                    "position": "4",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Stefano_Caracchi"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Luca_Cadalora": {
+                    "position": "5",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Luca_Cadalora"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Hans_Müller": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Hans_Müller"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Bruno_Kneubühler": {
+                    "position": "6",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Bruno_Kneubühler"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Johnny_Wickstroem": {
+                    "position": "7",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Johnny_Wickstroem"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Giuseppe_Ascareggi": {
+                    "position": "14",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Giuseppe_Ascareggi"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Olivier_Liégeois": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Olivier_Liégeois"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Ezio_Gianola": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Ezio_Gianola"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Lucio_Pietroniro": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Lucio_Pietroniro"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Domenico_Brigaglia": {
+                    "position": "11",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Domenico_Brigaglia"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Henk_Van Kessel": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Henk_Van Kessel"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Hubert_Abold": {
+                    "position": "20",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Hubert_Abold"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Neil_Robinson": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Neil_Robinson"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Gerhard_Waibel": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Gerhard_Waibel"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Anton_Straver": {
+                    "position": "15",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Anton_Straver"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Bady_Hassaine": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Bady_Hassaine"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Ton_Spek": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Ton_Spek"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Willy_Perez": {
+                    "position": "12",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Willy_Perez"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Jussi_Hautaniemi": {
+                    "position": "13",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Jussi_Hautaniemi"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Willi_Hupperich": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Willi_Hupperich"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Helmut_Lichtenburg": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Helmut_Lichtenburg"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Peter_Baláž": {
+                    "position": "21",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Peter_Baláž"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Henrik_Rasmussen": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Henrik_Rasmussen"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Erich_Klein": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Erich_Klein"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Jikka_Jaakkola": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Jikka_Jaakkola"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Karl_Dauer": {
+                    "position": "22",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Karl_Dauer"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Fabio_Meozzi": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Fabio_Meozzi"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Massimo_De Lorenzi": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "LGM",
+                    "drivers": [
+                        "Massimo_De Lorenzi"
+                    ],
+                    "other_info": {
+                        "constructor": "LGM"
+                    }
+                },
+                "Pierpaolo_Bianchi": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Pierpaolo_Bianchi"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Paolo_Casoli": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Paolo_Casoli"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Massimo_Farceri": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Sanvenero",
+                    "drivers": [
+                        "Massimo_Farceri"
+                    ],
+                    "other_info": {
+                        "constructor": "Sanvenero"
+                    }
+                }
+            }
+        },
+        "Spanish Grand Prix": {
+            "Race": {
+                "Angel_Nieto": {
+                    "position": "1",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Garelli",
+                    "drivers": [
+                        "Angel_Nieto"
+                    ],
+                    "other_info": {
+                        "carNumber": "Angel_Nieto",
+                        "laps": "28",
+                        "speed": "0",
+                        "constructor": "Garelli",
+                        "time": "48:21.970"
+                    }
+                },
+                "Eugenio_Lazzarini": {
+                    "position": "2",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Garelli",
+                    "drivers": [
+                        "Eugenio_Lazzarini"
+                    ],
+                    "other_info": {
+                        "carNumber": "Eugenio_Lazzarini",
+                        "laps": "28",
+                        "speed": "0",
+                        "constructor": "Garelli",
+                        "time": "48:22.150",
+                        "gap": "+0.180"
+                    }
+                },
+                "Hans_Müller": {
+                    "position": "3",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Hans_Müller"
+                    ],
+                    "other_info": {
+                        "carNumber": "Hans_Müller",
+                        "laps": "28",
+                        "speed": "0",
+                        "constructor": "MBA",
+                        "time": "48:36.630",
+                        "gap": "+14.660"
+                    }
+                },
+                "Stefano_Caracchi": {
+                    "position": "4",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Stefano_Caracchi"
+                    ],
+                    "other_info": {
+                        "carNumber": "Stefano_Caracchi",
+                        "laps": "28",
+                        "speed": "0",
+                        "constructor": "MBA",
+                        "time": "48:50.010",
+                        "gap": "+28.040"
+                    }
+                },
+                "Manuel_Herreros": {
+                    "position": "5",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Manuel_Herreros"
+                    ],
+                    "other_info": {
+                        "carNumber": "Manuel_Herreros",
+                        "laps": "28",
+                        "speed": "0",
+                        "constructor": "MBA",
+                        "time": "48:53.850",
+                        "gap": "+31.880"
+                    }
+                },
+                "Jean_Claude Selini": {
+                    "position": "6",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Jean_Claude Selini"
+                    ],
+                    "other_info": {
+                        "carNumber": "Jean_Claude Selini",
+                        "laps": "28",
+                        "speed": "0",
+                        "constructor": "MBA",
+                        "time": "49:28.150",
+                        "gap": "+66.180"
+                    }
+                },
+                "Giuseppe_Ascareggi": {
+                    "position": "7",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Giuseppe_Ascareggi"
+                    ],
+                    "other_info": {
+                        "carNumber": "Giuseppe_Ascareggi",
+                        "laps": "28",
+                        "speed": "0",
+                        "constructor": "MBA",
+                        "time": "49:56.850",
+                        "gap": "+94.880"
+                    }
+                },
+                "Hubert_Abold": {
+                    "position": "8",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Hubert_Abold"
+                    ],
+                    "other_info": {
+                        "carNumber": "Hubert_Abold",
+                        "laps": "28",
+                        "speed": "0",
+                        "constructor": "MBA",
+                        "time": "50:01.360",
+                        "gap": "+99.390"
+                    }
+                },
+                "Bruno_Kneubühler": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Bruno_Kneubühler"
+                    ],
+                    "other_info": {
+                        "carNumber": "Bruno_Kneubühler",
+                        "laps": "28",
+                        "speed": "0",
+                        "constructor": "MBA",
+                        "time": "50:02.040",
+                        "gap": "+100.070"
+                    }
+                },
+                "Ezio_Gianola": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Ezio_Gianola"
+                    ],
+                    "other_info": {
+                        "carNumber": "Ezio_Gianola",
+                        "laps": "28",
+                        "speed": "0",
+                        "constructor": "MBA",
+                        "time": "50:02.280",
+                        "gap": "+100.310"
+                    }
+                },
+                "Bady_Hassaine": {
+                    "position": "11",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Bady_Hassaine"
+                    ],
+                    "other_info": {
+                        "carNumber": "Bady_Hassaine",
+                        "laps": "28",
+                        "speed": "0",
+                        "constructor": "MBA"
+                    }
+                },
+                "Willy_Perez": {
+                    "position": "12",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Willy_Perez"
+                    ],
+                    "other_info": {
+                        "carNumber": "Willy_Perez",
+                        "laps": "28",
+                        "speed": "0",
+                        "constructor": "MBA"
+                    }
+                },
+                "Henk_Van Kessel": {
+                    "position": "13",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Henk_Van Kessel"
+                    ],
+                    "other_info": {
+                        "carNumber": "Henk_Van Kessel",
+                        "laps": "28",
+                        "speed": "0",
+                        "constructor": "MBA"
+                    }
+                },
+                "Domenico_Brigaglia": {
+                    "position": "14",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Domenico_Brigaglia"
+                    ],
+                    "other_info": {
+                        "carNumber": "Domenico_Brigaglia",
+                        "laps": "28",
+                        "speed": "0",
+                        "constructor": "MBA"
+                    }
+                },
+                "Titer_Balaz": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Titer_Balaz"
+                    ],
+                    "other_info": {
+                        "carNumber": "Titer_Balaz",
+                        "laps": "28",
+                        "speed": "0",
+                        "constructor": "MBA"
+                    }
+                },
+                "Luca_Cadalora": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Rieju",
+                    "drivers": [
+                        "Luca_Cadalora"
+                    ],
+                    "other_info": {
+                        "carNumber": "Luca_Cadalora",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Rieju"
+                    }
+                },
+                "August_Auinger": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Bartol",
+                    "drivers": [
+                        "August_Auinger"
+                    ],
+                    "other_info": {
+                        "carNumber": "August_Auinger",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Bartol"
+                    }
+                },
+                "Niel_Robinson": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Niel_Robinson"
+                    ],
+                    "other_info": {
+                        "carNumber": "Niel_Robinson",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "MBA"
+                    }
+                },
+                "Gerhard_Waibel": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Real",
+                    "drivers": [
+                        "Gerhard_Waibel"
+                    ],
+                    "other_info": {
+                        "carNumber": "Gerhard_Waibel",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Real"
+                    }
+                },
+                "Maurizio_Vitali": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Maurizio_Vitali"
+                    ],
+                    "other_info": {
+                        "carNumber": "Maurizio_Vitali",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "MBA"
+                    }
+                },
+                "Fausto_Gresini": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Fausto_Gresini"
+                    ],
+                    "other_info": {
+                        "carNumber": "Fausto_Gresini",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "MBA"
+                    }
+                },
+                "Lucio_Pietroniro": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Lucio_Pietroniro"
+                    ],
+                    "other_info": {
+                        "carNumber": "Lucio_Pietroniro",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "MBA"
+                    }
+                },
+                "Olivier_Liégeois": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Olivier_Liégeois"
+                    ],
+                    "other_info": {
+                        "carNumber": "Olivier_Liégeois",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "MBA"
+                    }
+                }
+            }
+        },
+        "Nürburgring": {
+            "Race": {
+                "Angel_Nieto": {
+                    "position": "1",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Garelli",
+                    "drivers": [
+                        "Angel_Nieto"
+                    ],
+                    "other_info": {
+                        "constructor": "Garelli"
+                    }
+                },
+                "Eugenio_Lazzarini": {
+                    "position": "3",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Garelli",
+                    "drivers": [
+                        "Eugenio_Lazzarini"
+                    ],
+                    "other_info": {
+                        "constructor": "Garelli"
+                    }
+                },
+                "Fausto_Gresini": {
+                    "position": "4",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Fausto_Gresini"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Maurizio_Vitali": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Maurizio_Vitali"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "August_Auinger": {
+                    "position": "5",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "August_Auinger"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Jean_Claude Selini": {
+                    "position": "6",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Jean_Claude Selini"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Stefano_Caracchi": {
+                    "position": "12",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Stefano_Caracchi"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Luca_Cadalora": {
+                    "position": "2",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Luca_Cadalora"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Hans_Müller": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Hans_Müller"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Bruno_Kneubühler": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Bruno_Kneubühler"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Johnny_Wickstroem": {
+                    "position": "8",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Johnny_Wickstroem"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Giuseppe_Ascareggi": {
+                    "position": "7",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Giuseppe_Ascareggi"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Olivier_Liégeois": {
+                    "position": "11",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Olivier_Liégeois"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Ezio_Gianola": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Ezio_Gianola"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Lucio_Pietroniro": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Lucio_Pietroniro"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Domenico_Brigaglia": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Domenico_Brigaglia"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Henk_Van Kessel": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Henk_Van Kessel"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Hubert_Abold": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Hubert_Abold"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Neil_Robinson": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Neil_Robinson"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Gerhard_Waibel": {
+                    "position": "13",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Gerhard_Waibel"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Jacky_Hutteau": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Jacky_Hutteau"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Bady_Hassaine": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Bady_Hassaine"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Willy_Perez": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Willy_Perez"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Willi_Hupperich": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Willi_Hupperich"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Helmut_Lichtenburg": {
+                    "position": "14",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Helmut_Lichtenburg"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Mike_Leitner": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Mike_Leitner"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Boy_van Erp": {
+                    "position": "15",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Boy_van Erp"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Alois_Pavlic": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Alois_Pavlic"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Peter_Baláž": {
+                    "position": "20",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Peter_Baláž"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Peter_Sommer": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Peter_Sommer"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Tony_Smith": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Tony_Smith"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Robert_Hmeljak": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Robert_Hmeljak"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Thomas_Moller-Pedersen": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Thomas_Moller-Pedersen"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Dirk_Hafeneger": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Dirk_Hafeneger"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Horst_Elsenheimer": {
+                    "position": "21",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Horst_Elsenheimer"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Jikka_Jaakkola": {
+                    "position": "DNS",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Jikka_Jaakkola"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Karl_Dauer": {
+                    "position": "DNS",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Karl_Dauer"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Beat_Sidler": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Beat_Sidler"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Chris_Baert": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Chris_Baert"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Tony_Head": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Tony_Head"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Pablo_Gamberini": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Pablo_Gamberini"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Stefan_Schmitt": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Stefan_Schmitt"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Thomas_Weickardt": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Thomas_Weickardt"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Joe_Genoud": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Joe_Genoud"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Wilhelm_Lucke": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Wilhelm_Lucke"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                }
+            }
+        },
+        "French Grand Prix": {
+            "Race": {
+                "Angel_Nieto": {
+                    "position": "1",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Garelli",
+                    "drivers": [
+                        "Angel_Nieto"
+                    ],
+                    "other_info": {
+                        "carNumber": "Angel_Nieto",
+                        "laps": "16",
+                        "speed": "0",
+                        "constructor": "Garelli",
+                        "time": "36:37.270"
+                    }
+                },
+                "Eugenio_Lazzarini": {
+                    "position": "2",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Garelli",
+                    "drivers": [
+                        "Eugenio_Lazzarini"
+                    ],
+                    "other_info": {
+                        "carNumber": "Eugenio_Lazzarini",
+                        "laps": "16",
+                        "speed": "0",
+                        "constructor": "Garelli",
+                        "time": "36:37.500",
+                        "gap": "+0.230"
+                    }
+                },
+                "August_Auinger": {
+                    "position": "3",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Monnet_Bartol",
+                    "drivers": [
+                        "August_Auinger"
+                    ],
+                    "other_info": {
+                        "carNumber": "August_Auinger",
+                        "laps": "16",
+                        "speed": "0",
+                        "constructor": "Monnet Bartol",
+                        "time": "36:37.900",
+                        "gap": "+0.630"
+                    }
+                },
+                "Fausto_Gresini": {
+                    "position": "4",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Garelli",
+                    "drivers": [
+                        "Fausto_Gresini"
+                    ],
+                    "other_info": {
+                        "carNumber": "Fausto_Gresini",
+                        "laps": "16",
+                        "speed": "0",
+                        "constructor": "Garelli",
+                        "time": "36:51.260",
+                        "gap": "+13.990"
+                    }
+                },
+                "Bruno_Kneubühler": {
+                    "position": "5",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Bruno_Kneubühler"
+                    ],
+                    "other_info": {
+                        "carNumber": "Bruno_Kneubühler",
+                        "laps": "16",
+                        "speed": "0",
+                        "constructor": "MBA",
+                        "time": "37:00.260",
+                        "gap": "+22.990"
+                    }
+                },
+                "Hans_Müller": {
+                    "position": "6",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Hans_Müller"
+                    ],
+                    "other_info": {
+                        "carNumber": "Hans_Müller",
+                        "laps": "16",
+                        "speed": "0",
+                        "constructor": "MBA",
+                        "time": "37:00.880",
+                        "gap": "+23.610"
+                    }
+                },
+                "Maurizio_Vitali": {
+                    "position": "7",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Maurizio_Vitali"
+                    ],
+                    "other_info": {
+                        "carNumber": "Maurizio_Vitali",
+                        "laps": "16",
+                        "speed": "0",
+                        "constructor": "MBA",
+                        "time": "37:06.000",
+                        "gap": "+28.730"
+                    }
+                },
+                "Johnny_Wickstroem": {
+                    "position": "8",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Johnny_Wickstroem"
+                    ],
+                    "other_info": {
+                        "carNumber": "Johnny_Wickstroem",
+                        "laps": "16",
+                        "speed": "0",
+                        "constructor": "MBA",
+                        "time": "37:15.410",
+                        "gap": "+38.140"
+                    }
+                },
+                "Lucio_Pietroniro": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Lucio_Pietroniro"
+                    ],
+                    "other_info": {
+                        "carNumber": "Lucio_Pietroniro",
+                        "laps": "16",
+                        "speed": "0",
+                        "constructor": "MBA",
+                        "time": "37:17.470",
+                        "gap": "+40.200"
+                    }
+                },
+                "Henk_Van Kessel": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Henk_Van Kessel"
+                    ],
+                    "other_info": {
+                        "carNumber": "Henk_Van Kessel",
+                        "laps": "16",
+                        "speed": "0",
+                        "constructor": "MBA",
+                        "time": "37:25.670",
+                        "gap": "+48.400"
+                    }
+                },
+                "Ezio_Gianola": {
+                    "position": "11",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Ezio_Gianola"
+                    ],
+                    "other_info": {
+                        "carNumber": "Ezio_Gianola",
+                        "laps": "16",
+                        "speed": "0",
+                        "constructor": "MBA"
+                    }
+                },
+                "Luca_Cadalora": {
+                    "position": "12",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Luca_Cadalora"
+                    ],
+                    "other_info": {
+                        "carNumber": "Luca_Cadalora",
+                        "laps": "16",
+                        "speed": "0",
+                        "constructor": "MBA"
+                    }
+                },
+                "Willy_Perez": {
+                    "position": "14",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Willy_Perez"
+                    ],
+                    "other_info": {
+                        "carNumber": "Willy_Perez",
+                        "laps": "16",
+                        "speed": "0",
+                        "constructor": "MBA"
+                    }
+                },
+                "Paul_Bordes": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Paul_Bordes"
+                    ],
+                    "other_info": {
+                        "carNumber": "Paul_Bordes",
+                        "laps": "16",
+                        "speed": "0",
+                        "constructor": "MBA"
+                    }
+                },
+                "Titer_Balaz": {
+                    "position": "21",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Titer_Balaz"
+                    ],
+                    "other_info": {
+                        "carNumber": "Titer_Balaz",
+                        "laps": "16",
+                        "speed": "0",
+                        "constructor": "MBA"
+                    }
+                },
+                "Esa_Kytölä": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Esa_Kytölä"
+                    ],
+                    "other_info": {
+                        "carNumber": "Esa_Kytölä",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "MBA"
+                    }
+                },
+                "Niel_Robinson": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Niel_Robinson"
+                    ],
+                    "other_info": {
+                        "carNumber": "Niel_Robinson",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "MBA"
+                    }
+                },
+                "Jean_Claude Selini": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Jean_Claude Selini"
+                    ],
+                    "other_info": {
+                        "carNumber": "Jean_Claude Selini",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "MBA"
+                    }
+                },
+                "Bady_Hassaine": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Bady_Hassaine"
+                    ],
+                    "other_info": {
+                        "carNumber": "Bady_Hassaine",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "MBA"
+                    }
+                },
+                "Erich_Klein": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Erich_Klein"
+                    ],
+                    "other_info": {
+                        "carNumber": "Erich_Klein",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "MBA"
+                    }
+                },
+                "Gerhard_Waibel": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Real",
+                    "drivers": [
+                        "Gerhard_Waibel"
+                    ],
+                    "other_info": {
+                        "carNumber": "Gerhard_Waibel",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Real"
+                    }
+                },
+                "Olivier_Liégeois": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Olivier_Liégeois"
+                    ],
+                    "other_info": {
+                        "carNumber": "Olivier_Liégeois",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "MBA"
+                    }
+                },
+                "Stefano_Caracchi": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Stefano_Caracchi"
+                    ],
+                    "other_info": {
+                        "carNumber": "Stefano_Caracchi",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "MBA"
+                    }
+                }
+            }
+        },
+        "Assen": {
+            "Race": {
+                "Angel_Nieto": {
+                    "position": "1",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Garelli",
+                    "drivers": [
+                        "Angel_Nieto"
+                    ],
+                    "other_info": {
+                        "constructor": "Garelli"
+                    }
+                },
+                "Eugenio_Lazzarini": {
+                    "position": "2",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Garelli",
+                    "drivers": [
+                        "Eugenio_Lazzarini"
+                    ],
+                    "other_info": {
+                        "constructor": "Garelli"
+                    }
+                },
+                "Fausto_Gresini": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Fausto_Gresini"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Maurizio_Vitali": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Maurizio_Vitali"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "August_Auinger": {
+                    "position": "6",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "August_Auinger"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Jean_Claude Selini": {
+                    "position": "4",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Jean_Claude Selini"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Stefano_Caracchi": {
+                    "position": "5",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Stefano_Caracchi"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Luca_Cadalora": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Luca_Cadalora"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Hans_Müller": {
+                    "position": "3",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Hans_Müller"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Bruno_Kneubühler": {
+                    "position": "7",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Bruno_Kneubühler"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Johnny_Wickstroem": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Johnny_Wickstroem"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Olivier_Liégeois": {
+                    "position": "15",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Olivier_Liégeois"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Ezio_Gianola": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Ezio_Gianola"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Lucio_Pietroniro": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Lucio_Pietroniro"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Henk_Van Kessel": {
+                    "position": "8",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Henk_Van Kessel"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Hubert_Abold": {
+                    "position": "23",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Hubert_Abold"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Hakan_Olsson": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Starol",
+                    "drivers": [
+                        "Hakan_Olsson"
+                    ],
+                    "other_info": {
+                        "constructor": "Starol"
+                    }
+                },
+                "Neil_Robinson": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Neil_Robinson"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Gerhard_Waibel": {
+                    "position": "13",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Gerhard_Waibel"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Anton_Straver": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Anton_Straver"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Jacky_Hutteau": {
+                    "position": "21",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Jacky_Hutteau"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Ton_Spek": {
+                    "position": "11",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Ton_Spek"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Willy_Perez": {
+                    "position": "14",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Willy_Perez"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Alfred_Waibel": {
+                    "position": "12",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Waibel",
+                    "drivers": [
+                        "Alfred_Waibel"
+                    ],
+                    "other_info": {
+                        "constructor": "Waibel"
+                    }
+                },
+                "Jussi_Hautaniemi": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Jussi_Hautaniemi"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Willi_Hupperich": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Willi_Hupperich"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Helmut_Lichtenburg": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Helmut_Lichtenburg"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Mike_Leitner": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Mike_Leitner"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Boy_van Erp": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Boy_van Erp"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Alois_Pavlic": {
+                    "position": "22",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Alois_Pavlic"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Peter_Baláž": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Peter_Baláž"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Peter_Sommer": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Peter_Sommer"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Tony_Smith": {
+                    "position": "20",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Tony_Smith"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Thomas_Moller-Pedersen": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Thomas_Moller-Pedersen"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Jan_Eggens": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "EGA",
+                    "drivers": [
+                        "Jan_Eggens"
+                    ],
+                    "other_info": {
+                        "constructor": "EGA"
+                    }
+                },
+                "Erich_Klein": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Erich_Klein"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Jikka_Jaakkola": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Jikka_Jaakkola"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Karl_Dauer": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Karl_Dauer"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Chris_Baert": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Chris_Baert"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Tony_Head": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Tony_Head"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Willem_Heykoop": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Sanvenero",
+                    "drivers": [
+                        "Willem_Heykoop"
+                    ],
+                    "other_info": {
+                        "constructor": "Sanvenero"
+                    }
+                },
+                "Martin_van Soest": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Martin_van Soest"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                }
+            }
+        },
+        "British Grand Prix": {
+            "Race": {
+                "Angel_Nieto": {
+                    "position": "1",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Garelli",
+                    "drivers": [
+                        "Angel_Nieto"
+                    ],
+                    "other_info": {
+                        "carNumber": "Angel_Nieto",
+                        "laps": "20",
+                        "speed": "0",
+                        "constructor": "Garelli",
+                        "time": "33:43.580"
+                    }
+                },
+                "Jean_Claude Selini": {
+                    "position": "2",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Jean_Claude Selini"
+                    ],
+                    "other_info": {
+                        "carNumber": "Jean_Claude Selini",
+                        "laps": "20",
+                        "speed": "0",
+                        "constructor": "MBA",
+                        "time": "33:49.210",
+                        "gap": "+5.630"
+                    }
+                },
+                "Fausto_Gresini": {
+                    "position": "3",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Garelli",
+                    "drivers": [
+                        "Fausto_Gresini"
+                    ],
+                    "other_info": {
+                        "carNumber": "Fausto_Gresini",
+                        "laps": "20",
+                        "speed": "0",
+                        "constructor": "Garelli",
+                        "time": "33:49.510",
+                        "gap": "+5.930"
+                    }
+                },
+                "Bruno_Kneubühler": {
+                    "position": "4",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Bruno_Kneubühler"
+                    ],
+                    "other_info": {
+                        "carNumber": "Bruno_Kneubühler",
+                        "laps": "20",
+                        "speed": "0",
+                        "constructor": "MBA",
+                        "time": "33:49.690",
+                        "gap": "+6.110"
+                    }
+                },
+                "Maurizio_Vitali": {
+                    "position": "5",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Maurizio_Vitali"
+                    ],
+                    "other_info": {
+                        "carNumber": "Maurizio_Vitali",
+                        "laps": "20",
+                        "speed": "0",
+                        "constructor": "MBA",
+                        "time": "34:07.130",
+                        "gap": "+23.550"
+                    }
+                },
+                "Luca_Cadalora": {
+                    "position": "6",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Luca_Cadalora"
+                    ],
+                    "other_info": {
+                        "carNumber": "Luca_Cadalora",
+                        "laps": "20",
+                        "speed": "0",
+                        "constructor": "MBA",
+                        "time": "34:07.280",
+                        "gap": "+23.700"
+                    }
+                },
+                "Olivier_Liégeois": {
+                    "position": "7",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Olivier_Liégeois"
+                    ],
+                    "other_info": {
+                        "carNumber": "Olivier_Liégeois",
+                        "laps": "20",
+                        "speed": "0",
+                        "constructor": "MBA",
+                        "time": "34:07.430",
+                        "gap": "+23.850"
+                    }
+                },
+                "Stefano_Caracchi": {
+                    "position": "8",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Stefano_Caracchi"
+                    ],
+                    "other_info": {
+                        "carNumber": "Stefano_Caracchi",
+                        "laps": "20",
+                        "speed": "0",
+                        "constructor": "MBA",
+                        "time": "34:22.410",
+                        "gap": "+38.830"
+                    }
+                },
+                "Johnny_Wickstroem": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Johnny_Wickstroem"
+                    ],
+                    "other_info": {
+                        "carNumber": "Johnny_Wickstroem",
+                        "laps": "20",
+                        "speed": "0",
+                        "constructor": "MBA",
+                        "time": "34:23.520",
+                        "gap": "+39.940"
+                    }
+                },
+                "Jacques_Hutteau": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Jacques_Hutteau"
+                    ],
+                    "other_info": {
+                        "carNumber": "Jacques_Hutteau",
+                        "laps": "20",
+                        "speed": "0",
+                        "constructor": "MBA",
+                        "time": "34:42.110",
+                        "gap": "+58.530"
+                    }
+                },
+                "Ezio_Gianola": {
+                    "position": "12",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Ezio_Gianola"
+                    ],
+                    "other_info": {
+                        "carNumber": "Ezio_Gianola",
+                        "laps": "20",
+                        "speed": "0",
+                        "constructor": "MBA"
+                    }
+                },
+                "Domenico_Brigaglia": {
+                    "position": "13",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Domenico_Brigaglia"
+                    ],
+                    "other_info": {
+                        "carNumber": "Domenico_Brigaglia",
+                        "laps": "20",
+                        "speed": "0",
+                        "constructor": "MBA"
+                    }
+                },
+                "Mike_Leitner": {
+                    "position": "14",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Mike_Leitner"
+                    ],
+                    "other_info": {
+                        "carNumber": "Mike_Leitner",
+                        "laps": "20",
+                        "speed": "0",
+                        "constructor": "MBA"
+                    }
+                },
+                "Alojz_Pavlic": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Seel",
+                    "drivers": [
+                        "Alojz_Pavlic"
+                    ],
+                    "other_info": {
+                        "carNumber": "Alojz_Pavlic",
+                        "laps": "20",
+                        "speed": "0",
+                        "constructor": "Seel"
+                    }
+                },
+                "Giuseppe_Ascareggi": {
+                    "position": "20",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Giuseppe_Ascareggi"
+                    ],
+                    "other_info": {
+                        "carNumber": "Giuseppe_Ascareggi",
+                        "laps": "20",
+                        "speed": "0",
+                        "constructor": "MBA"
+                    }
+                },
+                "Ian_Mcconnachie": {
+                    "position": "21",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Ian_Mcconnachie"
+                    ],
+                    "other_info": {
+                        "carNumber": "Ian_Mcconnachie",
+                        "laps": "20",
+                        "speed": "0",
+                        "constructor": "MBA"
+                    }
+                },
+                "August_Auinger": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "August_Auinger"
+                    ],
+                    "other_info": {
+                        "carNumber": "August_Auinger",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "MBA"
+                    }
+                },
+                "Alex_Bedford": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Alex_Bedford"
+                    ],
+                    "other_info": {
+                        "carNumber": "Alex_Bedford",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "MBA"
+                    }
+                },
+                "Robin_Appleyard": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Robin_Appleyard"
+                    ],
+                    "other_info": {
+                        "carNumber": "Robin_Appleyard",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "MBA"
+                    }
+                },
+                "Willy_Perez": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Willy_Perez"
+                    ],
+                    "other_info": {
+                        "carNumber": "Willy_Perez",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "MBA"
+                    }
+                },
+                "Henk_Van Kessel": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Henk_Van Kessel"
+                    ],
+                    "other_info": {
+                        "carNumber": "Henk_Van Kessel",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "MBA"
+                    }
+                },
+                "Lucio_Pietroniro": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Lucio_Pietroniro"
+                    ],
+                    "other_info": {
+                        "carNumber": "Lucio_Pietroniro",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "MBA"
+                    }
+                },
+                "Eugenio_Lazzarini": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Garelli",
+                    "drivers": [
+                        "Eugenio_Lazzarini"
+                    ],
+                    "other_info": {
+                        "carNumber": "Eugenio_Lazzarini",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Garelli"
+                    }
+                },
+                "Hans_Hummel": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Hans_Hummel"
+                    ],
+                    "other_info": {
+                        "carNumber": "Hans_Hummel",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "MBA"
+                    }
+                }
+            }
+        },
+        "Anderstorp": {
+            "Race": {
+                "Eugenio_Lazzarini": {
+                    "position": "3",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Garelli",
+                    "drivers": [
+                        "Eugenio_Lazzarini"
+                    ],
+                    "other_info": {
+                        "constructor": "Garelli"
+                    }
+                },
+                "Fausto_Gresini": {
+                    "position": "1",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Fausto_Gresini"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Maurizio_Vitali": {
+                    "position": "4",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Maurizio_Vitali"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "August_Auinger": {
+                    "position": "2",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "August_Auinger"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Jean_Claude Selini": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Jean_Claude Selini"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Stefano_Caracchi": {
+                    "position": "7",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Stefano_Caracchi"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Luca_Cadalora": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Luca_Cadalora"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Bruno_Kneubühler": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Bruno_Kneubühler"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Johnny_Wickstroem": {
+                    "position": "5",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Johnny_Wickstroem"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Giuseppe_Ascareggi": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Giuseppe_Ascareggi"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Olivier_Liégeois": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Olivier_Liégeois"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Ezio_Gianola": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Ezio_Gianola"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Lucio_Pietroniro": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Lucio_Pietroniro"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Alex_Bedford": {
+                    "position": "6",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Alex_Bedford"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Domenico_Brigaglia": {
+                    "position": "13",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Domenico_Brigaglia"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Henk_Van Kessel": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Henk_Van Kessel"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Hakan_Olsson": {
+                    "position": "8",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "Starol",
+                    "drivers": [
+                        "Hakan_Olsson"
+                    ],
+                    "other_info": {
+                        "constructor": "Starol"
+                    }
+                },
+                "Anton_Straver": {
+                    "position": "11",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Anton_Straver"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Jacky_Hutteau": {
+                    "position": "12",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Jacky_Hutteau"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Ton_Spek": {
+                    "position": "15",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Ton_Spek"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Willy_Perez": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Willy_Perez"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Jussi_Hautaniemi": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Jussi_Hautaniemi"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Willi_Hupperich": {
+                    "position": "14",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Willi_Hupperich"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Helmut_Lichtenburg": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Helmut_Lichtenburg"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Boy_van Erp": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Boy_van Erp"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Mickel_Nielsen": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Mickel_Nielsen"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Peter_Sommer": {
+                    "position": "23",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Peter_Sommer"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Henrik_Rasmussen": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Henrik_Rasmussen"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Thomas_Moller-Pedersen": {
+                    "position": "20",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Thomas_Moller-Pedersen"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Flemming_Sorensen": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Flemming_Sorensen"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Lars-Erik_Kallesoe": {
+                    "position": "21",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Laserelli",
+                    "drivers": [
+                        "Lars-Erik_Kallesoe"
+                    ],
+                    "other_info": {
+                        "constructor": "Laserelli"
+                    }
+                },
+                "Jikka_Jaakkola": {
+                    "position": "22",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Jikka_Jaakkola"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Jorgen_Ask": {
+                    "position": "24",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Jorgen_Ask"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Juha_Pakkanen": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Juha_Pakkanen"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Hannu_Kallio": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Hannu_Kallio"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Flemming_Kistrup": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Flemming_Kistrup"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Rune_Zalle": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Rune_Zalle"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                }
+            }
+        },
+        "Mugello Circuit": {
+            "Race": {
+                "Angel_Nieto": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Garelli",
+                    "drivers": [
+                        "Angel_Nieto"
+                    ],
+                    "other_info": {
+                        "constructor": "Garelli"
+                    }
+                },
+                "Eugenio_Lazzarini": {
+                    "position": "2",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Garelli",
+                    "drivers": [
+                        "Eugenio_Lazzarini"
+                    ],
+                    "other_info": {
+                        "constructor": "Garelli"
+                    }
+                },
+                "Fausto_Gresini": {
+                    "position": "3",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Fausto_Gresini"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Maurizio_Vitali": {
+                    "position": "1",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Maurizio_Vitali"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "August_Auinger": {
+                    "position": "4",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "August_Auinger"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Jean_Claude Selini": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Jean_Claude Selini"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Stefano_Caracchi": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Stefano_Caracchi"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Luca_Cadalora": {
+                    "position": "7",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Luca_Cadalora"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Hans_Müller": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Hans_Müller"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Bruno_Kneubühler": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Bruno_Kneubühler"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Johnny_Wickstroem": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Johnny_Wickstroem"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Giuseppe_Ascareggi": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Giuseppe_Ascareggi"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Olivier_Liégeois": {
+                    "position": "8",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Olivier_Liégeois"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Ezio_Gianola": {
+                    "position": "5",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Ezio_Gianola"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Lucio_Pietroniro": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Lucio_Pietroniro"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Domenico_Brigaglia": {
+                    "position": "6",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Domenico_Brigaglia"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Henk_Van Kessel": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Henk_Van Kessel"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Hubert_Abold": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Hubert_Abold"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Hakan_Olsson": {
+                    "position": "15",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Starol",
+                    "drivers": [
+                        "Hakan_Olsson"
+                    ],
+                    "other_info": {
+                        "constructor": "Starol"
+                    }
+                },
+                "Neil_Robinson": {
+                    "position": "14",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Neil_Robinson"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Gerhard_Waibel": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Gerhard_Waibel"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Anton_Straver": {
+                    "position": "11",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Anton_Straver"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Jacky_Hutteau": {
+                    "position": "12",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Jacky_Hutteau"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Willy_Perez": {
+                    "position": "13",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Willy_Perez"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Jussi_Hautaniemi": {
+                    "position": "23",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Jussi_Hautaniemi"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Willi_Hupperich": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Willi_Hupperich"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Helmut_Lichtenburg": {
+                    "position": "DNS",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Helmut_Lichtenburg"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Mike_Leitner": {
+                    "position": "24",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Mike_Leitner"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Alois_Pavlic": {
+                    "position": "26",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Alois_Pavlic"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Peter_Sommer": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Peter_Sommer"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Robert_Hmeljak": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Robert_Hmeljak"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Thomas_Moller-Pedersen": {
+                    "position": "DNS",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Thomas_Moller-Pedersen"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Jacques_Grandjean": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Jacques_Grandjean"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Erich_Klein": {
+                    "position": "20",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Erich_Klein"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Janos_Pintar": {
+                    "position": "21",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Janos_Pintar"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Andreas_Sanches-Marin": {
+                    "position": "22",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Andreas_Sanches-Marin"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Beat_Sidler": {
+                    "position": "25",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Beat_Sidler"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Jorgen_Ask": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Jorgen_Ask"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Fabio_Meozzi": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Fabio_Meozzi"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                },
+                "Massimo_De Lorenzi": {
+                    "position": "DNQ",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "LGM",
+                    "drivers": [
+                        "Massimo_De Lorenzi"
+                    ],
+                    "other_info": {
+                        "constructor": "LGM"
+                    }
+                },
+                "Pierfrancesco_Chili": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "MBA",
+                    "drivers": [
+                        "Pierfrancesco_Chili"
+                    ],
+                    "other_info": {
+                        "constructor": "MBA"
+                    }
+                }
+            }
+        },
         "Nations Grand Prix": {
             "Race": {
                 "Angel_Nieto": {
@@ -405,1125 +3968,6 @@
                     ],
                     "other_info": {
                         "carNumber": "Niel_Robinson",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "MBA"
-                    }
-                }
-            }
-        },
-        "Spanish Grand Prix": {
-            "Race": {
-                "Angel_Nieto": {
-                    "position": "1",
-                    "points": 15,
-                    "fastest_lap": "",
-                    "team": "Garelli",
-                    "drivers": [
-                        "Angel_Nieto"
-                    ],
-                    "other_info": {
-                        "carNumber": "Angel_Nieto",
-                        "laps": "28",
-                        "speed": "0",
-                        "constructor": "Garelli",
-                        "time": "48:21.970"
-                    }
-                },
-                "Eugenio_Lazzarini": {
-                    "position": "2",
-                    "points": 12,
-                    "fastest_lap": "",
-                    "team": "Garelli",
-                    "drivers": [
-                        "Eugenio_Lazzarini"
-                    ],
-                    "other_info": {
-                        "carNumber": "Eugenio_Lazzarini",
-                        "laps": "28",
-                        "speed": "0",
-                        "constructor": "Garelli",
-                        "time": "48:22.150",
-                        "gap": "+0.180"
-                    }
-                },
-                "Hans_Müller": {
-                    "position": "3",
-                    "points": 10,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Hans_Müller"
-                    ],
-                    "other_info": {
-                        "carNumber": "Hans_Müller",
-                        "laps": "28",
-                        "speed": "0",
-                        "constructor": "MBA",
-                        "time": "48:36.630",
-                        "gap": "+14.660"
-                    }
-                },
-                "Stefano_Caracchi": {
-                    "position": "4",
-                    "points": 8,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Stefano_Caracchi"
-                    ],
-                    "other_info": {
-                        "carNumber": "Stefano_Caracchi",
-                        "laps": "28",
-                        "speed": "0",
-                        "constructor": "MBA",
-                        "time": "48:50.010",
-                        "gap": "+28.040"
-                    }
-                },
-                "Manuel_Herreros": {
-                    "position": "5",
-                    "points": 6,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Manuel_Herreros"
-                    ],
-                    "other_info": {
-                        "carNumber": "Manuel_Herreros",
-                        "laps": "28",
-                        "speed": "0",
-                        "constructor": "MBA",
-                        "time": "48:53.850",
-                        "gap": "+31.880"
-                    }
-                },
-                "Jean_Claude Selini": {
-                    "position": "6",
-                    "points": 5,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Jean_Claude Selini"
-                    ],
-                    "other_info": {
-                        "carNumber": "Jean_Claude Selini",
-                        "laps": "28",
-                        "speed": "0",
-                        "constructor": "MBA",
-                        "time": "49:28.150",
-                        "gap": "+66.180"
-                    }
-                },
-                "Giuseppe_Ascareggi": {
-                    "position": "7",
-                    "points": 4,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Giuseppe_Ascareggi"
-                    ],
-                    "other_info": {
-                        "carNumber": "Giuseppe_Ascareggi",
-                        "laps": "28",
-                        "speed": "0",
-                        "constructor": "MBA",
-                        "time": "49:56.850",
-                        "gap": "+94.880"
-                    }
-                },
-                "Hubert_Abold": {
-                    "position": "8",
-                    "points": 3,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Hubert_Abold"
-                    ],
-                    "other_info": {
-                        "carNumber": "Hubert_Abold",
-                        "laps": "28",
-                        "speed": "0",
-                        "constructor": "MBA",
-                        "time": "50:01.360",
-                        "gap": "+99.390"
-                    }
-                },
-                "Bruno_Kneubühler": {
-                    "position": "9",
-                    "points": 2,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Bruno_Kneubühler"
-                    ],
-                    "other_info": {
-                        "carNumber": "Bruno_Kneubühler",
-                        "laps": "28",
-                        "speed": "0",
-                        "constructor": "MBA",
-                        "time": "50:02.040",
-                        "gap": "+100.070"
-                    }
-                },
-                "Ezio_Gianola": {
-                    "position": "10",
-                    "points": 1,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Ezio_Gianola"
-                    ],
-                    "other_info": {
-                        "carNumber": "Ezio_Gianola",
-                        "laps": "28",
-                        "speed": "0",
-                        "constructor": "MBA",
-                        "time": "50:02.280",
-                        "gap": "+100.310"
-                    }
-                },
-                "Bady_Hassaine": {
-                    "position": "11",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Bady_Hassaine"
-                    ],
-                    "other_info": {
-                        "carNumber": "Bady_Hassaine",
-                        "laps": "28",
-                        "speed": "0",
-                        "constructor": "MBA"
-                    }
-                },
-                "Willy_Perez": {
-                    "position": "12",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Willy_Perez"
-                    ],
-                    "other_info": {
-                        "carNumber": "Willy_Perez",
-                        "laps": "28",
-                        "speed": "0",
-                        "constructor": "MBA"
-                    }
-                },
-                "Henk_Van Kessel": {
-                    "position": "13",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Henk_Van Kessel"
-                    ],
-                    "other_info": {
-                        "carNumber": "Henk_Van Kessel",
-                        "laps": "28",
-                        "speed": "0",
-                        "constructor": "MBA"
-                    }
-                },
-                "Domenico_Brigaglia": {
-                    "position": "14",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Domenico_Brigaglia"
-                    ],
-                    "other_info": {
-                        "carNumber": "Domenico_Brigaglia",
-                        "laps": "28",
-                        "speed": "0",
-                        "constructor": "MBA"
-                    }
-                },
-                "Titer_Balaz": {
-                    "position": "17",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Titer_Balaz"
-                    ],
-                    "other_info": {
-                        "carNumber": "Titer_Balaz",
-                        "laps": "28",
-                        "speed": "0",
-                        "constructor": "MBA"
-                    }
-                },
-                "Luca_Cadalora": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Rieju",
-                    "drivers": [
-                        "Luca_Cadalora"
-                    ],
-                    "other_info": {
-                        "carNumber": "Luca_Cadalora",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Rieju"
-                    }
-                },
-                "August_Auinger": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Bartol",
-                    "drivers": [
-                        "August_Auinger"
-                    ],
-                    "other_info": {
-                        "carNumber": "August_Auinger",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Bartol"
-                    }
-                },
-                "Niel_Robinson": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Niel_Robinson"
-                    ],
-                    "other_info": {
-                        "carNumber": "Niel_Robinson",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "MBA"
-                    }
-                },
-                "Gerhard_Waibel": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Real",
-                    "drivers": [
-                        "Gerhard_Waibel"
-                    ],
-                    "other_info": {
-                        "carNumber": "Gerhard_Waibel",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Real"
-                    }
-                },
-                "Maurizio_Vitali": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Maurizio_Vitali"
-                    ],
-                    "other_info": {
-                        "carNumber": "Maurizio_Vitali",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "MBA"
-                    }
-                },
-                "Fausto_Gresini": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Fausto_Gresini"
-                    ],
-                    "other_info": {
-                        "carNumber": "Fausto_Gresini",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "MBA"
-                    }
-                },
-                "Lucio_Pietroniro": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Lucio_Pietroniro"
-                    ],
-                    "other_info": {
-                        "carNumber": "Lucio_Pietroniro",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "MBA"
-                    }
-                },
-                "Olivier_Liégeois": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Olivier_Liégeois"
-                    ],
-                    "other_info": {
-                        "carNumber": "Olivier_Liégeois",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "MBA"
-                    }
-                }
-            }
-        },
-        "French Grand Prix": {
-            "Race": {
-                "Angel_Nieto": {
-                    "position": "1",
-                    "points": 15,
-                    "fastest_lap": "",
-                    "team": "Garelli",
-                    "drivers": [
-                        "Angel_Nieto"
-                    ],
-                    "other_info": {
-                        "carNumber": "Angel_Nieto",
-                        "laps": "16",
-                        "speed": "0",
-                        "constructor": "Garelli",
-                        "time": "36:37.270"
-                    }
-                },
-                "Eugenio_Lazzarini": {
-                    "position": "2",
-                    "points": 12,
-                    "fastest_lap": "",
-                    "team": "Garelli",
-                    "drivers": [
-                        "Eugenio_Lazzarini"
-                    ],
-                    "other_info": {
-                        "carNumber": "Eugenio_Lazzarini",
-                        "laps": "16",
-                        "speed": "0",
-                        "constructor": "Garelli",
-                        "time": "36:37.500",
-                        "gap": "+0.230"
-                    }
-                },
-                "August_Auinger": {
-                    "position": "3",
-                    "points": 10,
-                    "fastest_lap": "",
-                    "team": "Monnet_Bartol",
-                    "drivers": [
-                        "August_Auinger"
-                    ],
-                    "other_info": {
-                        "carNumber": "August_Auinger",
-                        "laps": "16",
-                        "speed": "0",
-                        "constructor": "Monnet Bartol",
-                        "time": "36:37.900",
-                        "gap": "+0.630"
-                    }
-                },
-                "Fausto_Gresini": {
-                    "position": "4",
-                    "points": 8,
-                    "fastest_lap": "",
-                    "team": "Garelli",
-                    "drivers": [
-                        "Fausto_Gresini"
-                    ],
-                    "other_info": {
-                        "carNumber": "Fausto_Gresini",
-                        "laps": "16",
-                        "speed": "0",
-                        "constructor": "Garelli",
-                        "time": "36:51.260",
-                        "gap": "+13.990"
-                    }
-                },
-                "Bruno_Kneubühler": {
-                    "position": "5",
-                    "points": 6,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Bruno_Kneubühler"
-                    ],
-                    "other_info": {
-                        "carNumber": "Bruno_Kneubühler",
-                        "laps": "16",
-                        "speed": "0",
-                        "constructor": "MBA",
-                        "time": "37:00.260",
-                        "gap": "+22.990"
-                    }
-                },
-                "Hans_Müller": {
-                    "position": "6",
-                    "points": 5,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Hans_Müller"
-                    ],
-                    "other_info": {
-                        "carNumber": "Hans_Müller",
-                        "laps": "16",
-                        "speed": "0",
-                        "constructor": "MBA",
-                        "time": "37:00.880",
-                        "gap": "+23.610"
-                    }
-                },
-                "Maurizio_Vitali": {
-                    "position": "7",
-                    "points": 4,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Maurizio_Vitali"
-                    ],
-                    "other_info": {
-                        "carNumber": "Maurizio_Vitali",
-                        "laps": "16",
-                        "speed": "0",
-                        "constructor": "MBA",
-                        "time": "37:06.000",
-                        "gap": "+28.730"
-                    }
-                },
-                "Johnny_Wickstroem": {
-                    "position": "8",
-                    "points": 3,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Johnny_Wickstroem"
-                    ],
-                    "other_info": {
-                        "carNumber": "Johnny_Wickstroem",
-                        "laps": "16",
-                        "speed": "0",
-                        "constructor": "MBA",
-                        "time": "37:15.410",
-                        "gap": "+38.140"
-                    }
-                },
-                "Lucio_Pietroniro": {
-                    "position": "9",
-                    "points": 2,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Lucio_Pietroniro"
-                    ],
-                    "other_info": {
-                        "carNumber": "Lucio_Pietroniro",
-                        "laps": "16",
-                        "speed": "0",
-                        "constructor": "MBA",
-                        "time": "37:17.470",
-                        "gap": "+40.200"
-                    }
-                },
-                "Henk_Van Kessel": {
-                    "position": "10",
-                    "points": 1,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Henk_Van Kessel"
-                    ],
-                    "other_info": {
-                        "carNumber": "Henk_Van Kessel",
-                        "laps": "16",
-                        "speed": "0",
-                        "constructor": "MBA",
-                        "time": "37:25.670",
-                        "gap": "+48.400"
-                    }
-                },
-                "Ezio_Gianola": {
-                    "position": "11",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Ezio_Gianola"
-                    ],
-                    "other_info": {
-                        "carNumber": "Ezio_Gianola",
-                        "laps": "16",
-                        "speed": "0",
-                        "constructor": "MBA"
-                    }
-                },
-                "Luca_Cadalora": {
-                    "position": "12",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Luca_Cadalora"
-                    ],
-                    "other_info": {
-                        "carNumber": "Luca_Cadalora",
-                        "laps": "16",
-                        "speed": "0",
-                        "constructor": "MBA"
-                    }
-                },
-                "Willy_Perez": {
-                    "position": "14",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Willy_Perez"
-                    ],
-                    "other_info": {
-                        "carNumber": "Willy_Perez",
-                        "laps": "16",
-                        "speed": "0",
-                        "constructor": "MBA"
-                    }
-                },
-                "Paul_Bordes": {
-                    "position": "17",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Paul_Bordes"
-                    ],
-                    "other_info": {
-                        "carNumber": "Paul_Bordes",
-                        "laps": "16",
-                        "speed": "0",
-                        "constructor": "MBA"
-                    }
-                },
-                "Titer_Balaz": {
-                    "position": "21",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Titer_Balaz"
-                    ],
-                    "other_info": {
-                        "carNumber": "Titer_Balaz",
-                        "laps": "16",
-                        "speed": "0",
-                        "constructor": "MBA"
-                    }
-                },
-                "Esa_Kytölä": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Esa_Kytölä"
-                    ],
-                    "other_info": {
-                        "carNumber": "Esa_Kytölä",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "MBA"
-                    }
-                },
-                "Niel_Robinson": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Niel_Robinson"
-                    ],
-                    "other_info": {
-                        "carNumber": "Niel_Robinson",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "MBA"
-                    }
-                },
-                "Jean_Claude Selini": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Jean_Claude Selini"
-                    ],
-                    "other_info": {
-                        "carNumber": "Jean_Claude Selini",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "MBA"
-                    }
-                },
-                "Bady_Hassaine": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Bady_Hassaine"
-                    ],
-                    "other_info": {
-                        "carNumber": "Bady_Hassaine",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "MBA"
-                    }
-                },
-                "Erich_Klein": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Erich_Klein"
-                    ],
-                    "other_info": {
-                        "carNumber": "Erich_Klein",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "MBA"
-                    }
-                },
-                "Gerhard_Waibel": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Real",
-                    "drivers": [
-                        "Gerhard_Waibel"
-                    ],
-                    "other_info": {
-                        "carNumber": "Gerhard_Waibel",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Real"
-                    }
-                },
-                "Olivier_Liégeois": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Olivier_Liégeois"
-                    ],
-                    "other_info": {
-                        "carNumber": "Olivier_Liégeois",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "MBA"
-                    }
-                },
-                "Stefano_Caracchi": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Stefano_Caracchi"
-                    ],
-                    "other_info": {
-                        "carNumber": "Stefano_Caracchi",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "MBA"
-                    }
-                }
-            }
-        },
-        "British Grand Prix": {
-            "Race": {
-                "Angel_Nieto": {
-                    "position": "1",
-                    "points": 15,
-                    "fastest_lap": "",
-                    "team": "Garelli",
-                    "drivers": [
-                        "Angel_Nieto"
-                    ],
-                    "other_info": {
-                        "carNumber": "Angel_Nieto",
-                        "laps": "20",
-                        "speed": "0",
-                        "constructor": "Garelli",
-                        "time": "33:43.580"
-                    }
-                },
-                "Jean_Claude Selini": {
-                    "position": "2",
-                    "points": 12,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Jean_Claude Selini"
-                    ],
-                    "other_info": {
-                        "carNumber": "Jean_Claude Selini",
-                        "laps": "20",
-                        "speed": "0",
-                        "constructor": "MBA",
-                        "time": "33:49.210",
-                        "gap": "+5.630"
-                    }
-                },
-                "Fausto_Gresini": {
-                    "position": "3",
-                    "points": 10,
-                    "fastest_lap": "",
-                    "team": "Garelli",
-                    "drivers": [
-                        "Fausto_Gresini"
-                    ],
-                    "other_info": {
-                        "carNumber": "Fausto_Gresini",
-                        "laps": "20",
-                        "speed": "0",
-                        "constructor": "Garelli",
-                        "time": "33:49.510",
-                        "gap": "+5.930"
-                    }
-                },
-                "Bruno_Kneubühler": {
-                    "position": "4",
-                    "points": 8,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Bruno_Kneubühler"
-                    ],
-                    "other_info": {
-                        "carNumber": "Bruno_Kneubühler",
-                        "laps": "20",
-                        "speed": "0",
-                        "constructor": "MBA",
-                        "time": "33:49.690",
-                        "gap": "+6.110"
-                    }
-                },
-                "Maurizio_Vitali": {
-                    "position": "5",
-                    "points": 6,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Maurizio_Vitali"
-                    ],
-                    "other_info": {
-                        "carNumber": "Maurizio_Vitali",
-                        "laps": "20",
-                        "speed": "0",
-                        "constructor": "MBA",
-                        "time": "34:07.130",
-                        "gap": "+23.550"
-                    }
-                },
-                "Luca_Cadalora": {
-                    "position": "6",
-                    "points": 5,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Luca_Cadalora"
-                    ],
-                    "other_info": {
-                        "carNumber": "Luca_Cadalora",
-                        "laps": "20",
-                        "speed": "0",
-                        "constructor": "MBA",
-                        "time": "34:07.280",
-                        "gap": "+23.700"
-                    }
-                },
-                "Olivier_Liégeois": {
-                    "position": "7",
-                    "points": 4,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Olivier_Liégeois"
-                    ],
-                    "other_info": {
-                        "carNumber": "Olivier_Liégeois",
-                        "laps": "20",
-                        "speed": "0",
-                        "constructor": "MBA",
-                        "time": "34:07.430",
-                        "gap": "+23.850"
-                    }
-                },
-                "Stefano_Caracchi": {
-                    "position": "8",
-                    "points": 3,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Stefano_Caracchi"
-                    ],
-                    "other_info": {
-                        "carNumber": "Stefano_Caracchi",
-                        "laps": "20",
-                        "speed": "0",
-                        "constructor": "MBA",
-                        "time": "34:22.410",
-                        "gap": "+38.830"
-                    }
-                },
-                "Johnny_Wickstroem": {
-                    "position": "9",
-                    "points": 2,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Johnny_Wickstroem"
-                    ],
-                    "other_info": {
-                        "carNumber": "Johnny_Wickstroem",
-                        "laps": "20",
-                        "speed": "0",
-                        "constructor": "MBA",
-                        "time": "34:23.520",
-                        "gap": "+39.940"
-                    }
-                },
-                "Jacques_Hutteau": {
-                    "position": "10",
-                    "points": 1,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Jacques_Hutteau"
-                    ],
-                    "other_info": {
-                        "carNumber": "Jacques_Hutteau",
-                        "laps": "20",
-                        "speed": "0",
-                        "constructor": "MBA",
-                        "time": "34:42.110",
-                        "gap": "+58.530"
-                    }
-                },
-                "Ezio_Gianola": {
-                    "position": "12",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Ezio_Gianola"
-                    ],
-                    "other_info": {
-                        "carNumber": "Ezio_Gianola",
-                        "laps": "20",
-                        "speed": "0",
-                        "constructor": "MBA"
-                    }
-                },
-                "Domenico_Brigaglia": {
-                    "position": "13",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Domenico_Brigaglia"
-                    ],
-                    "other_info": {
-                        "carNumber": "Domenico_Brigaglia",
-                        "laps": "20",
-                        "speed": "0",
-                        "constructor": "MBA"
-                    }
-                },
-                "Mike_Leitner": {
-                    "position": "14",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Mike_Leitner"
-                    ],
-                    "other_info": {
-                        "carNumber": "Mike_Leitner",
-                        "laps": "20",
-                        "speed": "0",
-                        "constructor": "MBA"
-                    }
-                },
-                "Alojz_Pavlic": {
-                    "position": "16",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Seel",
-                    "drivers": [
-                        "Alojz_Pavlic"
-                    ],
-                    "other_info": {
-                        "carNumber": "Alojz_Pavlic",
-                        "laps": "20",
-                        "speed": "0",
-                        "constructor": "Seel"
-                    }
-                },
-                "Giuseppe_Ascareggi": {
-                    "position": "20",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Giuseppe_Ascareggi"
-                    ],
-                    "other_info": {
-                        "carNumber": "Giuseppe_Ascareggi",
-                        "laps": "20",
-                        "speed": "0",
-                        "constructor": "MBA"
-                    }
-                },
-                "Ian_Mcconnachie": {
-                    "position": "21",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Ian_Mcconnachie"
-                    ],
-                    "other_info": {
-                        "carNumber": "Ian_Mcconnachie",
-                        "laps": "20",
-                        "speed": "0",
-                        "constructor": "MBA"
-                    }
-                },
-                "August_Auinger": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "August_Auinger"
-                    ],
-                    "other_info": {
-                        "carNumber": "August_Auinger",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "MBA"
-                    }
-                },
-                "Alex_Bedford": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Alex_Bedford"
-                    ],
-                    "other_info": {
-                        "carNumber": "Alex_Bedford",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "MBA"
-                    }
-                },
-                "Robin_Appleyard": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Robin_Appleyard"
-                    ],
-                    "other_info": {
-                        "carNumber": "Robin_Appleyard",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "MBA"
-                    }
-                },
-                "Willy_Perez": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Willy_Perez"
-                    ],
-                    "other_info": {
-                        "carNumber": "Willy_Perez",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "MBA"
-                    }
-                },
-                "Henk_Van Kessel": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Henk_Van Kessel"
-                    ],
-                    "other_info": {
-                        "carNumber": "Henk_Van Kessel",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "MBA"
-                    }
-                },
-                "Lucio_Pietroniro": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Lucio_Pietroniro"
-                    ],
-                    "other_info": {
-                        "carNumber": "Lucio_Pietroniro",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "MBA"
-                    }
-                },
-                "Eugenio_Lazzarini": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Garelli",
-                    "drivers": [
-                        "Eugenio_Lazzarini"
-                    ],
-                    "other_info": {
-                        "carNumber": "Eugenio_Lazzarini",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Garelli"
-                    }
-                },
-                "Hans_Hummel": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "MBA",
-                    "drivers": [
-                        "Hans_Hummel"
-                    ],
-                    "other_info": {
-                        "carNumber": "Hans_Hummel",
                         "laps": "0",
                         "speed": "0",
                         "constructor": "MBA"

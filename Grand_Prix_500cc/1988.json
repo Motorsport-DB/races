@@ -1,6 +1,752 @@
 {
     "name": "Grand_Prix_500cc",
     "events": {
+        "Japanese Grand Prix": {
+            "Race": {
+                "": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Kevin_Schwantz"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki",
+                        "time": "50:03.750"
+                    }
+                },
+                "#2": {
+                    "position": "2",
+                    "points": 17,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Wayne_Gardner"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda",
+                        "gap": "++8.384"
+                    }
+                },
+                "#3": {
+                    "position": "3",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Eddie_Lawson"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "gap": "++12.724"
+                    }
+                },
+                "#4": {
+                    "position": "4",
+                    "points": 13,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Niall_Mackenzie"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda",
+                        "gap": "++15.785"
+                    }
+                },
+                "#5": {
+                    "position": "5",
+                    "points": 11,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Tadahiko_Taira"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "gap": "++36.383"
+                    }
+                },
+                "#6": {
+                    "position": "6",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Wayne_Rainey"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "gap": "++42.070"
+                    }
+                },
+                "#7": {
+                    "position": "7",
+                    "points": 9,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Kevin_Magee"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "gap": "++42.179"
+                    }
+                },
+                "#8": {
+                    "position": "8",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Christian_Sarron"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "gap": "++45.186"
+                    }
+                },
+                "#9": {
+                    "position": "9",
+                    "points": 7,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Didier_de Radiguès"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "gap": "++1:01.213"
+                    }
+                },
+                "#10": {
+                    "position": "10",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Shunji_Yatsushiro"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda",
+                        "gap": "++1:10.228"
+                    }
+                },
+                "#11": {
+                    "position": "11",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Hikaru_Miyagi"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda",
+                        "gap": "++1:16.201"
+                    }
+                },
+                "#12": {
+                    "position": "12",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "Elf-Honda",
+                    "drivers": [
+                        "Ron_Haslam"
+                    ],
+                    "other_info": {
+                        "constructor": "Elf Honda",
+                        "gap": "++1:20.045"
+                    }
+                },
+                "#13": {
+                    "position": "13",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Patrick_Igoa"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "gap": "++1:29.535"
+                    }
+                },
+                "#14": {
+                    "position": "14",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Pierfrancesco_Chili"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda",
+                        "gap": "++1:38.989"
+                    }
+                },
+                "#15": {
+                    "position": "15",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Osamu_Hiwatashi"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki",
+                        "gap": "++1:42.545"
+                    }
+                },
+                "#16": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Shinji_Katayama"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "gap": "++1:43.611"
+                    }
+                },
+                "#17": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Masaru_Mizutani"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki",
+                        "gap": "++2:04.446"
+                    }
+                },
+                "#18": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Keiji_Kinoshita"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda",
+                        "gap": "++1 Lap"
+                    }
+                },
+                "#19": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Alessandro_Valesi"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda",
+                        "gap": "++1 Lap"
+                    }
+                },
+                "#20": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Cagiva",
+                    "drivers": [
+                        "Raymond_Roche"
+                    ],
+                    "other_info": {
+                        "constructor": "Cagiva"
+                    }
+                },
+                "#21": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Rob_Mcelnea"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki"
+                    }
+                },
+                "#22": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Katunori_Shinozaki"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki"
+                    }
+                },
+                "#23": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Norihiko_Fujiwara"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                },
+                "#24": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Cagiva",
+                    "drivers": [
+                        "Randy_Mamola"
+                    ],
+                    "other_info": {
+                        "constructor": "Cagiva"
+                    }
+                },
+                "#25": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Hisashi_Yamana"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki"
+                    }
+                },
+                "#26": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Fior",
+                    "drivers": [
+                        "Marco_Gentile"
+                    ],
+                    "other_info": {
+                        "constructor": "Fior"
+                    }
+                },
+                "#27": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Manfred_Fischer"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "#28": {
+                    "position": "DNS",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Fabio_Barchitta"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "#29": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Kunio_Machii"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                }
+            }
+        },
+        "United States Grand Prix": {
+            "Race": {
+                "": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Eddie_Lawson"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "time": "1'00:48.075"
+                    }
+                },
+                "#2": {
+                    "position": "2",
+                    "points": 17,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Wayne_Gardner"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda",
+                        "gap": "++7.539"
+                    }
+                },
+                "#3": {
+                    "position": "3",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Niall_Mackenzie"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda",
+                        "gap": "++8.048"
+                    }
+                },
+                "#4": {
+                    "position": "4",
+                    "points": 13,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Wayne_Rainey"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "gap": "++14.638"
+                    }
+                },
+                "#5": {
+                    "position": "5",
+                    "points": 11,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Kevin_Schwantz"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki",
+                        "gap": "++27.459"
+                    }
+                },
+                "#6": {
+                    "position": "6",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Christian_Sarron"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "gap": "++1:19.207"
+                    }
+                },
+                "#7": {
+                    "position": "7",
+                    "points": 9,
+                    "fastest_lap": "",
+                    "team": "Elf-Honda",
+                    "drivers": [
+                        "Ron_Haslam"
+                    ],
+                    "other_info": {
+                        "constructor": "Elf Honda",
+                        "gap": "++1:30.230"
+                    }
+                },
+                "#8": {
+                    "position": "8",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Didier_de Radiguès"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "gap": "++1 Lap"
+                    }
+                },
+                "#9": {
+                    "position": "9",
+                    "points": 7,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Rob_Mcelnea"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki",
+                        "gap": "++1 Lap"
+                    }
+                },
+                "#10": {
+                    "position": "10",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Mike_Baldwin"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda",
+                        "gap": "++1 Lap"
+                    }
+                },
+                "#11": {
+                    "position": "11",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Alessandro_Valesi"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda",
+                        "gap": "++1 Lap"
+                    }
+                },
+                "#12": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Shunji_Yatsushiro"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "#13": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Cagiva",
+                    "drivers": [
+                        "Raymond_Roche"
+                    ],
+                    "other_info": {
+                        "constructor": "Cagiva"
+                    }
+                },
+                "#14": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Kevin_Magee"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                },
+                "#15": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "John_Long"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                },
+                "#16": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Fior",
+                    "drivers": [
+                        "Marco_Gentile"
+                    ],
+                    "other_info": {
+                        "constructor": "Fior"
+                    }
+                },
+                "#17": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Pierfrancesco_Chili"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "#18": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Eugene_Brown"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki"
+                    }
+                },
+                "#19": {
+                    "position": "DNS",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Patrick_Igoa"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                },
+                "#20": {
+                    "position": "DNS",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Cagiva",
+                    "drivers": [
+                        "Randy_Mamola"
+                    ],
+                    "other_info": {
+                        "constructor": "Cagiva"
+                    }
+                },
+                "#21": {
+                    "position": "DNS",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "William_Knott"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki"
+                    }
+                },
+                "#22": {
+                    "position": "DNS",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Russell_Bigley"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                },
+                "#23": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Larry_Moreno Vacondio"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki"
+                    }
+                },
+                "#24": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Tony_Carey"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki"
+                    }
+                },
+                "#25": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Jim_Poet"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki"
+                    }
+                },
+                "#26": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Fabio_Barchitta"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "#27": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Vincenzo_Cascino"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "#28": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Scott_Gray"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki"
+                    }
+                },
+                "#29": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Freddie_Spencer"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "#30": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "David_Busby"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki"
+                    }
+                }
+            }
+        },
         "Spanish Grand Prix": {
             "Race": {
                 "Kevin_Magee": {
@@ -484,411 +1230,330 @@
                 }
             }
         },
-        "Portuguese Grand Prix": {
+        "Expo 92 Grand Prix": {
             "Race": {
                 "Eddie_Lawson": {
                     "position": "1",
                     "points": 20,
                     "fastest_lap": "",
-                    "team": "Yamaha",
+                    "team": "YZR500",
                     "drivers": [
                         "Eddie_Lawson"
                     ],
                     "other_info": {
-                        "carNumber": "Eddie_Lawson",
-                        "laps": "29",
-                        "speed": "0",
-                        "constructor": "Yamaha",
-                        "time": "53:47.990"
-                    }
-                },
-                "Wayne_Rainey": {
-                    "position": "2",
-                    "points": 17,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "Wayne_Rainey"
-                    ],
-                    "other_info": {
-                        "carNumber": "Wayne_Rainey",
-                        "laps": "29",
-                        "speed": "0",
-                        "constructor": "Yamaha",
-                        "time": "53:49.630",
-                        "gap": "+1.640"
-                    }
-                },
-                "Kevin_Magee": {
-                    "position": "3",
-                    "points": 15,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "Kevin_Magee"
-                    ],
-                    "other_info": {
-                        "carNumber": "Kevin_Magee",
-                        "laps": "29",
-                        "speed": "0",
-                        "constructor": "Yamaha",
-                        "time": "53:55.660",
-                        "gap": "+7.670"
-                    }
-                },
-                "Christian_Sarron": {
-                    "position": "4",
-                    "points": 13,
-                    "fastest_lap": "",
-                    "team": "Yamaha",
-                    "drivers": [
-                        "Christian_Sarron"
-                    ],
-                    "other_info": {
-                        "carNumber": "Christian_Sarron",
-                        "laps": "29",
-                        "speed": "0",
-                        "constructor": "Yamaha",
-                        "time": "53:55.780",
-                        "gap": "+7.790"
+                        "constructor": "YZR500"
                     }
                 },
                 "Wayne_Gardner": {
                     "position": "5",
                     "points": 11,
                     "fastest_lap": "",
-                    "team": "Honda",
+                    "team": "NSR500",
                     "drivers": [
                         "Wayne_Gardner"
                     ],
                     "other_info": {
-                        "carNumber": "Wayne_Gardner",
-                        "laps": "29",
-                        "speed": "0",
-                        "constructor": "Honda",
-                        "time": "54:16.620",
-                        "gap": "+28.630"
+                        "constructor": "NSR500"
                     }
                 },
-                "Didier_de Radiguès": {
-                    "position": "6",
-                    "points": 10,
+                "Wayne_Rainey": {
+                    "position": "2",
+                    "points": 17,
                     "fastest_lap": "",
-                    "team": "Yamaha",
+                    "team": "YZR500",
                     "drivers": [
-                        "Didier_de Radiguès"
+                        "Wayne_Rainey"
                     ],
                     "other_info": {
-                        "carNumber": "Didier_de Radiguès",
-                        "laps": "29",
-                        "speed": "0",
-                        "constructor": "Yamaha",
-                        "time": "54:18.510",
-                        "gap": "+30.520"
+                        "constructor": "YZR500"
+                    }
+                },
+                "Christian_Sarron": {
+                    "position": "4",
+                    "points": 13,
+                    "fastest_lap": "",
+                    "team": "YZR500",
+                    "drivers": [
+                        "Christian_Sarron"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR500"
+                    }
+                },
+                "Kevin_Magee": {
+                    "position": "3",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "YZR500",
+                    "drivers": [
+                        "Kevin_Magee"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR500"
                     }
                 },
                 "Niall_Mackenzie": {
                     "position": "7",
                     "points": 9,
                     "fastest_lap": "",
-                    "team": "Honda",
+                    "team": "NSR500",
                     "drivers": [
                         "Niall_Mackenzie"
                     ],
                     "other_info": {
-                        "carNumber": "Niall_Mackenzie",
-                        "laps": "29",
-                        "speed": "0",
-                        "constructor": "Honda",
-                        "time": "55:00.020",
-                        "gap": "+72.030"
+                        "constructor": "NSR500"
                     }
                 },
-                "Rob_Mcelnea": {
-                    "position": "8",
-                    "points": 8,
+                "Didier_de Radiguès": {
+                    "position": "6",
+                    "points": 10,
                     "fastest_lap": "",
-                    "team": "Suzuki",
+                    "team": "YZR500",
                     "drivers": [
-                        "Rob_Mcelnea"
+                        "Didier_de Radiguès"
                     ],
                     "other_info": {
-                        "carNumber": "Rob_Mcelnea",
-                        "laps": "29",
-                        "speed": "0",
-                        "constructor": "Suzuki",
-                        "time": "55:25.410",
-                        "gap": "+97.420"
-                    }
-                },
-                "Marco_Papa": {
-                    "position": "9",
-                    "points": 7,
-                    "fastest_lap": "",
-                    "team": "Honda",
-                    "drivers": [
-                        "Marco_Papa"
-                    ],
-                    "other_info": {
-                        "carNumber": "Marco_Papa",
-                        "laps": "28",
-                        "speed": "0",
-                        "constructor": "Honda"
-                    }
-                },
-                "Alessandro_Valesi": {
-                    "position": "10",
-                    "points": 6,
-                    "fastest_lap": "",
-                    "team": "Honda",
-                    "drivers": [
-                        "Alessandro_Valesi"
-                    ],
-                    "other_info": {
-                        "carNumber": "Alessandro_Valesi",
-                        "laps": "28",
-                        "speed": "0",
-                        "constructor": "Honda"
-                    }
-                },
-                "Daniel_Amatriain": {
-                    "position": "11",
-                    "points": 5,
-                    "fastest_lap": "",
-                    "team": "Honda",
-                    "drivers": [
-                        "Daniel_Amatriain"
-                    ],
-                    "other_info": {
-                        "carNumber": "Daniel_Amatriain",
-                        "laps": "28",
-                        "speed": "0",
-                        "constructor": "Honda"
-                    }
-                },
-                "Steve_Manley": {
-                    "position": "12",
-                    "points": 4,
-                    "fastest_lap": "",
-                    "team": "Suzuki",
-                    "drivers": [
-                        "Steve_Manley"
-                    ],
-                    "other_info": {
-                        "carNumber": "Steve_Manley",
-                        "laps": "28",
-                        "speed": "0",
-                        "constructor": "Suzuki"
-                    }
-                },
-                "Rachel_Nicotte": {
-                    "position": "13",
-                    "points": 3,
-                    "fastest_lap": "",
-                    "team": "Honda",
-                    "drivers": [
-                        "Rachel_Nicotte"
-                    ],
-                    "other_info": {
-                        "carNumber": "Rachel_Nicotte",
-                        "laps": "28",
-                        "speed": "0",
-                        "constructor": "Honda"
-                    }
-                },
-                "Bruno_Kneubühler": {
-                    "position": "14",
-                    "points": 2,
-                    "fastest_lap": "",
-                    "team": "Honda",
-                    "drivers": [
-                        "Bruno_Kneubühler"
-                    ],
-                    "other_info": {
-                        "carNumber": "Bruno_Kneubühler",
-                        "laps": "27",
-                        "speed": "0",
-                        "constructor": "Honda"
-                    }
-                },
-                "Maarten_Duyzers": {
-                    "position": "15",
-                    "points": 1,
-                    "fastest_lap": "",
-                    "team": "Honda",
-                    "drivers": [
-                        "Maarten_Duyzers"
-                    ],
-                    "other_info": {
-                        "carNumber": "Maarten_Duyzers",
-                        "laps": "27",
-                        "speed": "0",
-                        "constructor": "Honda"
-                    }
-                },
-                "Niggi_Schmassman": {
-                    "position": "16",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Honda",
-                    "drivers": [
-                        "Niggi_Schmassman"
-                    ],
-                    "other_info": {
-                        "carNumber": "Niggi_Schmassman",
-                        "laps": "29",
-                        "speed": "0",
-                        "constructor": "Honda"
-                    }
-                },
-                "Josef_Doppler": {
-                    "position": "17",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Honda",
-                    "drivers": [
-                        "Josef_Doppler"
-                    ],
-                    "other_info": {
-                        "carNumber": "Josef_Doppler",
-                        "laps": "29",
-                        "speed": "0",
-                        "constructor": "Honda"
-                    }
-                },
-                "Ron_Haslam": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Elf-Honda",
-                    "drivers": [
-                        "Ron_Haslam"
-                    ],
-                    "other_info": {
-                        "carNumber": "Ron_Haslam",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Elf-Honda"
-                    }
-                },
-                "Shunji_Yatsushiro": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Honda",
-                    "drivers": [
-                        "Shunji_Yatsushiro"
-                    ],
-                    "other_info": {
-                        "carNumber": "Shunji_Yatsushiro",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Honda"
-                    }
-                },
-                "Eddie_Laycock": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Honda",
-                    "drivers": [
-                        "Eddie_Laycock"
-                    ],
-                    "other_info": {
-                        "carNumber": "Eddie_Laycock",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Honda"
-                    }
-                },
-                "Tony_Carey": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Suzuki",
-                    "drivers": [
-                        "Tony_Carey"
-                    ],
-                    "other_info": {
-                        "carNumber": "Tony_Carey",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Suzuki"
-                    }
-                },
-                "Andy_Leuthe": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Suzuki",
-                    "drivers": [
-                        "Andy_Leuthe"
-                    ],
-                    "other_info": {
-                        "carNumber": "Andy_Leuthe",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Suzuki"
-                    }
-                },
-                "Fabio_Barchitta": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Honda",
-                    "drivers": [
-                        "Fabio_Barchitta"
-                    ],
-                    "other_info": {
-                        "carNumber": "Fabio_Barchitta",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Honda"
-                    }
-                },
-                "Marco_Gentile": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Fior",
-                    "drivers": [
-                        "Marco_Gentile"
-                    ],
-                    "other_info": {
-                        "carNumber": "Marco_Gentile",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Fior"
-                    }
-                },
-                "Raymond_Roche": {
-                    "position": "DNF",
-                    "points": 0,
-                    "fastest_lap": "",
-                    "team": "Cagiva",
-                    "drivers": [
-                        "Raymond_Roche"
-                    ],
-                    "other_info": {
-                        "carNumber": "Raymond_Roche",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Cagiva"
+                        "constructor": "YZR500"
                     }
                 },
                 "Kevin_Schwantz": {
                     "position": "DNF",
                     "points": 0,
                     "fastest_lap": "",
-                    "team": "Suzuki",
+                    "team": "RGV500",
                     "drivers": [
                         "Kevin_Schwantz"
                     ],
                     "other_info": {
-                        "carNumber": "Kevin_Schwantz",
-                        "laps": "0",
-                        "speed": "0",
-                        "constructor": "Suzuki"
+                        "constructor": "RGV500"
+                    }
+                },
+                "Rob_Mcelnea": {
+                    "position": "8",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "RGV500",
+                    "drivers": [
+                        "Rob_Mcelnea"
+                    ],
+                    "other_info": {
+                        "constructor": "RGV500"
+                    }
+                },
+                "Ron_Haslam": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Elf5-RS500",
+                    "drivers": [
+                        "Ron_Haslam"
+                    ],
+                    "other_info": {
+                        "constructor": "Elf5-RS500"
+                    }
+                },
+                "Shunji_Yatsushiro": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "NSR500",
+                    "drivers": [
+                        "Shunji_Yatsushiro"
+                    ],
+                    "other_info": {
+                        "constructor": "NSR500"
+                    }
+                },
+                "Alessandro_Valesi": {
+                    "position": "10",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "RS500",
+                    "drivers": [
+                        "Alessandro_Valesi"
+                    ],
+                    "other_info": {
+                        "constructor": "RS500"
+                    }
+                },
+                "Marco_Papa": {
+                    "position": "9",
+                    "points": 7,
+                    "fastest_lap": "",
+                    "team": "RS500",
+                    "drivers": [
+                        "Marco_Papa"
+                    ],
+                    "other_info": {
+                        "constructor": "RS500"
+                    }
+                },
+                "Raymond_Roche": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "GP500",
+                    "drivers": [
+                        "Raymond_Roche"
+                    ],
+                    "other_info": {
+                        "constructor": "GP500"
+                    }
+                },
+                "Bruno_Kneubühler": {
+                    "position": "14",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "RS500",
+                    "drivers": [
+                        "Bruno_Kneubühler"
+                    ],
+                    "other_info": {
+                        "constructor": "RS500"
+                    }
+                },
+                "Marco_Gentile": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Fior-RS500",
+                    "drivers": [
+                        "Marco_Gentile"
+                    ],
+                    "other_info": {
+                        "constructor": "Fior-RS500"
+                    }
+                },
+                "Daniel_Amatriain": {
+                    "position": "11",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "RS500",
+                    "drivers": [
+                        "Daniel_Amatriain"
+                    ],
+                    "other_info": {
+                        "constructor": "RS500"
+                    }
+                },
+                "Steve_Manley": {
+                    "position": "12",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Steve_Manley"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Rachel_Nicotte": {
+                    "position": "13",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "RS500",
+                    "drivers": [
+                        "Rachel_Nicotte"
+                    ],
+                    "other_info": {
+                        "constructor": "RS500"
+                    }
+                },
+                "Maarten_Duyzers": {
+                    "position": "15",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "RS500",
+                    "drivers": [
+                        "Maarten_Duyzers"
+                    ],
+                    "other_info": {
+                        "constructor": "RS500"
+                    }
+                },
+                "Niggi_Schmassman": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RS500",
+                    "drivers": [
+                        "Niggi_Schmassman"
+                    ],
+                    "other_info": {
+                        "constructor": "RS500"
+                    }
+                },
+                "Andreas_Leuthe": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Andreas_Leuthe"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Josef_Doppler": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RS500",
+                    "drivers": [
+                        "Josef_Doppler"
+                    ],
+                    "other_info": {
+                        "constructor": "RS500"
+                    }
+                },
+                "Eddie_Laycock": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RS500",
+                    "drivers": [
+                        "Eddie_Laycock"
+                    ],
+                    "other_info": {
+                        "constructor": "RS500"
+                    }
+                },
+                "Ian_Pratt": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Ian_Pratt"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Larry_Moreno Vacondio": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RS500",
+                    "drivers": [
+                        "Larry_Moreno Vacondio"
+                    ],
+                    "other_info": {
+                        "constructor": "RS500"
+                    }
+                },
+                "Tony_Carey": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Tony_Carey"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
                     }
                 }
             }
@@ -1909,6 +2574,415 @@
                         "carNumber": "Peter_Linden",
                         "laps": "0",
                         "speed": "0",
+                        "constructor": "Honda"
+                    }
+                }
+            }
+        },
+        "Austrian Grand Prix": {
+            "Race": {
+                "": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Eddie_Lawson"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "time": "39:40.630"
+                    }
+                },
+                "#2": {
+                    "position": "2",
+                    "points": 17,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Didier_de Radiguès"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "gap": "++2.790"
+                    }
+                },
+                "#3": {
+                    "position": "3",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Wayne_Rainey"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "gap": "++12.550"
+                    }
+                },
+                "#4": {
+                    "position": "4",
+                    "points": 13,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Kevin_Schwantz"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki",
+                        "gap": "++13.590"
+                    }
+                },
+                "#5": {
+                    "position": "5",
+                    "points": 11,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Pierfrancesco_Chili"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda",
+                        "gap": "++19.310"
+                    }
+                },
+                "#6": {
+                    "position": "6",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Kevin_Magee"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "gap": "++22.070"
+                    }
+                },
+                "#7": {
+                    "position": "7",
+                    "points": 9,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Shunji_Yatsushiro"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda",
+                        "gap": "++26.830"
+                    }
+                },
+                "#8": {
+                    "position": "8",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Elf-Honda",
+                    "drivers": [
+                        "Ron_Haslam"
+                    ],
+                    "other_info": {
+                        "constructor": "Elf Honda",
+                        "gap": "++59.450"
+                    }
+                },
+                "#9": {
+                    "position": "9",
+                    "points": 7,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Rob_Mcelnea"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki",
+                        "gap": "++1:00.370"
+                    }
+                },
+                "#10": {
+                    "position": "10",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Patrick_Igoa"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha",
+                        "gap": "++1:07.660"
+                    }
+                },
+                "#11": {
+                    "position": "11",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Gustav_Reiner"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda",
+                        "gap": "++1 Lap"
+                    }
+                },
+                "#12": {
+                    "position": "12",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Bruno_Kneubühler"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda",
+                        "gap": "++1 Lap"
+                    }
+                },
+                "#13": {
+                    "position": "13",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Fabio_Biliotti"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda",
+                        "gap": "++1 Lap"
+                    }
+                },
+                "#14": {
+                    "position": "14",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "Cagiva",
+                    "drivers": [
+                        "Massimo_Broccoli"
+                    ],
+                    "other_info": {
+                        "constructor": "Cagiva",
+                        "gap": "++1 Lap"
+                    }
+                },
+                "#15": {
+                    "position": "15",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Manfred_Fischer"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda",
+                        "gap": "++1 Lap"
+                    }
+                },
+                "#16": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Andreas_Leuthe"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki",
+                        "gap": "++1 Lap"
+                    }
+                },
+                "#17": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Franz_Holzmeier"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda",
+                        "gap": "++1 Lap"
+                    }
+                },
+                "#18": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Josef_Doppler"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda",
+                        "gap": "++1 Lap"
+                    }
+                },
+                "#19": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Niggi_Schmassman"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda",
+                        "gap": "++1 Lap"
+                    }
+                },
+                "#20": {
+                    "position": "20",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Georg_Robert Jung"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda",
+                        "gap": "++1 Lap"
+                    }
+                },
+                "#21": {
+                    "position": "21",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Helmut_Schutz"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda",
+                        "gap": "++1 Lap"
+                    }
+                },
+                "#22": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Alessandro_Valesi"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "#23": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Larry_Moreno Vacondio"
+                    ],
+                    "other_info": {
+                        "constructor": "Suzuki"
+                    }
+                },
+                "#24": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Cagiva",
+                    "drivers": [
+                        "Randy_Mamola"
+                    ],
+                    "other_info": {
+                        "constructor": "Cagiva"
+                    }
+                },
+                "#25": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Christopher_Burki"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "#26": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Marco_Papa"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "#27": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Fior",
+                    "drivers": [
+                        "Marco_Gentile"
+                    ],
+                    "other_info": {
+                        "constructor": "Fior"
+                    }
+                },
+                "#28": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Christian_Sarron"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                },
+                "#29": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Daniel_Amatriain"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "#30": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Fior",
+                    "drivers": [
+                        "Wayne_Gardner"
+                    ],
+                    "other_info": {
+                        "constructor": "Fior"
+                    }
+                },
+                "#31": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Niall_Mackenzie"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "#32": {
+                    "position": "DNS",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Silvo_Habat"
+                    ],
+                    "other_info": {
                         "constructor": "Honda"
                     }
                 }
@@ -3182,6 +4256,878 @@
                 }
             }
         },
+        "French Grand Prix": {
+            "Race": {
+                "Eddie_Lawson": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "YZR500",
+                    "drivers": [
+                        "Eddie_Lawson"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR500"
+                    }
+                },
+                "Wayne_Gardner": {
+                    "position": "4",
+                    "points": 13,
+                    "fastest_lap": "",
+                    "team": "NSR500",
+                    "drivers": [
+                        "Wayne_Gardner"
+                    ],
+                    "other_info": {
+                        "constructor": "NSR500"
+                    }
+                },
+                "Wayne_Rainey": {
+                    "position": "5",
+                    "points": 11,
+                    "fastest_lap": "",
+                    "team": "YZR500",
+                    "drivers": [
+                        "Wayne_Rainey"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR500"
+                    }
+                },
+                "Christian_Sarron": {
+                    "position": "2",
+                    "points": 17,
+                    "fastest_lap": "",
+                    "team": "YZR500",
+                    "drivers": [
+                        "Christian_Sarron"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR500"
+                    }
+                },
+                "Kevin_Magee": {
+                    "position": "9",
+                    "points": 7,
+                    "fastest_lap": "",
+                    "team": "YZR500",
+                    "drivers": [
+                        "Kevin_Magee"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR500"
+                    }
+                },
+                "Niall_Mackenzie": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "NSR500",
+                    "drivers": [
+                        "Niall_Mackenzie"
+                    ],
+                    "other_info": {
+                        "constructor": "NSR500"
+                    }
+                },
+                "Didier_de Radiguès": {
+                    "position": "7",
+                    "points": 9,
+                    "fastest_lap": "",
+                    "team": "YZR500",
+                    "drivers": [
+                        "Didier_de Radiguès"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR500"
+                    }
+                },
+                "Kevin_Schwantz": {
+                    "position": "3",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "RGV500",
+                    "drivers": [
+                        "Kevin_Schwantz"
+                    ],
+                    "other_info": {
+                        "constructor": "RGV500"
+                    }
+                },
+                "Pierfrancesco_Chili": {
+                    "position": "8",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "NSR500",
+                    "drivers": [
+                        "Pierfrancesco_Chili"
+                    ],
+                    "other_info": {
+                        "constructor": "NSR500"
+                    }
+                },
+                "Rob_Mcelnea": {
+                    "position": "11",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "RGV500",
+                    "drivers": [
+                        "Rob_Mcelnea"
+                    ],
+                    "other_info": {
+                        "constructor": "RGV500"
+                    }
+                },
+                "Ron_Haslam": {
+                    "position": "10",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Elf5-RS500",
+                    "drivers": [
+                        "Ron_Haslam"
+                    ],
+                    "other_info": {
+                        "constructor": "Elf5-RS500"
+                    }
+                },
+                "Randy_Mamola": {
+                    "position": "6",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "GP500",
+                    "drivers": [
+                        "Randy_Mamola"
+                    ],
+                    "other_info": {
+                        "constructor": "GP500"
+                    }
+                },
+                "Shunji_Yatsushiro": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "NSR500",
+                    "drivers": [
+                        "Shunji_Yatsushiro"
+                    ],
+                    "other_info": {
+                        "constructor": "NSR500"
+                    }
+                },
+                "Patrick_Igoa": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR500",
+                    "drivers": [
+                        "Patrick_Igoa"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR500"
+                    }
+                },
+                "Alessandro_Valesi": {
+                    "position": "14",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "RS500",
+                    "drivers": [
+                        "Alessandro_Valesi"
+                    ],
+                    "other_info": {
+                        "constructor": "RS500"
+                    }
+                },
+                "Marco_Papa": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RS500",
+                    "drivers": [
+                        "Marco_Papa"
+                    ],
+                    "other_info": {
+                        "constructor": "RS500"
+                    }
+                },
+                "Mike_Baldwin": {
+                    "position": "13",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "RS500",
+                    "drivers": [
+                        "Mike_Baldwin"
+                    ],
+                    "other_info": {
+                        "constructor": "RS500"
+                    }
+                },
+                "Raymond_Roche": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "GP500",
+                    "drivers": [
+                        "Raymond_Roche"
+                    ],
+                    "other_info": {
+                        "constructor": "GP500"
+                    }
+                },
+                "Fabio_Barchitta": {
+                    "position": "15",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "RS500",
+                    "drivers": [
+                        "Fabio_Barchitta"
+                    ],
+                    "other_info": {
+                        "constructor": "RS500"
+                    }
+                },
+                "Bruno_Kneubühler": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RS500",
+                    "drivers": [
+                        "Bruno_Kneubühler"
+                    ],
+                    "other_info": {
+                        "constructor": "RS500"
+                    }
+                },
+                "Donnie_Mcleod": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RS500",
+                    "drivers": [
+                        "Donnie_Mcleod"
+                    ],
+                    "other_info": {
+                        "constructor": "RS500"
+                    }
+                },
+                "Marco_Gentile": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Fior-RS500",
+                    "drivers": [
+                        "Marco_Gentile"
+                    ],
+                    "other_info": {
+                        "constructor": "Fior-RS500"
+                    }
+                },
+                "Daniel_Amatriain": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RS500",
+                    "drivers": [
+                        "Daniel_Amatriain"
+                    ],
+                    "other_info": {
+                        "constructor": "RS500"
+                    }
+                },
+                "Malcolm_Campbell": {
+                    "position": "12",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "Elf5-RS500",
+                    "drivers": [
+                        "Malcolm_Campbell"
+                    ],
+                    "other_info": {
+                        "constructor": "Elf5-RS500"
+                    }
+                },
+                "Fabio_Biliotti": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Paton-RS500",
+                    "drivers": [
+                        "Fabio_Biliotti"
+                    ],
+                    "other_info": {
+                        "constructor": "Paton-RS500"
+                    }
+                },
+                "Rachel_Nicotte": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RS500",
+                    "drivers": [
+                        "Rachel_Nicotte"
+                    ],
+                    "other_info": {
+                        "constructor": "RS500"
+                    }
+                },
+                "Maarten_Duyzers": {
+                    "position": "24",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RS500",
+                    "drivers": [
+                        "Maarten_Duyzers"
+                    ],
+                    "other_info": {
+                        "constructor": "RS500"
+                    }
+                },
+                "Manfred_Fischer": {
+                    "position": "20",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RS500",
+                    "drivers": [
+                        "Manfred_Fischer"
+                    ],
+                    "other_info": {
+                        "constructor": "RS500"
+                    }
+                },
+                "Niggi_Schmassman": {
+                    "position": "23",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RS500",
+                    "drivers": [
+                        "Niggi_Schmassman"
+                    ],
+                    "other_info": {
+                        "constructor": "RS500"
+                    }
+                },
+                "Eddie_Laycock": {
+                    "position": "21",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RS500",
+                    "drivers": [
+                        "Eddie_Laycock"
+                    ],
+                    "other_info": {
+                        "constructor": "RS500"
+                    }
+                },
+                "Wolfgang_van Muralt": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Wolfgang_van Muralt"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Jean_Luc Demierre": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Jean_Luc Demierre"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Claude_Arciero": {
+                    "position": "22",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RS500",
+                    "drivers": [
+                        "Claude_Arciero"
+                    ],
+                    "other_info": {
+                        "constructor": "RS500"
+                    }
+                },
+                "Vittorio_Scatola": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Paton-RS500",
+                    "drivers": [
+                        "Vittorio_Scatola"
+                    ],
+                    "other_info": {
+                        "constructor": "Paton-RS500"
+                    }
+                },
+                "Eric_Sabatier": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RS500",
+                    "drivers": [
+                        "Eric_Sabatier"
+                    ],
+                    "other_info": {
+                        "constructor": "RS500"
+                    }
+                },
+                "Thierry_Rapicault": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Fior-RS500",
+                    "drivers": [
+                        "Thierry_Rapicault"
+                    ],
+                    "other_info": {
+                        "constructor": "Fior-RS500"
+                    }
+                }
+            }
+        },
+        "British Grand Prix": {
+            "Race": {
+                "Eddie_Lawson": {
+                    "position": "6",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "YZR500",
+                    "drivers": [
+                        "Eddie_Lawson"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR500"
+                    }
+                },
+                "Wayne_Gardner": {
+                    "position": "2",
+                    "points": 17,
+                    "fastest_lap": "",
+                    "team": "NSR500",
+                    "drivers": [
+                        "Wayne_Gardner"
+                    ],
+                    "other_info": {
+                        "constructor": "NSR500"
+                    }
+                },
+                "Wayne_Rainey": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "YZR500",
+                    "drivers": [
+                        "Wayne_Rainey"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR500"
+                    }
+                },
+                "Christian_Sarron": {
+                    "position": "3",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "YZR500",
+                    "drivers": [
+                        "Christian_Sarron"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR500"
+                    }
+                },
+                "Kevin_Magee": {
+                    "position": "5",
+                    "points": 11,
+                    "fastest_lap": "",
+                    "team": "YZR500",
+                    "drivers": [
+                        "Kevin_Magee"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR500"
+                    }
+                },
+                "Niall_Mackenzie": {
+                    "position": "4",
+                    "points": 13,
+                    "fastest_lap": "",
+                    "team": "NSR500",
+                    "drivers": [
+                        "Niall_Mackenzie"
+                    ],
+                    "other_info": {
+                        "constructor": "NSR500"
+                    }
+                },
+                "Didier_de Radiguès": {
+                    "position": "7",
+                    "points": 9,
+                    "fastest_lap": "",
+                    "team": "YZR500",
+                    "drivers": [
+                        "Didier_de Radiguès"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR500"
+                    }
+                },
+                "Kevin_Schwantz": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RGV500",
+                    "drivers": [
+                        "Kevin_Schwantz"
+                    ],
+                    "other_info": {
+                        "constructor": "RGV500"
+                    }
+                },
+                "Pierfrancesco_Chili": {
+                    "position": "8",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "NSR500",
+                    "drivers": [
+                        "Pierfrancesco_Chili"
+                    ],
+                    "other_info": {
+                        "constructor": "NSR500"
+                    }
+                },
+                "Rob_Mcelnea": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RGV500",
+                    "drivers": [
+                        "Rob_Mcelnea"
+                    ],
+                    "other_info": {
+                        "constructor": "RGV500"
+                    }
+                },
+                "Ron_Haslam": {
+                    "position": "14",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "Elf5-RS500",
+                    "drivers": [
+                        "Ron_Haslam"
+                    ],
+                    "other_info": {
+                        "constructor": "Elf5-RS500"
+                    }
+                },
+                "Randy_Mamola": {
+                    "position": "11",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "GP500",
+                    "drivers": [
+                        "Randy_Mamola"
+                    ],
+                    "other_info": {
+                        "constructor": "GP500"
+                    }
+                },
+                "Patrick_Igoa": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR500",
+                    "drivers": [
+                        "Patrick_Igoa"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR500"
+                    }
+                },
+                "Tadahiko_Taira": {
+                    "position": "10",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "YZR500",
+                    "drivers": [
+                        "Tadahiko_Taira"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR500"
+                    }
+                },
+                "Alessandro_Valesi": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RS500",
+                    "drivers": [
+                        "Alessandro_Valesi"
+                    ],
+                    "other_info": {
+                        "constructor": "RS500"
+                    }
+                },
+                "Marco_Papa": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RS500",
+                    "drivers": [
+                        "Marco_Papa"
+                    ],
+                    "other_info": {
+                        "constructor": "RS500"
+                    }
+                },
+                "Roger_Burnett": {
+                    "position": "9",
+                    "points": 7,
+                    "fastest_lap": "",
+                    "team": "NSR500",
+                    "drivers": [
+                        "Roger_Burnett"
+                    ],
+                    "other_info": {
+                        "constructor": "NSR500"
+                    }
+                },
+                "Mike_Baldwin": {
+                    "position": "13",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "RS500",
+                    "drivers": [
+                        "Mike_Baldwin"
+                    ],
+                    "other_info": {
+                        "constructor": "RS500"
+                    }
+                },
+                "Raymond_Roche": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "GP500",
+                    "drivers": [
+                        "Raymond_Roche"
+                    ],
+                    "other_info": {
+                        "constructor": "GP500"
+                    }
+                },
+                "Fabio_Barchitta": {
+                    "position": "18",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RS500",
+                    "drivers": [
+                        "Fabio_Barchitta"
+                    ],
+                    "other_info": {
+                        "constructor": "RS500"
+                    }
+                },
+                "Bruno_Kneubühler": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RS500",
+                    "drivers": [
+                        "Bruno_Kneubühler"
+                    ],
+                    "other_info": {
+                        "constructor": "RS500"
+                    }
+                },
+                "Marco_Gentile": {
+                    "position": "20",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Fior-RS500",
+                    "drivers": [
+                        "Marco_Gentile"
+                    ],
+                    "other_info": {
+                        "constructor": "Fior-RS500"
+                    }
+                },
+                "Daniel_Amatriain": {
+                    "position": "19",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RS500",
+                    "drivers": [
+                        "Daniel_Amatriain"
+                    ],
+                    "other_info": {
+                        "constructor": "RS500"
+                    }
+                },
+                "Norihiko_Fujiwara": {
+                    "position": "12",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "YZR500",
+                    "drivers": [
+                        "Norihiko_Fujiwara"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR500"
+                    }
+                },
+                "Fabio_Biliotti": {
+                    "position": "15",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "Paton-RS500",
+                    "drivers": [
+                        "Fabio_Biliotti"
+                    ],
+                    "other_info": {
+                        "constructor": "Paton-RS500"
+                    }
+                },
+                "Rachel_Nicotte": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RS500",
+                    "drivers": [
+                        "Rachel_Nicotte"
+                    ],
+                    "other_info": {
+                        "constructor": "RS500"
+                    }
+                },
+                "Maarten_Duyzers": {
+                    "position": "22",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RS500",
+                    "drivers": [
+                        "Maarten_Duyzers"
+                    ],
+                    "other_info": {
+                        "constructor": "RS500"
+                    }
+                },
+                "Niggi_Schmassman": {
+                    "position": "25",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RS500",
+                    "drivers": [
+                        "Niggi_Schmassman"
+                    ],
+                    "other_info": {
+                        "constructor": "RS500"
+                    }
+                },
+                "Andreas_Leuthe": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Andreas_Leuthe"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Eddie_Laycock": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RS500",
+                    "drivers": [
+                        "Eddie_Laycock"
+                    ],
+                    "other_info": {
+                        "constructor": "RS500"
+                    }
+                },
+                "Wolfgang_van Muralt": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Wolfgang_van Muralt"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Kees_van der Endt": {
+                    "position": "24",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RS500",
+                    "drivers": [
+                        "Kees_van der Endt"
+                    ],
+                    "other_info": {
+                        "constructor": "RS500"
+                    }
+                },
+                "Dave_Leach": {
+                    "position": "21",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Dave_Leach"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Simon_Buckmaster": {
+                    "position": "23",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RS500",
+                    "drivers": [
+                        "Simon_Buckmaster"
+                    ],
+                    "other_info": {
+                        "constructor": "RS500"
+                    }
+                },
+                "Darren_Dixon": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Darren_Dixon"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                },
+                "Steve_Spray": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RG500",
+                    "drivers": [
+                        "Steve_Spray"
+                    ],
+                    "other_info": {
+                        "constructor": "RG500"
+                    }
+                }
+            }
+        },
         "Swedish Grand Prix": {
             "Race": {
                 "Eddie_Lawson": {
@@ -4138,6 +6084,659 @@
                         "laps": "0",
                         "speed": "0",
                         "constructor": "Yamaha"
+                    }
+                }
+            }
+        },
+        "Brazilian Grand Prix": {
+            "Race": {
+                "Eddie_Lawson": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "YZR500",
+                    "drivers": [
+                        "Eddie_Lawson"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR500"
+                    }
+                },
+                "Wayne_Gardner": {
+                    "position": "2",
+                    "points": 17,
+                    "fastest_lap": "",
+                    "team": "NSR500",
+                    "drivers": [
+                        "Wayne_Gardner"
+                    ],
+                    "other_info": {
+                        "constructor": "NSR500"
+                    }
+                },
+                "Wayne_Rainey": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "YZR500",
+                    "drivers": [
+                        "Wayne_Rainey"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR500"
+                    }
+                },
+                "Christian_Sarron": {
+                    "position": "5",
+                    "points": 11,
+                    "fastest_lap": "",
+                    "team": "YZR500",
+                    "drivers": [
+                        "Christian_Sarron"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR500"
+                    }
+                },
+                "Kevin_Magee": {
+                    "position": "6",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "YZR500",
+                    "drivers": [
+                        "Kevin_Magee"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR500"
+                    }
+                },
+                "Niall_Mackenzie": {
+                    "position": "4",
+                    "points": 13,
+                    "fastest_lap": "",
+                    "team": "NSR500",
+                    "drivers": [
+                        "Niall_Mackenzie"
+                    ],
+                    "other_info": {
+                        "constructor": "NSR500"
+                    }
+                },
+                "Didier_de Radiguès": {
+                    "position": "9",
+                    "points": 7,
+                    "fastest_lap": "",
+                    "team": "YZR500",
+                    "drivers": [
+                        "Didier_de Radiguès"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR500"
+                    }
+                },
+                "Kevin_Schwantz": {
+                    "position": "3",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "RGV500",
+                    "drivers": [
+                        "Kevin_Schwantz"
+                    ],
+                    "other_info": {
+                        "constructor": "RGV500"
+                    }
+                },
+                "Pierfrancesco_Chili": {
+                    "position": "7",
+                    "points": 9,
+                    "fastest_lap": "",
+                    "team": "NSR500",
+                    "drivers": [
+                        "Pierfrancesco_Chili"
+                    ],
+                    "other_info": {
+                        "constructor": "NSR500"
+                    }
+                },
+                "Rob_Mcelnea": {
+                    "position": "8",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "RGV500",
+                    "drivers": [
+                        "Rob_Mcelnea"
+                    ],
+                    "other_info": {
+                        "constructor": "RGV500"
+                    }
+                },
+                "Ron_Haslam": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Elf5-RS500",
+                    "drivers": [
+                        "Ron_Haslam"
+                    ],
+                    "other_info": {
+                        "constructor": "Elf5-RS500"
+                    }
+                },
+                "Randy_Mamola": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "GP500",
+                    "drivers": [
+                        "Randy_Mamola"
+                    ],
+                    "other_info": {
+                        "constructor": "GP500"
+                    }
+                },
+                "Patrick_Igoa": {
+                    "position": "10",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "YZR500",
+                    "drivers": [
+                        "Patrick_Igoa"
+                    ],
+                    "other_info": {
+                        "constructor": "YZR500"
+                    }
+                },
+                "Alessandro_Valesi": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RS500",
+                    "drivers": [
+                        "Alessandro_Valesi"
+                    ],
+                    "other_info": {
+                        "constructor": "RS500"
+                    }
+                },
+                "Roger_Burnett": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "NSR500",
+                    "drivers": [
+                        "Roger_Burnett"
+                    ],
+                    "other_info": {
+                        "constructor": "NSR500"
+                    }
+                },
+                "Fabio_Barchitta": {
+                    "position": "11",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "RS500",
+                    "drivers": [
+                        "Fabio_Barchitta"
+                    ],
+                    "other_info": {
+                        "constructor": "RS500"
+                    }
+                },
+                "Bruno_Kneubühler": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "RS500",
+                    "drivers": [
+                        "Bruno_Kneubühler"
+                    ],
+                    "other_info": {
+                        "constructor": "RS500"
+                    }
+                },
+                "Donnie_Mcleod": {
+                    "position": "13",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "RS500",
+                    "drivers": [
+                        "Donnie_Mcleod"
+                    ],
+                    "other_info": {
+                        "constructor": "RS500"
+                    }
+                },
+                "Marco_Gentile": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Fior-RS500",
+                    "drivers": [
+                        "Marco_Gentile"
+                    ],
+                    "other_info": {
+                        "constructor": "Fior-RS500"
+                    }
+                },
+                "Francisco_Gonzales": {
+                    "position": "12",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "RS500",
+                    "drivers": [
+                        "Francisco_Gonzales"
+                    ],
+                    "other_info": {
+                        "constructor": "RS500"
+                    }
+                }
+            }
+        },
+        "Portuguese Grand Prix": {
+            "Race": {
+                "Eddie_Lawson": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Eddie_Lawson"
+                    ],
+                    "other_info": {
+                        "carNumber": "Eddie_Lawson",
+                        "laps": "29",
+                        "speed": "0",
+                        "constructor": "Yamaha",
+                        "time": "53:47.990"
+                    }
+                },
+                "Wayne_Rainey": {
+                    "position": "2",
+                    "points": 17,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Wayne_Rainey"
+                    ],
+                    "other_info": {
+                        "carNumber": "Wayne_Rainey",
+                        "laps": "29",
+                        "speed": "0",
+                        "constructor": "Yamaha",
+                        "time": "53:49.630",
+                        "gap": "+1.640"
+                    }
+                },
+                "Kevin_Magee": {
+                    "position": "3",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Kevin_Magee"
+                    ],
+                    "other_info": {
+                        "carNumber": "Kevin_Magee",
+                        "laps": "29",
+                        "speed": "0",
+                        "constructor": "Yamaha",
+                        "time": "53:55.660",
+                        "gap": "+7.670"
+                    }
+                },
+                "Christian_Sarron": {
+                    "position": "4",
+                    "points": 13,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Christian_Sarron"
+                    ],
+                    "other_info": {
+                        "carNumber": "Christian_Sarron",
+                        "laps": "29",
+                        "speed": "0",
+                        "constructor": "Yamaha",
+                        "time": "53:55.780",
+                        "gap": "+7.790"
+                    }
+                },
+                "Wayne_Gardner": {
+                    "position": "5",
+                    "points": 11,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Wayne_Gardner"
+                    ],
+                    "other_info": {
+                        "carNumber": "Wayne_Gardner",
+                        "laps": "29",
+                        "speed": "0",
+                        "constructor": "Honda",
+                        "time": "54:16.620",
+                        "gap": "+28.630"
+                    }
+                },
+                "Didier_de Radiguès": {
+                    "position": "6",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Didier_de Radiguès"
+                    ],
+                    "other_info": {
+                        "carNumber": "Didier_de Radiguès",
+                        "laps": "29",
+                        "speed": "0",
+                        "constructor": "Yamaha",
+                        "time": "54:18.510",
+                        "gap": "+30.520"
+                    }
+                },
+                "Niall_Mackenzie": {
+                    "position": "7",
+                    "points": 9,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Niall_Mackenzie"
+                    ],
+                    "other_info": {
+                        "carNumber": "Niall_Mackenzie",
+                        "laps": "29",
+                        "speed": "0",
+                        "constructor": "Honda",
+                        "time": "55:00.020",
+                        "gap": "+72.030"
+                    }
+                },
+                "Rob_Mcelnea": {
+                    "position": "8",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Rob_Mcelnea"
+                    ],
+                    "other_info": {
+                        "carNumber": "Rob_Mcelnea",
+                        "laps": "29",
+                        "speed": "0",
+                        "constructor": "Suzuki",
+                        "time": "55:25.410",
+                        "gap": "+97.420"
+                    }
+                },
+                "Marco_Papa": {
+                    "position": "9",
+                    "points": 7,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Marco_Papa"
+                    ],
+                    "other_info": {
+                        "carNumber": "Marco_Papa",
+                        "laps": "28",
+                        "speed": "0",
+                        "constructor": "Honda"
+                    }
+                },
+                "Alessandro_Valesi": {
+                    "position": "10",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Alessandro_Valesi"
+                    ],
+                    "other_info": {
+                        "carNumber": "Alessandro_Valesi",
+                        "laps": "28",
+                        "speed": "0",
+                        "constructor": "Honda"
+                    }
+                },
+                "Daniel_Amatriain": {
+                    "position": "11",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Daniel_Amatriain"
+                    ],
+                    "other_info": {
+                        "carNumber": "Daniel_Amatriain",
+                        "laps": "28",
+                        "speed": "0",
+                        "constructor": "Honda"
+                    }
+                },
+                "Steve_Manley": {
+                    "position": "12",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Steve_Manley"
+                    ],
+                    "other_info": {
+                        "carNumber": "Steve_Manley",
+                        "laps": "28",
+                        "speed": "0",
+                        "constructor": "Suzuki"
+                    }
+                },
+                "Rachel_Nicotte": {
+                    "position": "13",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Rachel_Nicotte"
+                    ],
+                    "other_info": {
+                        "carNumber": "Rachel_Nicotte",
+                        "laps": "28",
+                        "speed": "0",
+                        "constructor": "Honda"
+                    }
+                },
+                "Bruno_Kneubühler": {
+                    "position": "14",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Bruno_Kneubühler"
+                    ],
+                    "other_info": {
+                        "carNumber": "Bruno_Kneubühler",
+                        "laps": "27",
+                        "speed": "0",
+                        "constructor": "Honda"
+                    }
+                },
+                "Maarten_Duyzers": {
+                    "position": "15",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Maarten_Duyzers"
+                    ],
+                    "other_info": {
+                        "carNumber": "Maarten_Duyzers",
+                        "laps": "27",
+                        "speed": "0",
+                        "constructor": "Honda"
+                    }
+                },
+                "Niggi_Schmassman": {
+                    "position": "16",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Niggi_Schmassman"
+                    ],
+                    "other_info": {
+                        "carNumber": "Niggi_Schmassman",
+                        "laps": "29",
+                        "speed": "0",
+                        "constructor": "Honda"
+                    }
+                },
+                "Josef_Doppler": {
+                    "position": "17",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Josef_Doppler"
+                    ],
+                    "other_info": {
+                        "carNumber": "Josef_Doppler",
+                        "laps": "29",
+                        "speed": "0",
+                        "constructor": "Honda"
+                    }
+                },
+                "Ron_Haslam": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Elf-Honda",
+                    "drivers": [
+                        "Ron_Haslam"
+                    ],
+                    "other_info": {
+                        "carNumber": "Ron_Haslam",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Elf-Honda"
+                    }
+                },
+                "Shunji_Yatsushiro": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Shunji_Yatsushiro"
+                    ],
+                    "other_info": {
+                        "carNumber": "Shunji_Yatsushiro",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Honda"
+                    }
+                },
+                "Eddie_Laycock": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Eddie_Laycock"
+                    ],
+                    "other_info": {
+                        "carNumber": "Eddie_Laycock",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Honda"
+                    }
+                },
+                "Tony_Carey": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Tony_Carey"
+                    ],
+                    "other_info": {
+                        "carNumber": "Tony_Carey",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Suzuki"
+                    }
+                },
+                "Andy_Leuthe": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Andy_Leuthe"
+                    ],
+                    "other_info": {
+                        "carNumber": "Andy_Leuthe",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Suzuki"
+                    }
+                },
+                "Fabio_Barchitta": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Fabio_Barchitta"
+                    ],
+                    "other_info": {
+                        "carNumber": "Fabio_Barchitta",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Honda"
+                    }
+                },
+                "Marco_Gentile": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Fior",
+                    "drivers": [
+                        "Marco_Gentile"
+                    ],
+                    "other_info": {
+                        "carNumber": "Marco_Gentile",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Fior"
+                    }
+                },
+                "Raymond_Roche": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Cagiva",
+                    "drivers": [
+                        "Raymond_Roche"
+                    ],
+                    "other_info": {
+                        "carNumber": "Raymond_Roche",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Cagiva"
+                    }
+                },
+                "Kevin_Schwantz": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Suzuki",
+                    "drivers": [
+                        "Kevin_Schwantz"
+                    ],
+                    "other_info": {
+                        "carNumber": "Kevin_Schwantz",
+                        "laps": "0",
+                        "speed": "0",
+                        "constructor": "Suzuki"
                     }
                 }
             }

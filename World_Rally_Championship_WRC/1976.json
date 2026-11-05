@@ -1,11 +1,405 @@
 {
     "name": "World_Rally_Championship_WRC",
     "events": {
-        "Monte Carlo Rally": {
-            "Rally": {}
+        "Rallye Monte Carlo": {
+            "Rally": {
+                "Sandro_Munari": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Lancia",
+                    "drivers": [
+                        "Sandro_Munari"
+                    ],
+                    "other_info": {
+                        "car": "Lancia Stratos HF"
+                    }
+                },
+                "Björn_Waldegård": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Lancia",
+                    "drivers": [
+                        "Björn_Waldegård"
+                    ],
+                    "other_info": {
+                        "car": "Lancia Stratos HF"
+                    }
+                },
+                "Bernard_Darniche": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Lancia",
+                    "drivers": [
+                        "Bernard_Darniche"
+                    ],
+                    "other_info": {
+                        "car": "Lancia Stratos HF"
+                    }
+                }
+            }
         },
         "Swedish Rally": {
-            "Rally": {}
+            "Rally": {
+                "Per_Eklund": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Saab",
+                    "drivers": [
+                        "Per_Eklund"
+                    ],
+                    "other_info": {
+                        "car": "Saab 96 V4"
+                    }
+                },
+                "Stig_Blomqvist": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Saab",
+                    "drivers": [
+                        "Stig_Blomqvist"
+                    ],
+                    "other_info": {
+                        "car": "Saab 96 V4"
+                    }
+                },
+                "Anders_Kulläng": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Opel",
+                    "drivers": [
+                        "Anders_Kulläng"
+                    ],
+                    "other_info": {
+                        "car": "Opel Ascona"
+                    }
+                }
+            }
+        },
+        "Rallye de Portugal": {
+            "Rally": {
+                "Sandro_Munari": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Lancia",
+                    "drivers": [
+                        "Sandro_Munari"
+                    ],
+                    "other_info": {
+                        "car": "Lancia Stratos HF"
+                    }
+                },
+                "Ove_Andersson": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Toyota",
+                    "drivers": [
+                        "Ove_Andersson"
+                    ],
+                    "other_info": {
+                        "car": "Toyota Celica"
+                    }
+                },
+                "Manuel_Queirós Pereira": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Opel",
+                    "drivers": [
+                        "Manuel_Queirós Pereira"
+                    ],
+                    "other_info": {
+                        "car": "Opel Kadett GT/E"
+                    }
+                }
+            }
+        },
+        "Safari Rally": {
+            "Rally": {
+                "Joginder_Singh": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Mitsubishi",
+                    "drivers": [
+                        "Joginder_Singh"
+                    ],
+                    "other_info": {
+                        "car": "Mitsubishi Lancer 1600 GSR"
+                    }
+                },
+                "Robin_Ulyate": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Mitsubishi",
+                    "drivers": [
+                        "Robin_Ulyate"
+                    ],
+                    "other_info": {
+                        "car": "Mitsubishi Lancer 1600 GSR"
+                    }
+                },
+                "Andrew_Cowan": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Mitsubishi",
+                    "drivers": [
+                        "Andrew_Cowan"
+                    ],
+                    "other_info": {
+                        "car": "Mitsubishi Lancer 1600 GSR"
+                    }
+                }
+            }
+        },
+        "Acropolis Rally": {
+            "Rally": {
+                "Harry_Källström": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Datsun",
+                    "drivers": [
+                        "Harry_Källström"
+                    ],
+                    "other_info": {
+                        "car": "Datsun 160J"
+                    }
+                },
+                "Tasos_Livieratos": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Alpine-Renault",
+                    "drivers": [
+                        "Tasos_Livieratos"
+                    ],
+                    "other_info": {
+                        "car": "Alpine-Renault A110 1800"
+                    }
+                },
+                "Shekhar_Mehta": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Datsun",
+                    "drivers": [
+                        "Shekhar_Mehta"
+                    ],
+                    "other_info": {
+                        "car": "Datsun 160J"
+                    }
+                }
+            }
+        },
+        "Rallye du Maroc": {
+            "Rally": {
+                "Jean-Pierre_Nicolas": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Peugeot",
+                    "drivers": [
+                        "Jean-Pierre_Nicolas"
+                    ],
+                    "other_info": {
+                        "car": "Peugeot 504"
+                    }
+                },
+                "Simo_Lampinen": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Peugeot",
+                    "drivers": [
+                        "Simo_Lampinen"
+                    ],
+                    "other_info": {
+                        "car": "Peugeot 504"
+                    }
+                },
+                "Sandro_Munari": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Lancia",
+                    "drivers": [
+                        "Sandro_Munari"
+                    ],
+                    "other_info": {
+                        "car": "Lancia Stratos HF"
+                    }
+                }
+            }
+        },
+        "1000 Lakes Rally": {
+            "Rally": {
+                "Markku_Alén": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Fiat",
+                    "drivers": [
+                        "Markku_Alén"
+                    ],
+                    "other_info": {
+                        "car": "Fiat 131 Abarth"
+                    }
+                },
+                "Pentti_Airikkala": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Ford",
+                    "drivers": [
+                        "Pentti_Airikkala"
+                    ],
+                    "other_info": {
+                        "car": "Ford Escort RS1800"
+                    }
+                },
+                "Hannu_Mikkola": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Toyota",
+                    "drivers": [
+                        "Hannu_Mikkola"
+                    ],
+                    "other_info": {
+                        "car": "Toyota Celica"
+                    }
+                }
+            }
+        },
+        "Rallye Sanremo": {
+            "Rally": {
+                "Björn_Waldegård": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Lancia",
+                    "drivers": [
+                        "Björn_Waldegård"
+                    ],
+                    "other_info": {
+                        "car": "Lancia Stratos HF"
+                    }
+                },
+                "Sandro_Munari": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Lancia",
+                    "drivers": [
+                        "Sandro_Munari"
+                    ],
+                    "other_info": {
+                        "car": "Lancia Stratos HF"
+                    }
+                },
+                "Raffaele_Pinto": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Lancia",
+                    "drivers": [
+                        "Raffaele_Pinto"
+                    ],
+                    "other_info": {
+                        "car": "Lancia Stratos HF"
+                    }
+                }
+            }
+        },
+        "Tour de Corse": {
+            "Rally": {
+                "Sandro_Munari": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Lancia",
+                    "drivers": [
+                        "Sandro_Munari"
+                    ],
+                    "other_info": {
+                        "car": "Lancia Stratos HF"
+                    }
+                },
+                "Bernard_Darniche": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Lancia",
+                    "drivers": [
+                        "Bernard_Darniche"
+                    ],
+                    "other_info": {
+                        "car": "Lancia Stratos HF"
+                    }
+                },
+                "Jean-Pierre_Manzagol": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Alpine-Renault",
+                    "drivers": [
+                        "Jean-Pierre_Manzagol"
+                    ],
+                    "other_info": {
+                        "car": "Alpine-Renault A310"
+                    }
+                }
+            }
+        },
+        "RAC Rally": {
+            "Rally": {
+                "Roger_Clark": {
+                    "position": "1",
+                    "points": 20,
+                    "fastest_lap": "",
+                    "team": "Ford",
+                    "drivers": [
+                        "Roger_Clark"
+                    ],
+                    "other_info": {
+                        "car": "Ford Escort RS1800"
+                    }
+                },
+                "Stig_Blomqvist": {
+                    "position": "2",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "Saab",
+                    "drivers": [
+                        "Stig_Blomqvist"
+                    ],
+                    "other_info": {
+                        "car": "Saab 99 EMS"
+                    }
+                },
+                "Björn_Waldegård": {
+                    "position": "3",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Ford",
+                    "drivers": [
+                        "Björn_Waldegård"
+                    ],
+                    "other_info": {
+                        "car": "Ford Escort RS1800"
+                    }
+                }
+            }
         }
     }
 }

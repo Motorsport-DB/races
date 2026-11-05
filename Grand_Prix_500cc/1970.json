@@ -1,6 +1,250 @@
 {
     "name": "Grand_Prix_500cc",
     "events": {
+        "German Grand Prix": {
+            "Race": {
+                "Giacomo_Agostini": {
+                    "position": "1",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "MV_Agusta",
+                    "drivers": [
+                        "Giacomo_Agostini"
+                    ],
+                    "other_info": {
+                        "constructor": "MV Agusta"
+                    }
+                },
+                "Ginger_Molloy": {
+                    "position": "15",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Bultaco_Kawasaki",
+                    "drivers": [
+                        "Ginger_Molloy"
+                    ],
+                    "other_info": {
+                        "constructor": "Bultaco / Kawasaki"
+                    }
+                },
+                "Tommy_Robb": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "Seeley",
+                    "drivers": [
+                        "Tommy_Robb"
+                    ],
+                    "other_info": {
+                        "constructor": "Seeley"
+                    }
+                },
+                "Alberto_Pagani": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Linto",
+                    "drivers": [
+                        "Alberto_Pagani"
+                    ],
+                    "other_info": {
+                        "constructor": "Linto"
+                    }
+                },
+                "Alan_Barnett": {
+                    "position": "4",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Seeley_Matchless",
+                    "drivers": [
+                        "Alan_Barnett"
+                    ],
+                    "other_info": {
+                        "constructor": "Seeley-Matchless"
+                    }
+                },
+                "Christian_Ravel": {
+                    "position": "5",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Kawasaki",
+                    "drivers": [
+                        "Christian_Ravel"
+                    ],
+                    "other_info": {
+                        "constructor": "Kawasaki"
+                    }
+                },
+                "Jack_Findlay": {
+                    "position": "12",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Seeley-Matchless_Seeley-Suzuki",
+                    "drivers": [
+                        "Jack_Findlay"
+                    ],
+                    "other_info": {
+                        "constructor": "Seeley-Matchless / Seeley-Suzuki"
+                    }
+                },
+                "Martin_Carney": {
+                    "position": "3",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Kawasaki",
+                    "drivers": [
+                        "Martin_Carney"
+                    ],
+                    "other_info": {
+                        "constructor": "Kawasaki"
+                    }
+                },
+                "Gyula_Marsovszky": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Linto_Kawasaki",
+                    "drivers": [
+                        "Gyula_Marsovszky"
+                    ],
+                    "other_info": {
+                        "constructor": "Linto / Kawasaki"
+                    }
+                },
+                "Erick_Offenstadt": {
+                    "position": "7",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "Kawasaki",
+                    "drivers": [
+                        "Erick_Offenstadt"
+                    ],
+                    "other_info": {
+                        "constructor": "Kawasaki"
+                    }
+                },
+                "John_Dodds": {
+                    "position": "2",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Linto",
+                    "drivers": [
+                        "John_Dodds"
+                    ],
+                    "other_info": {
+                        "constructor": "Linto"
+                    }
+                },
+                "Dave_Simmonds": {
+                    "position": "8",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "Kawasaki",
+                    "drivers": [
+                        "Dave_Simmonds"
+                    ],
+                    "other_info": {
+                        "constructor": "Kawasaki"
+                    }
+                },
+                "Karl_Hoppe": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Münch-URS_Seeley-URS",
+                    "drivers": [
+                        "Karl_Hoppe"
+                    ],
+                    "other_info": {
+                        "constructor": "Münch-URS / Seeley-URS"
+                    }
+                },
+                "Karl_Auer": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Matchless",
+                    "drivers": [
+                        "Karl_Auer"
+                    ],
+                    "other_info": {
+                        "constructor": "Matchless"
+                    }
+                },
+                "Godfrey_Nash": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "Norton_Manx",
+                    "drivers": [
+                        "Godfrey_Nash"
+                    ],
+                    "other_info": {
+                        "constructor": "Norton / Manx"
+                    }
+                },
+                "Billie_Nelson": {
+                    "position": "6",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "Paton",
+                    "drivers": [
+                        "Billie_Nelson"
+                    ],
+                    "other_info": {
+                        "constructor": "Paton"
+                    }
+                },
+                "Ernst_Hiller": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kawasaki",
+                    "drivers": [
+                        "Ernst_Hiller"
+                    ],
+                    "other_info": {
+                        "constructor": "Kawasaki"
+                    }
+                },
+                "Steve_Ellis": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Linto_Matchless",
+                    "drivers": [
+                        "Steve_Ellis"
+                    ],
+                    "other_info": {
+                        "constructor": "Linto / Matchless"
+                    }
+                },
+                "Jean_Campiche": {
+                    "position": "14",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Honda",
+                    "drivers": [
+                        "Jean_Campiche"
+                    ],
+                    "other_info": {
+                        "constructor": "Honda"
+                    }
+                },
+                "Gordon_Keith": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Velocette",
+                    "drivers": [
+                        "Gordon_Keith"
+                    ],
+                    "other_info": {
+                        "constructor": "Velocette"
+                    }
+                }
+            }
+        },
         "French Grand Prix": {
             "Race": {
                 "Giacomo_Agostini": {
@@ -1036,6 +1280,238 @@
                         "laps": "98",
                         "speed": "0",
                         "constructor": "Honda"
+                    }
+                }
+            }
+        },
+        "Ulster Grand Prix": {
+            "Race": {
+                "Giacomo_Agostini": {
+                    "position": "1",
+                    "points": 15,
+                    "fastest_lap": "",
+                    "team": "MV_Agusta",
+                    "drivers": [
+                        "Giacomo_Agostini"
+                    ],
+                    "other_info": {
+                        "constructor": "MV Agusta"
+                    }
+                },
+                "Ginger_Molloy": {
+                    "position": "2",
+                    "points": 12,
+                    "fastest_lap": "",
+                    "team": "Bultaco_Kawasaki",
+                    "drivers": [
+                        "Ginger_Molloy"
+                    ],
+                    "other_info": {
+                        "constructor": "Bultaco / Kawasaki"
+                    }
+                },
+                "Tommy_Robb": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Seeley",
+                    "drivers": [
+                        "Tommy_Robb"
+                    ],
+                    "other_info": {
+                        "constructor": "Seeley"
+                    }
+                },
+                "Alan_Barnett": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Seeley_Matchless",
+                    "drivers": [
+                        "Alan_Barnett"
+                    ],
+                    "other_info": {
+                        "constructor": "Seeley-Matchless"
+                    }
+                },
+                "Christian_Ravel": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kawasaki",
+                    "drivers": [
+                        "Christian_Ravel"
+                    ],
+                    "other_info": {
+                        "constructor": "Kawasaki"
+                    }
+                },
+                "Jack_Findlay": {
+                    "position": "4",
+                    "points": 8,
+                    "fastest_lap": "",
+                    "team": "Seeley-Matchless_Seeley-Suzuki",
+                    "drivers": [
+                        "Jack_Findlay"
+                    ],
+                    "other_info": {
+                        "constructor": "Seeley-Matchless / Seeley-Suzuki"
+                    }
+                },
+                "Martti_Pesonen": {
+                    "position": "7",
+                    "points": 4,
+                    "fastest_lap": "",
+                    "team": "Yamaha",
+                    "drivers": [
+                        "Martti_Pesonen"
+                    ],
+                    "other_info": {
+                        "constructor": "Yamaha"
+                    }
+                },
+                "Peter_Williams": {
+                    "position": "5",
+                    "points": 6,
+                    "fastest_lap": "",
+                    "team": "Matchless",
+                    "drivers": [
+                        "Peter_Williams"
+                    ],
+                    "other_info": {
+                        "constructor": "Matchless"
+                    }
+                },
+                "Martin_Carney": {
+                    "position": "6",
+                    "points": 5,
+                    "fastest_lap": "",
+                    "team": "Kawasaki",
+                    "drivers": [
+                        "Martin_Carney"
+                    ],
+                    "other_info": {
+                        "constructor": "Kawasaki"
+                    }
+                },
+                "Bill_Smith": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Kawasaki_Yamaha",
+                    "drivers": [
+                        "Bill_Smith"
+                    ],
+                    "other_info": {
+                        "constructor": "Kawasaki / Yamaha"
+                    }
+                },
+                "Percy_Tait": {
+                    "position": "3",
+                    "points": 10,
+                    "fastest_lap": "",
+                    "team": "Triumph_Seeley-Matchless",
+                    "drivers": [
+                        "Percy_Tait"
+                    ],
+                    "other_info": {
+                        "constructor": "Triumph / Seeley-Matchless"
+                    }
+                },
+                "John_Williams": {
+                    "position": "9",
+                    "points": 2,
+                    "fastest_lap": "",
+                    "team": "Matchless",
+                    "drivers": [
+                        "John_Williams"
+                    ],
+                    "other_info": {
+                        "constructor": "Matchless"
+                    }
+                },
+                "Billie_Nelson": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Paton",
+                    "drivers": [
+                        "Billie_Nelson"
+                    ],
+                    "other_info": {
+                        "constructor": "Paton"
+                    }
+                },
+                "Paul_Smart": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Seeley_Matchless",
+                    "drivers": [
+                        "Paul_Smart"
+                    ],
+                    "other_info": {
+                        "constructor": "Seeley-Matchless"
+                    }
+                },
+                "Tony_Jefferies": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Matchless",
+                    "drivers": [
+                        "Tony_Jefferies"
+                    ],
+                    "other_info": {
+                        "constructor": "Matchless"
+                    }
+                },
+                "Ron_Chandler": {
+                    "position": "DNF",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Seeley-Matchless_Triumph",
+                    "drivers": [
+                        "Ron_Chandler"
+                    ],
+                    "other_info": {
+                        "constructor": "Seeley-Matchless / Triumph"
+                    }
+                },
+                "Gerry_Mateer": {
+                    "position": "8",
+                    "points": 3,
+                    "fastest_lap": "",
+                    "team": "Norton",
+                    "drivers": [
+                        "Gerry_Mateer"
+                    ],
+                    "other_info": {
+                        "constructor": "Norton"
+                    }
+                },
+                "Vincent_Duckett": {
+                    "position": "13",
+                    "points": 0,
+                    "fastest_lap": "",
+                    "team": "Seeley_Matchless",
+                    "drivers": [
+                        "Vincent_Duckett"
+                    ],
+                    "other_info": {
+                        "constructor": "Seeley-Matchless"
+                    }
+                },
+                "Charlie_Dobson": {
+                    "position": "10",
+                    "points": 1,
+                    "fastest_lap": "",
+                    "team": "Seeley_Matchless",
+                    "drivers": [
+                        "Charlie_Dobson"
+                    ],
+                    "other_info": {
+                        "constructor": "Seeley-Matchless"
                     }
                 }
             }
